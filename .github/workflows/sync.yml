@@ -5,6 +5,9 @@ on:
     - cron: '0 16 * * *'  # 每天午夜 00:00 台灣時間（UTC+8）
   workflow_dispatch:       # 也可手動觸發
 
+permissions:
+  contents: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest

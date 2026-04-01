@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -22752.0,
+  "total": -24752.0,
   "fixedTotal": -22752.0,
-  "variableTotal": 0,
+  "variableTotal": -2000.0,
   "categories": [
     {
       "category": "住",
@@ -28,6 +28,13 @@
       "group": "fixed"
     },
     {
+      "category": "禮物",
+      "amount": -2000.0,
+      "icon": "💸",
+      "color": "#94A3B8",
+      "group": "variable"
+    },
+    {
       "category": "運動",
       "amount": -888.0,
       "icon": "🏋️",
@@ -47,6 +54,20 @@
           "amount": -2500.0,
           "icon": "📱",
           "group": "fixed"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-02",
+      "total": -2000.0,
+      "items": [
+        {
+          "date": "2026-04-02",
+          "category": "禮物",
+          "item": "Dior全能修護霜",
+          "amount": -2000.0,
+          "icon": "💸",
+          "group": "variable"
         }
       ]
     },
@@ -131,6 +152,14 @@
       "amount": -2500.0,
       "icon": "📱",
       "group": "fixed"
+    },
+    {
+      "date": "2026-04-02",
+      "category": "禮物",
+      "item": "Dior全能修護霜",
+      "amount": -2000.0,
+      "icon": "💸",
+      "group": "variable"
     },
     {
       "date": "2026-04-10",

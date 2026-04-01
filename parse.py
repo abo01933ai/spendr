@@ -20,24 +20,42 @@ FINANCE_DIR = Path(args.finance_dir)
 OUTPUT_DIR = Path(args.output_dir)
 
 CATEGORY_META = {
-    "餐點":   {"icon": "🍱", "color": "#FF6B6B", "group": "variable"},
-    "飲料":   {"icon": "🧋", "color": "#FF8E53", "group": "variable"},
-    "日常消費": {"icon": "🛒", "color": "#FFA940", "group": "variable"},
-    "固定支出": {"icon": "📌", "color": "#7C83FD", "group": "fixed"},
-    "娛樂":   {"icon": "🎮", "color": "#A78BFA", "group": "variable"},
-    "旅遊":   {"icon": "✈️",  "color": "#34D399", "group": "variable"},
-    "學習投資": {"icon": "📚", "color": "#60A5FA", "group": "variable"},
-    "服飾":   {"icon": "👕", "color": "#F472B6", "group": "variable"},
-    "寵物":   {"icon": "🐾", "color": "#FBBF24", "group": "variable"},
-    "醫療":   {"icon": "💊", "color": "#4ADE80", "group": "variable"},
-    "交通":   {"icon": "🚗", "color": "#22D3EE", "group": "variable"},
-    "捐款":   {"icon": "🙏", "color": "#818CF8", "group": "variable"},
-    "紅包":   {"icon": "🧧", "color": "#F87171", "group": "variable"},
-    "用品":   {"icon": "📦", "color": "#FB923C", "group": "variable"},
-    "工具":   {"icon": "🔧", "color": "#94A3B8", "group": "variable"},
-    "玩具":   {"icon": "🪆", "color": "#E879F9", "group": "variable"},
-    "伴手禮": {"icon": "🎁", "color": "#2DD4BF", "group": "variable"},
-    "寶可夢": {"icon": "⚡", "color": "#FBBF24", "group": "variable"},
+    # 食
+    "餐點":    {"icon": "🍱", "color": "#F87171", "group": "variable"},
+    "飲料":    {"icon": "🧋", "color": "#FB923C", "group": "variable"},
+    "保健":    {"icon": "💊", "color": "#4ADE80", "group": "variable"},
+    # 衣
+    "購物":    {"icon": "🛍️", "color": "#F472B6", "group": "variable"},
+    "服飾":    {"icon": "👕", "color": "#F472B6", "group": "variable"},
+    "美妝":    {"icon": "💄", "color": "#E879F9", "group": "variable"},
+    "美髮":    {"icon": "💇", "color": "#C084FC", "group": "variable"},
+    # 住
+    "住":      {"icon": "🏠", "color": "#60A5FA", "group": "fixed"},
+    # 行
+    "交通":    {"icon": "🚗", "color": "#38BDF8", "group": "variable"},
+    # 育
+    "學習":    {"icon": "📚", "color": "#94A3B8", "group": "variable"},
+    "訂閱":    {"icon": "📱", "color": "#94e1df", "group": "fixed"},
+    # 樂
+    "娛樂":    {"icon": "🎮", "color": "#A78BFA", "group": "variable"},
+    "旅遊":    {"icon": "✈️",  "color": "#34D399", "group": "variable"},
+    "運動":    {"icon": "🏋️", "color": "#86EFAC", "group": "fixed"},
+    # 寵物
+    "寵物":    {"icon": "🐾", "color": "#FBBF24", "group": "variable"},
+    # 財務
+    "財務":    {"icon": "💳", "color": "#7C83FD", "group": "fixed"},
+    # 醫療
+    "醫療":    {"icon": "🏥", "color": "#4ADE80", "group": "variable"},
+    # 其他
+    "日常用品": {"icon": "📦", "color": "#94A3B8", "group": "variable"},
+    "其他":    {"icon": "🗂️", "color": "#64748B", "group": "variable"},
+    "紅包":    {"icon": "🧧", "color": "#F87171", "group": "variable"},
+    "捐款":    {"icon": "🙏", "color": "#6EE7B7", "group": "variable"},
+    "伴手禮":  {"icon": "🎁", "color": "#2DD4BF", "group": "variable"},
+    # legacy（舊資料相容）
+    "固定支出": {"icon": "📌", "color": "#94e1df", "group": "fixed"},
+    "日常消費": {"icon": "🛒", "color": "#60A5FA", "group": "variable"},
+    "學習投資": {"icon": "📚", "color": "#94A3B8", "group": "variable"},
 }
 
 DEFAULT_META = {"icon": "💸", "color": "#94A3B8", "group": "variable"}

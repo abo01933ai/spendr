@@ -3,56 +3,112 @@
   "year": 2026,
   "monthNum": 3,
   "total": -103959.0,
-  "fixedTotal": -26783.0,
-  "variableTotal": -77176.0,
+  "fixedTotal": -23183.0,
+  "variableTotal": -80776.0,
   "categories": [
     {
-      "category": "固定支出",
-      "amount": -26783.0,
-      "icon": "📌",
-      "color": "#7C83FD",
-      "group": "fixed"
-    },
-    {
-      "category": "日常消費",
-      "amount": -20088.0,
-      "icon": "🛒",
-      "color": "#FFA940",
-      "group": "variable"
-    },
-    {
-      "category": "餐點",
-      "amount": -19888.0,
-      "icon": "🍱",
-      "color": "#FF6B6B",
-      "group": "variable"
-    },
-    {
-      "category": "娛樂",
-      "amount": -19281.0,
-      "icon": "🎮",
-      "color": "#A78BFA",
-      "group": "variable"
-    },
-    {
       "category": "旅遊",
-      "amount": -11535.0,
+      "amount": -22526.0,
       "icon": "✈️",
       "color": "#34D399",
       "group": "variable"
     },
     {
-      "category": "飲料",
-      "amount": -6117.0,
-      "icon": "🧋",
-      "color": "#FF8E53",
+      "category": "娛樂",
+      "amount": -20031.0,
+      "icon": "🎮",
+      "color": "#A78BFA",
       "group": "variable"
     },
     {
-      "category": "學習投資",
+      "category": "餐點",
+      "amount": -15895.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
+    {
+      "category": "交通",
+      "amount": -13200.0,
+      "icon": "🚗",
+      "color": "#38BDF8",
+      "group": "variable"
+    },
+    {
+      "category": "住",
+      "amount": -12054.0,
+      "icon": "🏠",
+      "color": "#60A5FA",
+      "group": "fixed"
+    },
+    {
+      "category": "財務",
+      "amount": -6542.0,
+      "icon": "💳",
+      "color": "#7C83FD",
+      "group": "fixed"
+    },
+    {
+      "category": "保健",
+      "amount": -3738.0,
+      "icon": "💊",
+      "color": "#4ADE80",
+      "group": "variable"
+    },
+    {
+      "category": "訂閱",
+      "amount": -3699.0,
+      "icon": "📱",
+      "color": "#94e1df",
+      "group": "fixed"
+    },
+    {
+      "category": "美髮",
+      "amount": -1700.0,
+      "icon": "💇",
+      "color": "#C084FC",
+      "group": "variable"
+    },
+    {
+      "category": "飲料",
+      "amount": -1438.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
+      "category": "其他",
+      "amount": -1000.0,
+      "icon": "🗂️",
+      "color": "#64748B",
+      "group": "variable"
+    },
+    {
+      "category": "運動",
+      "amount": -888.0,
+      "icon": "🏋️",
+      "color": "#86EFAC",
+      "group": "fixed"
+    },
+    {
+      "category": "寵物",
+      "amount": -655.0,
+      "icon": "🐾",
+      "color": "#FBBF24",
+      "group": "variable"
+    },
+    {
+      "category": "日常用品",
+      "amount": -326.0,
+      "icon": "📦",
+      "color": "#94A3B8",
+      "group": "variable"
+    },
+    {
+      "category": "學習",
       "amount": -267.0,
       "icon": "📚",
-      "color": "#60A5FA",
+      "color": "#94A3B8",
       "group": "variable"
     }
   ],
@@ -71,74 +127,74 @@
         },
         {
           "date": "2026-03-01",
-          "category": "固定支出",
+          "category": "訂閱",
           "item": "投資週報",
           "amount": -2500.0,
-          "icon": "📌",
+          "icon": "📱",
           "group": "fixed"
         },
         {
           "date": "2026-03-01",
-          "category": "固定支出",
+          "category": "運動",
           "item": "健身房",
           "amount": -888.0,
-          "icon": "📌",
+          "icon": "🏋️",
           "group": "fixed"
         },
         {
           "date": "2026-03-01",
-          "category": "固定支出",
+          "category": "訂閱",
           "item": "訂閱費",
           "amount": -600.0,
-          "icon": "📌",
+          "icon": "📱",
           "group": "fixed"
         },
         {
           "date": "2026-03-01",
-          "category": "固定支出",
+          "category": "訂閱",
           "item": "通話費",
           "amount": -299.0,
-          "icon": "📌",
+          "icon": "📱",
           "group": "fixed"
         },
         {
           "date": "2026-03-01",
-          "category": "固定支出",
+          "category": "訂閱",
           "item": "AI 模型",
           "amount": -300.0,
-          "icon": "📌",
+          "icon": "📱",
           "group": "fixed"
         },
         {
           "date": "2026-03-01",
-          "category": "固定支出",
+          "category": "財務",
           "item": "信貸",
           "amount": -6542.0,
-          "icon": "📌",
+          "icon": "💳",
           "group": "fixed"
         },
         {
           "date": "2026-03-01",
-          "category": "固定支出",
+          "category": "住",
           "item": "房貸",
           "amount": -11623.0,
-          "icon": "📌",
+          "icon": "🏠",
           "group": "fixed"
         },
         {
           "date": "2026-03-01",
-          "category": "日常消費",
+          "category": "保健",
           "item": "myprotein肌酸錠",
           "amount": -627.0,
-          "icon": "🛒",
+          "icon": "💊",
           "group": "variable"
         },
         {
           "date": "2026-03-01",
-          "category": "日常消費",
+          "category": "餐點",
           "item": "買菜",
           "amount": -240.0,
-          "icon": "🛒",
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -149,10 +205,10 @@
       "items": [
         {
           "date": "2026-03-03",
-          "category": "固定支出",
+          "category": "住",
           "item": "瓦斯費",
           "amount": -431.0,
-          "icon": "📌",
+          "icon": "🏠",
           "group": "fixed"
         },
         {
@@ -221,10 +277,10 @@
       "items": [
         {
           "date": "2026-03-07",
-          "category": "日常消費",
+          "category": "寵物",
           "item": "貓砂*2",
           "amount": -655.0,
-          "icon": "🛒",
+          "icon": "🐾",
           "group": "variable"
         },
         {
@@ -281,18 +337,18 @@
       "items": [
         {
           "date": "2026-03-09",
-          "category": "日常消費",
+          "category": "美髮",
           "item": "洗加剪",
           "amount": -1700.0,
-          "icon": "🛒",
+          "icon": "💇",
           "group": "variable"
         },
         {
           "date": "2026-03-09",
-          "category": "日常消費",
+          "category": "日常用品",
           "item": "電池",
           "amount": -326.0,
-          "icon": "🛒",
+          "icon": "📦",
           "group": "variable"
         }
       ]
@@ -303,7 +359,7 @@
       "items": [
         {
           "date": "2026-03-10",
-          "category": "學習投資",
+          "category": "學習",
           "item": "書籍",
           "amount": -168.0,
           "icon": "📚",
@@ -417,26 +473,26 @@
         },
         {
           "date": "2026-03-13",
-          "category": "餐點",
+          "category": "旅遊",
           "item": "明珍鮑魚（46,000 KRW）",
           "amount": -1012.0,
-          "icon": "🍱",
+          "icon": "✈️",
           "group": "variable"
         },
         {
           "date": "2026-03-13",
-          "category": "日常消費",
+          "category": "旅遊",
           "item": "Object DIY小物（70,000 KRW）",
           "amount": -1540.0,
-          "icon": "🛒",
+          "icon": "✈️",
           "group": "variable"
         },
         {
           "date": "2026-03-13",
-          "category": "飲料",
+          "category": "旅遊",
           "item": "Blue Bottle Coffee（72,800 KRW）",
           "amount": -1602.0,
-          "icon": "🧋",
+          "icon": "✈️",
           "group": "variable"
         },
         {
@@ -449,18 +505,18 @@
         },
         {
           "date": "2026-03-13",
-          "category": "餐點",
+          "category": "旅遊",
           "item": "BHC炸雞（20,000 KRW）",
           "amount": -440.0,
-          "icon": "🍱",
+          "icon": "✈️",
           "group": "variable"
         },
         {
           "date": "2026-03-13",
-          "category": "日常消費",
+          "category": "旅遊",
           "item": "超商雜貨（12,400 KRW）",
           "amount": -273.0,
-          "icon": "🛒",
+          "icon": "✈️",
           "group": "variable"
         }
       ]
@@ -471,58 +527,58 @@
       "items": [
         {
           "date": "2026-03-14",
-          "category": "飲料",
+          "category": "旅遊",
           "item": "O'Sulloc 濟州屋（12:32）",
           "amount": -2239.0,
-          "icon": "🧋",
+          "icon": "✈️",
           "group": "variable"
         },
         {
           "date": "2026-03-14",
-          "category": "日常消費",
+          "category": "旅遊",
           "item": "Innisfree 濟州屋店（美妝）",
           "amount": -1646.0,
-          "icon": "🛒",
+          "icon": "✈️",
           "group": "variable"
         },
         {
           "date": "2026-03-14",
-          "category": "飲料",
+          "category": "旅遊",
           "item": "O'Sulloc 濟州屋（11:05）",
           "amount": -434.0,
-          "icon": "🧋",
+          "icon": "✈️",
           "group": "variable"
         },
         {
           "date": "2026-03-14",
-          "category": "餐點",
+          "category": "旅遊",
           "item": "노도거든거회（生魚片 15:21）",
           "amount": -2292.0,
-          "icon": "🍱",
+          "icon": "✈️",
           "group": "variable"
         },
         {
           "date": "2026-03-14",
-          "category": "餐點",
+          "category": "旅遊",
           "item": "저이주당（烘焙 13:23）",
           "amount": -562.0,
-          "icon": "🍱",
+          "icon": "✈️",
           "group": "variable"
         },
         {
           "date": "2026-03-14",
-          "category": "飲料",
+          "category": "旅遊",
           "item": "유동커피（咖啡 08:02）",
           "amount": -259.0,
-          "icon": "🧋",
+          "icon": "✈️",
           "group": "variable"
         },
         {
           "date": "2026-03-14",
-          "category": "餐點",
+          "category": "旅遊",
           "item": "宵夜",
           "amount": -247.0,
-          "icon": "🍱",
+          "icon": "✈️",
           "group": "variable"
         }
       ]
@@ -541,10 +597,10 @@
         },
         {
           "date": "2026-03-15",
-          "category": "日常消費",
+          "category": "娛樂",
           "item": "Switch 保護殼",
           "amount": -750.0,
-          "icon": "🛒",
+          "icon": "🎮",
           "group": "variable"
         },
         {
@@ -631,26 +687,26 @@
       "items": [
         {
           "date": "2026-03-21",
-          "category": "日常消費",
+          "category": "其他",
           "item": "改運",
           "amount": -1000.0,
-          "icon": "🛒",
+          "icon": "🗂️",
           "group": "variable"
         },
         {
           "date": "2026-03-21",
-          "category": "旅遊",
+          "category": "交通",
           "item": "高鐵左營→台中",
           "amount": -790.0,
-          "icon": "✈️",
+          "icon": "🚗",
           "group": "variable"
         },
         {
           "date": "2026-03-21",
-          "category": "旅遊",
+          "category": "交通",
           "item": "高鐵台中→左營",
           "amount": -765.0,
-          "icon": "✈️",
+          "icon": "🚗",
           "group": "variable"
         },
         {
@@ -715,10 +771,10 @@
         },
         {
           "date": "2026-03-26",
-          "category": "日常消費",
+          "category": "餐點",
           "item": "土木公社",
           "amount": -220.0,
-          "icon": "🛒",
+          "icon": "🍱",
           "group": "variable"
         },
         {
@@ -775,10 +831,10 @@
         },
         {
           "date": "2026-03-28",
-          "category": "日常消費",
+          "category": "保健",
           "item": "保健品（D3+B2+甘氨酸鎂）",
           "amount": -1811.0,
-          "icon": "🛒",
+          "icon": "💊",
           "group": "variable"
         }
       ]
@@ -789,10 +845,10 @@
       "items": [
         {
           "date": "2026-03-29",
-          "category": "飲料",
+          "category": "交通",
           "item": "加油",
           "amount": -145.0,
-          "icon": "🧋",
+          "icon": "🚗",
           "group": "variable"
         },
         {
@@ -805,10 +861,10 @@
         },
         {
           "date": "2026-03-29",
-          "category": "日常消費",
+          "category": "交通",
           "item": "汽車保養",
           "amount": -7900.0,
-          "icon": "🛒",
+          "icon": "🚗",
           "group": "variable"
         },
         {
@@ -829,10 +885,10 @@
         },
         {
           "date": "2026-03-29",
-          "category": "日常消費",
+          "category": "餐點",
           "item": "牧上紅豆麵包",
           "amount": -100.0,
-          "icon": "🛒",
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -843,7 +899,7 @@
       "items": [
         {
           "date": "2026-03-30",
-          "category": "學習投資",
+          "category": "學習",
           "item": "富比世談通膨",
           "amount": -99.0,
           "icon": "📚",
@@ -865,19 +921,19 @@
         },
         {
           "date": "2026-03-31",
-          "category": "日常消費",
+          "category": "保健",
           "item": "魚油",
           "amount": -1300.0,
-          "icon": "🛒",
+          "icon": "💊",
           "group": "variable"
         },
         {
           "date": "2026-03-31",
-          "category": "固定支出",
+          "category": "交通",
           "item": "牌照稅",
           "amount": -3600.0,
-          "icon": "📌",
-          "group": "fixed"
+          "icon": "🚗",
+          "group": "variable"
         }
       ]
     }
@@ -893,82 +949,82 @@
     },
     {
       "date": "2026-03-01",
-      "category": "固定支出",
+      "category": "訂閱",
       "item": "投資週報",
       "amount": -2500.0,
-      "icon": "📌",
+      "icon": "📱",
       "group": "fixed"
     },
     {
       "date": "2026-03-01",
-      "category": "固定支出",
+      "category": "運動",
       "item": "健身房",
       "amount": -888.0,
-      "icon": "📌",
+      "icon": "🏋️",
       "group": "fixed"
     },
     {
       "date": "2026-03-01",
-      "category": "固定支出",
+      "category": "訂閱",
       "item": "訂閱費",
       "amount": -600.0,
-      "icon": "📌",
+      "icon": "📱",
       "group": "fixed"
     },
     {
       "date": "2026-03-01",
-      "category": "固定支出",
+      "category": "訂閱",
       "item": "通話費",
       "amount": -299.0,
-      "icon": "📌",
+      "icon": "📱",
       "group": "fixed"
     },
     {
       "date": "2026-03-01",
-      "category": "固定支出",
+      "category": "訂閱",
       "item": "AI 模型",
       "amount": -300.0,
-      "icon": "📌",
+      "icon": "📱",
       "group": "fixed"
     },
     {
       "date": "2026-03-01",
-      "category": "固定支出",
+      "category": "財務",
       "item": "信貸",
       "amount": -6542.0,
-      "icon": "📌",
+      "icon": "💳",
       "group": "fixed"
     },
     {
       "date": "2026-03-01",
-      "category": "固定支出",
+      "category": "住",
       "item": "房貸",
       "amount": -11623.0,
-      "icon": "📌",
+      "icon": "🏠",
       "group": "fixed"
     },
     {
       "date": "2026-03-01",
-      "category": "日常消費",
+      "category": "保健",
       "item": "myprotein肌酸錠",
       "amount": -627.0,
-      "icon": "🛒",
+      "icon": "💊",
       "group": "variable"
     },
     {
       "date": "2026-03-01",
-      "category": "日常消費",
+      "category": "餐點",
       "item": "買菜",
       "amount": -240.0,
-      "icon": "🛒",
+      "icon": "🍱",
       "group": "variable"
     },
     {
       "date": "2026-03-03",
-      "category": "固定支出",
+      "category": "住",
       "item": "瓦斯費",
       "amount": -431.0,
-      "icon": "📌",
+      "icon": "🏠",
       "group": "fixed"
     },
     {
@@ -1013,10 +1069,10 @@
     },
     {
       "date": "2026-03-07",
-      "category": "日常消費",
+      "category": "寵物",
       "item": "貓砂*2",
       "amount": -655.0,
-      "icon": "🛒",
+      "icon": "🐾",
       "group": "variable"
     },
     {
@@ -1061,23 +1117,23 @@
     },
     {
       "date": "2026-03-09",
-      "category": "日常消費",
+      "category": "美髮",
       "item": "洗加剪",
       "amount": -1700.0,
-      "icon": "🛒",
+      "icon": "💇",
       "group": "variable"
     },
     {
       "date": "2026-03-09",
-      "category": "日常消費",
+      "category": "日常用品",
       "item": "電池",
       "amount": -326.0,
-      "icon": "🛒",
+      "icon": "📦",
       "group": "variable"
     },
     {
       "date": "2026-03-10",
-      "category": "學習投資",
+      "category": "學習",
       "item": "書籍",
       "amount": -168.0,
       "icon": "📚",
@@ -1173,26 +1229,26 @@
     },
     {
       "date": "2026-03-13",
-      "category": "餐點",
+      "category": "旅遊",
       "item": "明珍鮑魚（46,000 KRW）",
       "amount": -1012.0,
-      "icon": "🍱",
+      "icon": "✈️",
       "group": "variable"
     },
     {
       "date": "2026-03-13",
-      "category": "日常消費",
+      "category": "旅遊",
       "item": "Object DIY小物（70,000 KRW）",
       "amount": -1540.0,
-      "icon": "🛒",
+      "icon": "✈️",
       "group": "variable"
     },
     {
       "date": "2026-03-13",
-      "category": "飲料",
+      "category": "旅遊",
       "item": "Blue Bottle Coffee（72,800 KRW）",
       "amount": -1602.0,
-      "icon": "🧋",
+      "icon": "✈️",
       "group": "variable"
     },
     {
@@ -1205,74 +1261,74 @@
     },
     {
       "date": "2026-03-13",
-      "category": "餐點",
+      "category": "旅遊",
       "item": "BHC炸雞（20,000 KRW）",
       "amount": -440.0,
-      "icon": "🍱",
+      "icon": "✈️",
       "group": "variable"
     },
     {
       "date": "2026-03-13",
-      "category": "日常消費",
+      "category": "旅遊",
       "item": "超商雜貨（12,400 KRW）",
       "amount": -273.0,
-      "icon": "🛒",
+      "icon": "✈️",
       "group": "variable"
     },
     {
       "date": "2026-03-14",
-      "category": "飲料",
+      "category": "旅遊",
       "item": "O'Sulloc 濟州屋（12:32）",
       "amount": -2239.0,
-      "icon": "🧋",
+      "icon": "✈️",
       "group": "variable"
     },
     {
       "date": "2026-03-14",
-      "category": "日常消費",
+      "category": "旅遊",
       "item": "Innisfree 濟州屋店（美妝）",
       "amount": -1646.0,
-      "icon": "🛒",
+      "icon": "✈️",
       "group": "variable"
     },
     {
       "date": "2026-03-14",
-      "category": "飲料",
+      "category": "旅遊",
       "item": "O'Sulloc 濟州屋（11:05）",
       "amount": -434.0,
-      "icon": "🧋",
+      "icon": "✈️",
       "group": "variable"
     },
     {
       "date": "2026-03-14",
-      "category": "餐點",
+      "category": "旅遊",
       "item": "노도거든거회（生魚片 15:21）",
       "amount": -2292.0,
-      "icon": "🍱",
+      "icon": "✈️",
       "group": "variable"
     },
     {
       "date": "2026-03-14",
-      "category": "餐點",
+      "category": "旅遊",
       "item": "저이주당（烘焙 13:23）",
       "amount": -562.0,
-      "icon": "🍱",
+      "icon": "✈️",
       "group": "variable"
     },
     {
       "date": "2026-03-14",
-      "category": "飲料",
+      "category": "旅遊",
       "item": "유동커피（咖啡 08:02）",
       "amount": -259.0,
-      "icon": "🧋",
+      "icon": "✈️",
       "group": "variable"
     },
     {
       "date": "2026-03-14",
-      "category": "餐點",
+      "category": "旅遊",
       "item": "宵夜",
       "amount": -247.0,
-      "icon": "🍱",
+      "icon": "✈️",
       "group": "variable"
     },
     {
@@ -1285,10 +1341,10 @@
     },
     {
       "date": "2026-03-15",
-      "category": "日常消費",
+      "category": "娛樂",
       "item": "Switch 保護殼",
       "amount": -750.0,
-      "icon": "🛒",
+      "icon": "🎮",
       "group": "variable"
     },
     {
@@ -1357,26 +1413,26 @@
     },
     {
       "date": "2026-03-21",
-      "category": "日常消費",
+      "category": "其他",
       "item": "改運",
       "amount": -1000.0,
-      "icon": "🛒",
+      "icon": "🗂️",
       "group": "variable"
     },
     {
       "date": "2026-03-21",
-      "category": "旅遊",
+      "category": "交通",
       "item": "高鐵左營→台中",
       "amount": -790.0,
-      "icon": "✈️",
+      "icon": "🚗",
       "group": "variable"
     },
     {
       "date": "2026-03-21",
-      "category": "旅遊",
+      "category": "交通",
       "item": "高鐵台中→左營",
       "amount": -765.0,
-      "icon": "✈️",
+      "icon": "🚗",
       "group": "variable"
     },
     {
@@ -1429,10 +1485,10 @@
     },
     {
       "date": "2026-03-26",
-      "category": "日常消費",
+      "category": "餐點",
       "item": "土木公社",
       "amount": -220.0,
-      "icon": "🛒",
+      "icon": "🍱",
       "group": "variable"
     },
     {
@@ -1477,18 +1533,18 @@
     },
     {
       "date": "2026-03-28",
-      "category": "日常消費",
+      "category": "保健",
       "item": "保健品（D3+B2+甘氨酸鎂）",
       "amount": -1811.0,
-      "icon": "🛒",
+      "icon": "💊",
       "group": "variable"
     },
     {
       "date": "2026-03-29",
-      "category": "飲料",
+      "category": "交通",
       "item": "加油",
       "amount": -145.0,
-      "icon": "🧋",
+      "icon": "🚗",
       "group": "variable"
     },
     {
@@ -1501,10 +1557,10 @@
     },
     {
       "date": "2026-03-29",
-      "category": "日常消費",
+      "category": "交通",
       "item": "汽車保養",
       "amount": -7900.0,
-      "icon": "🛒",
+      "icon": "🚗",
       "group": "variable"
     },
     {
@@ -1525,15 +1581,15 @@
     },
     {
       "date": "2026-03-29",
-      "category": "日常消費",
+      "category": "餐點",
       "item": "牧上紅豆麵包",
       "amount": -100.0,
-      "icon": "🛒",
+      "icon": "🍱",
       "group": "variable"
     },
     {
       "date": "2026-03-30",
-      "category": "學習投資",
+      "category": "學習",
       "item": "富比世談通膨",
       "amount": -99.0,
       "icon": "📚",
@@ -1549,19 +1605,19 @@
     },
     {
       "date": "2026-03-31",
-      "category": "日常消費",
+      "category": "保健",
       "item": "魚油",
       "amount": -1300.0,
-      "icon": "🛒",
+      "icon": "💊",
       "group": "variable"
     },
     {
       "date": "2026-03-31",
-      "category": "固定支出",
+      "category": "交通",
       "item": "牌照稅",
       "amount": -3600.0,
-      "icon": "📌",
-      "group": "fixed"
+      "icon": "🚗",
+      "group": "variable"
     }
   ]
 }

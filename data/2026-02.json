@@ -10,7 +10,7 @@
       "category": "學習投資",
       "amount": -72750.0,
       "icon": "📚",
-      "color": "#60A5FA",
+      "color": "#94A3B8",
       "group": "variable"
     },
     {
@@ -24,20 +24,20 @@
       "category": "餐點",
       "amount": -17021.0,
       "icon": "🍱",
-      "color": "#FF6B6B",
+      "color": "#F87171",
       "group": "variable"
     },
     {
       "category": "固定支出",
       "amount": -13710.0,
       "icon": "📌",
-      "color": "#7C83FD",
+      "color": "#94e1df",
       "group": "fixed"
     },
     {
       "category": "工具",
       "amount": -4880.0,
-      "icon": "🔧",
+      "icon": "💸",
       "color": "#94A3B8",
       "group": "variable"
     },
@@ -52,21 +52,21 @@
       "category": "飲料",
       "amount": -2344.0,
       "icon": "🧋",
-      "color": "#FF8E53",
+      "color": "#FB923C",
       "group": "variable"
     },
     {
       "category": "交通",
       "amount": -2099.0,
       "icon": "🚗",
-      "color": "#22D3EE",
+      "color": "#38BDF8",
       "group": "variable"
     },
     {
       "category": "用品",
       "amount": -1789.0,
-      "icon": "📦",
-      "color": "#FB923C",
+      "icon": "💸",
+      "color": "#94A3B8",
       "group": "variable"
     },
     {
@@ -93,22 +93,22 @@
     {
       "category": "醫療",
       "amount": -299.0,
-      "icon": "💊",
+      "icon": "🏥",
       "color": "#4ADE80",
       "group": "variable"
     },
     {
       "category": "玩具",
       "amount": -199.0,
-      "icon": "🪆",
-      "color": "#E879F9",
+      "icon": "💸",
+      "color": "#94A3B8",
       "group": "variable"
     },
     {
       "category": "捐款",
       "amount": -100.0,
       "icon": "🙏",
-      "color": "#818CF8",
+      "color": "#6EE7B7",
       "group": "variable"
     }
   ],
@@ -356,7 +356,7 @@
           "category": "醫療",
           "item": "改源IB",
           "amount": -299.0,
-          "icon": "💊",
+          "icon": "🏥",
           "group": "variable"
         }
       ]
@@ -422,7 +422,7 @@
           "category": "工具",
           "item": "Workyis 標準版",
           "amount": -4880.0,
-          "icon": "🔧",
+          "icon": "💸",
           "group": "variable"
         },
         {
@@ -538,7 +538,7 @@
           "category": "用品",
           "item": "beams 水壺",
           "amount": -1600.0,
-          "icon": "📦",
+          "icon": "💸",
           "group": "variable"
         }
       ]
@@ -560,7 +560,7 @@
           "category": "用品",
           "item": "電池",
           "amount": -189.0,
-          "icon": "📦",
+          "icon": "💸",
           "group": "variable"
         },
         {
@@ -656,7 +656,7 @@
           "category": "玩具",
           "item": "迷你Q玩偶",
           "amount": -199.0,
-          "icon": "🪆",
+          "icon": "💸",
           "group": "variable"
         },
         {
@@ -868,7 +868,7 @@
       "category": "醫療",
       "item": "改源IB",
       "amount": -299.0,
-      "icon": "💊",
+      "icon": "🏥",
       "group": "variable"
     },
     {
@@ -916,7 +916,7 @@
       "category": "工具",
       "item": "Workyis 標準版",
       "amount": -4880.0,
-      "icon": "🔧",
+      "icon": "💸",
       "group": "variable"
     },
     {
@@ -1020,7 +1020,7 @@
       "category": "用品",
       "item": "beams 水壺",
       "amount": -1600.0,
-      "icon": "📦",
+      "icon": "💸",
       "group": "variable"
     },
     {
@@ -1036,7 +1036,7 @@
       "category": "用品",
       "item": "電池",
       "amount": -189.0,
-      "icon": "📦",
+      "icon": "💸",
       "group": "variable"
     },
     {
@@ -1108,7 +1108,7 @@
       "category": "玩具",
       "item": "迷你Q玩偶",
       "amount": -199.0,
-      "icon": "🪆",
+      "icon": "💸",
       "group": "variable"
     },
     {

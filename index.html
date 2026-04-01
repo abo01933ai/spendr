@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 <title>Spendr</title>
+<meta name="version" content="1.0.4">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 <style>
   :root {
@@ -450,9 +451,12 @@ let currentMonthData = null;
 let charts = {};
 
 // ── Init ───────────────────────────────────────────────
+const VERSION = document.querySelector('meta[name="version"]')?.content || '1';
+const bust = `?v=${VERSION}`;
+
 async function init() {
   try {
-    const res = await fetch('data/index.json');
+    const res = await fetch(`data/index.json${bust}`);
     allMonths = await res.json();
     buildTabs();
     // Load latest month
@@ -489,7 +493,7 @@ async function loadMonth(ym) {
   if (activeTab) activeTab.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
 
   try {
-    const res = await fetch(`data/${ym}.json`);
+    const res = await fetch(`data/${ym}.json${bust}`);
     currentMonthData = await res.json();
     render();
   } catch(e) {
@@ -506,7 +510,7 @@ function render() {
   Object.values(charts).forEach(c => c.destroy());
   charts = {};
 
-  document.getElementById('lastUpdate').textContent = new Date().toLocaleTimeString('zh-TW', {hour:'2-digit',minute:'2-digit'});
+  document.getElementById('lastUpdate').textContent = `v${VERSION}`;
 
   const html = `
     ${renderSummary(d)}

@@ -72,7 +72,7 @@
     {
       "category": "寵物",
       "amount": -1050.0,
-      "icon": "🐾",
+      "icon": "🐈",
       "color": "#FBBF24",
       "group": "variable"
     },
@@ -288,7 +288,7 @@
           "category": "寵物",
           "item": "汪喵點心罐 + 貓草玩具",
           "amount": -253.0,
-          "icon": "🐾",
+          "icon": "🐈",
           "group": "variable"
         },
         {
@@ -634,7 +634,7 @@
           "category": "寵物",
           "item": "皇家貓濕糧*24",
           "amount": -797.0,
-          "icon": "🐾",
+          "icon": "🐈",
           "group": "variable"
         }
       ]
@@ -818,7 +818,7 @@
       "category": "寵物",
       "item": "汪喵點心罐 + 貓草玩具",
       "amount": -253.0,
-      "icon": "🐾",
+      "icon": "🐈",
       "group": "variable"
     },
     {
@@ -1098,7 +1098,7 @@
       "category": "寵物",
       "item": "皇家貓濕糧*24",
       "amount": -797.0,
-      "icon": "🐾",
+      "icon": "🐈",
       "group": "variable"
     },
     {

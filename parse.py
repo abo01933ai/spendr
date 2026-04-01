@@ -41,7 +41,7 @@ CATEGORY_META = {
     "旅遊":    {"icon": "✈️",  "color": "#34D399", "group": "variable"},
     "運動":    {"icon": "🏋️", "color": "#86EFAC", "group": "fixed"},
     # 寵物
-    "寵物":    {"icon": "🐾", "color": "#FBBF24", "group": "variable"},
+    "寵物":    {"icon": "🐈", "color": "#FBBF24", "group": "variable"},
     # 財務
     "財務":    {"icon": "💳", "color": "#7C83FD", "group": "fixed"},
     # 醫療

@@ -93,7 +93,7 @@
     {
       "category": "寵物",
       "amount": -655.0,
-      "icon": "🐾",
+      "icon": "🐈",
       "color": "#FBBF24",
       "group": "variable"
     },
@@ -280,7 +280,7 @@
           "category": "寵物",
           "item": "貓砂*2",
           "amount": -655.0,
-          "icon": "🐾",
+          "icon": "🐈",
           "group": "variable"
         },
         {
@@ -1072,7 +1072,7 @@
       "category": "寵物",
       "item": "貓砂*2",
       "amount": -655.0,
-      "icon": "🐾",
+      "icon": "🐈",
       "group": "variable"
     },
     {

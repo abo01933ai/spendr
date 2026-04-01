@@ -4,10 +4,20 @@
 import re
 import json
 import os
+import argparse
 from pathlib import Path
 
-FINANCE_DIR = Path.home() / "Obsidian/Finance"
-OUTPUT_DIR = Path(__file__).parent / "data"
+import argparse
+
+def get_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--finance-dir', default=str(Path.home() / "Obsidian/Finance"))
+    parser.add_argument('--output-dir', default=str(Path(__file__).parent / "data"))
+    return parser.parse_args()
+
+args = get_args()
+FINANCE_DIR = Path(args.finance_dir)
+OUTPUT_DIR = Path(args.output_dir)
 
 CATEGORY_META = {
     "餐點":   {"icon": "🍱", "color": "#FF6B6B", "group": "variable"},

@@ -7,10 +7,31 @@
   "variableTotal": 0,
   "categories": [
     {
-      "category": "固定支出",
-      "amount": -22752.0,
-      "icon": "📌",
+      "category": "住",
+      "amount": -11623.0,
+      "icon": "🏠",
+      "color": "#60A5FA",
+      "group": "fixed"
+    },
+    {
+      "category": "財務",
+      "amount": -6542.0,
+      "icon": "💳",
+      "color": "#7C83FD",
+      "group": "fixed"
+    },
+    {
+      "category": "訂閱",
+      "amount": -3699.0,
+      "icon": "📱",
       "color": "#94e1df",
+      "group": "fixed"
+    },
+    {
+      "category": "運動",
+      "amount": -888.0,
+      "icon": "🏋️",
+      "color": "#86EFAC",
       "group": "fixed"
     }
   ],
@@ -21,10 +42,10 @@
       "items": [
         {
           "date": "2026-04-01",
-          "category": "固定支出",
+          "category": "訂閱",
           "item": "投資週報",
           "amount": -2500.0,
-          "icon": "📌",
+          "icon": "📱",
           "group": "fixed"
         }
       ]
@@ -35,10 +56,10 @@
       "items": [
         {
           "date": "2026-04-10",
-          "category": "固定支出",
+          "category": "運動",
           "item": "健身房",
           "amount": -888.0,
-          "icon": "📌",
+          "icon": "🏋️",
           "group": "fixed"
         }
       ]
@@ -49,26 +70,26 @@
       "items": [
         {
           "date": "2026-04-15",
-          "category": "固定支出",
+          "category": "訂閱",
           "item": "訂閱費",
           "amount": -600.0,
-          "icon": "📌",
+          "icon": "📱",
           "group": "fixed"
         },
         {
           "date": "2026-04-15",
-          "category": "固定支出",
+          "category": "訂閱",
           "item": "通話費",
           "amount": -299.0,
-          "icon": "📌",
+          "icon": "📱",
           "group": "fixed"
         },
         {
           "date": "2026-04-15",
-          "category": "固定支出",
+          "category": "訂閱",
           "item": "AI 模型",
           "amount": -300.0,
-          "icon": "📌",
+          "icon": "📱",
           "group": "fixed"
         }
       ]
@@ -79,10 +100,10 @@
       "items": [
         {
           "date": "2026-04-20",
-          "category": "固定支出",
+          "category": "財務",
           "item": "信貸",
           "amount": -6542.0,
-          "icon": "📌",
+          "icon": "💳",
           "group": "fixed"
         }
       ]
@@ -93,10 +114,10 @@
       "items": [
         {
           "date": "2026-04-25",
-          "category": "固定支出",
+          "category": "住",
           "item": "房貸",
           "amount": -11623.0,
-          "icon": "📌",
+          "icon": "🏠",
           "group": "fixed"
         }
       ]
@@ -105,58 +126,58 @@
   "transactions": [
     {
       "date": "2026-04-01",
-      "category": "固定支出",
+      "category": "訂閱",
       "item": "投資週報",
       "amount": -2500.0,
-      "icon": "📌",
+      "icon": "📱",
       "group": "fixed"
     },
     {
       "date": "2026-04-10",
-      "category": "固定支出",
+      "category": "運動",
       "item": "健身房",
       "amount": -888.0,
-      "icon": "📌",
+      "icon": "🏋️",
       "group": "fixed"
     },
     {
       "date": "2026-04-15",
-      "category": "固定支出",
+      "category": "訂閱",
       "item": "訂閱費",
       "amount": -600.0,
-      "icon": "📌",
+      "icon": "📱",
       "group": "fixed"
     },
     {
       "date": "2026-04-15",
-      "category": "固定支出",
+      "category": "訂閱",
       "item": "通話費",
       "amount": -299.0,
-      "icon": "📌",
+      "icon": "📱",
       "group": "fixed"
     },
     {
       "date": "2026-04-15",
-      "category": "固定支出",
+      "category": "訂閱",
       "item": "AI 模型",
       "amount": -300.0,
-      "icon": "📌",
+      "icon": "📱",
       "group": "fixed"
     },
     {
       "date": "2026-04-20",
-      "category": "固定支出",
+      "category": "財務",
       "item": "信貸",
       "amount": -6542.0,
-      "icon": "📌",
+      "icon": "💳",
       "group": "fixed"
     },
     {
       "date": "2026-04-25",
-      "category": "固定支出",
+      "category": "住",
       "item": "房貸",
       "amount": -11623.0,
-      "icon": "📌",
+      "icon": "🏠",
       "group": "fixed"
     }
   ]

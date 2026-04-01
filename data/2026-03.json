@@ -1,0 +1,1567 @@
+{
+  "month": "2026-03",
+  "year": 2026,
+  "monthNum": 3,
+  "total": -103959.0,
+  "fixedTotal": -26783.0,
+  "variableTotal": -77176.0,
+  "categories": [
+    {
+      "category": "固定支出",
+      "amount": -26783.0,
+      "icon": "📌",
+      "color": "#7C83FD",
+      "group": "fixed"
+    },
+    {
+      "category": "日常消費",
+      "amount": -20088.0,
+      "icon": "🛒",
+      "color": "#FFA940",
+      "group": "variable"
+    },
+    {
+      "category": "餐點",
+      "amount": -19888.0,
+      "icon": "🍱",
+      "color": "#FF6B6B",
+      "group": "variable"
+    },
+    {
+      "category": "娛樂",
+      "amount": -19281.0,
+      "icon": "🎮",
+      "color": "#A78BFA",
+      "group": "variable"
+    },
+    {
+      "category": "旅遊",
+      "amount": -11535.0,
+      "icon": "✈️",
+      "color": "#34D399",
+      "group": "variable"
+    },
+    {
+      "category": "飲料",
+      "amount": -6117.0,
+      "icon": "🧋",
+      "color": "#FF8E53",
+      "group": "variable"
+    },
+    {
+      "category": "學習投資",
+      "amount": -267.0,
+      "icon": "📚",
+      "color": "#60A5FA",
+      "group": "variable"
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-03-01",
+      "total": -23903.0,
+      "items": [
+        {
+          "date": "2026-03-01",
+          "category": "餐點",
+          "item": "早安美芝城",
+          "amount": -284.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-01",
+          "category": "固定支出",
+          "item": "投資週報",
+          "amount": -2500.0,
+          "icon": "📌",
+          "group": "fixed"
+        },
+        {
+          "date": "2026-03-01",
+          "category": "固定支出",
+          "item": "健身房",
+          "amount": -888.0,
+          "icon": "📌",
+          "group": "fixed"
+        },
+        {
+          "date": "2026-03-01",
+          "category": "固定支出",
+          "item": "訂閱費",
+          "amount": -600.0,
+          "icon": "📌",
+          "group": "fixed"
+        },
+        {
+          "date": "2026-03-01",
+          "category": "固定支出",
+          "item": "通話費",
+          "amount": -299.0,
+          "icon": "📌",
+          "group": "fixed"
+        },
+        {
+          "date": "2026-03-01",
+          "category": "固定支出",
+          "item": "AI 模型",
+          "amount": -300.0,
+          "icon": "📌",
+          "group": "fixed"
+        },
+        {
+          "date": "2026-03-01",
+          "category": "固定支出",
+          "item": "信貸",
+          "amount": -6542.0,
+          "icon": "📌",
+          "group": "fixed"
+        },
+        {
+          "date": "2026-03-01",
+          "category": "固定支出",
+          "item": "房貸",
+          "amount": -11623.0,
+          "icon": "📌",
+          "group": "fixed"
+        },
+        {
+          "date": "2026-03-01",
+          "category": "日常消費",
+          "item": "myprotein肌酸錠",
+          "amount": -627.0,
+          "icon": "🛒",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-01",
+          "category": "日常消費",
+          "item": "買菜",
+          "amount": -240.0,
+          "icon": "🛒",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "total": -848.0,
+      "items": [
+        {
+          "date": "2026-03-03",
+          "category": "固定支出",
+          "item": "瓦斯費",
+          "amount": -431.0,
+          "icon": "📌",
+          "group": "fixed"
+        },
+        {
+          "date": "2026-03-03",
+          "category": "餐點",
+          "item": "即食冬粉",
+          "amount": -139.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-03",
+          "category": "餐點",
+          "item": "關東煮",
+          "amount": -278.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "total": -90.0,
+      "items": [
+        {
+          "date": "2026-03-04",
+          "category": "飲料",
+          "item": "五十嵐",
+          "amount": -90.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "total": -366.0,
+      "items": [
+        {
+          "date": "2026-03-05",
+          "category": "餐點",
+          "item": "雞肉飯",
+          "amount": -366.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "total": -563.0,
+      "items": [
+        {
+          "date": "2026-03-06",
+          "category": "餐點",
+          "item": "必勝客",
+          "amount": -563.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-07",
+      "total": -1268.0,
+      "items": [
+        {
+          "date": "2026-03-07",
+          "category": "日常消費",
+          "item": "貓砂*2",
+          "amount": -655.0,
+          "icon": "🛒",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-07",
+          "category": "餐點",
+          "item": "Qburger",
+          "amount": -398.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-07",
+          "category": "飲料",
+          "item": "大茗",
+          "amount": -215.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "total": -876.0,
+      "items": [
+        {
+          "date": "2026-03-08",
+          "category": "餐點",
+          "item": "午餐",
+          "amount": -452.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-08",
+          "category": "飲料",
+          "item": "飲料",
+          "amount": -220.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-08",
+          "category": "餐點",
+          "item": "晚餐",
+          "amount": -204.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "total": -2026.0,
+      "items": [
+        {
+          "date": "2026-03-09",
+          "category": "日常消費",
+          "item": "洗加剪",
+          "amount": -1700.0,
+          "icon": "🛒",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-09",
+          "category": "日常消費",
+          "item": "電池",
+          "amount": -326.0,
+          "icon": "🛒",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "total": -327.0,
+      "items": [
+        {
+          "date": "2026-03-10",
+          "category": "學習投資",
+          "item": "書籍",
+          "amount": -168.0,
+          "icon": "📚",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-10",
+          "category": "旅遊",
+          "item": "韓國esim",
+          "amount": -159.0,
+          "icon": "✈️",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "total": -3439.0,
+      "items": [
+        {
+          "date": "2026-03-11",
+          "category": "餐點",
+          "item": "jus dining",
+          "amount": -2442.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-11",
+          "category": "旅遊",
+          "item": "韓國旅平險",
+          "amount": -997.0,
+          "icon": "✈️",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "total": -23384.0,
+      "items": [
+        {
+          "date": "2026-03-12",
+          "category": "娛樂",
+          "item": "switch2+寶可夢遊戲+f1樂高",
+          "amount": -17402.0,
+          "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-12",
+          "category": "旅遊",
+          "item": "Lotte 商場（129,080 KRW）",
+          "amount": -2840.0,
+          "icon": "✈️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-12",
+          "category": "旅遊",
+          "item": "Mark Gonzales（25,000 KRW）",
+          "amount": -550.0,
+          "icon": "✈️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-12",
+          "category": "旅遊",
+          "item": "New Balance（104,800 KRW）",
+          "amount": -2306.0,
+          "icon": "✈️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-12",
+          "category": "旅遊",
+          "item": "小紀念品（13,000 KRW）",
+          "amount": -286.0,
+          "icon": "✈️",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-13",
+      "total": -7709.0,
+      "items": [
+        {
+          "date": "2026-03-13",
+          "category": "旅遊",
+          "item": "Keopitempeul（48,000 KRW）",
+          "amount": -1056.0,
+          "icon": "✈️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-13",
+          "category": "旅遊",
+          "item": "Keopitempeul（18,000 KRW）",
+          "amount": -396.0,
+          "icon": "✈️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-13",
+          "category": "旅遊",
+          "item": "Audran Bakery（13,300 KRW）",
+          "amount": -292.0,
+          "icon": "✈️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-13",
+          "category": "餐點",
+          "item": "明珍鮑魚（46,000 KRW）",
+          "amount": -1012.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-13",
+          "category": "日常消費",
+          "item": "Object DIY小物（70,000 KRW）",
+          "amount": -1540.0,
+          "icon": "🛒",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-13",
+          "category": "飲料",
+          "item": "Blue Bottle Coffee（72,800 KRW）",
+          "amount": -1602.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-13",
+          "category": "旅遊",
+          "item": "海外簽帳購物（49,900 KRW）",
+          "amount": -1098.0,
+          "icon": "✈️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-13",
+          "category": "餐點",
+          "item": "BHC炸雞（20,000 KRW）",
+          "amount": -440.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-13",
+          "category": "日常消費",
+          "item": "超商雜貨（12,400 KRW）",
+          "amount": -273.0,
+          "icon": "🛒",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-14",
+      "total": -7679.0,
+      "items": [
+        {
+          "date": "2026-03-14",
+          "category": "飲料",
+          "item": "O'Sulloc 濟州屋（12:32）",
+          "amount": -2239.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-14",
+          "category": "日常消費",
+          "item": "Innisfree 濟州屋店（美妝）",
+          "amount": -1646.0,
+          "icon": "🛒",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-14",
+          "category": "飲料",
+          "item": "O'Sulloc 濟州屋（11:05）",
+          "amount": -434.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-14",
+          "category": "餐點",
+          "item": "노도거든거회（生魚片 15:21）",
+          "amount": -2292.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-14",
+          "category": "餐點",
+          "item": "저이주당（烘焙 13:23）",
+          "amount": -562.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-14",
+          "category": "飲料",
+          "item": "유동커피（咖啡 08:02）",
+          "amount": -259.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-14",
+          "category": "餐點",
+          "item": "宵夜",
+          "amount": -247.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-15",
+      "total": -2830.0,
+      "items": [
+        {
+          "date": "2026-03-15",
+          "category": "餐點",
+          "item": "Nuvola Pizza",
+          "amount": -750.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-15",
+          "category": "日常消費",
+          "item": "Switch 保護殼",
+          "amount": -750.0,
+          "icon": "🛒",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-15",
+          "category": "飲料",
+          "item": "50嵐",
+          "amount": -157.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-15",
+          "category": "餐點",
+          "item": "萬客什鍋",
+          "amount": -1173.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-19",
+      "total": -129.0,
+      "items": [
+        {
+          "date": "2026-03-19",
+          "category": "餐點",
+          "item": "三角飯糰",
+          "amount": -35.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-19",
+          "category": "飲料",
+          "item": "Mister Donut",
+          "amount": -94.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "total": -2068.0,
+      "items": [
+        {
+          "date": "2026-03-20",
+          "category": "餐點",
+          "item": "拉亞漢堡",
+          "amount": -298.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-20",
+          "category": "餐點",
+          "item": "得正",
+          "amount": -191.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-20",
+          "category": "餐點",
+          "item": "勝牛",
+          "amount": -1384.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-20",
+          "category": "飲料",
+          "item": "Bread Papa",
+          "amount": -195.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-21",
+      "total": -4401.0,
+      "items": [
+        {
+          "date": "2026-03-21",
+          "category": "日常消費",
+          "item": "改運",
+          "amount": -1000.0,
+          "icon": "🛒",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-21",
+          "category": "旅遊",
+          "item": "高鐵左營→台中",
+          "amount": -790.0,
+          "icon": "✈️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-21",
+          "category": "旅遊",
+          "item": "高鐵台中→左營",
+          "amount": -765.0,
+          "icon": "✈️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-21",
+          "category": "娛樂",
+          "item": "像素皮卡丘",
+          "amount": -630.0,
+          "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-21",
+          "category": "娛樂",
+          "item": "BMO模型",
+          "amount": -850.0,
+          "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-21",
+          "category": "飲料",
+          "item": "星巴克",
+          "amount": -198.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-21",
+          "category": "餐點",
+          "item": "洪瑞珍",
+          "amount": -168.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-22",
+      "total": -1420.0,
+      "items": [
+        {
+          "date": "2026-03-22",
+          "category": "餐點",
+          "item": "燒肉like",
+          "amount": -1420.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "total": -1153.0,
+      "items": [
+        {
+          "date": "2026-03-26",
+          "category": "飲料",
+          "item": "大茗",
+          "amount": -214.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-26",
+          "category": "日常消費",
+          "item": "土木公社",
+          "amount": -220.0,
+          "icon": "🛒",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-26",
+          "category": "餐點",
+          "item": "清粥小菜",
+          "amount": -285.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-26",
+          "category": "餐點",
+          "item": "即食冬粉",
+          "amount": -434.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-27",
+      "total": -399.0,
+      "items": [
+        {
+          "date": "2026-03-27",
+          "category": "娛樂",
+          "item": "遊戲王盒玩",
+          "amount": -399.0,
+          "icon": "🎮",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-28",
+      "total": -3859.0,
+      "items": [
+        {
+          "date": "2026-03-28",
+          "category": "餐點",
+          "item": "Qburger",
+          "amount": -275.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-28",
+          "category": "餐點",
+          "item": "海底撈火鍋",
+          "amount": -1773.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-28",
+          "category": "日常消費",
+          "item": "保健品（D3+B2+甘氨酸鎂）",
+          "amount": -1811.0,
+          "icon": "🛒",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-29",
+      "total": -10051.0,
+      "items": [
+        {
+          "date": "2026-03-29",
+          "category": "飲料",
+          "item": "加油",
+          "amount": -145.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-29",
+          "category": "餐點",
+          "item": "泰式恰凸恰",
+          "amount": -716.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-29",
+          "category": "日常消費",
+          "item": "汽車保養",
+          "amount": -7900.0,
+          "icon": "🛒",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-29",
+          "category": "餐點",
+          "item": "雞湯大叔",
+          "amount": -1135.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-29",
+          "category": "飲料",
+          "item": "茶湯會",
+          "amount": -55.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-29",
+          "category": "日常消費",
+          "item": "牧上紅豆麵包",
+          "amount": -100.0,
+          "icon": "🛒",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-30",
+      "total": -99.0,
+      "items": [
+        {
+          "date": "2026-03-30",
+          "category": "學習投資",
+          "item": "富比世談通膨",
+          "amount": -99.0,
+          "icon": "📚",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "total": -5072.0,
+      "items": [
+        {
+          "date": "2026-03-31",
+          "category": "餐點",
+          "item": "全家",
+          "amount": -172.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-31",
+          "category": "日常消費",
+          "item": "魚油",
+          "amount": -1300.0,
+          "icon": "🛒",
+          "group": "variable"
+        },
+        {
+          "date": "2026-03-31",
+          "category": "固定支出",
+          "item": "牌照稅",
+          "amount": -3600.0,
+          "icon": "📌",
+          "group": "fixed"
+        }
+      ]
+    }
+  ],
+  "transactions": [
+    {
+      "date": "2026-03-01",
+      "category": "餐點",
+      "item": "早安美芝城",
+      "amount": -284.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-01",
+      "category": "固定支出",
+      "item": "投資週報",
+      "amount": -2500.0,
+      "icon": "📌",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-03-01",
+      "category": "固定支出",
+      "item": "健身房",
+      "amount": -888.0,
+      "icon": "📌",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-03-01",
+      "category": "固定支出",
+      "item": "訂閱費",
+      "amount": -600.0,
+      "icon": "📌",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-03-01",
+      "category": "固定支出",
+      "item": "通話費",
+      "amount": -299.0,
+      "icon": "📌",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-03-01",
+      "category": "固定支出",
+      "item": "AI 模型",
+      "amount": -300.0,
+      "icon": "📌",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-03-01",
+      "category": "固定支出",
+      "item": "信貸",
+      "amount": -6542.0,
+      "icon": "📌",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-03-01",
+      "category": "固定支出",
+      "item": "房貸",
+      "amount": -11623.0,
+      "icon": "📌",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-03-01",
+      "category": "日常消費",
+      "item": "myprotein肌酸錠",
+      "amount": -627.0,
+      "icon": "🛒",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-01",
+      "category": "日常消費",
+      "item": "買菜",
+      "amount": -240.0,
+      "icon": "🛒",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-03",
+      "category": "固定支出",
+      "item": "瓦斯費",
+      "amount": -431.0,
+      "icon": "📌",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-03-03",
+      "category": "餐點",
+      "item": "即食冬粉",
+      "amount": -139.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-03",
+      "category": "餐點",
+      "item": "關東煮",
+      "amount": -278.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-04",
+      "category": "飲料",
+      "item": "五十嵐",
+      "amount": -90.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-05",
+      "category": "餐點",
+      "item": "雞肉飯",
+      "amount": -366.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-06",
+      "category": "餐點",
+      "item": "必勝客",
+      "amount": -563.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-07",
+      "category": "日常消費",
+      "item": "貓砂*2",
+      "amount": -655.0,
+      "icon": "🛒",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-07",
+      "category": "餐點",
+      "item": "Qburger",
+      "amount": -398.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-07",
+      "category": "飲料",
+      "item": "大茗",
+      "amount": -215.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-08",
+      "category": "餐點",
+      "item": "午餐",
+      "amount": -452.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-08",
+      "category": "飲料",
+      "item": "飲料",
+      "amount": -220.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-08",
+      "category": "餐點",
+      "item": "晚餐",
+      "amount": -204.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-09",
+      "category": "日常消費",
+      "item": "洗加剪",
+      "amount": -1700.0,
+      "icon": "🛒",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-09",
+      "category": "日常消費",
+      "item": "電池",
+      "amount": -326.0,
+      "icon": "🛒",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-10",
+      "category": "學習投資",
+      "item": "書籍",
+      "amount": -168.0,
+      "icon": "📚",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-10",
+      "category": "旅遊",
+      "item": "韓國esim",
+      "amount": -159.0,
+      "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-11",
+      "category": "餐點",
+      "item": "jus dining",
+      "amount": -2442.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-11",
+      "category": "旅遊",
+      "item": "韓國旅平險",
+      "amount": -997.0,
+      "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-12",
+      "category": "娛樂",
+      "item": "switch2+寶可夢遊戲+f1樂高",
+      "amount": -17402.0,
+      "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-12",
+      "category": "旅遊",
+      "item": "Lotte 商場（129,080 KRW）",
+      "amount": -2840.0,
+      "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-12",
+      "category": "旅遊",
+      "item": "Mark Gonzales（25,000 KRW）",
+      "amount": -550.0,
+      "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-12",
+      "category": "旅遊",
+      "item": "New Balance（104,800 KRW）",
+      "amount": -2306.0,
+      "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-12",
+      "category": "旅遊",
+      "item": "小紀念品（13,000 KRW）",
+      "amount": -286.0,
+      "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-13",
+      "category": "旅遊",
+      "item": "Keopitempeul（48,000 KRW）",
+      "amount": -1056.0,
+      "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-13",
+      "category": "旅遊",
+      "item": "Keopitempeul（18,000 KRW）",
+      "amount": -396.0,
+      "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-13",
+      "category": "旅遊",
+      "item": "Audran Bakery（13,300 KRW）",
+      "amount": -292.0,
+      "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-13",
+      "category": "餐點",
+      "item": "明珍鮑魚（46,000 KRW）",
+      "amount": -1012.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-13",
+      "category": "日常消費",
+      "item": "Object DIY小物（70,000 KRW）",
+      "amount": -1540.0,
+      "icon": "🛒",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-13",
+      "category": "飲料",
+      "item": "Blue Bottle Coffee（72,800 KRW）",
+      "amount": -1602.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-13",
+      "category": "旅遊",
+      "item": "海外簽帳購物（49,900 KRW）",
+      "amount": -1098.0,
+      "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-13",
+      "category": "餐點",
+      "item": "BHC炸雞（20,000 KRW）",
+      "amount": -440.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-13",
+      "category": "日常消費",
+      "item": "超商雜貨（12,400 KRW）",
+      "amount": -273.0,
+      "icon": "🛒",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-14",
+      "category": "飲料",
+      "item": "O'Sulloc 濟州屋（12:32）",
+      "amount": -2239.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-14",
+      "category": "日常消費",
+      "item": "Innisfree 濟州屋店（美妝）",
+      "amount": -1646.0,
+      "icon": "🛒",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-14",
+      "category": "飲料",
+      "item": "O'Sulloc 濟州屋（11:05）",
+      "amount": -434.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-14",
+      "category": "餐點",
+      "item": "노도거든거회（生魚片 15:21）",
+      "amount": -2292.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-14",
+      "category": "餐點",
+      "item": "저이주당（烘焙 13:23）",
+      "amount": -562.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-14",
+      "category": "飲料",
+      "item": "유동커피（咖啡 08:02）",
+      "amount": -259.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-14",
+      "category": "餐點",
+      "item": "宵夜",
+      "amount": -247.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-15",
+      "category": "餐點",
+      "item": "Nuvola Pizza",
+      "amount": -750.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-15",
+      "category": "日常消費",
+      "item": "Switch 保護殼",
+      "amount": -750.0,
+      "icon": "🛒",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-15",
+      "category": "飲料",
+      "item": "50嵐",
+      "amount": -157.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-15",
+      "category": "餐點",
+      "item": "萬客什鍋",
+      "amount": -1173.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-19",
+      "category": "餐點",
+      "item": "三角飯糰",
+      "amount": -35.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-19",
+      "category": "飲料",
+      "item": "Mister Donut",
+      "amount": -94.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-20",
+      "category": "餐點",
+      "item": "拉亞漢堡",
+      "amount": -298.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-20",
+      "category": "餐點",
+      "item": "得正",
+      "amount": -191.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-20",
+      "category": "餐點",
+      "item": "勝牛",
+      "amount": -1384.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-20",
+      "category": "飲料",
+      "item": "Bread Papa",
+      "amount": -195.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-21",
+      "category": "日常消費",
+      "item": "改運",
+      "amount": -1000.0,
+      "icon": "🛒",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-21",
+      "category": "旅遊",
+      "item": "高鐵左營→台中",
+      "amount": -790.0,
+      "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-21",
+      "category": "旅遊",
+      "item": "高鐵台中→左營",
+      "amount": -765.0,
+      "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-21",
+      "category": "娛樂",
+      "item": "像素皮卡丘",
+      "amount": -630.0,
+      "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-21",
+      "category": "娛樂",
+      "item": "BMO模型",
+      "amount": -850.0,
+      "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-21",
+      "category": "飲料",
+      "item": "星巴克",
+      "amount": -198.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-21",
+      "category": "餐點",
+      "item": "洪瑞珍",
+      "amount": -168.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-22",
+      "category": "餐點",
+      "item": "燒肉like",
+      "amount": -1420.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-26",
+      "category": "飲料",
+      "item": "大茗",
+      "amount": -214.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-26",
+      "category": "日常消費",
+      "item": "土木公社",
+      "amount": -220.0,
+      "icon": "🛒",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-26",
+      "category": "餐點",
+      "item": "清粥小菜",
+      "amount": -285.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-26",
+      "category": "餐點",
+      "item": "即食冬粉",
+      "amount": -434.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-27",
+      "category": "娛樂",
+      "item": "遊戲王盒玩",
+      "amount": -399.0,
+      "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-28",
+      "category": "餐點",
+      "item": "Qburger",
+      "amount": -275.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-28",
+      "category": "餐點",
+      "item": "海底撈火鍋",
+      "amount": -1773.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-28",
+      "category": "日常消費",
+      "item": "保健品（D3+B2+甘氨酸鎂）",
+      "amount": -1811.0,
+      "icon": "🛒",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-29",
+      "category": "飲料",
+      "item": "加油",
+      "amount": -145.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-29",
+      "category": "餐點",
+      "item": "泰式恰凸恰",
+      "amount": -716.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-29",
+      "category": "日常消費",
+      "item": "汽車保養",
+      "amount": -7900.0,
+      "icon": "🛒",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-29",
+      "category": "餐點",
+      "item": "雞湯大叔",
+      "amount": -1135.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-29",
+      "category": "飲料",
+      "item": "茶湯會",
+      "amount": -55.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-29",
+      "category": "日常消費",
+      "item": "牧上紅豆麵包",
+      "amount": -100.0,
+      "icon": "🛒",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-30",
+      "category": "學習投資",
+      "item": "富比世談通膨",
+      "amount": -99.0,
+      "icon": "📚",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-31",
+      "category": "餐點",
+      "item": "全家",
+      "amount": -172.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-31",
+      "category": "日常消費",
+      "item": "魚油",
+      "amount": -1300.0,
+      "icon": "🛒",
+      "group": "variable"
+    },
+    {
+      "date": "2026-03-31",
+      "category": "固定支出",
+      "item": "牌照稅",
+      "amount": -3600.0,
+      "icon": "📌",
+      "group": "fixed"
+    }
+  ]
+}

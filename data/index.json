@@ -1,0 +1,20 @@
+[
+  {
+    "month": "2026-02",
+    "total": -147884.0,
+    "fixedTotal": -13710.0,
+    "variableTotal": -134174.0
+  },
+  {
+    "month": "2026-03",
+    "total": -103959.0,
+    "fixedTotal": -26783.0,
+    "variableTotal": -77176.0
+  },
+  {
+    "month": "2026-04",
+    "total": -22752.0,
+    "fixedTotal": -22752.0,
+    "variableTotal": 0
+  }
+]

@@ -1,0 +1,871 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>Spendr</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg: #262d31;
+    --surface: #34393a;
+    --surface2: #3e4547;
+    --border: rgba(255,255,255,0.06);
+    --text: #E6EDF3;
+    --text2: #8B98A5;
+    --text3: #5B6B7C;
+    --accent: #94e1df;
+    --accent-soft: rgba(148,225,223,0.15);
+    --accent2: #FF6B6B;
+    --green: #22C55E;
+    --radius: 16px;
+    --radius-sm: 10px;
+    --shadow: 0 8px 24px rgba(0,0,0,0.3);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "PingFang TC", "Noto Sans TC", sans-serif;
+    min-height: 100vh;
+    padding-bottom: 40px;
+  }
+
+  /* ── Header ── */
+  .header {
+    background: #262d31;
+    padding: 20px 20px 12px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    border-bottom: none;
+  }
+
+  .header-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 16px;
+  }
+
+  .header-title {
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: -0.3px;
+  }
+
+  .header-title span { color: var(--accent); }
+
+  /* Month tabs */
+  .month-tabs {
+    display: flex;
+    gap: 4px;
+    overflow-x: auto;
+    scrollbar-width: none;
+    padding-bottom: 0;
+  }
+  .month-tabs::-webkit-scrollbar { display: none; }
+
+  .month-tab {
+    flex-shrink: 0;
+    padding: 8px 16px;
+    border-radius: 20px 20px 0 0;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text2);
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s;
+    position: relative;
+  }
+
+  .month-tab.active {
+    color: #203442;
+    background: #94e1df;
+    border-radius: 8px;
+    font-weight: 600;
+  }
+
+  .month-tab.active::after {
+    display: none;
+  }
+
+  /* ── Main ── */
+  .main { padding: 20px; max-width: 480px; margin: 0 auto; }
+
+  /* ── Summary Cards ── */
+  .summary-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+
+  .card {
+    background: linear-gradient(90deg, #34393a, #2c3438);
+    border-radius: var(--radius);
+    border: none;
+    box-shadow: none;
+  }
+
+  .card-total {
+    grid-column: 1 / -1;
+    padding: 20px;
+    background: linear-gradient(90deg, #34393a, #2c3438);
+    border-color: rgba(61,217,197,0.12);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .card-total::before {
+    display: none;
+  }
+
+  .card-label {
+    font-size: 12px;
+    font-weight: 400;
+    color: var(--text2);
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+
+  .card-amount {
+    font-size: 32px;
+    font-weight: 600;
+    letter-spacing: -0.5px;
+    color: var(--text);
+    line-height: 1;
+  }
+
+  .card-amount.positive { color: var(--green); }
+
+  .card-sub {
+    font-size: 13px;
+    color: var(--text2);
+    margin-top: 6px;
+  }
+
+  .card-mini {
+    padding: 16px;
+  }
+
+  .card-mini .card-amount {
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 2px;
+  }
+
+  .card-mini.fixed .card-amount { color: var(--accent); }
+  .card-mini.variable .card-amount { color: var(--text); }
+
+  /* ── Section title ── */
+  .section-title {
+    font-size: 13px;
+    font-weight: 400;
+    color: var(--text2);
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    margin: 24px 0 12px;
+  }
+
+  /* ── Chart card ── */
+  .chart-card {
+    padding: 20px;
+    margin-bottom: 12px;
+  }
+
+  .chart-title {
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 16px;
+    color: var(--text);
+  }
+
+  .donut-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .donut-canvas-wrap {
+    position: relative;
+    width: 140px;
+    height: 140px;
+    flex-shrink: 0;
+  }
+
+  .donut-center {
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    pointer-events: none;
+  }
+
+  .donut-center-amount {
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFFFFF;
+    line-height: 1.1;
+    letter-spacing: -0.5px;
+  }
+
+  .donut-center-label {
+    font-size: 10px;
+    color: var(--text2);
+    margin-top: 2px;
+  }
+
+  .donut-legend {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    overflow: hidden;
+  }
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+  }
+
+  .legend-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .legend-name {
+    font-size: 12px;
+    color: var(--text2);
+    flex: 1;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .legend-amt {
+    font-size: 12px;
+    font-weight: 400;
+    color: var(--text);
+  }
+
+  /* ── Bar chart ── */
+  .bar-canvas-wrap { position: relative; height: 160px; }
+
+  /* ── Category list ── */
+  .cat-list {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-bottom: 12px;
+  }
+
+  .cat-item {
+    display: flex;
+    align-items: center;
+    padding: 12px 16px;
+    background: linear-gradient(90deg, #34393a, #2c3438);
+    border-radius: var(--radius-sm);
+    border: none;
+    gap: 12px;
+    cursor: pointer;
+    transition: background 0.15s;
+  }
+
+  .cat-item:active { background: var(--surface2); }
+
+  .cat-icon {
+    width: 36px; height: 36px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    flex-shrink: 0;
+  }
+
+  .cat-info { flex: 1; }
+  .cat-name { font-size: 14px; font-weight: 400; }
+  .cat-count { font-size: 12px; color: var(--text2); margin-top: 2px; }
+
+  .cat-right { text-align: right; }
+  .cat-amount { font-size: 15px; font-weight: 600; color: var(--text); }
+  .cat-pct { font-size: 12px; color: var(--text2); margin-top: 2px; }
+
+  .cat-bar-wrap { display: none; }
+  .cat-bar-fill { display: none; }
+
+  /* ── Transaction drawer ── */
+  .drawer-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.6);
+    z-index: 200;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.25s;
+  }
+
+  .drawer-overlay.open { opacity: 1; pointer-events: all; }
+
+  .drawer {
+    position: fixed;
+    bottom: 0; left: 0; right: 0;
+    background: linear-gradient(90deg, #34393a, #2c3438);
+    border-radius: 20px 20px 0 0;
+    z-index: 201;
+    padding: 0 0 env(safe-area-inset-bottom, 0);
+    max-height: 80vh;
+    transform: translateY(100%);
+    transition: transform 0.3s cubic-bezier(0.32, 0.72, 0, 1);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .drawer.open { transform: translateY(0); }
+
+  .drawer-handle {
+    width: 36px; height: 4px;
+    background: var(--border);
+    border-radius: 2px;
+    margin: 12px auto 0;
+    flex-shrink: 0;
+  }
+
+  .drawer-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 16px 20px;
+    flex-shrink: 0;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .drawer-icon {
+    width: 40px; height: 40px;
+    border-radius: 12px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 20px;
+  }
+
+  .drawer-title { font-size: 17px; font-weight: 600; }
+  .drawer-subtitle { font-size: 13px; color: var(--text2); margin-top: 2px; }
+
+  .drawer-body {
+    overflow-y: auto;
+    flex: 1;
+    padding: 8px 8px;
+  }
+
+  .tx-item {
+    display: flex;
+    align-items: center;
+    padding: 10px 12px;
+    border-bottom: none;
+    gap: 10px;
+    border-radius: 6px;
+  }
+
+  .tx-item:nth-child(even) { background: rgba(0,0,0,0.15); }
+
+  .tx-date {
+    font-size: 12px;
+    color: var(--text2);
+    width: 44px;
+    flex-shrink: 0;
+  }
+
+  .tx-name { flex: 1; font-size: 14px; }
+  .tx-amount { font-size: 14px; font-weight: 600; color: var(--text); }
+
+  /* ── Trend chart ── */
+  .trend-wrap { position: relative; height: 120px; }
+
+  /* ── Loading ── */
+  .loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+    flex-direction: column;
+    gap: 12px;
+    color: var(--text2);
+    font-size: 14px;
+  }
+
+  .spinner {
+    width: 32px; height: 32px;
+    border: 3px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+  }
+
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ── Utilities ── */
+  .hidden { display: none !important; }
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<div class="header">
+  <div class="header-top">
+    <div class="header-title">Spendr</div>
+    <div style="font-size:13px;color:var(--text2)" id="lastUpdate"></div>
+  </div>
+  <div class="month-tabs" id="monthTabs"></div>
+</div>
+
+<!-- Main -->
+<div class="main" id="mainContent">
+  <div class="loading">
+    <div class="spinner"></div>
+    <div>載入中…</div>
+  </div>
+</div>
+
+<!-- Drawer -->
+<div class="drawer-overlay" id="drawerOverlay" onclick="closeDrawer()"></div>
+<div class="drawer" id="drawer">
+  <div class="drawer-handle"></div>
+  <div class="drawer-header" id="drawerHeader"></div>
+  <div class="drawer-body" id="drawerBody"></div>
+</div>
+
+<script>
+// ── State ──────────────────────────────────────────────
+let allMonths = [];
+let currentMonthData = null;
+let charts = {};
+
+// ── Init ───────────────────────────────────────────────
+async function init() {
+  try {
+    const res = await fetch('data/index.json');
+    allMonths = await res.json();
+    buildTabs();
+    // Load latest month
+    const latest = allMonths[allMonths.length - 1];
+    if (latest) loadMonth(latest.month);
+  } catch(e) {
+    document.getElementById('mainContent').innerHTML =
+      `<div class="loading">⚠️ 無法載入資料<br><small style="margin-top:8px;color:var(--text2)">請先執行 parse.py</small></div>`;
+  }
+}
+
+function buildTabs() {
+  const tabs = document.getElementById('monthTabs');
+  tabs.innerHTML = allMonths.map(m => `
+    <button class="month-tab" onclick="loadMonth('${m.month}')" data-month="${m.month}">
+      ${formatMonthLabel(m.month)}
+    </button>
+  `).join('');
+}
+
+function formatMonthLabel(ym) {
+  const [y, m] = ym.split('-');
+  return `${y.slice(2)}年${parseInt(m)}月`;
+}
+
+async function loadMonth(ym) {
+  // Update tabs
+  document.querySelectorAll('.month-tab').forEach(t => {
+    t.classList.toggle('active', t.dataset.month === ym);
+  });
+  
+  // Scroll active tab into view
+  const activeTab = document.querySelector('.month-tab.active');
+  if (activeTab) activeTab.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+
+  try {
+    const res = await fetch(`data/${ym}.json`);
+    currentMonthData = await res.json();
+    render();
+  } catch(e) {
+    console.error(e);
+  }
+}
+
+// ── Render ─────────────────────────────────────────────
+function render() {
+  const d = currentMonthData;
+  if (!d) return;
+
+  // Destroy old charts
+  Object.values(charts).forEach(c => c.destroy());
+  charts = {};
+
+  document.getElementById('lastUpdate').textContent = new Date().toLocaleTimeString('zh-TW', {hour:'2-digit',minute:'2-digit'});
+
+  const html = `
+    ${renderSummary(d)}
+    <div class="section-title">支出分析</div>
+    ${renderDonut(d)}
+    ${renderDailyBar(d)}
+    <div class="section-title">分類明細</div>
+    ${renderCategoryList(d)}
+    ${allMonths.length > 1 ? `<div class="section-title">月份趨勢</div>${renderTrend()}` : ''}
+  `;
+
+  document.getElementById('mainContent').innerHTML = html;
+
+  // Init charts after DOM update
+  requestAnimationFrame(() => {
+    initDonutChart(d);
+    initDailyBarChart(d);
+    if (allMonths.length > 1) initTrendChart();
+    animateCatBars();
+  });
+}
+
+function renderSummary(d) {
+  const total = Math.abs(d.total);
+  const fixed = Math.abs(d.fixedTotal);
+  const variable = Math.abs(d.variableTotal);
+  const txCount = d.transactions.length;
+  return `
+  <div class="summary-grid">
+    <div class="card card-total">
+      <div class="card-label">本月總支出</div>
+      <div class="card-amount">$${fmt(total)}</div>
+      <div class="card-sub">${txCount} 筆消費・平均 $${fmt(Math.round(total/Math.max(txCount,1)))}/筆</div>
+    </div>
+    <div class="card card-mini fixed">
+      <div class="card-label">固定支出</div>
+      <div class="card-amount">$${fmt(fixed)}</div>
+      <div class="card-sub" style="margin-top:4px;font-size:11px">${pct(fixed,total)}%</div>
+    </div>
+    <div class="card card-mini variable">
+      <div class="card-label">變動支出</div>
+      <div class="card-amount">$${fmt(variable)}</div>
+      <div class="card-sub" style="margin-top:4px;font-size:11px">${pct(variable,total)}%</div>
+    </div>
+  </div>`;
+}
+
+function renderDonut(d) {
+  return `
+  <div class="card chart-card">
+    <div class="chart-title">支出分類</div>
+    <div class="donut-wrapper">
+      <div class="donut-canvas-wrap">
+        <canvas id="donutChart"></canvas>
+        <div class="donut-center">
+          <div class="donut-center-amount">$${fmtK(Math.abs(d.total))}</div>
+          <div class="donut-center-label">總支出</div>
+        </div>
+      </div>
+      <div class="donut-legend" id="donutLegend"></div>
+    </div>
+  </div>`;
+}
+
+function renderDailyBar(d) {
+  return `
+  <div class="card chart-card">
+    <div class="chart-title">每日支出</div>
+    <div class="bar-canvas-wrap"><canvas id="dailyBar"></canvas></div>
+  </div>`;
+}
+
+function renderCategoryList(d) {
+  const total = Math.abs(d.total);
+  const CATEGORY_META = {
+    "餐點":    {"icon":"🍱","color":"#F87171"},
+    "飲料":    {"icon":"🧋","color":"#FB923C"},
+    "日常消費": {"icon":"🛒","color":"#60A5FA"},
+    "固定支出": {"icon":"📌","color":"#94e1df"},
+    "娛樂":    {"icon":"🎮","color":"#A78BFA"},
+    "旅遊":    {"icon":"✈️","color":"#34D399"},
+    "學習投資": {"icon":"📚","color":"#94A3B8"},
+    "服飾":    {"icon":"👕","color":"#F472B6"},
+    "寵物":    {"icon":"🐾","color":"#FBBF24"},
+    "醫療":    {"icon":"💊","color":"#4ADE80"},
+    "交通":    {"icon":"🚗","color":"#38BDF8"},
+    "捐款":    {"icon":"🙏","color":"#6EE7B7"},
+    "紅包":    {"icon":"🧧","color":"#F87171"},
+    "用品":    {"icon":"📦","color":"#FB923C"},
+    "工具":    {"icon":"🔧","color":"#94A3B8"},
+    "玩具":    {"icon":"🪆","color":"#C084FC"},
+    "伴手禮":  {"icon":"🎁","color":"#2DD4BF"},
+  };
+  const DEFAULT = {icon:"💸",color:"#94A3B8"};
+
+  const sorted = [...d.categories].sort((a,b) => a.amount - b.amount);
+  const maxAmt = Math.max(...sorted.map(c => Math.abs(c.amount)));
+
+  return `<div class="cat-list">${sorted.map(c => {
+    const meta = CATEGORY_META[c.category] || DEFAULT;
+    const amt = Math.abs(c.amount);
+    const p = pct(amt, total);
+    const count = d.transactions.filter(t => t.category === c.category).length;
+    const barW = Math.round(amt / maxAmt * 100);
+    return `
+    <div class="cat-item" style="position:relative" onclick="openCategoryDrawer('${c.category}')">
+      <div class="cat-icon" style="background:${meta.color}22">${meta.icon}</div>
+      <div class="cat-info">
+        <div class="cat-name">${c.category}</div>
+        <div class="cat-count">${count} 筆</div>
+      </div>
+      <div class="cat-right">
+        <div class="cat-amount">${fmt(amt)}</div>
+        <div class="cat-pct">${p}%</div>
+      </div>
+      <div class="cat-bar-wrap">
+        <div class="cat-bar-fill" data-width="${barW}" style="width:0%;background:${meta.color}"></div>
+      </div>
+    </div>`;
+  }).join('')}</div>`;
+}
+
+function renderTrend() {
+  return `
+  <div class="card chart-card" style="margin-bottom:0">
+    <div class="chart-title">月支出趨勢</div>
+    <div class="trend-wrap"><canvas id="trendChart"></canvas></div>
+  </div>`;
+}
+
+// ── Charts ─────────────────────────────────────────────
+const FONT = { family: "-apple-system, 'PingFang TC', sans-serif" };
+
+function initDonutChart(d) {
+  const sorted = [...d.categories].sort((a,b) => a.amount - b.amount);
+  const labels = sorted.map(c => c.category);
+  const values = sorted.map(c => Math.abs(c.amount));
+  const colors = sorted.map(c => c.color || '#94A3B8');
+  const total = Math.abs(d.total);
+
+  const ctx = document.getElementById('donutChart').getContext('2d');
+  charts.donut = new Chart(ctx, {
+    type: 'doughnut',
+    data: { labels, datasets: [{ data: values, backgroundColor: colors, borderWidth: 0, hoverOffset: 6 }] },
+    options: {
+      cutout: '68%',
+      plugins: { legend: { display: false }, tooltip: {
+        callbacks: { label: ctx => ` ${fmt(ctx.raw)}（${pct(ctx.raw,total)}%）` }
+      }},
+      onClick: (e, elements) => {
+        if (elements.length) openCategoryDrawer(labels[elements[0].index]);
+      }
+    }
+  });
+
+  // Build legend (top 5 by spend, largest first)
+  const top5 = [...sorted].slice(0, 5);
+  document.getElementById('donutLegend').innerHTML = top5.map(c => `
+    <div class="legend-item" onclick="openCategoryDrawer('${c.category}')">
+      <div class="legend-dot" style="background:${c.color||'#94A3B8'}"></div>
+      <div class="legend-name">${c.icon} ${c.category}</div>
+      <div class="legend-amt">$${fmtK(Math.abs(c.amount))}</div>
+    </div>
+  `).join('');
+}
+
+function initDailyBarChart(d) {
+  if (!d.days.length) return;
+
+  // Build complete day range
+  const [y, m] = d.month.split('-');
+  const daysInMonth = new Date(parseInt(y), parseInt(m), 0).getDate();
+  const dailyMap = {};
+  d.days.forEach(day => { dailyMap[day.date] = Math.abs(day.total); });
+
+  const labels = [], values = [], bgColors = [];
+  for (let i = 1; i <= daysInMonth; i++) {
+    const dd = String(i).padStart(2,'0');
+    const key = `${y}-${m}-${dd}`;
+    const amt = dailyMap[key] || 0;
+    labels.push(i);
+    values.push(amt);
+    bgColors.push(amt > 10000 ? '#F87171' : amt > 3000 ? '#38BDF8' : '#94e1df');
+  }
+
+  const ctx = document.getElementById('dailyBar').getContext('2d');
+  charts.daily = new Chart(ctx, {
+    type: 'bar',
+    data: { labels, datasets: [{
+      data: values,
+      backgroundColor: bgColors,
+      borderRadius: 4,
+      borderSkipped: false,
+    }]},
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false }, tooltip: {
+        callbacks: {
+          title: ctx => `${parseInt(m)}月${ctx[0].label}日`,
+          label: ctx => ctx.raw > 0 ? ` $${fmt(ctx.raw)}` : ' 無消費'
+        }
+      }},
+      scales: {
+        x: { grid: { display: false }, ticks: { color: '#8888AA', font: { size: 10 }, maxTicksLimit: 10 } },
+        y: { grid: { color: 'rgba(255,255,255,0.04)' }, ticks: { color: '#8888AA', font: { size: 10 }, callback: v => v >= 1000 ? `$${Math.round(v/1000)}k` : `$${v}` } }
+      },
+      onClick: (e, elements) => {
+        if (!elements.length) return;
+        const day = labels[elements[0].index];
+        const dd = String(day).padStart(2, '0');
+        openDayDrawer(`${y}-${m}-${dd}`);
+      }
+    }
+  });
+}
+
+function initTrendChart() {
+  const labels = allMonths.map(m => formatMonthLabel(m.month));
+  const values = allMonths.map(m => Math.abs(m.total));
+  const current = currentMonthData.month;
+  const bgColors = allMonths.map(m => m.month === current ? '#94e1df' : 'rgba(61,217,197,0.25)');
+
+  const ctx = document.getElementById('trendChart').getContext('2d');
+  charts.trend = new Chart(ctx, {
+    type: 'bar',
+    data: { labels, datasets: [{
+      data: values, backgroundColor: bgColors, borderRadius: 6, borderSkipped: false
+    }]},
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false }, tooltip: {
+        callbacks: { label: ctx => ` ${fmt(ctx.raw)}` }
+      }},
+      scales: {
+        x: { grid: { display: false }, ticks: { color: '#8888AA', font: { size: 11 } } },
+        y: { grid: { color: 'rgba(255,255,255,0.04)' }, ticks: { color: '#8888AA', font: { size: 10 }, callback: v => `$${Math.round(v/1000)}k` } }
+      }
+    }
+  });
+}
+
+function animateCatBars() {
+  document.querySelectorAll('.cat-bar-fill').forEach(el => {
+    const w = el.dataset.width;
+    requestAnimationFrame(() => { el.style.width = w + '%'; });
+  });
+}
+
+// ── Drawer ─────────────────────────────────────────────
+const CATEGORY_META_JS = {
+  "餐點":    {"icon":"🍱","color":"#F87171"},
+  "飲料":    {"icon":"🧋","color":"#FB923C"},
+  "日常消費": {"icon":"🛒","color":"#60A5FA"},
+  "固定支出": {"icon":"📌","color":"#94e1df"},
+  "娛樂":    {"icon":"🎮","color":"#A78BFA"},
+  "旅遊":    {"icon":"✈️","color":"#34D399"},
+  "學習投資": {"icon":"📚","color":"#94A3B8"},
+  "服飾":    {"icon":"👕","color":"#F472B6"},
+  "寵物":    {"icon":"🐾","color":"#FBBF24"},
+  "醫療":    {"icon":"💊","color":"#4ADE80"},
+  "交通":    {"icon":"🚗","color":"#38BDF8"},
+  "捐款":    {"icon":"🙏","color":"#6EE7B7"},
+  "紅包":    {"icon":"🧧","color":"#F87171"},
+  "用品":    {"icon":"📦","color":"#FB923C"},
+  "工具":    {"icon":"🔧","color":"#94A3B8"},
+  "玩具":    {"icon":"🪆","color":"#C084FC"},
+  "伴手禮":  {"icon":"🎁","color":"#2DD4BF"},
+};
+
+function openDayDrawer(dateKey) {
+  const d = currentMonthData;
+  const txs = d.transactions.filter(t => t.date === dateKey);
+  if (!txs.length) return;
+
+  const [y, m, day] = dateKey.split('-');
+  const total = txs.reduce((s, t) => s + Math.abs(t.amount), 0);
+
+  document.getElementById('drawerHeader').innerHTML = `
+    <div class="drawer-icon" style="background:rgba(61,217,197,0.15);font-size:22px">📅</div>
+    <div>
+      <div class="drawer-title">${parseInt(m)}月${parseInt(day)}日</div>
+      <div class="drawer-subtitle">${txs.length} 筆・$${fmt(total)}</div>
+    </div>
+  `;
+
+  document.getElementById('drawerBody').innerHTML = txs.map((t, i) => `
+    <div class="tx-item">
+      <div class="tx-date" style="color:${CATEGORY_META_JS[t.category]?.color||'#94A3B8'};font-size:18px">${CATEGORY_META_JS[t.category]?.icon||'💸'}</div>
+      <div>
+        <div class="tx-name">${t.item}</div>
+        <div style="font-size:11px;color:var(--text2);margin-top:2px">${t.category}</div>
+      </div>
+      <div class="tx-amount" style="margin-left:auto">$${fmt(Math.abs(t.amount))}</div>
+    </div>
+  `).join('');
+
+  document.getElementById('drawerOverlay').classList.add('open');
+  document.getElementById('drawer').classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+
+function openCategoryDrawer(cat) {
+  document.body.style.overflow = 'hidden';
+  const d = currentMonthData;
+  const meta = CATEGORY_META_JS[cat] || {icon:'💸', color:'#94A3B8'};
+  const txs = d.transactions.filter(t => t.category === cat);
+  const total = txs.reduce((s,t) => s + Math.abs(t.amount), 0);
+
+  document.getElementById('drawerHeader').innerHTML = `
+    <div class="drawer-icon" style="background:${meta.color}22;font-size:22px">${meta.icon}</div>
+    <div>
+      <div class="drawer-title">${cat}</div>
+      <div class="drawer-subtitle">${txs.length} 筆・${fmt(total)}</div>
+    </div>
+  `;
+
+  // Group by date
+  const byDate = {};
+  txs.forEach(t => {
+    if (!byDate[t.date]) byDate[t.date] = [];
+    byDate[t.date].push(t);
+  });
+
+  document.getElementById('drawerBody').innerHTML = Object.entries(byDate)
+    .sort(([a],[b]) => b.localeCompare(a))
+    .map(([date, items]) => {
+      const [y,m,day] = date.split('-');
+      return items.map((t, i) => `
+        <div class="tx-item">
+          ${i === 0 ? `<div class="tx-date">${parseInt(m)}/${parseInt(day)}</div>` : '<div class="tx-date"></div>'}
+          <div class="tx-name">${t.item}</div>
+          <div class="tx-amount">${fmt(Math.abs(t.amount))}</div>
+        </div>
+      `).join('');
+    }).join('');
+
+  document.getElementById('drawerOverlay').classList.add('open');
+  document.getElementById('drawer').classList.add('open');
+}
+
+function closeDrawer() {
+  document.getElementById('drawerOverlay').classList.remove('open');
+  document.getElementById('drawer').classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+// Handle swipe down to close drawer
+let touchStartY = 0;
+document.getElementById('drawer').addEventListener('touchstart', e => { touchStartY = e.touches[0].clientY; });
+document.getElementById('drawer').addEventListener('touchend', e => {
+  if (e.changedTouches[0].clientY - touchStartY > 60) closeDrawer();
+});
+
+// ── Helpers ────────────────────────────────────────────
+function fmt(n) { return Math.abs(Math.round(n)).toLocaleString('zh-TW'); }
+function fmtK(n) { return fmt(n); }
+function pct(a, b) { return b > 0 ? Math.round(Math.abs(a)/Math.abs(b)*100) : 0; }
+
+init();
+</script>
+</body>
+</html>

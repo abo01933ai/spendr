@@ -3,11 +3,11 @@
   "year": 2026,
   "monthNum": 2,
   "total": -147884.0,
-  "fixedTotal": -13710.0,
-  "variableTotal": -134174.0,
+  "fixedTotal": -13850.0,
+  "variableTotal": -134034.0,
   "categories": [
     {
-      "category": "學習投資",
+      "category": "學習",
       "amount": -72750.0,
       "icon": "📚",
       "color": "#94A3B8",
@@ -22,52 +22,52 @@
     },
     {
       "category": "餐點",
-      "amount": -17021.0,
+      "amount": -18209.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
     },
     {
-      "category": "固定支出",
-      "amount": -13710.0,
-      "icon": "📌",
-      "color": "#94e1df",
+      "category": "住",
+      "amount": -11623.0,
+      "icon": "🏠",
+      "color": "#60A5FA",
       "group": "fixed"
     },
     {
-      "category": "工具",
-      "amount": -4880.0,
-      "icon": "💸",
-      "color": "#94A3B8",
-      "group": "variable"
-    },
-    {
-      "category": "娛樂",
-      "amount": -3410.0,
-      "icon": "🎮",
-      "color": "#A78BFA",
+      "category": "購物",
+      "amount": -6480.0,
+      "icon": "🛍️",
+      "color": "#F472B6",
       "group": "variable"
     },
     {
       "category": "飲料",
-      "amount": -2344.0,
+      "amount": -2204.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
     },
     {
-      "category": "交通",
-      "amount": -2099.0,
-      "icon": "🚗",
-      "color": "#38BDF8",
+      "category": "美容",
+      "amount": -2150.0,
+      "icon": "💇",
+      "color": "#C084FC",
       "group": "variable"
     },
     {
-      "category": "用品",
-      "amount": -1789.0,
-      "icon": "💸",
-      "color": "#94A3B8",
+      "category": "娛樂",
+      "amount": -1459.0,
+      "icon": "🎮",
+      "color": "#A78BFA",
       "group": "variable"
+    },
+    {
+      "category": "訂閱",
+      "amount": -1199.0,
+      "icon": "📱",
+      "color": "#94e1df",
+      "group": "fixed"
     },
     {
       "category": "寵物",
@@ -77,10 +77,24 @@
       "group": "variable"
     },
     {
+      "category": "運動",
+      "amount": -1028.0,
+      "icon": "🏋️",
+      "color": "#86EFAC",
+      "group": "fixed"
+    },
+    {
       "category": "服飾",
       "amount": -953.0,
       "icon": "👕",
       "color": "#F472B6",
+      "group": "variable"
+    },
+    {
+      "category": "交通",
+      "amount": -911.0,
+      "icon": "🚗",
+      "color": "#38BDF8",
       "group": "variable"
     },
     {
@@ -98,9 +112,9 @@
       "group": "variable"
     },
     {
-      "category": "玩具",
-      "amount": -199.0,
-      "icon": "💸",
+      "category": "日常用品",
+      "amount": -189.0,
+      "icon": "📦",
       "color": "#94A3B8",
       "group": "variable"
     },
@@ -119,10 +133,10 @@
       "items": [
         {
           "date": "2026-02-10",
-          "category": "固定支出",
+          "category": "運動",
           "item": "健身房",
           "amount": -888.0,
-          "icon": "📌",
+          "icon": "🏋️",
           "group": "fixed"
         }
       ]
@@ -149,7 +163,7 @@
         },
         {
           "date": "2026-02-12",
-          "category": "學習投資",
+          "category": "學習",
           "item": "馬克羊期貨課程",
           "amount": -67500.0,
           "icon": "📚",
@@ -193,10 +207,10 @@
       "items": [
         {
           "date": "2026-02-14",
-          "category": "交通",
+          "category": "餐點",
           "item": "居無定所",
           "amount": -1188.0,
-          "icon": "🚗",
+          "icon": "🍱",
           "group": "variable"
         },
         {
@@ -231,26 +245,26 @@
       "items": [
         {
           "date": "2026-02-15",
-          "category": "固定支出",
+          "category": "訂閱",
           "item": "訂閱費",
           "amount": -600.0,
-          "icon": "📌",
+          "icon": "📱",
           "group": "fixed"
         },
         {
           "date": "2026-02-15",
-          "category": "固定支出",
+          "category": "訂閱",
           "item": "通話費",
           "amount": -299.0,
-          "icon": "📌",
+          "icon": "📱",
           "group": "fixed"
         },
         {
           "date": "2026-02-15",
-          "category": "固定支出",
+          "category": "訂閱",
           "item": "AI 模型",
           "amount": -300.0,
-          "icon": "📌",
+          "icon": "📱",
           "group": "fixed"
         },
         {
@@ -301,11 +315,11 @@
         },
         {
           "date": "2026-02-16",
-          "category": "飲料",
+          "category": "運動",
           "item": "GOAL SPORT 乳清蛋白",
           "amount": -70.0,
-          "icon": "🧋",
-          "group": "variable"
+          "icon": "🏋️",
+          "group": "fixed"
         },
         {
           "date": "2026-02-16",
@@ -383,11 +397,11 @@
         },
         {
           "date": "2026-02-19",
-          "category": "飲料",
+          "category": "運動",
           "item": "Goal Sport 乳清蛋白",
           "amount": -70.0,
-          "icon": "🧋",
-          "group": "variable"
+          "icon": "🏋️",
+          "group": "fixed"
         }
       ]
     },
@@ -419,10 +433,10 @@
         },
         {
           "date": "2026-02-21",
-          "category": "工具",
+          "category": "購物",
           "item": "Workyis 標準版",
           "amount": -4880.0,
-          "icon": "💸",
+          "icon": "🛍️",
           "group": "variable"
         },
         {
@@ -459,10 +473,10 @@
         },
         {
           "date": "2026-02-21",
-          "category": "娛樂",
+          "category": "美容",
           "item": "按摩",
           "amount": -2150.0,
-          "icon": "🎮",
+          "icon": "💇",
           "group": "variable"
         }
       ]
@@ -535,10 +549,10 @@
         },
         {
           "date": "2026-02-23",
-          "category": "用品",
+          "category": "購物",
           "item": "beams 水壺",
           "amount": -1600.0,
-          "icon": "💸",
+          "icon": "🛍️",
           "group": "variable"
         }
       ]
@@ -557,10 +571,10 @@
         },
         {
           "date": "2026-02-24",
-          "category": "用品",
+          "category": "日常用品",
           "item": "電池",
           "amount": -189.0,
-          "icon": "💸",
+          "icon": "📦",
           "group": "variable"
         },
         {
@@ -587,10 +601,10 @@
       "items": [
         {
           "date": "2026-02-25",
-          "category": "固定支出",
+          "category": "住",
           "item": "房貸",
           "amount": -11623.0,
-          "icon": "📌",
+          "icon": "🏠",
           "group": "fixed"
         },
         {
@@ -631,7 +645,7 @@
       "items": [
         {
           "date": "2026-02-27",
-          "category": "學習投資",
+          "category": "學習",
           "item": "投資量化課程",
           "amount": -5250.0,
           "icon": "📚",
@@ -653,10 +667,10 @@
         },
         {
           "date": "2026-02-28",
-          "category": "玩具",
+          "category": "娛樂",
           "item": "迷你Q玩偶",
           "amount": -199.0,
-          "icon": "💸",
+          "icon": "🎮",
           "group": "variable"
         },
         {
@@ -673,10 +687,10 @@
   "transactions": [
     {
       "date": "2026-02-10",
-      "category": "固定支出",
+      "category": "運動",
       "item": "健身房",
       "amount": -888.0,
-      "icon": "📌",
+      "icon": "🏋️",
       "group": "fixed"
     },
     {
@@ -697,7 +711,7 @@
     },
     {
       "date": "2026-02-12",
-      "category": "學習投資",
+      "category": "學習",
       "item": "馬克羊期貨課程",
       "amount": -67500.0,
       "icon": "📚",
@@ -729,10 +743,10 @@
     },
     {
       "date": "2026-02-14",
-      "category": "交通",
+      "category": "餐點",
       "item": "居無定所",
       "amount": -1188.0,
-      "icon": "🚗",
+      "icon": "🍱",
       "group": "variable"
     },
     {
@@ -761,26 +775,26 @@
     },
     {
       "date": "2026-02-15",
-      "category": "固定支出",
+      "category": "訂閱",
       "item": "訂閱費",
       "amount": -600.0,
-      "icon": "📌",
+      "icon": "📱",
       "group": "fixed"
     },
     {
       "date": "2026-02-15",
-      "category": "固定支出",
+      "category": "訂閱",
       "item": "通話費",
       "amount": -299.0,
-      "icon": "📌",
+      "icon": "📱",
       "group": "fixed"
     },
     {
       "date": "2026-02-15",
-      "category": "固定支出",
+      "category": "訂閱",
       "item": "AI 模型",
       "amount": -300.0,
-      "icon": "📌",
+      "icon": "📱",
       "group": "fixed"
     },
     {
@@ -825,11 +839,11 @@
     },
     {
       "date": "2026-02-16",
-      "category": "飲料",
+      "category": "運動",
       "item": "GOAL SPORT 乳清蛋白",
       "amount": -70.0,
-      "icon": "🧋",
-      "group": "variable"
+      "icon": "🏋️",
+      "group": "fixed"
     },
     {
       "date": "2026-02-16",
@@ -889,11 +903,11 @@
     },
     {
       "date": "2026-02-19",
-      "category": "飲料",
+      "category": "運動",
       "item": "Goal Sport 乳清蛋白",
       "amount": -70.0,
-      "icon": "🧋",
-      "group": "variable"
+      "icon": "🏋️",
+      "group": "fixed"
     },
     {
       "date": "2026-02-20",
@@ -913,10 +927,10 @@
     },
     {
       "date": "2026-02-21",
-      "category": "工具",
+      "category": "購物",
       "item": "Workyis 標準版",
       "amount": -4880.0,
-      "icon": "💸",
+      "icon": "🛍️",
       "group": "variable"
     },
     {
@@ -953,10 +967,10 @@
     },
     {
       "date": "2026-02-21",
-      "category": "娛樂",
+      "category": "美容",
       "item": "按摩",
       "amount": -2150.0,
-      "icon": "🎮",
+      "icon": "💇",
       "group": "variable"
     },
     {
@@ -1017,10 +1031,10 @@
     },
     {
       "date": "2026-02-23",
-      "category": "用品",
+      "category": "購物",
       "item": "beams 水壺",
       "amount": -1600.0,
-      "icon": "💸",
+      "icon": "🛍️",
       "group": "variable"
     },
     {
@@ -1033,10 +1047,10 @@
     },
     {
       "date": "2026-02-24",
-      "category": "用品",
+      "category": "日常用品",
       "item": "電池",
       "amount": -189.0,
-      "icon": "💸",
+      "icon": "📦",
       "group": "variable"
     },
     {
@@ -1057,10 +1071,10 @@
     },
     {
       "date": "2026-02-25",
-      "category": "固定支出",
+      "category": "住",
       "item": "房貸",
       "amount": -11623.0,
-      "icon": "📌",
+      "icon": "🏠",
       "group": "fixed"
     },
     {
@@ -1089,7 +1103,7 @@
     },
     {
       "date": "2026-02-27",
-      "category": "學習投資",
+      "category": "學習",
       "item": "投資量化課程",
       "amount": -5250.0,
       "icon": "📚",
@@ -1105,10 +1119,10 @@
     },
     {
       "date": "2026-02-28",
-      "category": "玩具",
+      "category": "娛樂",
       "item": "迷你Q玩偶",
       "amount": -199.0,
-      "icon": "💸",
+      "icon": "🎮",
       "group": "variable"
     },
     {

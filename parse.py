@@ -28,7 +28,7 @@ CATEGORY_META = {
     "購物":    {"icon": "🛍️", "color": "#F472B6", "group": "variable"},
     "服飾":    {"icon": "👕", "color": "#F472B6", "group": "variable"},
     "美妝":    {"icon": "💄", "color": "#E879F9", "group": "variable"},
-    "美髮":    {"icon": "💇", "color": "#C084FC", "group": "variable"},
+    "美容":    {"icon": "💇", "color": "#C084FC", "group": "variable"},
     # 住
     "住":      {"icon": "🏠", "color": "#60A5FA", "group": "fixed"},
     # 行

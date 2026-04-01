@@ -63,7 +63,7 @@
       "group": "fixed"
     },
     {
-      "category": "美髮",
+      "category": "美容",
       "amount": -1700.0,
       "icon": "💇",
       "color": "#C084FC",
@@ -337,7 +337,7 @@
       "items": [
         {
           "date": "2026-03-09",
-          "category": "美髮",
+          "category": "美容",
           "item": "洗加剪",
           "amount": -1700.0,
           "icon": "💇",
@@ -1117,7 +1117,7 @@
     },
     {
       "date": "2026-03-09",
-      "category": "美髮",
+      "category": "美容",
       "item": "洗加剪",
       "amount": -1700.0,
       "icon": "💇",

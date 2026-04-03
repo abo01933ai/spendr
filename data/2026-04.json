@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -24752.0,
+  "total": -30532.0,
   "fixedTotal": -22752.0,
-  "variableTotal": -2000.0,
+  "variableTotal": -7780.0,
   "categories": [
     {
       "category": "住",
@@ -19,6 +19,13 @@
       "icon": "💳",
       "color": "#7C83FD",
       "group": "fixed"
+    },
+    {
+      "category": "餐點",
+      "amount": -5780.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
     },
     {
       "category": "訂閱",
@@ -67,6 +74,36 @@
           "item": "Dior全能修護霜",
           "amount": -2000.0,
           "icon": "💸",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-03",
+      "total": -5780.0,
+      "items": [
+        {
+          "date": "2026-04-03",
+          "category": "餐點",
+          "item": "橘色涮涮鍋",
+          "amount": -4191.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-03",
+          "category": "餐點",
+          "item": "Phase x DumDum 早午餐",
+          "amount": -1250.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-03",
+          "category": "餐點",
+          "item": "晚餐食材",
+          "amount": -339.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -159,6 +196,30 @@
       "item": "Dior全能修護霜",
       "amount": -2000.0,
       "icon": "💸",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-03",
+      "category": "餐點",
+      "item": "橘色涮涮鍋",
+      "amount": -4191.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-03",
+      "category": "餐點",
+      "item": "Phase x DumDum 早午餐",
+      "amount": -1250.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-03",
+      "category": "餐點",
+      "item": "晚餐食材",
+      "amount": -339.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

@@ -2,8 +2,8 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -30532.0,
-  "fixedTotal": -22752.0,
+  "total": -33232.0,
+  "fixedTotal": -25452.0,
   "variableTotal": -7780.0,
   "categories": [
     {
@@ -21,18 +21,18 @@
       "group": "fixed"
     },
     {
+      "category": "訂閱",
+      "amount": -6399.0,
+      "icon": "📱",
+      "color": "#94e1df",
+      "group": "fixed"
+    },
+    {
       "category": "餐點",
       "amount": -5780.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
-    },
-    {
-      "category": "訂閱",
-      "amount": -3699.0,
-      "icon": "📱",
-      "color": "#94e1df",
-      "group": "fixed"
     },
     {
       "category": "禮物",
@@ -124,7 +124,7 @@
     },
     {
       "date": "2026-04-15",
-      "total": -1199.0,
+      "total": -3899.0,
       "items": [
         {
           "date": "2026-04-15",
@@ -146,7 +146,7 @@
           "date": "2026-04-15",
           "category": "訂閱",
           "item": "AI 模型",
-          "amount": -300.0,
+          "amount": -3000.0,
           "icon": "📱",
           "group": "fixed"
         }
@@ -250,7 +250,7 @@
       "date": "2026-04-15",
       "category": "訂閱",
       "item": "AI 模型",
-      "amount": -300.0,
+      "amount": -3000.0,
       "icon": "📱",
       "group": "fixed"
     },

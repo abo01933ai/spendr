@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 <title>Spendr</title>
-<meta name="version" content="1.0.4">
+<meta name="version" content="1.0.5">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 <style>
   :root {
@@ -55,7 +55,12 @@
     font-size: 20px;
     font-weight: 600;
     letter-spacing: -0.3px;
+    cursor: pointer;
+    user-select: none;
+    transition: opacity 0.15s;
   }
+
+  .header-title:active { opacity: 0.6; }
 
   .header-title span { color: var(--accent); }
 
@@ -422,7 +427,7 @@
 <!-- Header -->
 <div class="header">
   <div class="header-top">
-    <div class="header-title">Spendr</div>
+    <div class="header-title" onclick="forceReload()">Spendr</div>
     <div style="font-size:13px;color:var(--text2)" id="lastUpdate"></div>
   </div>
   <div class="month-tabs" id="monthTabs"></div>
@@ -452,7 +457,12 @@ let charts = {};
 
 // ── Init ───────────────────────────────────────────────
 const VERSION = document.querySelector('meta[name="version"]')?.content || '1';
-const bust = `?v=${VERSION}`;
+let bust = `?v=${VERSION}`;
+
+function forceReload() {
+  bust = `?v=${Date.now()}`;
+  init();
+}
 
 async function init() {
   try {

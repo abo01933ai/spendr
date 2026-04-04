@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -33232.0,
+  "total": -33501.0,
   "fixedTotal": -25452.0,
-  "variableTotal": -7780.0,
+  "variableTotal": -8049.0,
   "categories": [
     {
       "category": "住",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -5780.0,
+      "amount": -6049.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -103,6 +103,20 @@
           "category": "餐點",
           "item": "晚餐食材",
           "amount": -339.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-04",
+      "total": -269.0,
+      "items": [
+        {
+          "date": "2026-04-04",
+          "category": "餐點",
+          "item": "Subway",
+          "amount": -269.0,
           "icon": "🍱",
           "group": "variable"
         }
@@ -219,6 +233,14 @@
       "category": "餐點",
       "item": "晚餐食材",
       "amount": -339.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-04",
+      "category": "餐點",
+      "item": "Subway",
+      "amount": -269.0,
       "icon": "🍱",
       "group": "variable"
     },

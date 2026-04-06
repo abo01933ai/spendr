@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -33712.0,
+  "total": -35500.0,
   "fixedTotal": -25452.0,
-  "variableTotal": -8260.0,
+  "variableTotal": -10048.0,
   "categories": [
     {
       "category": "住",
@@ -42,11 +42,25 @@
       "group": "variable"
     },
     {
+      "category": "寵物",
+      "amount": -1128.0,
+      "icon": "🐈",
+      "color": "#FBBF24",
+      "group": "variable"
+    },
+    {
       "category": "運動",
       "amount": -888.0,
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
+    },
+    {
+      "category": "娛樂",
+      "amount": -660.0,
+      "icon": "🎮",
+      "color": "#A78BFA",
+      "group": "variable"
     }
   ],
   "days": [
@@ -140,6 +154,28 @@
           "item": "零食",
           "amount": -84.0,
           "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-06",
+      "total": -1788.0,
+      "items": [
+        {
+          "date": "2026-04-06",
+          "category": "娛樂",
+          "item": "超級巨星（KTV）",
+          "amount": -660.0,
+          "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-06",
+          "category": "寵物",
+          "item": "貓抓板×2",
+          "amount": -1128.0,
+          "icon": "🐈",
           "group": "variable"
         }
       ]
@@ -280,6 +316,22 @@
       "item": "零食",
       "amount": -84.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-06",
+      "category": "娛樂",
+      "item": "超級巨星（KTV）",
+      "amount": -660.0,
+      "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-06",
+      "category": "寵物",
+      "item": "貓抓板×2",
+      "amount": -1128.0,
+      "icon": "🐈",
       "group": "variable"
     },
     {

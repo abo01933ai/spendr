@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -36059.0,
+  "total": -36623.0,
   "fixedTotal": -25452.0,
-  "variableTotal": -10607.0,
+  "variableTotal": -11171.0,
   "categories": [
     {
       "category": "住",
@@ -60,6 +60,13 @@
       "amount": -660.0,
       "icon": "🎮",
       "color": "#A78BFA",
+      "group": "variable"
+    },
+    {
+      "category": "學習",
+      "amount": -564.0,
+      "icon": "📚",
+      "color": "#94A3B8",
       "group": "variable"
     },
     {
@@ -189,7 +196,7 @@
     },
     {
       "date": "2026-04-07",
-      "total": -559.0,
+      "total": -1123.0,
       "items": [
         {
           "date": "2026-04-07",
@@ -205,6 +212,14 @@
           "item": "路上飲料",
           "amount": -237.0,
           "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-07",
+          "category": "學習",
+          "item": "蒙格智慧+賈伯斯傳",
+          "amount": -564.0,
+          "icon": "📚",
           "group": "variable"
         }
       ]
@@ -377,6 +392,14 @@
       "item": "路上飲料",
       "amount": -237.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-07",
+      "category": "學習",
+      "item": "蒙格智慧+賈伯斯傳",
+      "amount": -564.0,
+      "icon": "📚",
       "group": "variable"
     },
     {

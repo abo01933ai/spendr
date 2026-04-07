@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -35500.0,
+  "total": -36059.0,
   "fixedTotal": -25452.0,
-  "variableTotal": -10048.0,
+  "variableTotal": -10607.0,
   "categories": [
     {
       "category": "住",
@@ -12,6 +12,13 @@
       "icon": "🏠",
       "color": "#60A5FA",
       "group": "fixed"
+    },
+    {
+      "category": "餐點",
+      "amount": -6582.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
     },
     {
       "category": "財務",
@@ -26,13 +33,6 @@
       "icon": "📱",
       "color": "#94e1df",
       "group": "fixed"
-    },
-    {
-      "category": "餐點",
-      "amount": -6260.0,
-      "icon": "🍱",
-      "color": "#F87171",
-      "group": "variable"
     },
     {
       "category": "禮物",
@@ -60,6 +60,13 @@
       "amount": -660.0,
       "icon": "🎮",
       "color": "#A78BFA",
+      "group": "variable"
+    },
+    {
+      "category": "飲料",
+      "amount": -237.0,
+      "icon": "🧋",
+      "color": "#FB923C",
       "group": "variable"
     }
   ],
@@ -176,6 +183,28 @@
           "item": "貓抓板×2",
           "amount": -1128.0,
           "icon": "🐈",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-07",
+      "total": -559.0,
+      "items": [
+        {
+          "date": "2026-04-07",
+          "category": "餐點",
+          "item": "王氏異廚",
+          "amount": -322.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-07",
+          "category": "飲料",
+          "item": "路上飲料",
+          "amount": -237.0,
+          "icon": "🧋",
           "group": "variable"
         }
       ]
@@ -332,6 +361,22 @@
       "item": "貓抓板×2",
       "amount": -1128.0,
       "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-07",
+      "category": "餐點",
+      "item": "王氏異廚",
+      "amount": -322.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-07",
+      "category": "飲料",
+      "item": "路上飲料",
+      "amount": -237.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

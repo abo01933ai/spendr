@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -36623.0,
+  "total": -37045.0,
   "fixedTotal": -25452.0,
-  "variableTotal": -11171.0,
+  "variableTotal": -11593.0,
   "categories": [
     {
       "category": "住",
@@ -49,6 +49,13 @@
       "group": "variable"
     },
     {
+      "category": "學習",
+      "amount": -986.0,
+      "icon": "📚",
+      "color": "#94A3B8",
+      "group": "variable"
+    },
+    {
       "category": "運動",
       "amount": -888.0,
       "icon": "🏋️",
@@ -60,13 +67,6 @@
       "amount": -660.0,
       "icon": "🎮",
       "color": "#A78BFA",
-      "group": "variable"
-    },
-    {
-      "category": "學習",
-      "amount": -564.0,
-      "icon": "📚",
-      "color": "#94A3B8",
       "group": "variable"
     },
     {
@@ -219,6 +219,20 @@
           "category": "學習",
           "item": "蒙格智慧+賈伯斯傳",
           "amount": -564.0,
+          "icon": "📚",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-08",
+      "total": -422.0,
+      "items": [
+        {
+          "date": "2026-04-08",
+          "category": "學習",
+          "item": "超級績效（3本）",
+          "amount": -422.0,
           "icon": "📚",
           "group": "variable"
         }
@@ -399,6 +413,14 @@
       "category": "學習",
       "item": "蒙格智慧+賈伯斯傳",
       "amount": -564.0,
+      "icon": "📚",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-08",
+      "category": "學習",
+      "item": "超級績效（3本）",
+      "amount": -422.0,
       "icon": "📚",
       "group": "variable"
     },

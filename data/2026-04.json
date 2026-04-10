@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -37045.0,
+  "total": -37527.0,
   "fixedTotal": -25452.0,
-  "variableTotal": -11593.0,
+  "variableTotal": -12075.0,
   "categories": [
     {
       "category": "住",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -6582.0,
+      "amount": -6803.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -71,7 +71,7 @@
     },
     {
       "category": "飲料",
-      "amount": -237.0,
+      "amount": -498.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -240,8 +240,24 @@
     },
     {
       "date": "2026-04-10",
-      "total": -888.0,
+      "total": -1370.0,
       "items": [
+        {
+          "date": "2026-04-10",
+          "category": "餐點",
+          "item": "土木公社",
+          "amount": -221.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-10",
+          "category": "飲料",
+          "item": "青山",
+          "amount": -261.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
         {
           "date": "2026-04-10",
           "category": "運動",
@@ -422,6 +438,22 @@
       "item": "超級績效（3本）",
       "amount": -422.0,
       "icon": "📚",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-10",
+      "category": "餐點",
+      "item": "土木公社",
+      "amount": -221.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-10",
+      "category": "飲料",
+      "item": "青山",
+      "amount": -261.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

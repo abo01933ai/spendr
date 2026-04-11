@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -41252.0,
+  "total": -41597.0,
   "fixedTotal": -25452.0,
-  "variableTotal": -15800.0,
+  "variableTotal": -16145.0,
   "categories": [
     {
       "category": "住",
@@ -50,7 +50,7 @@
     },
     {
       "category": "飲料",
-      "amount": -1223.0,
+      "amount": -1568.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -286,7 +286,7 @@
     },
     {
       "date": "2026-04-11",
-      "total": -2210.0,
+      "total": -2555.0,
       "items": [
         {
           "date": "2026-04-11",
@@ -301,6 +301,14 @@
           "category": "飲料",
           "item": "Phase（咖啡）",
           "amount": -725.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-11",
+          "category": "飲料",
+          "item": "瀨 coffee",
+          "amount": -345.0,
           "icon": "🧋",
           "group": "variable"
         }
@@ -531,6 +539,14 @@
       "category": "飲料",
       "item": "Phase（咖啡）",
       "amount": -725.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-11",
+      "category": "飲料",
+      "item": "瀨 coffee",
+      "amount": -345.0,
       "icon": "🧋",
       "group": "variable"
     },

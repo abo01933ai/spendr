@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -40527.0,
+  "total": -41252.0,
   "fixedTotal": -25452.0,
-  "variableTotal": -15075.0,
+  "variableTotal": -15800.0,
   "categories": [
     {
       "category": "住",
@@ -49,6 +49,13 @@
       "group": "variable"
     },
     {
+      "category": "飲料",
+      "amount": -1223.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "學習",
       "amount": -986.0,
       "icon": "📚",
@@ -67,13 +74,6 @@
       "amount": -660.0,
       "icon": "🎮",
       "color": "#A78BFA",
-      "group": "variable"
-    },
-    {
-      "category": "飲料",
-      "amount": -498.0,
-      "icon": "🧋",
-      "color": "#FB923C",
       "group": "variable"
     }
   ],
@@ -286,7 +286,7 @@
     },
     {
       "date": "2026-04-11",
-      "total": -1485.0,
+      "total": -2210.0,
       "items": [
         {
           "date": "2026-04-11",
@@ -294,6 +294,14 @@
           "item": "Litter Locker 垃圾袋*6",
           "amount": -1485.0,
           "icon": "🐈",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-11",
+          "category": "飲料",
+          "item": "Phase（咖啡）",
+          "amount": -725.0,
+          "icon": "🧋",
           "group": "variable"
         }
       ]
@@ -516,6 +524,14 @@
       "item": "Litter Locker 垃圾袋*6",
       "amount": -1485.0,
       "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-11",
+      "category": "飲料",
+      "item": "Phase（咖啡）",
+      "amount": -725.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

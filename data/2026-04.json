@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -39042.0,
+  "total": -40527.0,
   "fixedTotal": -25452.0,
-  "variableTotal": -13590.0,
+  "variableTotal": -15075.0,
   "categories": [
     {
       "category": "住",
@@ -35,17 +35,17 @@
       "group": "fixed"
     },
     {
+      "category": "寵物",
+      "amount": -2613.0,
+      "icon": "🐈",
+      "color": "#FBBF24",
+      "group": "variable"
+    },
+    {
       "category": "禮物",
       "amount": -2000.0,
       "icon": "💸",
       "color": "#94A3B8",
-      "group": "variable"
-    },
-    {
-      "category": "寵物",
-      "amount": -1128.0,
-      "icon": "🐈",
-      "color": "#FBBF24",
       "group": "variable"
     },
     {
@@ -285,6 +285,20 @@
       ]
     },
     {
+      "date": "2026-04-11",
+      "total": -1485.0,
+      "items": [
+        {
+          "date": "2026-04-11",
+          "category": "寵物",
+          "item": "Litter Locker 垃圾袋*6",
+          "amount": -1485.0,
+          "icon": "🐈",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-04-15",
       "total": -3899.0,
       "items": [
@@ -494,6 +508,14 @@
       "item": "やよい軒",
       "amount": -990.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-11",
+      "category": "寵物",
+      "item": "Litter Locker 垃圾袋*6",
+      "amount": -1485.0,
+      "icon": "🐈",
       "group": "variable"
     },
     {

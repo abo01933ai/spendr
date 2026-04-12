@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -43127.0,
+  "total": -43713.0,
   "fixedTotal": -25452.0,
-  "variableTotal": -17675.0,
+  "variableTotal": -18261.0,
   "categories": [
     {
       "category": "住",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -8318.0,
+      "amount": -8689.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -50,7 +50,7 @@
     },
     {
       "category": "飲料",
-      "amount": -1568.0,
+      "amount": -1783.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -323,7 +323,7 @@
     },
     {
       "date": "2026-04-12",
-      "total": -1530.0,
+      "total": -2116.0,
       "items": [
         {
           "date": "2026-04-12",
@@ -331,6 +331,22 @@
           "item": "高鐵台中左營來回",
           "amount": -1530.0,
           "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-12",
+          "category": "餐點",
+          "item": "小辛干麻辣燙",
+          "amount": -371.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-12",
+          "category": "飲料",
+          "item": "大茗",
+          "amount": -215.0,
+          "icon": "🧋",
           "group": "variable"
         }
       ]
@@ -577,6 +593,22 @@
       "item": "高鐵台中左營來回",
       "amount": -1530.0,
       "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-12",
+      "category": "餐點",
+      "item": "小辛干麻辣燙",
+      "amount": -371.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-12",
+      "category": "飲料",
+      "item": "大茗",
+      "amount": -215.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -41597.0,
+  "total": -43127.0,
   "fixedTotal": -25452.0,
-  "variableTotal": -16145.0,
+  "variableTotal": -17675.0,
   "categories": [
     {
       "category": "住",
@@ -53,6 +53,13 @@
       "amount": -1568.0,
       "icon": "🧋",
       "color": "#FB923C",
+      "group": "variable"
+    },
+    {
+      "category": "交通",
+      "amount": -1530.0,
+      "icon": "🚗",
+      "color": "#38BDF8",
       "group": "variable"
     },
     {
@@ -315,6 +322,20 @@
       ]
     },
     {
+      "date": "2026-04-12",
+      "total": -1530.0,
+      "items": [
+        {
+          "date": "2026-04-12",
+          "category": "交通",
+          "item": "高鐵台中左營來回",
+          "amount": -1530.0,
+          "icon": "🚗",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-04-15",
       "total": -3899.0,
       "items": [
@@ -548,6 +569,14 @@
       "item": "瀨 coffee",
       "amount": -345.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-12",
+      "category": "交通",
+      "item": "高鐵台中左營來回",
+      "amount": -1530.0,
+      "icon": "🚗",
       "group": "variable"
     },
     {

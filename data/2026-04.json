@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -58804.0,
+  "total": -64156.0,
   "fixedTotal": -39479.0,
-  "variableTotal": -19325.0,
+  "variableTotal": -24677.0,
   "categories": [
     {
       "category": "住",
@@ -36,9 +36,16 @@
     },
     {
       "category": "寵物",
-      "amount": -2613.0,
+      "amount": -4786.0,
       "icon": "🐈",
       "color": "#FBBF24",
+      "group": "variable"
+    },
+    {
+      "category": "服飾",
+      "amount": -2410.0,
+      "icon": "👕",
+      "color": "#F472B6",
       "group": "variable"
     },
     {
@@ -63,6 +70,13 @@
       "group": "variable"
     },
     {
+      "category": "娛樂",
+      "amount": -1429.0,
+      "icon": "🎮",
+      "color": "#A78BFA",
+      "group": "variable"
+    },
+    {
       "category": "學習",
       "amount": -986.0,
       "icon": "📚",
@@ -75,13 +89,6 @@
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
-    },
-    {
-      "category": "娛樂",
-      "amount": -660.0,
-      "icon": "🎮",
-      "color": "#A78BFA",
-      "group": "variable"
     },
     {
       "category": "捐款",
@@ -463,6 +470,44 @@
       ]
     },
     {
+      "date": "2026-04-18",
+      "total": -5352.0,
+      "items": [
+        {
+          "date": "2026-04-18",
+          "category": "寵物",
+          "item": "怪獸部落太空凍乾",
+          "amount": -1007.0,
+          "icon": "🐈",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-18",
+          "category": "寵物",
+          "item": "皇家貓濕糧*36",
+          "amount": -1166.0,
+          "icon": "🐈",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-18",
+          "category": "服飾",
+          "item": "束胸內衣",
+          "amount": -2410.0,
+          "icon": "👕",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-18",
+          "category": "娛樂",
+          "item": "玩具",
+          "amount": -769.0,
+          "icon": "🎮",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-04-20",
       "total": -6542.0,
       "items": [
@@ -770,6 +815,38 @@
       "item": "捐款",
       "amount": -100.0,
       "icon": "🙏",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-18",
+      "category": "寵物",
+      "item": "怪獸部落太空凍乾",
+      "amount": -1007.0,
+      "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-18",
+      "category": "寵物",
+      "item": "皇家貓濕糧*36",
+      "amount": -1166.0,
+      "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-18",
+      "category": "服飾",
+      "item": "束胸內衣",
+      "amount": -2410.0,
+      "icon": "👕",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-18",
+      "category": "娛樂",
+      "item": "玩具",
+      "amount": -769.0,
+      "icon": "🎮",
       "group": "variable"
     },
     {

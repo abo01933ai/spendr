@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -58089.0,
+  "total": -58804.0,
   "fixedTotal": -39479.0,
-  "variableTotal": -18610.0,
+  "variableTotal": -19325.0,
   "categories": [
     {
       "category": "住",
@@ -22,7 +22,7 @@
     },
     {
       "category": "餐點",
-      "amount": -9038.0,
+      "amount": -9653.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -81,6 +81,13 @@
       "amount": -660.0,
       "icon": "🎮",
       "color": "#A78BFA",
+      "group": "variable"
+    },
+    {
+      "category": "捐款",
+      "amount": -100.0,
+      "icon": "🙏",
+      "color": "#6EE7B7",
       "group": "variable"
     }
   ],
@@ -434,6 +441,28 @@
       ]
     },
     {
+      "date": "2026-04-17",
+      "total": -715.0,
+      "items": [
+        {
+          "date": "2026-04-17",
+          "category": "餐點",
+          "item": "旱溪夜市",
+          "amount": -615.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-17",
+          "category": "捐款",
+          "item": "捐款",
+          "amount": -100.0,
+          "icon": "🙏",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-04-20",
       "total": -6542.0,
       "items": [
@@ -726,6 +755,22 @@
       "amount": -6313.0,
       "icon": "💳",
       "group": "fixed"
+    },
+    {
+      "date": "2026-04-17",
+      "category": "餐點",
+      "item": "旱溪夜市",
+      "amount": -615.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-17",
+      "category": "捐款",
+      "item": "捐款",
+      "amount": -100.0,
+      "icon": "🙏",
+      "group": "variable"
     },
     {
       "date": "2026-04-20",

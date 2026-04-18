@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -64156.0,
+  "total": -65291.0,
   "fixedTotal": -39479.0,
-  "variableTotal": -24677.0,
+  "variableTotal": -25812.0,
   "categories": [
     {
       "category": "住",
@@ -22,7 +22,7 @@
     },
     {
       "category": "餐點",
-      "amount": -9653.0,
+      "amount": -10668.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -57,7 +57,7 @@
     },
     {
       "category": "飲料",
-      "amount": -1783.0,
+      "amount": -1903.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -471,7 +471,7 @@
     },
     {
       "date": "2026-04-18",
-      "total": -5352.0,
+      "total": -6487.0,
       "items": [
         {
           "date": "2026-04-18",
@@ -503,6 +503,30 @@
           "item": "玩具",
           "amount": -769.0,
           "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-18",
+          "category": "飲料",
+          "item": "醇白",
+          "amount": -120.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-18",
+          "category": "餐點",
+          "item": "北村豆腐鍋",
+          "amount": -886.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-18",
+          "category": "餐點",
+          "item": "麵包",
+          "amount": -129.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -847,6 +871,30 @@
       "item": "玩具",
       "amount": -769.0,
       "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-18",
+      "category": "飲料",
+      "item": "醇白",
+      "amount": -120.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-18",
+      "category": "餐點",
+      "item": "北村豆腐鍋",
+      "amount": -886.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-18",
+      "category": "餐點",
+      "item": "麵包",
+      "amount": -129.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

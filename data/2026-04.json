@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -65740.0,
+  "total": -66026.0,
   "fixedTotal": -39479.0,
-  "variableTotal": -26261.0,
+  "variableTotal": -26547.0,
   "categories": [
     {
       "category": "住",
@@ -22,7 +22,7 @@
     },
     {
       "category": "餐點",
-      "amount": -11117.0,
+      "amount": -11403.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -540,6 +540,28 @@
       ]
     },
     {
+      "date": "2026-04-19",
+      "total": -286.0,
+      "items": [
+        {
+          "date": "2026-04-19",
+          "category": "餐點",
+          "item": "萊爾富",
+          "amount": -106.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-19",
+          "category": "餐點",
+          "item": "楓康",
+          "amount": -180.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-04-20",
       "total": -6542.0,
       "items": [
@@ -910,6 +932,22 @@
       "category": "餐點",
       "item": "7-11",
       "amount": -449.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-19",
+      "category": "餐點",
+      "item": "萊爾富",
+      "amount": -106.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-19",
+      "category": "餐點",
+      "item": "楓康",
+      "amount": -180.0,
       "icon": "🍱",
       "group": "variable"
     },

@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -66026.0,
+  "total": -67536.0,
   "fixedTotal": -39479.0,
-  "variableTotal": -26547.0,
+  "variableTotal": -28057.0,
   "categories": [
     {
       "category": "住",
@@ -14,18 +14,18 @@
       "group": "fixed"
     },
     {
+      "category": "餐點",
+      "amount": -12913.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
+    {
       "category": "財務",
       "amount": -12855.0,
       "icon": "💳",
       "color": "#7C83FD",
       "group": "fixed"
-    },
-    {
-      "category": "餐點",
-      "amount": -11403.0,
-      "icon": "🍱",
-      "color": "#F87171",
-      "group": "variable"
     },
     {
       "category": "訂閱",
@@ -541,7 +541,7 @@
     },
     {
       "date": "2026-04-19",
-      "total": -286.0,
+      "total": -1796.0,
       "items": [
         {
           "date": "2026-04-19",
@@ -556,6 +556,14 @@
           "category": "餐點",
           "item": "楓康",
           "amount": -180.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-19",
+          "category": "餐點",
+          "item": "JUS dining",
+          "amount": -1510.0,
           "icon": "🍱",
           "group": "variable"
         }
@@ -948,6 +956,14 @@
       "category": "餐點",
       "item": "楓康",
       "amount": -180.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-19",
+      "category": "餐點",
+      "item": "JUS dining",
+      "amount": -1510.0,
       "icon": "🍱",
       "group": "variable"
     },

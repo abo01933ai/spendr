@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -67536.0,
+  "total": -69266.0,
   "fixedTotal": -39479.0,
-  "variableTotal": -28057.0,
+  "variableTotal": -29787.0,
   "categories": [
     {
       "category": "住",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -12913.0,
+      "amount": -13216.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -77,6 +77,13 @@
       "group": "variable"
     },
     {
+      "category": "美容",
+      "amount": -1200.0,
+      "icon": "💇",
+      "color": "#C084FC",
+      "group": "variable"
+    },
+    {
       "category": "學習",
       "amount": -986.0,
       "icon": "📚",
@@ -89,6 +96,13 @@
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
+    },
+    {
+      "category": "醫療",
+      "amount": -227.0,
+      "icon": "🏥",
+      "color": "#4ADE80",
+      "group": "variable"
     },
     {
       "category": "捐款",
@@ -584,6 +598,36 @@
       ]
     },
     {
+      "date": "2026-04-21",
+      "total": -1730.0,
+      "items": [
+        {
+          "date": "2026-04-21",
+          "category": "美容",
+          "item": "剪髮",
+          "amount": -1200.0,
+          "icon": "💇",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-21",
+          "category": "餐點",
+          "item": "Sukiya+雞排",
+          "amount": -303.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-21",
+          "category": "醫療",
+          "item": "痘痘貼",
+          "amount": -227.0,
+          "icon": "🏥",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-04-25",
       "total": -11623.0,
       "items": [
@@ -965,6 +1009,30 @@
       "item": "JUS dining",
       "amount": -1510.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-21",
+      "category": "美容",
+      "item": "剪髮",
+      "amount": -1200.0,
+      "icon": "💇",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-21",
+      "category": "餐點",
+      "item": "Sukiya+雞排",
+      "amount": -303.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-21",
+      "category": "醫療",
+      "item": "痘痘貼",
+      "amount": -227.0,
+      "icon": "🏥",
       "group": "variable"
     },
     {

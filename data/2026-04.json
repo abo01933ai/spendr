@@ -2,8 +2,8 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -69266.0,
-  "fixedTotal": -39479.0,
+  "total": -67468.0,
+  "fixedTotal": -37681.0,
   "variableTotal": -29787.0,
   "categories": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "category": "訂閱",
-      "amount": -8197.0,
+      "amount": -6399.0,
       "icon": "📱",
       "color": "#94e1df",
       "group": "fixed"
@@ -417,7 +417,7 @@
     },
     {
       "date": "2026-04-15",
-      "total": -12010.0,
+      "total": -10212.0,
       "items": [
         {
           "date": "2026-04-15",
@@ -440,14 +440,6 @@
           "category": "訂閱",
           "item": "AI 模型",
           "amount": -3000.0,
-          "icon": "📱",
-          "group": "fixed"
-        },
-        {
-          "date": "2026-04-15",
-          "category": "訂閱",
-          "item": "電話費",
-          "amount": -1798.0,
           "icon": "📱",
           "group": "fixed"
         },
@@ -888,14 +880,6 @@
       "category": "訂閱",
       "item": "AI 模型",
       "amount": -3000.0,
-      "icon": "📱",
-      "group": "fixed"
-    },
-    {
-      "date": "2026-04-15",
-      "category": "訂閱",
-      "item": "電話費",
-      "amount": -1798.0,
       "icon": "📱",
       "group": "fixed"
     },

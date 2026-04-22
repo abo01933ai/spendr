@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -67468.0,
+  "total": -67886.0,
   "fixedTotal": -37681.0,
-  "variableTotal": -29787.0,
+  "variableTotal": -30205.0,
   "categories": [
     {
       "category": "住",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -13216.0,
+      "amount": -13534.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -49,17 +49,17 @@
       "group": "variable"
     },
     {
+      "category": "飲料",
+      "amount": -2003.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "禮物",
       "amount": -2000.0,
       "icon": "💸",
       "color": "#94A3B8",
-      "group": "variable"
-    },
-    {
-      "category": "飲料",
-      "amount": -1903.0,
-      "icon": "🧋",
-      "color": "#FB923C",
       "group": "variable"
     },
     {
@@ -620,6 +620,28 @@
       ]
     },
     {
+      "date": "2026-04-22",
+      "total": -418.0,
+      "items": [
+        {
+          "date": "2026-04-22",
+          "category": "飲料",
+          "item": "大茗",
+          "amount": -100.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-22",
+          "category": "餐點",
+          "item": "7-11",
+          "amount": -318.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-04-25",
       "total": -11623.0,
       "items": [
@@ -1026,6 +1048,22 @@
       "amount": -6542.0,
       "icon": "💳",
       "group": "fixed"
+    },
+    {
+      "date": "2026-04-22",
+      "category": "飲料",
+      "item": "大茗",
+      "amount": -100.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-22",
+      "category": "餐點",
+      "item": "7-11",
+      "amount": -318.0,
+      "icon": "🍱",
+      "group": "variable"
     },
     {
       "date": "2026-04-25",

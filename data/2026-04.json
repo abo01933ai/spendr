@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -67886.0,
+  "total": -70687.0,
   "fixedTotal": -37681.0,
-  "variableTotal": -30205.0,
+  "variableTotal": -33006.0,
   "categories": [
     {
       "category": "住",
@@ -42,6 +42,13 @@
       "group": "variable"
     },
     {
+      "category": "購物",
+      "amount": -2580.0,
+      "icon": "🛍️",
+      "color": "#F472B6",
+      "group": "variable"
+    },
+    {
       "category": "服飾",
       "amount": -2410.0,
       "icon": "👕",
@@ -50,7 +57,7 @@
     },
     {
       "category": "飲料",
-      "amount": -2003.0,
+      "amount": -2224.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -643,7 +650,7 @@
     },
     {
       "date": "2026-04-25",
-      "total": -11623.0,
+      "total": -14424.0,
       "items": [
         {
           "date": "2026-04-25",
@@ -652,6 +659,22 @@
           "amount": -11623.0,
           "icon": "🏠",
           "group": "fixed"
+        },
+        {
+          "date": "2026-04-25",
+          "category": "購物",
+          "item": "正負零電風扇",
+          "amount": -2580.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-25",
+          "category": "飲料",
+          "item": "可不可",
+          "amount": -221.0,
+          "icon": "🧋",
+          "group": "variable"
         }
       ]
     }
@@ -1072,6 +1095,22 @@
       "amount": -11623.0,
       "icon": "🏠",
       "group": "fixed"
+    },
+    {
+      "date": "2026-04-25",
+      "category": "購物",
+      "item": "正負零電風扇",
+      "amount": -2580.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-25",
+      "category": "飲料",
+      "item": "可不可",
+      "amount": -221.0,
+      "icon": "🧋",
+      "group": "variable"
     }
   ]
 }

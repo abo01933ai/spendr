@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -70687.0,
+  "total": -72404.0,
   "fixedTotal": -37681.0,
-  "variableTotal": -33006.0,
+  "variableTotal": -34723.0,
   "categories": [
     {
       "category": "住",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -13534.0,
+      "amount": -15251.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -650,7 +650,7 @@
     },
     {
       "date": "2026-04-25",
-      "total": -14424.0,
+      "total": -16141.0,
       "items": [
         {
           "date": "2026-04-25",
@@ -674,6 +674,14 @@
           "item": "可不可",
           "amount": -221.0,
           "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-25",
+          "category": "餐點",
+          "item": "高木和牛食堂",
+          "amount": -1717.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -1110,6 +1118,14 @@
       "item": "可不可",
       "amount": -221.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-25",
+      "category": "餐點",
+      "item": "高木和牛食堂",
+      "amount": -1717.0,
+      "icon": "🍱",
       "group": "variable"
     }
   ]

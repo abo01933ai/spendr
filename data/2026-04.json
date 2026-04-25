@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -73098.0,
+  "total": -74418.0,
   "fixedTotal": -37681.0,
-  "variableTotal": -35417.0,
+  "variableTotal": -36737.0,
   "categories": [
     {
       "category": "住",
@@ -36,7 +36,7 @@
     },
     {
       "category": "寵物",
-      "amount": -4786.0,
+      "amount": -6106.0,
       "icon": "🐈",
       "color": "#FBBF24",
       "group": "variable"
@@ -650,7 +650,7 @@
     },
     {
       "date": "2026-04-25",
-      "total": -16835.0,
+      "total": -18155.0,
       "items": [
         {
           "date": "2026-04-25",
@@ -698,6 +698,14 @@
           "item": "三聚原烤鴨",
           "amount": -580.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-25",
+          "category": "寵物",
+          "item": "貓砂",
+          "amount": -1320.0,
+          "icon": "🐈",
           "group": "variable"
         }
       ]
@@ -1158,6 +1166,14 @@
       "item": "三聚原烤鴨",
       "amount": -580.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-25",
+      "category": "寵物",
+      "item": "貓砂",
+      "amount": -1320.0,
+      "icon": "🐈",
       "group": "variable"
     }
   ]

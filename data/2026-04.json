@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -72404.0,
+  "total": -73098.0,
   "fixedTotal": -37681.0,
-  "variableTotal": -34723.0,
+  "variableTotal": -35417.0,
   "categories": [
     {
       "category": "住",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -15251.0,
+      "amount": -15945.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -650,7 +650,7 @@
     },
     {
       "date": "2026-04-25",
-      "total": -16141.0,
+      "total": -16835.0,
       "items": [
         {
           "date": "2026-04-25",
@@ -681,6 +681,22 @@
           "category": "餐點",
           "item": "高木和牛食堂",
           "amount": -1717.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-25",
+          "category": "餐點",
+          "item": "全家",
+          "amount": -114.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-25",
+          "category": "餐點",
+          "item": "三聚原烤鴨",
+          "amount": -580.0,
           "icon": "🍱",
           "group": "variable"
         }
@@ -1125,6 +1141,22 @@
       "category": "餐點",
       "item": "高木和牛食堂",
       "amount": -1717.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-25",
+      "category": "餐點",
+      "item": "全家",
+      "amount": -114.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-25",
+      "category": "餐點",
+      "item": "三聚原烤鴨",
+      "amount": -580.0,
       "icon": "🍱",
       "group": "variable"
     }

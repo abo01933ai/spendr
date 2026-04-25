@@ -1073,6 +1073,14 @@
       "group": "variable"
     },
     {
+      "date": "2026-04-20",
+      "category": "財務",
+      "item": "信貸",
+      "amount": -6542.0,
+      "icon": "💳",
+      "group": "fixed"
+    },
+    {
       "date": "2026-04-21",
       "category": "美容",
       "item": "剪髮",
@@ -1095,14 +1103,6 @@
       "amount": -227.0,
       "icon": "🏥",
       "group": "variable"
-    },
-    {
-      "date": "2026-04-20",
-      "category": "財務",
-      "item": "信貸",
-      "amount": -6542.0,
-      "icon": "💳",
-      "group": "fixed"
     },
     {
       "date": "2026-04-22",

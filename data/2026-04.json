@@ -2,9 +2,9 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -74418.0,
+  "total": -77992.0,
   "fixedTotal": -37681.0,
-  "variableTotal": -36737.0,
+  "variableTotal": -40311.0,
   "categories": [
     {
       "category": "住",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -15945.0,
+      "amount": -16659.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -42,6 +42,20 @@
       "group": "variable"
     },
     {
+      "category": "飲料",
+      "amount": -3184.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
+      "category": "美容",
+      "amount": -3100.0,
+      "icon": "💇",
+      "color": "#C084FC",
+      "group": "variable"
+    },
+    {
       "category": "購物",
       "amount": -2580.0,
       "icon": "🛍️",
@@ -53,13 +67,6 @@
       "amount": -2410.0,
       "icon": "👕",
       "color": "#F472B6",
-      "group": "variable"
-    },
-    {
-      "category": "飲料",
-      "amount": -2224.0,
-      "icon": "🧋",
-      "color": "#FB923C",
       "group": "variable"
     },
     {
@@ -81,13 +88,6 @@
       "amount": -1429.0,
       "icon": "🎮",
       "color": "#A78BFA",
-      "group": "variable"
-    },
-    {
-      "category": "美容",
-      "amount": -1200.0,
-      "icon": "💇",
-      "color": "#C084FC",
       "group": "variable"
     },
     {
@@ -709,6 +709,36 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-04-26",
+      "total": -3574.0,
+      "items": [
+        {
+          "date": "2026-04-26",
+          "category": "飲料",
+          "item": "圈直火烘豆所",
+          "amount": -960.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-26",
+          "category": "美容",
+          "item": "泰晶殿",
+          "amount": -1900.0,
+          "icon": "💇",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-26",
+          "category": "餐點",
+          "item": "中友餐廳",
+          "amount": -714.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1073,14 +1103,6 @@
       "group": "variable"
     },
     {
-      "date": "2026-04-20",
-      "category": "財務",
-      "item": "信貸",
-      "amount": -6542.0,
-      "icon": "💳",
-      "group": "fixed"
-    },
-    {
       "date": "2026-04-21",
       "category": "美容",
       "item": "剪髮",
@@ -1103,6 +1125,14 @@
       "amount": -227.0,
       "icon": "🏥",
       "group": "variable"
+    },
+    {
+      "date": "2026-04-20",
+      "category": "財務",
+      "item": "信貸",
+      "amount": -6542.0,
+      "icon": "💳",
+      "group": "fixed"
     },
     {
       "date": "2026-04-22",
@@ -1174,6 +1204,30 @@
       "item": "貓砂",
       "amount": -1320.0,
       "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-26",
+      "category": "飲料",
+      "item": "圈直火烘豆所",
+      "amount": -960.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-26",
+      "category": "美容",
+      "item": "泰晶殿",
+      "amount": -1900.0,
+      "icon": "💇",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-26",
+      "category": "餐點",
+      "item": "中友餐廳",
+      "amount": -714.0,
+      "icon": "🍱",
       "group": "variable"
     }
   ]

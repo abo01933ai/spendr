@@ -2,23 +2,23 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -77992.0,
+  "total": -82854.0,
   "fixedTotal": -37681.0,
-  "variableTotal": -40311.0,
+  "variableTotal": -45173.0,
   "categories": [
+    {
+      "category": "餐點",
+      "amount": -21521.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
     {
       "category": "住",
       "amount": -17539.0,
       "icon": "🏠",
       "color": "#60A5FA",
       "group": "fixed"
-    },
-    {
-      "category": "餐點",
-      "amount": -16659.0,
-      "icon": "🍱",
-      "color": "#F87171",
-      "group": "variable"
     },
     {
       "category": "財務",
@@ -712,7 +712,7 @@
     },
     {
       "date": "2026-04-26",
-      "total": -3574.0,
+      "total": -8436.0,
       "items": [
         {
           "date": "2026-04-26",
@@ -735,6 +735,14 @@
           "category": "餐點",
           "item": "中友餐廳",
           "amount": -714.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-26",
+          "category": "餐點",
+          "item": "Zai Cuisine",
+          "amount": -4862.0,
           "icon": "🍱",
           "group": "variable"
         }
@@ -1103,6 +1111,14 @@
       "group": "variable"
     },
     {
+      "date": "2026-04-20",
+      "category": "財務",
+      "item": "信貸",
+      "amount": -6542.0,
+      "icon": "💳",
+      "group": "fixed"
+    },
+    {
       "date": "2026-04-21",
       "category": "美容",
       "item": "剪髮",
@@ -1125,14 +1141,6 @@
       "amount": -227.0,
       "icon": "🏥",
       "group": "variable"
-    },
-    {
-      "date": "2026-04-20",
-      "category": "財務",
-      "item": "信貸",
-      "amount": -6542.0,
-      "icon": "💳",
-      "group": "fixed"
     },
     {
       "date": "2026-04-22",
@@ -1227,6 +1235,14 @@
       "category": "餐點",
       "item": "中友餐廳",
       "amount": -714.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-26",
+      "category": "餐點",
+      "item": "Zai Cuisine",
+      "amount": -4862.0,
       "icon": "🍱",
       "group": "variable"
     }

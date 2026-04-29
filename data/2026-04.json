@@ -2,13 +2,13 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -82854.0,
+  "total": -85791.0,
   "fixedTotal": -37681.0,
-  "variableTotal": -45173.0,
+  "variableTotal": -48110.0,
   "categories": [
     {
       "category": "餐點",
-      "amount": -21521.0,
+      "amount": -24458.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -747,6 +747,20 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-04-28",
+      "total": -2937.0,
+      "items": [
+        {
+          "date": "2026-04-28",
+          "category": "餐點",
+          "item": "山里見月割烹鍋物",
+          "amount": -2937.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1243,6 +1257,14 @@
       "category": "餐點",
       "item": "Zai Cuisine",
       "amount": -4862.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-28",
+      "category": "餐點",
+      "item": "山里見月割烹鍋物",
+      "amount": -2937.0,
       "icon": "🍱",
       "group": "variable"
     }

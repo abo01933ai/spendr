@@ -2,13 +2,13 @@
   "month": "2026-04",
   "year": 2026,
   "monthNum": 4,
-  "total": -85791.0,
+  "total": -83386.0,
   "fixedTotal": -37681.0,
-  "variableTotal": -48110.0,
+  "variableTotal": -45705.0,
   "categories": [
     {
       "category": "餐點",
-      "amount": -24458.0,
+      "amount": -21822.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -43,7 +43,7 @@
     },
     {
       "category": "飲料",
-      "amount": -3184.0,
+      "amount": -3415.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -749,15 +749,23 @@
       ]
     },
     {
-      "date": "2026-04-28",
-      "total": -2937.0,
+      "date": "2026-04-30",
+      "total": -532.0,
       "items": [
         {
-          "date": "2026-04-28",
+          "date": "2026-04-30",
           "category": "餐點",
-          "item": "山里見月割烹鍋物",
-          "amount": -2937.0,
+          "item": "白妞鹽酥雞",
+          "amount": -301.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-04-30",
+          "category": "飲料",
+          "item": "大茗",
+          "amount": -231.0,
+          "icon": "🧋",
           "group": "variable"
         }
       ]
@@ -1125,14 +1133,6 @@
       "group": "variable"
     },
     {
-      "date": "2026-04-20",
-      "category": "財務",
-      "item": "信貸",
-      "amount": -6542.0,
-      "icon": "💳",
-      "group": "fixed"
-    },
-    {
       "date": "2026-04-21",
       "category": "美容",
       "item": "剪髮",
@@ -1155,6 +1155,14 @@
       "amount": -227.0,
       "icon": "🏥",
       "group": "variable"
+    },
+    {
+      "date": "2026-04-20",
+      "category": "財務",
+      "item": "信貸",
+      "amount": -6542.0,
+      "icon": "💳",
+      "group": "fixed"
     },
     {
       "date": "2026-04-22",
@@ -1261,11 +1269,19 @@
       "group": "variable"
     },
     {
-      "date": "2026-04-28",
+      "date": "2026-04-30",
       "category": "餐點",
-      "item": "山里見月割烹鍋物",
-      "amount": -2937.0,
+      "item": "白妞鹽酥雞",
+      "amount": -301.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-04-30",
+      "category": "飲料",
+      "item": "大茗",
+      "amount": -231.0,
+      "icon": "🧋",
       "group": "variable"
     }
   ]

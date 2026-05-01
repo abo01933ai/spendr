@@ -2,74 +2,30 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -6903.0,
-  "fixedTotal": -2500.0,
-  "variableTotal": -4403.0,
+  "total": -10000.0,
+  "fixedTotal": -10000.0,
+  "variableTotal": 0,
   "categories": [
     {
-      "category": "餐點",
-      "amount": -4347.0,
-      "icon": "🍱",
-      "color": "#F87171",
-      "group": "variable"
-    },
-    {
       "category": "訂閱",
-      "amount": -2500.0,
+      "amount": -10000.0,
       "icon": "📱",
       "color": "#94e1df",
       "group": "fixed"
-    },
-    {
-      "category": "飲料",
-      "amount": -56.0,
-      "icon": "🧋",
-      "color": "#FB923C",
-      "group": "variable"
     }
   ],
   "days": [
     {
       "date": "2026-05-01",
-      "total": -2767.0,
+      "total": -10000.0,
       "items": [
         {
           "date": "2026-05-01",
           "category": "訂閱",
           "item": "投資週報",
-          "amount": -2500.0,
+          "amount": -10000.0,
           "icon": "📱",
           "group": "fixed"
-        },
-        {
-          "date": "2026-05-01",
-          "category": "餐點",
-          "item": "麻辣拌",
-          "amount": -211.0,
-          "icon": "🍱",
-          "group": "variable"
-        },
-        {
-          "date": "2026-05-01",
-          "category": "飲料",
-          "item": "氣泡水",
-          "amount": -56.0,
-          "icon": "🧋",
-          "group": "variable"
-        }
-      ]
-    },
-    {
-      "date": "2026-05-09",
-      "total": -4136.0,
-      "items": [
-        {
-          "date": "2026-05-09",
-          "category": "餐點",
-          "item": "初魚鐵板燒",
-          "amount": -4136.0,
-          "icon": "🍱",
-          "group": "variable"
         }
       ]
     }
@@ -79,33 +35,9 @@
       "date": "2026-05-01",
       "category": "訂閱",
       "item": "投資週報",
-      "amount": -2500.0,
+      "amount": -10000.0,
       "icon": "📱",
       "group": "fixed"
-    },
-    {
-      "date": "2026-05-01",
-      "category": "餐點",
-      "item": "麻辣拌",
-      "amount": -211.0,
-      "icon": "🍱",
-      "group": "variable"
-    },
-    {
-      "date": "2026-05-01",
-      "category": "飲料",
-      "item": "氣泡水",
-      "amount": -56.0,
-      "icon": "🧋",
-      "group": "variable"
-    },
-    {
-      "date": "2026-05-09",
-      "category": "餐點",
-      "item": "初魚鐵板燒",
-      "amount": -4136.0,
-      "icon": "🍱",
-      "group": "variable"
     }
   ]
 }

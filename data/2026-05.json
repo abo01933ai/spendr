@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -14403.0,
+  "total": -17893.0,
   "fixedTotal": -10000.0,
-  "variableTotal": -4403.0,
+  "variableTotal": -7893.0,
   "categories": [
     {
       "category": "訂閱",
@@ -15,9 +15,16 @@
     },
     {
       "category": "餐點",
-      "amount": -4347.0,
+      "amount": -4637.0,
       "icon": "🍱",
       "color": "#F87171",
+      "group": "variable"
+    },
+    {
+      "category": "寵物",
+      "amount": -3200.0,
+      "icon": "🐈",
+      "color": "#FBBF24",
       "group": "variable"
     },
     {
@@ -31,7 +38,7 @@
   "days": [
     {
       "date": "2026-05-01",
-      "total": -10267.0,
+      "total": -13757.0,
       "items": [
         {
           "date": "2026-05-01",
@@ -55,6 +62,30 @@
           "item": "氣泡水",
           "amount": -56.0,
           "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-01",
+          "category": "餐點",
+          "item": "Subway",
+          "amount": -215.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-01",
+          "category": "餐點",
+          "item": "雞排",
+          "amount": -75.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-01",
+          "category": "寵物",
+          "item": "皇家貓濕糧",
+          "amount": -3200.0,
+          "icon": "🐈",
           "group": "variable"
         }
       ]
@@ -97,6 +128,30 @@
       "item": "氣泡水",
       "amount": -56.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-01",
+      "category": "餐點",
+      "item": "Subway",
+      "amount": -215.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-01",
+      "category": "餐點",
+      "item": "雞排",
+      "amount": -75.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-01",
+      "category": "寵物",
+      "item": "皇家貓濕糧",
+      "amount": -3200.0,
+      "icon": "🐈",
       "group": "variable"
     },
     {

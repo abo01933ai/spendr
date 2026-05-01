@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -17893.0,
+  "total": -18157.0,
   "fixedTotal": -10000.0,
-  "variableTotal": -7893.0,
+  "variableTotal": -8157.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,7 +29,7 @@
     },
     {
       "category": "飲料",
-      "amount": -56.0,
+      "amount": -320.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -38,7 +38,7 @@
   "days": [
     {
       "date": "2026-05-01",
-      "total": -13757.0,
+      "total": -14021.0,
       "items": [
         {
           "date": "2026-05-01",
@@ -86,6 +86,14 @@
           "item": "皇家貓濕糧",
           "amount": -3200.0,
           "icon": "🐈",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-01",
+          "category": "飲料",
+          "item": "包手幸福豆漿",
+          "amount": -264.0,
+          "icon": "🧋",
           "group": "variable"
         }
       ]
@@ -152,6 +160,14 @@
       "item": "皇家貓濕糧",
       "amount": -3200.0,
       "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-01",
+      "category": "飲料",
+      "item": "包手幸福豆漿",
+      "amount": -264.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

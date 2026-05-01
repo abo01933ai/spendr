@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -10000.0,
+  "total": -14136.0,
   "fixedTotal": -10000.0,
-  "variableTotal": 0,
+  "variableTotal": -4136.0,
   "categories": [
     {
       "category": "訂閱",
@@ -12,6 +12,13 @@
       "icon": "📱",
       "color": "#94e1df",
       "group": "fixed"
+    },
+    {
+      "category": "餐點",
+      "amount": -4136.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
     }
   ],
   "days": [
@@ -28,6 +35,20 @@
           "group": "fixed"
         }
       ]
+    },
+    {
+      "date": "2026-05-09",
+      "total": -4136.0,
+      "items": [
+        {
+          "date": "2026-05-09",
+          "category": "餐點",
+          "item": "初魚鐵板燒",
+          "amount": -4136.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -38,6 +59,14 @@
       "amount": -10000.0,
       "icon": "📱",
       "group": "fixed"
+    },
+    {
+      "date": "2026-05-09",
+      "category": "餐點",
+      "item": "初魚鐵板燒",
+      "amount": -4136.0,
+      "icon": "🍱",
+      "group": "variable"
     }
   ]
 }

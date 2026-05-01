@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -14136.0,
+  "total": -14403.0,
   "fixedTotal": -10000.0,
-  "variableTotal": -4136.0,
+  "variableTotal": -4403.0,
   "categories": [
     {
       "category": "訂閱",
@@ -15,16 +15,23 @@
     },
     {
       "category": "餐點",
-      "amount": -4136.0,
+      "amount": -4347.0,
       "icon": "🍱",
       "color": "#F87171",
+      "group": "variable"
+    },
+    {
+      "category": "飲料",
+      "amount": -56.0,
+      "icon": "🧋",
+      "color": "#FB923C",
       "group": "variable"
     }
   ],
   "days": [
     {
       "date": "2026-05-01",
-      "total": -10000.0,
+      "total": -10267.0,
       "items": [
         {
           "date": "2026-05-01",
@@ -33,6 +40,22 @@
           "amount": -10000.0,
           "icon": "📱",
           "group": "fixed"
+        },
+        {
+          "date": "2026-05-01",
+          "category": "餐點",
+          "item": "麻辣拌",
+          "amount": -211.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-01",
+          "category": "飲料",
+          "item": "氣泡水",
+          "amount": -56.0,
+          "icon": "🧋",
+          "group": "variable"
         }
       ]
     },
@@ -59,6 +82,22 @@
       "amount": -10000.0,
       "icon": "📱",
       "group": "fixed"
+    },
+    {
+      "date": "2026-05-01",
+      "category": "餐點",
+      "item": "麻辣拌",
+      "amount": -211.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-01",
+      "category": "飲料",
+      "item": "氣泡水",
+      "amount": -56.0,
+      "icon": "🧋",
+      "group": "variable"
     },
     {
       "date": "2026-05-09",

@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -18157.0,
+  "total": -18785.0,
   "fixedTotal": -10000.0,
-  "variableTotal": -8157.0,
+  "variableTotal": -8785.0,
   "categories": [
     {
       "category": "訂閱",
@@ -15,14 +15,14 @@
     },
     {
       "category": "餐點",
-      "amount": -4637.0,
+      "amount": -4952.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
     },
     {
       "category": "寵物",
-      "amount": -3200.0,
+      "amount": -3513.0,
       "icon": "🐈",
       "color": "#FBBF24",
       "group": "variable"
@@ -99,6 +99,36 @@
       ]
     },
     {
+      "date": "2026-05-02",
+      "total": -628.0,
+      "items": [
+        {
+          "date": "2026-05-02",
+          "category": "寵物",
+          "item": "寵物公園",
+          "amount": -313.0,
+          "icon": "🐈",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-02",
+          "category": "餐點",
+          "item": "熱炒",
+          "amount": -230.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-02",
+          "category": "餐點",
+          "item": "仙草冰",
+          "amount": -85.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-05-09",
       "total": -4136.0,
       "items": [
@@ -168,6 +198,30 @@
       "item": "包手幸福豆漿",
       "amount": -264.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-02",
+      "category": "寵物",
+      "item": "寵物公園",
+      "amount": -313.0,
+      "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-02",
+      "category": "餐點",
+      "item": "熱炒",
+      "amount": -230.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-02",
+      "category": "餐點",
+      "item": "仙草冰",
+      "amount": -85.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

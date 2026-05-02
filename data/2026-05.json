@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -18785.0,
+  "total": -19580.0,
   "fixedTotal": -10000.0,
-  "variableTotal": -8785.0,
+  "variableTotal": -9580.0,
   "categories": [
     {
       "category": "訂閱",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -4952.0,
+      "amount": -4867.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -28,8 +28,15 @@
       "group": "variable"
     },
     {
+      "category": "學習",
+      "amount": -795.0,
+      "icon": "📚",
+      "color": "#94A3B8",
+      "group": "variable"
+    },
+    {
       "category": "飲料",
-      "amount": -320.0,
+      "amount": -405.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -100,7 +107,7 @@
     },
     {
       "date": "2026-05-02",
-      "total": -628.0,
+      "total": -1423.0,
       "items": [
         {
           "date": "2026-05-02",
@@ -120,10 +127,18 @@
         },
         {
           "date": "2026-05-02",
-          "category": "餐點",
+          "category": "飲料",
           "item": "仙草冰",
           "amount": -85.0,
-          "icon": "🍱",
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-02",
+          "category": "學習",
+          "item": "技術分析經論（上+下）",
+          "amount": -795.0,
+          "icon": "📚",
           "group": "variable"
         }
       ]
@@ -218,10 +233,18 @@
     },
     {
       "date": "2026-05-02",
-      "category": "餐點",
+      "category": "飲料",
       "item": "仙草冰",
       "amount": -85.0,
-      "icon": "🍱",
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-02",
+      "category": "學習",
+      "item": "技術分析經論（上+下）",
+      "amount": -795.0,
+      "icon": "📚",
       "group": "variable"
     },
     {

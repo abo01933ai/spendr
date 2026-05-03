@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -19580.0,
+  "total": -20821.0,
   "fixedTotal": -10000.0,
-  "variableTotal": -9580.0,
+  "variableTotal": -10821.0,
   "categories": [
     {
       "category": "訂閱",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -4867.0,
+      "amount": -6108.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -144,6 +144,20 @@
       ]
     },
     {
+      "date": "2026-05-03",
+      "total": -1241.0,
+      "items": [
+        {
+          "date": "2026-05-03",
+          "category": "餐點",
+          "item": "勝博殿",
+          "amount": -1241.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-05-09",
       "total": -4136.0,
       "items": [
@@ -245,6 +259,14 @@
       "item": "技術分析經論（上+下）",
       "amount": -795.0,
       "icon": "📚",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-03",
+      "category": "餐點",
+      "item": "勝博殿",
+      "amount": -1241.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

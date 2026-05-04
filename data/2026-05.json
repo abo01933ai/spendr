@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -23131.0,
+  "total": -26673.0,
   "fixedTotal": -10000.0,
-  "variableTotal": -13131.0,
+  "variableTotal": -16673.0,
   "categories": [
     {
       "category": "訂閱",
@@ -14,17 +14,17 @@
       "group": "fixed"
     },
     {
-      "category": "餐點",
-      "amount": -6868.0,
-      "icon": "🍱",
-      "color": "#F87171",
+      "category": "寵物",
+      "amount": -7055.0,
+      "icon": "🐈",
+      "color": "#FBBF24",
       "group": "variable"
     },
     {
-      "category": "寵物",
-      "amount": -3513.0,
-      "icon": "🐈",
-      "color": "#FBBF24",
+      "category": "餐點",
+      "amount": -6108.0,
+      "icon": "🍱",
+      "color": "#F87171",
       "group": "variable"
     },
     {
@@ -38,6 +38,13 @@
       "category": "學習",
       "amount": -1155.0,
       "icon": "📚",
+      "color": "#94A3B8",
+      "group": "variable"
+    },
+    {
+      "category": "日常用品",
+      "amount": -760.0,
+      "icon": "📦",
       "color": "#94A3B8",
       "group": "variable"
     },
@@ -174,7 +181,7 @@
     },
     {
       "date": "2026-05-04",
-      "total": -1950.0,
+      "total": -5492.0,
       "items": [
         {
           "date": "2026-05-04",
@@ -186,10 +193,18 @@
         },
         {
           "date": "2026-05-04",
-          "category": "餐點",
+          "category": "日常用品",
           "item": "黃金開口笑一卡通",
           "amount": -760.0,
-          "icon": "🍱",
+          "icon": "📦",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-04",
+          "category": "寵物",
+          "item": "汪喵滴雞精主食餐包",
+          "amount": -3542.0,
+          "icon": "🐈",
           "group": "variable"
         }
       ]
@@ -324,10 +339,18 @@
     },
     {
       "date": "2026-05-04",
-      "category": "餐點",
+      "category": "日常用品",
       "item": "黃金開口笑一卡通",
       "amount": -760.0,
-      "icon": "🍱",
+      "icon": "📦",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-04",
+      "category": "寵物",
+      "item": "汪喵滴雞精主食餐包",
+      "amount": -3542.0,
+      "icon": "🐈",
       "group": "variable"
     },
     {

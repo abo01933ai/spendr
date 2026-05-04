@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -21181.0,
+  "total": -22371.0,
   "fixedTotal": -10000.0,
-  "variableTotal": -11181.0,
+  "variableTotal": -12371.0,
   "categories": [
     {
       "category": "訂閱",
@@ -25,6 +25,13 @@
       "amount": -3513.0,
       "icon": "🐈",
       "color": "#FBBF24",
+      "group": "variable"
+    },
+    {
+      "category": "服飾",
+      "amount": -1190.0,
+      "icon": "👕",
+      "color": "#F472B6",
       "group": "variable"
     },
     {
@@ -166,6 +173,20 @@
       ]
     },
     {
+      "date": "2026-05-04",
+      "total": -1190.0,
+      "items": [
+        {
+          "date": "2026-05-04",
+          "category": "服飾",
+          "item": "衣服",
+          "amount": -1190.0,
+          "icon": "👕",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-05-09",
       "total": -4136.0,
       "items": [
@@ -283,6 +304,14 @@
       "item": "書（三本）",
       "amount": -360.0,
       "icon": "📚",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-04",
+      "category": "服飾",
+      "item": "衣服",
+      "amount": -1190.0,
+      "icon": "👕",
       "group": "variable"
     },
     {

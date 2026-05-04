@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -22371.0,
+  "total": -23131.0,
   "fixedTotal": -10000.0,
-  "variableTotal": -12371.0,
+  "variableTotal": -13131.0,
   "categories": [
     {
       "category": "訂閱",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -6108.0,
+      "amount": -6868.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -174,7 +174,7 @@
     },
     {
       "date": "2026-05-04",
-      "total": -1190.0,
+      "total": -1950.0,
       "items": [
         {
           "date": "2026-05-04",
@@ -182,6 +182,14 @@
           "item": "衣服",
           "amount": -1190.0,
           "icon": "👕",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-04",
+          "category": "餐點",
+          "item": "黃金開口笑一卡通",
+          "amount": -760.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -312,6 +320,14 @@
       "item": "衣服",
       "amount": -1190.0,
       "icon": "👕",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-04",
+      "category": "餐點",
+      "item": "黃金開口笑一卡通",
+      "amount": -760.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

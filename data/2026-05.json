@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -20821.0,
+  "total": -21181.0,
   "fixedTotal": -10000.0,
-  "variableTotal": -10821.0,
+  "variableTotal": -11181.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,7 +29,7 @@
     },
     {
       "category": "學習",
-      "amount": -795.0,
+      "amount": -1155.0,
       "icon": "📚",
       "color": "#94A3B8",
       "group": "variable"
@@ -145,7 +145,7 @@
     },
     {
       "date": "2026-05-03",
-      "total": -1241.0,
+      "total": -1601.0,
       "items": [
         {
           "date": "2026-05-03",
@@ -153,6 +153,14 @@
           "item": "勝博殿",
           "amount": -1241.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-03",
+          "category": "學習",
+          "item": "書（三本）",
+          "amount": -360.0,
+          "icon": "📚",
           "group": "variable"
         }
       ]
@@ -267,6 +275,14 @@
       "item": "勝博殿",
       "amount": -1241.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-03",
+      "category": "學習",
+      "item": "書（三本）",
+      "amount": -360.0,
+      "icon": "📚",
       "group": "variable"
     },
     {

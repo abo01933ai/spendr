@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -26673.0,
+  "total": -28579.0,
   "fixedTotal": -10000.0,
-  "variableTotal": -16673.0,
+  "variableTotal": -18579.0,
   "categories": [
     {
       "category": "訂閱",
@@ -22,9 +22,16 @@
     },
     {
       "category": "餐點",
-      "amount": -6108.0,
+      "amount": -6244.0,
       "icon": "🍱",
       "color": "#F87171",
+      "group": "variable"
+    },
+    {
+      "category": "美容",
+      "amount": -1650.0,
+      "icon": "💇",
+      "color": "#C084FC",
       "group": "variable"
     },
     {
@@ -53,6 +60,13 @@
       "amount": -405.0,
       "icon": "🧋",
       "color": "#FB923C",
+      "group": "variable"
+    },
+    {
+      "category": "保健",
+      "amount": -120.0,
+      "icon": "💊",
+      "color": "#4ADE80",
       "group": "variable"
     }
   ],
@@ -210,6 +224,36 @@
       ]
     },
     {
+      "date": "2026-05-06",
+      "total": -1906.0,
+      "items": [
+        {
+          "date": "2026-05-06",
+          "category": "餐點",
+          "item": "永和豆漿",
+          "amount": -136.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-06",
+          "category": "美容",
+          "item": "按摩",
+          "amount": -1650.0,
+          "icon": "💇",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-06",
+          "category": "保健",
+          "item": "舒緩滾珠瓶",
+          "amount": -120.0,
+          "icon": "💊",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-05-09",
       "total": -4136.0,
       "items": [
@@ -351,6 +395,30 @@
       "item": "汪喵滴雞精主食餐包",
       "amount": -3542.0,
       "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-06",
+      "category": "餐點",
+      "item": "永和豆漿",
+      "amount": -136.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-06",
+      "category": "美容",
+      "item": "按摩",
+      "amount": -1650.0,
+      "icon": "💇",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-06",
+      "category": "保健",
+      "item": "舒緩滾珠瓶",
+      "amount": -120.0,
+      "icon": "💊",
       "group": "variable"
     },
     {

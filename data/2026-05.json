@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -28579.0,
+  "total": -29138.0,
   "fixedTotal": -10000.0,
-  "variableTotal": -18579.0,
+  "variableTotal": -19138.0,
   "categories": [
     {
       "category": "訂閱",
@@ -22,7 +22,7 @@
     },
     {
       "category": "餐點",
-      "amount": -6244.0,
+      "amount": -6511.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -57,9 +57,16 @@
     },
     {
       "category": "飲料",
-      "amount": -405.0,
+      "amount": -489.0,
       "icon": "🧋",
       "color": "#FB923C",
+      "group": "variable"
+    },
+    {
+      "category": "購物",
+      "amount": -208.0,
+      "icon": "🛍️",
+      "color": "#F472B6",
       "group": "variable"
     },
     {
@@ -254,6 +261,36 @@
       ]
     },
     {
+      "date": "2026-05-07",
+      "total": -559.0,
+      "items": [
+        {
+          "date": "2026-05-07",
+          "category": "購物",
+          "item": "廚房用品",
+          "amount": -208.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-07",
+          "category": "飲料",
+          "item": "瓶裝飲料",
+          "amount": -84.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-07",
+          "category": "餐點",
+          "item": "大三圓牛肉湯",
+          "amount": -267.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-05-09",
       "total": -4136.0,
       "items": [
@@ -419,6 +456,30 @@
       "item": "舒緩滾珠瓶",
       "amount": -120.0,
       "icon": "💊",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-07",
+      "category": "購物",
+      "item": "廚房用品",
+      "amount": -208.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-07",
+      "category": "飲料",
+      "item": "瓶裝飲料",
+      "amount": -84.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-07",
+      "category": "餐點",
+      "item": "大三圓牛肉湯",
+      "amount": -267.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

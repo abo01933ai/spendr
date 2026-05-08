@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -29460.0,
+  "total": -30718.0,
   "fixedTotal": -10000.0,
-  "variableTotal": -19460.0,
+  "variableTotal": -20718.0,
   "categories": [
     {
       "category": "訂閱",
@@ -14,17 +14,17 @@
       "group": "fixed"
     },
     {
+      "category": "餐點",
+      "amount": -8091.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
+    {
       "category": "寵物",
       "amount": -7055.0,
       "icon": "🐈",
       "color": "#FBBF24",
-      "group": "variable"
-    },
-    {
-      "category": "餐點",
-      "amount": -6833.0,
-      "icon": "🍱",
-      "color": "#F87171",
       "group": "variable"
     },
     {
@@ -292,13 +292,21 @@
     },
     {
       "date": "2026-05-08",
-      "total": -322.0,
+      "total": -1580.0,
       "items": [
         {
           "date": "2026-05-08",
           "category": "餐點",
           "item": "麥當勞",
           "amount": -322.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-08",
+          "category": "餐點",
+          "item": "萬客什鍋",
+          "amount": -1258.0,
           "icon": "🍱",
           "group": "variable"
         }
@@ -501,6 +509,14 @@
       "category": "餐點",
       "item": "麥當勞",
       "amount": -322.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-08",
+      "category": "餐點",
+      "item": "萬客什鍋",
+      "amount": -1258.0,
       "icon": "🍱",
       "group": "variable"
     },

@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -32507.0,
+  "total": -34302.0,
   "fixedTotal": -10000.0,
-  "variableTotal": -22507.0,
+  "variableTotal": -24302.0,
   "categories": [
     {
       "category": "訂閱",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -8166.0,
+      "amount": -9221.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -42,6 +42,13 @@
       "group": "variable"
     },
     {
+      "category": "飲料",
+      "amount": -1268.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "服飾",
       "amount": -1190.0,
       "icon": "👕",
@@ -60,13 +67,6 @@
       "amount": -760.0,
       "icon": "📦",
       "color": "#94A3B8",
-      "group": "variable"
-    },
-    {
-      "category": "飲料",
-      "amount": -528.0,
-      "icon": "🧋",
-      "color": "#FB923C",
       "group": "variable"
     },
     {
@@ -313,7 +313,7 @@
     },
     {
       "date": "2026-05-09",
-      "total": -7183.0,
+      "total": -8978.0,
       "items": [
         {
           "date": "2026-05-09",
@@ -361,6 +361,30 @@
           "item": "咖啡",
           "amount": -39.0,
           "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-09",
+          "category": "餐點",
+          "item": "花鳥川檸檬蛋糕",
+          "amount": -650.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-09",
+          "category": "飲料",
+          "item": "咖啡",
+          "amount": -740.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-09",
+          "category": "餐點",
+          "item": "史特拉阿姨餅乾",
+          "amount": -405.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -597,6 +621,30 @@
       "item": "咖啡",
       "amount": -39.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-09",
+      "category": "餐點",
+      "item": "花鳥川檸檬蛋糕",
+      "amount": -650.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-09",
+      "category": "飲料",
+      "item": "咖啡",
+      "amount": -740.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-09",
+      "category": "餐點",
+      "item": "史特拉阿姨餅乾",
+      "amount": -405.0,
+      "icon": "🍱",
       "group": "variable"
     }
   ]

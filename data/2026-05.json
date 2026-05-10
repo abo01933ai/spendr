@@ -2,23 +2,23 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -34302.0,
-  "fixedTotal": -10000.0,
-  "variableTotal": -24302.0,
+  "total": -36967.0,
+  "fixedTotal": -10888.0,
+  "variableTotal": -26079.0,
   "categories": [
+    {
+      "category": "餐點",
+      "amount": -10948.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
     {
       "category": "訂閱",
       "amount": -10000.0,
       "icon": "📱",
       "color": "#94e1df",
       "group": "fixed"
-    },
-    {
-      "category": "餐點",
-      "amount": -9221.0,
-      "icon": "🍱",
-      "color": "#F87171",
-      "group": "variable"
     },
     {
       "category": "寵物",
@@ -29,7 +29,7 @@
     },
     {
       "category": "交通",
-      "amount": -1675.0,
+      "amount": -1725.0,
       "icon": "🚗",
       "color": "#38BDF8",
       "group": "variable"
@@ -61,6 +61,13 @@
       "icon": "📚",
       "color": "#94A3B8",
       "group": "variable"
+    },
+    {
+      "category": "運動",
+      "amount": -888.0,
+      "icon": "🏋️",
+      "color": "#86EFAC",
+      "group": "fixed"
     },
     {
       "category": "日常用品",
@@ -388,6 +395,36 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-05-10",
+      "total": -2665.0,
+      "items": [
+        {
+          "date": "2026-05-10",
+          "category": "餐點",
+          "item": "pinococo",
+          "amount": -1727.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-10",
+          "category": "交通",
+          "item": "捷運",
+          "amount": -50.0,
+          "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-10",
+          "category": "運動",
+          "item": "健身房",
+          "amount": -888.0,
+          "icon": "🏋️",
+          "group": "fixed"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -646,6 +683,30 @@
       "amount": -405.0,
       "icon": "🍱",
       "group": "variable"
+    },
+    {
+      "date": "2026-05-10",
+      "category": "餐點",
+      "item": "pinococo",
+      "amount": -1727.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-10",
+      "category": "交通",
+      "item": "捷運",
+      "amount": -50.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-10",
+      "category": "運動",
+      "item": "健身房",
+      "amount": -888.0,
+      "icon": "🏋️",
+      "group": "fixed"
     }
   ]
 }

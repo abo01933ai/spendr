@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -36967.0,
+  "total": -38765.0,
   "fixedTotal": -10888.0,
-  "variableTotal": -26079.0,
+  "variableTotal": -27877.0,
   "categories": [
     {
       "category": "餐點",
@@ -22,7 +22,7 @@
     },
     {
       "category": "寵物",
-      "amount": -7055.0,
+      "amount": -8853.0,
       "icon": "🐈",
       "color": "#FBBF24",
       "group": "variable"
@@ -425,6 +425,20 @@
           "group": "fixed"
         }
       ]
+    },
+    {
+      "date": "2026-05-11",
+      "total": -1798.0,
+      "items": [
+        {
+          "date": "2026-05-11",
+          "category": "寵物",
+          "item": "皇家貓濕糧×48",
+          "amount": -1798.0,
+          "icon": "🐈",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -707,6 +721,14 @@
       "amount": -888.0,
       "icon": "🏋️",
       "group": "fixed"
+    },
+    {
+      "date": "2026-05-11",
+      "category": "寵物",
+      "item": "皇家貓濕糧×48",
+      "amount": -1798.0,
+      "icon": "🐈",
+      "group": "variable"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -38765.0,
+  "total": -39800.0,
   "fixedTotal": -10888.0,
-  "variableTotal": -27877.0,
+  "variableTotal": -28912.0,
   "categories": [
     {
       "category": "餐點",
@@ -25,6 +25,13 @@
       "amount": -8853.0,
       "icon": "🐈",
       "color": "#FBBF24",
+      "group": "variable"
+    },
+    {
+      "category": "學習",
+      "amount": -2190.0,
+      "icon": "📚",
+      "color": "#94A3B8",
       "group": "variable"
     },
     {
@@ -53,13 +60,6 @@
       "amount": -1190.0,
       "icon": "👕",
       "color": "#F472B6",
-      "group": "variable"
-    },
-    {
-      "category": "學習",
-      "amount": -1155.0,
-      "icon": "📚",
-      "color": "#94A3B8",
       "group": "variable"
     },
     {
@@ -439,6 +439,20 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-05-12",
+      "total": -1035.0,
+      "items": [
+        {
+          "date": "2026-05-12",
+          "category": "學習",
+          "item": "書三本（股市金融怪傑+多空操作秘笈+冠軍思維）",
+          "amount": -1035.0,
+          "icon": "📚",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -721,6 +735,14 @@
       "amount": -888.0,
       "icon": "🏋️",
       "group": "fixed"
+    },
+    {
+      "date": "2026-05-12",
+      "category": "學習",
+      "item": "書三本（股市金融怪傑+多空操作秘笈+冠軍思維）",
+      "amount": -1035.0,
+      "icon": "📚",
+      "group": "variable"
     },
     {
       "date": "2026-05-11",

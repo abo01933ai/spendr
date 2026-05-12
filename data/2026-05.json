@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -43089.0,
+  "total": -43679.0,
   "fixedTotal": -10888.0,
-  "variableTotal": -32201.0,
+  "variableTotal": -32791.0,
   "categories": [
     {
       "category": "餐點",
@@ -70,17 +70,17 @@
       "group": "fixed"
     },
     {
+      "category": "購物",
+      "amount": -798.0,
+      "icon": "🛍️",
+      "color": "#F472B6",
+      "group": "variable"
+    },
+    {
       "category": "日常用品",
       "amount": -760.0,
       "icon": "📦",
       "color": "#94A3B8",
-      "group": "variable"
-    },
-    {
-      "category": "購物",
-      "amount": -208.0,
-      "icon": "🛍️",
-      "color": "#F472B6",
       "group": "variable"
     },
     {
@@ -442,7 +442,7 @@
     },
     {
       "date": "2026-05-12",
-      "total": -4324.0,
+      "total": -4914.0,
       "items": [
         {
           "date": "2026-05-12",
@@ -458,6 +458,14 @@
           "item": "馨苑小料理",
           "amount": -3289.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-12",
+          "category": "購物",
+          "item": "不鏽鋼瀝水架",
+          "amount": -590.0,
+          "icon": "🛍️",
           "group": "variable"
         }
       ]
@@ -758,6 +766,14 @@
       "item": "馨苑小料理",
       "amount": -3289.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-12",
+      "category": "購物",
+      "item": "不鏽鋼瀝水架",
+      "amount": -590.0,
+      "icon": "🛍️",
       "group": "variable"
     },
     {

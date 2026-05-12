@@ -2,13 +2,13 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -39800.0,
+  "total": -43089.0,
   "fixedTotal": -10888.0,
-  "variableTotal": -28912.0,
+  "variableTotal": -32201.0,
   "categories": [
     {
       "category": "餐點",
-      "amount": -10948.0,
+      "amount": -14237.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -442,7 +442,7 @@
     },
     {
       "date": "2026-05-12",
-      "total": -1035.0,
+      "total": -4324.0,
       "items": [
         {
           "date": "2026-05-12",
@@ -450,6 +450,14 @@
           "item": "書三本（股市金融怪傑+多空操作秘笈+冠軍思維）",
           "amount": -1035.0,
           "icon": "📚",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-12",
+          "category": "餐點",
+          "item": "馨苑小料理",
+          "amount": -3289.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -742,6 +750,14 @@
       "item": "書三本（股市金融怪傑+多空操作秘笈+冠軍思維）",
       "amount": -1035.0,
       "icon": "📚",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-12",
+      "category": "餐點",
+      "item": "馨苑小料理",
+      "amount": -3289.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -43844.0,
+  "total": -48224.0,
   "fixedTotal": -10888.0,
-  "variableTotal": -32956.0,
+  "variableTotal": -37336.0,
   "categories": [
     {
       "category": "餐點",
@@ -25,6 +25,13 @@
       "amount": -8853.0,
       "icon": "🐈",
       "color": "#FBBF24",
+      "group": "variable"
+    },
+    {
+      "category": "購物",
+      "amount": -5178.0,
+      "icon": "🛍️",
+      "color": "#F472B6",
       "group": "variable"
     },
     {
@@ -68,13 +75,6 @@
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
-    },
-    {
-      "category": "購物",
-      "amount": -798.0,
-      "icon": "🛍️",
-      "color": "#F472B6",
-      "group": "variable"
     },
     {
       "category": "日常用品",
@@ -472,7 +472,7 @@
     },
     {
       "date": "2026-05-13",
-      "total": -165.0,
+      "total": -4545.0,
       "items": [
         {
           "date": "2026-05-13",
@@ -480,6 +480,14 @@
           "item": "mateas",
           "amount": -165.0,
           "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-13",
+          "category": "購物",
+          "item": "碳矽除濕石",
+          "amount": -4380.0,
+          "icon": "🛍️",
           "group": "variable"
         }
       ]
@@ -796,6 +804,14 @@
       "item": "mateas",
       "amount": -165.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-13",
+      "category": "購物",
+      "item": "碳矽除濕石",
+      "amount": -4380.0,
+      "icon": "🛍️",
       "group": "variable"
     },
     {

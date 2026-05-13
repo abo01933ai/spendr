@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -43679.0,
+  "total": -43844.0,
   "fixedTotal": -10888.0,
-  "variableTotal": -32791.0,
+  "variableTotal": -32956.0,
   "categories": [
     {
       "category": "餐點",
@@ -50,7 +50,7 @@
     },
     {
       "category": "飲料",
-      "amount": -1268.0,
+      "amount": -1433.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -469,6 +469,20 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-05-13",
+      "total": -165.0,
+      "items": [
+        {
+          "date": "2026-05-13",
+          "category": "飲料",
+          "item": "mateas",
+          "amount": -165.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -774,6 +788,14 @@
       "item": "不鏽鋼瀝水架",
       "amount": -590.0,
       "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-13",
+      "category": "飲料",
+      "item": "mateas",
+      "amount": -165.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

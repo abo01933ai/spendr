@@ -2,13 +2,13 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -48224.0,
+  "total": -50059.0,
   "fixedTotal": -10888.0,
-  "variableTotal": -37336.0,
+  "variableTotal": -39171.0,
   "categories": [
     {
       "category": "餐點",
-      "amount": -14237.0,
+      "amount": -14512.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -53,6 +53,13 @@
       "amount": -1650.0,
       "icon": "💇",
       "color": "#C084FC",
+      "group": "variable"
+    },
+    {
+      "category": "捐款",
+      "amount": -1560.0,
+      "icon": "🙏",
+      "color": "#6EE7B7",
       "group": "variable"
     },
     {
@@ -491,6 +498,28 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-05-14",
+      "total": -1835.0,
+      "items": [
+        {
+          "date": "2026-05-14",
+          "category": "捐款",
+          "item": "捐款",
+          "amount": -1560.0,
+          "icon": "🙏",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-14",
+          "category": "餐點",
+          "item": "零食",
+          "amount": -275.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -796,6 +825,22 @@
       "item": "不鏽鋼瀝水架",
       "amount": -590.0,
       "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-14",
+      "category": "捐款",
+      "item": "捐款",
+      "amount": -1560.0,
+      "icon": "🙏",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-14",
+      "category": "餐點",
+      "item": "零食",
+      "amount": -275.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

@@ -2,13 +2,13 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -50059.0,
+  "total": -52153.0,
   "fixedTotal": -10888.0,
-  "variableTotal": -39171.0,
+  "variableTotal": -41265.0,
   "categories": [
     {
       "category": "餐點",
-      "amount": -14512.0,
+      "amount": -15757.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -29,7 +29,7 @@
     },
     {
       "category": "購物",
-      "amount": -5178.0,
+      "amount": -6027.0,
       "icon": "🛍️",
       "color": "#F472B6",
       "group": "variable"
@@ -520,6 +520,36 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-05-15",
+      "total": -2094.0,
+      "items": [
+        {
+          "date": "2026-05-15",
+          "category": "餐點",
+          "item": "壽司郎",
+          "amount": -1160.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-15",
+          "category": "餐點",
+          "item": "總站夜市",
+          "amount": -85.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-15",
+          "category": "購物",
+          "item": "沐浴用品",
+          "amount": -849.0,
+          "icon": "🛍️",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -824,6 +854,30 @@
       "category": "購物",
       "item": "不鏽鋼瀝水架",
       "amount": -590.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-15",
+      "category": "餐點",
+      "item": "壽司郎",
+      "amount": -1160.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-15",
+      "category": "餐點",
+      "item": "總站夜市",
+      "amount": -85.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-15",
+      "category": "購物",
+      "item": "沐浴用品",
+      "amount": -849.0,
       "icon": "🛍️",
       "group": "variable"
     },

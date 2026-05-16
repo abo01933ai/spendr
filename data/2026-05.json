@@ -2,13 +2,13 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -72819.0,
+  "total": -73183.0,
   "fixedTotal": -32952.0,
-  "variableTotal": -39867.0,
+  "variableTotal": -40231.0,
   "categories": [
     {
       "category": "餐點",
-      "amount": -17347.0,
+      "amount": -17711.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -547,7 +547,7 @@
     },
     {
       "date": "2026-05-16",
-      "total": -4982.0,
+      "total": -5346.0,
       "items": [
         {
           "date": "2026-05-16",
@@ -579,6 +579,14 @@
           "item": "樂高（橘貓+盲盒×2）",
           "amount": -2557.0,
           "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-16",
+          "category": "餐點",
+          "item": "滿大碗（宵夜）",
+          "amount": -364.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -1003,6 +1011,14 @@
       "item": "樂高（橘貓+盲盒×2）",
       "amount": -2557.0,
       "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-16",
+      "category": "餐點",
+      "item": "滿大碗（宵夜）",
+      "amount": -364.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

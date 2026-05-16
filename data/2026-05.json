@@ -2,22 +2,29 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -52153.0,
-  "fixedTotal": -10888.0,
-  "variableTotal": -41265.0,
+  "total": -68074.0,
+  "fixedTotal": -32952.0,
+  "variableTotal": -35122.0,
   "categories": [
     {
       "category": "餐點",
-      "amount": -15757.0,
+      "amount": -15719.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
     },
     {
       "category": "訂閱",
-      "amount": -10000.0,
+      "amount": -13899.0,
       "icon": "📱",
       "color": "#94e1df",
+      "group": "fixed"
+    },
+    {
+      "category": "住",
+      "amount": -11623.0,
+      "icon": "🏠",
+      "color": "#60A5FA",
       "group": "fixed"
     },
     {
@@ -28,11 +35,11 @@
       "group": "variable"
     },
     {
-      "category": "購物",
-      "amount": -6027.0,
-      "icon": "🛍️",
-      "color": "#F472B6",
-      "group": "variable"
+      "category": "財務",
+      "amount": -6542.0,
+      "icon": "💳",
+      "color": "#7C83FD",
+      "group": "fixed"
     },
     {
       "category": "學習",
@@ -56,15 +63,15 @@
       "group": "variable"
     },
     {
-      "category": "捐款",
-      "amount": -1560.0,
-      "icon": "🙏",
-      "color": "#6EE7B7",
+      "category": "購物",
+      "amount": -1647.0,
+      "icon": "🛍️",
+      "color": "#F472B6",
       "group": "variable"
     },
     {
       "category": "飲料",
-      "amount": -1433.0,
+      "amount": -1268.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -478,53 +485,33 @@
       ]
     },
     {
-      "date": "2026-05-13",
-      "total": -4545.0,
-      "items": [
-        {
-          "date": "2026-05-13",
-          "category": "飲料",
-          "item": "mateas",
-          "amount": -165.0,
-          "icon": "🧋",
-          "group": "variable"
-        },
-        {
-          "date": "2026-05-13",
-          "category": "購物",
-          "item": "碳矽除濕石",
-          "amount": -4380.0,
-          "icon": "🛍️",
-          "group": "variable"
-        }
-      ]
-    },
-    {
-      "date": "2026-05-14",
-      "total": -1835.0,
-      "items": [
-        {
-          "date": "2026-05-14",
-          "category": "捐款",
-          "item": "捐款",
-          "amount": -1560.0,
-          "icon": "🙏",
-          "group": "variable"
-        },
-        {
-          "date": "2026-05-14",
-          "category": "餐點",
-          "item": "零食",
-          "amount": -275.0,
-          "icon": "🍱",
-          "group": "variable"
-        }
-      ]
-    },
-    {
       "date": "2026-05-15",
-      "total": -2094.0,
+      "total": -5993.0,
       "items": [
+        {
+          "date": "2026-05-15",
+          "category": "訂閱",
+          "item": "訂閱費",
+          "amount": -600.0,
+          "icon": "📱",
+          "group": "fixed"
+        },
+        {
+          "date": "2026-05-15",
+          "category": "訂閱",
+          "item": "通話費",
+          "amount": -299.0,
+          "icon": "📱",
+          "group": "fixed"
+        },
+        {
+          "date": "2026-05-15",
+          "category": "訂閱",
+          "item": "AI 模型",
+          "amount": -3000.0,
+          "icon": "📱",
+          "group": "fixed"
+        },
         {
           "date": "2026-05-15",
           "category": "餐點",
@@ -548,6 +535,48 @@
           "amount": -849.0,
           "icon": "🛍️",
           "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "total": -237.0,
+      "items": [
+        {
+          "date": "2026-05-16",
+          "category": "餐點",
+          "item": "拉亞漢堡",
+          "amount": -237.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-20",
+      "total": -6542.0,
+      "items": [
+        {
+          "date": "2026-05-20",
+          "category": "財務",
+          "item": "信貸",
+          "amount": -6542.0,
+          "icon": "💳",
+          "group": "fixed"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "total": -11623.0,
+      "items": [
+        {
+          "date": "2026-05-25",
+          "category": "住",
+          "item": "房貸",
+          "amount": -11623.0,
+          "icon": "🏠",
+          "group": "fixed"
         }
       ]
     }
@@ -834,6 +863,14 @@
       "group": "fixed"
     },
     {
+      "date": "2026-05-11",
+      "category": "寵物",
+      "item": "皇家貓濕糧×48",
+      "amount": -1798.0,
+      "icon": "🐈",
+      "group": "variable"
+    },
+    {
       "date": "2026-05-12",
       "category": "學習",
       "item": "書三本（股市金融怪傑+多空操作秘笈+冠軍思維）",
@@ -856,6 +893,30 @@
       "amount": -590.0,
       "icon": "🛍️",
       "group": "variable"
+    },
+    {
+      "date": "2026-05-15",
+      "category": "訂閱",
+      "item": "訂閱費",
+      "amount": -600.0,
+      "icon": "📱",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-05-15",
+      "category": "訂閱",
+      "item": "通話費",
+      "amount": -299.0,
+      "icon": "📱",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-05-15",
+      "category": "訂閱",
+      "item": "AI 模型",
+      "amount": -3000.0,
+      "icon": "📱",
+      "group": "fixed"
     },
     {
       "date": "2026-05-15",
@@ -882,44 +943,28 @@
       "group": "variable"
     },
     {
-      "date": "2026-05-14",
-      "category": "捐款",
-      "item": "捐款",
-      "amount": -1560.0,
-      "icon": "🙏",
-      "group": "variable"
-    },
-    {
-      "date": "2026-05-14",
+      "date": "2026-05-16",
       "category": "餐點",
-      "item": "零食",
-      "amount": -275.0,
+      "item": "拉亞漢堡",
+      "amount": -237.0,
       "icon": "🍱",
       "group": "variable"
     },
     {
-      "date": "2026-05-13",
-      "category": "飲料",
-      "item": "mateas",
-      "amount": -165.0,
-      "icon": "🧋",
-      "group": "variable"
+      "date": "2026-05-20",
+      "category": "財務",
+      "item": "信貸",
+      "amount": -6542.0,
+      "icon": "💳",
+      "group": "fixed"
     },
     {
-      "date": "2026-05-13",
-      "category": "購物",
-      "item": "碳矽除濕石",
-      "amount": -4380.0,
-      "icon": "🛍️",
-      "group": "variable"
-    },
-    {
-      "date": "2026-05-11",
-      "category": "寵物",
-      "item": "皇家貓濕糧×48",
-      "amount": -1798.0,
-      "icon": "🐈",
-      "group": "variable"
+      "date": "2026-05-25",
+      "category": "住",
+      "item": "房貸",
+      "amount": -11623.0,
+      "icon": "🏠",
+      "group": "fixed"
     }
   ]
 }

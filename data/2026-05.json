@@ -2,13 +2,13 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -73183.0,
+  "total": -80267.0,
   "fixedTotal": -32952.0,
-  "variableTotal": -40231.0,
+  "variableTotal": -47315.0,
   "categories": [
     {
       "category": "餐點",
-      "amount": -17711.0,
+      "amount": -18441.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -42,6 +42,13 @@
       "group": "fixed"
     },
     {
+      "category": "購物",
+      "amount": -6027.0,
+      "icon": "🛍️",
+      "color": "#F472B6",
+      "group": "variable"
+    },
+    {
       "category": "娛樂",
       "amount": -3117.0,
       "icon": "🎮",
@@ -63,6 +70,13 @@
       "group": "variable"
     },
     {
+      "category": "飲料",
+      "amount": -1682.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "美容",
       "amount": -1650.0,
       "icon": "💇",
@@ -70,17 +84,10 @@
       "group": "variable"
     },
     {
-      "category": "購物",
-      "amount": -1647.0,
-      "icon": "🛍️",
-      "color": "#F472B6",
-      "group": "variable"
-    },
-    {
-      "category": "飲料",
-      "amount": -1268.0,
-      "icon": "🧋",
-      "color": "#FB923C",
+      "category": "捐款",
+      "amount": -1560.0,
+      "icon": "🙏",
+      "color": "#6EE7B7",
       "group": "variable"
     },
     {
@@ -492,6 +499,50 @@
       ]
     },
     {
+      "date": "2026-05-13",
+      "total": -4545.0,
+      "items": [
+        {
+          "date": "2026-05-13",
+          "category": "飲料",
+          "item": "mateas",
+          "amount": -165.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-13",
+          "category": "購物",
+          "item": "碳矽除濕石",
+          "amount": -4380.0,
+          "icon": "🛍️",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "total": -1835.0,
+      "items": [
+        {
+          "date": "2026-05-14",
+          "category": "捐款",
+          "item": "捐款",
+          "amount": -1560.0,
+          "icon": "🙏",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-14",
+          "category": "餐點",
+          "item": "零食",
+          "amount": -275.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-05-15",
       "total": -5993.0,
       "items": [
@@ -584,9 +635,31 @@
         {
           "date": "2026-05-16",
           "category": "餐點",
-          "item": "滿大碗（宵夜）",
+          "item": "滿大碗",
           "amount": -364.0,
           "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-17",
+      "total": -704.0,
+      "items": [
+        {
+          "date": "2026-05-17",
+          "category": "餐點",
+          "item": "買菜",
+          "amount": -455.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-17",
+          "category": "飲料",
+          "item": "可不可",
+          "amount": -249.0,
+          "icon": "🧋",
           "group": "variable"
         }
       ]
@@ -934,6 +1007,38 @@
       "group": "variable"
     },
     {
+      "date": "2026-05-13",
+      "category": "飲料",
+      "item": "mateas",
+      "amount": -165.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-13",
+      "category": "購物",
+      "item": "碳矽除濕石",
+      "amount": -4380.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-14",
+      "category": "捐款",
+      "item": "捐款",
+      "amount": -1560.0,
+      "icon": "🙏",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-14",
+      "category": "餐點",
+      "item": "零食",
+      "amount": -275.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
       "date": "2026-05-15",
       "category": "訂閱",
       "item": "訂閱費",
@@ -1016,9 +1121,25 @@
     {
       "date": "2026-05-16",
       "category": "餐點",
-      "item": "滿大碗（宵夜）",
+      "item": "滿大碗",
       "amount": -364.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-17",
+      "category": "餐點",
+      "item": "買菜",
+      "amount": -455.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-17",
+      "category": "飲料",
+      "item": "可不可",
+      "amount": -249.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

@@ -2,13 +2,13 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -80267.0,
+  "total": -80821.0,
   "fixedTotal": -32952.0,
-  "variableTotal": -47315.0,
+  "variableTotal": -47869.0,
   "categories": [
     {
       "category": "餐點",
-      "amount": -18441.0,
+      "amount": -18995.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -644,8 +644,16 @@
     },
     {
       "date": "2026-05-17",
-      "total": -704.0,
+      "total": -1258.0,
       "items": [
+        {
+          "date": "2026-05-17",
+          "category": "餐點",
+          "item": "麵由辛生（午餐）",
+          "amount": -554.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
         {
           "date": "2026-05-17",
           "category": "餐點",
@@ -1123,6 +1131,14 @@
       "category": "餐點",
       "item": "滿大碗",
       "amount": -364.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-17",
+      "category": "餐點",
+      "item": "麵由辛生（午餐）",
+      "amount": -554.0,
       "icon": "🍱",
       "group": "variable"
     },

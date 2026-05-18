@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -89383.0,
+  "total": -89540.0,
   "fixedTotal": -41514.0,
-  "variableTotal": -47869.0,
+  "variableTotal": -48026.0,
   "categories": [
     {
       "category": "住",
@@ -64,7 +64,7 @@
     },
     {
       "category": "交通",
-      "amount": -1725.0,
+      "amount": -1882.0,
       "icon": "🚗",
       "color": "#38BDF8",
       "group": "variable"
@@ -674,7 +674,7 @@
     },
     {
       "date": "2026-05-18",
-      "total": -8562.0,
+      "total": -8719.0,
       "items": [
         {
           "date": "2026-05-18",
@@ -683,6 +683,14 @@
           "amount": -8562.0,
           "icon": "🏠",
           "group": "fixed"
+        },
+        {
+          "date": "2026-05-18",
+          "category": "交通",
+          "item": "加油",
+          "amount": -157.0,
+          "icon": "🚗",
+          "group": "variable"
         }
       ]
     },
@@ -1179,6 +1187,14 @@
       "amount": -8562.0,
       "icon": "🏠",
       "group": "fixed"
+    },
+    {
+      "date": "2026-05-18",
+      "category": "交通",
+      "item": "加油",
+      "amount": -157.0,
+      "icon": "🚗",
+      "group": "variable"
     },
     {
       "date": "2026-05-20",

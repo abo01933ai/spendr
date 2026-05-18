@@ -2,10 +2,17 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -80821.0,
-  "fixedTotal": -32952.0,
+  "total": -89383.0,
+  "fixedTotal": -41514.0,
   "variableTotal": -47869.0,
   "categories": [
+    {
+      "category": "住",
+      "amount": -20185.0,
+      "icon": "🏠",
+      "color": "#60A5FA",
+      "group": "fixed"
+    },
     {
       "category": "餐點",
       "amount": -18995.0,
@@ -18,13 +25,6 @@
       "amount": -13899.0,
       "icon": "📱",
       "color": "#94e1df",
-      "group": "fixed"
-    },
-    {
-      "category": "住",
-      "amount": -11623.0,
-      "icon": "🏠",
-      "color": "#60A5FA",
       "group": "fixed"
     },
     {
@@ -673,6 +673,20 @@
       ]
     },
     {
+      "date": "2026-05-18",
+      "total": -8562.0,
+      "items": [
+        {
+          "date": "2026-05-18",
+          "category": "住",
+          "item": "房屋稅",
+          "amount": -8562.0,
+          "icon": "🏠",
+          "group": "fixed"
+        }
+      ]
+    },
+    {
       "date": "2026-05-20",
       "total": -6542.0,
       "items": [
@@ -1157,6 +1171,14 @@
       "amount": -249.0,
       "icon": "🧋",
       "group": "variable"
+    },
+    {
+      "date": "2026-05-18",
+      "category": "住",
+      "item": "房屋稅",
+      "amount": -8562.0,
+      "icon": "🏠",
+      "group": "fixed"
     },
     {
       "date": "2026-05-20",

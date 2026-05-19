@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -89540.0,
+  "total": -89846.0,
   "fixedTotal": -41514.0,
-  "variableTotal": -48026.0,
+  "variableTotal": -48332.0,
   "categories": [
     {
       "category": "住",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -18995.0,
+      "amount": -19301.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -695,6 +695,20 @@
       ]
     },
     {
+      "date": "2026-05-19",
+      "total": -306.0,
+      "items": [
+        {
+          "date": "2026-05-19",
+          "category": "餐點",
+          "item": "麥當勞",
+          "amount": -306.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-05-20",
       "total": -6542.0,
       "items": [
@@ -1194,6 +1208,14 @@
       "item": "加油",
       "amount": -157.0,
       "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-19",
+      "category": "餐點",
+      "item": "麥當勞",
+      "amount": -306.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

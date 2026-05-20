@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -89846.0,
+  "total": -91028.0,
   "fixedTotal": -41514.0,
-  "variableTotal": -48332.0,
+  "variableTotal": -49514.0,
   "categories": [
     {
       "category": "住",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -19301.0,
+      "amount": -20015.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -63,17 +63,17 @@
       "group": "variable"
     },
     {
+      "category": "飲料",
+      "amount": -1900.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "交通",
       "amount": -1882.0,
       "icon": "🚗",
       "color": "#38BDF8",
-      "group": "variable"
-    },
-    {
-      "category": "飲料",
-      "amount": -1682.0,
-      "icon": "🧋",
-      "color": "#FB923C",
       "group": "variable"
     },
     {
@@ -109,6 +109,13 @@
       "amount": -760.0,
       "icon": "📦",
       "color": "#94A3B8",
+      "group": "variable"
+    },
+    {
+      "category": "醫療",
+      "amount": -250.0,
+      "icon": "🏥",
+      "color": "#4ADE80",
       "group": "variable"
     },
     {
@@ -710,7 +717,7 @@
     },
     {
       "date": "2026-05-20",
-      "total": -6542.0,
+      "total": -7724.0,
       "items": [
         {
           "date": "2026-05-20",
@@ -719,6 +726,38 @@
           "amount": -6542.0,
           "icon": "💳",
           "group": "fixed"
+        },
+        {
+          "date": "2026-05-20",
+          "category": "餐點",
+          "item": "Qburger",
+          "amount": -269.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-20",
+          "category": "飲料",
+          "item": "50嵐",
+          "amount": -218.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-20",
+          "category": "餐點",
+          "item": "晚餐",
+          "amount": -445.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-20",
+          "category": "醫療",
+          "item": "頭痛看診",
+          "amount": -250.0,
+          "icon": "🏥",
+          "group": "variable"
         }
       ]
     },
@@ -1225,6 +1264,38 @@
       "amount": -6542.0,
       "icon": "💳",
       "group": "fixed"
+    },
+    {
+      "date": "2026-05-20",
+      "category": "餐點",
+      "item": "Qburger",
+      "amount": -269.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-20",
+      "category": "飲料",
+      "item": "50嵐",
+      "amount": -218.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-20",
+      "category": "餐點",
+      "item": "晚餐",
+      "amount": -445.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-20",
+      "category": "醫療",
+      "item": "頭痛看診",
+      "amount": -250.0,
+      "icon": "🏥",
+      "group": "variable"
     },
     {
       "date": "2026-05-25",

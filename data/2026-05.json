@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -91028.0,
+  "total": -93718.0,
   "fixedTotal": -41514.0,
-  "variableTotal": -49514.0,
+  "variableTotal": -52204.0,
   "categories": [
     {
       "category": "住",
@@ -35,6 +35,13 @@
       "group": "variable"
     },
     {
+      "category": "購物",
+      "amount": -8147.0,
+      "icon": "🛍️",
+      "color": "#F472B6",
+      "group": "variable"
+    },
+    {
       "category": "財務",
       "amount": -6542.0,
       "icon": "💳",
@@ -42,15 +49,8 @@
       "group": "fixed"
     },
     {
-      "category": "購物",
-      "amount": -6027.0,
-      "icon": "🛍️",
-      "color": "#F472B6",
-      "group": "variable"
-    },
-    {
       "category": "娛樂",
-      "amount": -3117.0,
+      "amount": -3687.0,
       "icon": "🎮",
       "color": "#A78BFA",
       "group": "variable"
@@ -762,6 +762,28 @@
       ]
     },
     {
+      "date": "2026-05-22",
+      "total": -2690.0,
+      "items": [
+        {
+          "date": "2026-05-22",
+          "category": "購物",
+          "item": "Casetify 手機殼",
+          "amount": -2120.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-22",
+          "category": "娛樂",
+          "item": "盲盒×2",
+          "amount": -570.0,
+          "icon": "🎮",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-05-25",
       "total": -11623.0,
       "items": [
@@ -1295,6 +1317,22 @@
       "item": "頭痛看診",
       "amount": -250.0,
       "icon": "🏥",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-22",
+      "category": "購物",
+      "item": "Casetify 手機殼",
+      "amount": -2120.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-22",
+      "category": "娛樂",
+      "item": "盲盒×2",
+      "amount": -570.0,
+      "icon": "🎮",
       "group": "variable"
     },
     {

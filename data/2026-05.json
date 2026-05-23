@@ -2,23 +2,23 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -93718.0,
+  "total": -96248.0,
   "fixedTotal": -41514.0,
-  "variableTotal": -52204.0,
+  "variableTotal": -54734.0,
   "categories": [
+    {
+      "category": "餐點",
+      "amount": -22298.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
     {
       "category": "住",
       "amount": -20185.0,
       "icon": "🏠",
       "color": "#60A5FA",
       "group": "fixed"
-    },
-    {
-      "category": "餐點",
-      "amount": -20015.0,
-      "icon": "🍱",
-      "color": "#F87171",
-      "group": "variable"
     },
     {
       "category": "訂閱",
@@ -64,7 +64,7 @@
     },
     {
       "category": "飲料",
-      "amount": -1900.0,
+      "amount": -2147.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -784,6 +784,44 @@
       ]
     },
     {
+      "date": "2026-05-23",
+      "total": -2530.0,
+      "items": [
+        {
+          "date": "2026-05-23",
+          "category": "飲料",
+          "item": "mateas",
+          "amount": -177.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-23",
+          "category": "飲料",
+          "item": "uno tea",
+          "amount": -70.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-23",
+          "category": "餐點",
+          "item": "anini poke bowl",
+          "amount": -484.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-23",
+          "category": "餐點",
+          "item": "料韓男",
+          "amount": -1799.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-05-25",
       "total": -11623.0,
       "items": [
@@ -1333,6 +1371,38 @@
       "item": "盲盒×2",
       "amount": -570.0,
       "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-23",
+      "category": "飲料",
+      "item": "mateas",
+      "amount": -177.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-23",
+      "category": "飲料",
+      "item": "uno tea",
+      "amount": -70.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-23",
+      "category": "餐點",
+      "item": "anini poke bowl",
+      "amount": -484.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-23",
+      "category": "餐點",
+      "item": "料韓男",
+      "amount": -1799.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

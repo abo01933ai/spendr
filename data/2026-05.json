@@ -2,13 +2,13 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -96248.0,
+  "total": -98126.0,
   "fixedTotal": -41514.0,
-  "variableTotal": -54734.0,
+  "variableTotal": -56612.0,
   "categories": [
     {
       "category": "餐點",
-      "amount": -22298.0,
+      "amount": -24106.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -56,17 +56,17 @@
       "group": "variable"
     },
     {
+      "category": "飲料",
+      "amount": -2217.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "學習",
       "amount": -2190.0,
       "icon": "📚",
       "color": "#94A3B8",
-      "group": "variable"
-    },
-    {
-      "category": "飲料",
-      "amount": -2147.0,
-      "icon": "🧋",
-      "color": "#FB923C",
       "group": "variable"
     },
     {
@@ -822,6 +822,36 @@
       ]
     },
     {
+      "date": "2026-05-24",
+      "total": -1878.0,
+      "items": [
+        {
+          "date": "2026-05-24",
+          "category": "餐點",
+          "item": "飯糰",
+          "amount": -202.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-24",
+          "category": "餐點",
+          "item": "橫濱牛排",
+          "amount": -1606.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-24",
+          "category": "飲料",
+          "item": "檸檬蘇打",
+          "amount": -70.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-05-25",
       "total": -11623.0,
       "items": [
@@ -1403,6 +1433,30 @@
       "item": "料韓男",
       "amount": -1799.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-24",
+      "category": "餐點",
+      "item": "飯糰",
+      "amount": -202.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-24",
+      "category": "餐點",
+      "item": "橫濱牛排",
+      "amount": -1606.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-24",
+      "category": "飲料",
+      "item": "檸檬蘇打",
+      "amount": -70.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

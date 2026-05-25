@@ -2,10 +2,17 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -98126.0,
-  "fixedTotal": -41514.0,
+  "total": -116126.0,
+  "fixedTotal": -59514.0,
   "variableTotal": -56612.0,
   "categories": [
+    {
+      "category": "訂閱",
+      "amount": -31899.0,
+      "icon": "📱",
+      "color": "#94e1df",
+      "group": "fixed"
+    },
     {
       "category": "餐點",
       "amount": -24106.0,
@@ -18,13 +25,6 @@
       "amount": -20185.0,
       "icon": "🏠",
       "color": "#60A5FA",
-      "group": "fixed"
-    },
-    {
-      "category": "訂閱",
-      "amount": -13899.0,
-      "icon": "📱",
-      "color": "#94e1df",
       "group": "fixed"
     },
     {
@@ -853,7 +853,7 @@
     },
     {
       "date": "2026-05-25",
-      "total": -11623.0,
+      "total": -29623.0,
       "items": [
         {
           "date": "2026-05-25",
@@ -861,6 +861,14 @@
           "item": "房貸",
           "amount": -11623.0,
           "icon": "🏠",
+          "group": "fixed"
+        },
+        {
+          "date": "2026-05-25",
+          "category": "訂閱",
+          "item": "投顧波段多半年費",
+          "amount": -18000.0,
+          "icon": "📱",
           "group": "fixed"
         }
       ]
@@ -1465,6 +1473,14 @@
       "item": "房貸",
       "amount": -11623.0,
       "icon": "🏠",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-05-25",
+      "category": "訂閱",
+      "item": "投顧波段多半年費",
+      "amount": -18000.0,
+      "icon": "📱",
       "group": "fixed"
     }
   ]

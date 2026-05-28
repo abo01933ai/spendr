@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -117626.0,
+  "total": -118811.0,
   "fixedTotal": -59514.0,
-  "variableTotal": -58112.0,
+  "variableTotal": -59297.0,
   "categories": [
     {
       "category": "訂閱",
@@ -91,6 +91,13 @@
       "group": "variable"
     },
     {
+      "category": "保健",
+      "amount": -1305.0,
+      "icon": "💊",
+      "color": "#4ADE80",
+      "group": "variable"
+    },
+    {
       "category": "服飾",
       "amount": -1190.0,
       "icon": "👕",
@@ -115,13 +122,6 @@
       "category": "醫療",
       "amount": -250.0,
       "icon": "🏥",
-      "color": "#4ADE80",
-      "group": "variable"
-    },
-    {
-      "category": "保健",
-      "amount": -120.0,
-      "icon": "💊",
       "color": "#4ADE80",
       "group": "variable"
     }
@@ -886,6 +886,20 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-05-28",
+      "total": -1185.0,
+      "items": [
+        {
+          "date": "2026-05-28",
+          "category": "保健",
+          "item": "DHC蝦紅素",
+          "amount": -1185.0,
+          "icon": "💊",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1503,6 +1517,14 @@
       "item": "台灣之心",
       "amount": -1500.0,
       "icon": "🙏",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-28",
+      "category": "保健",
+      "item": "DHC蝦紅素",
+      "amount": -1185.0,
+      "icon": "💊",
       "group": "variable"
     }
   ]

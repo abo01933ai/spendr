@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -118811.0,
+  "total": -122653.0,
   "fixedTotal": -59514.0,
-  "variableTotal": -59297.0,
+  "variableTotal": -63139.0,
   "categories": [
     {
       "category": "訂閱",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -24106.0,
+      "amount": -27948.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -900,6 +900,28 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-05-29",
+      "total": -3842.0,
+      "items": [
+        {
+          "date": "2026-05-29",
+          "category": "餐點",
+          "item": "好運燒肉",
+          "amount": -3355.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-29",
+          "category": "餐點",
+          "item": "麥當勞",
+          "amount": -487.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1525,6 +1547,22 @@
       "item": "DHC蝦紅素",
       "amount": -1185.0,
       "icon": "💊",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-29",
+      "category": "餐點",
+      "item": "好運燒肉",
+      "amount": -3355.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-29",
+      "category": "餐點",
+      "item": "麥當勞",
+      "amount": -487.0,
+      "icon": "🍱",
       "group": "variable"
     }
   ]

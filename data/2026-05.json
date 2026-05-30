@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -122653.0,
+  "total": -124986.0,
   "fixedTotal": -59514.0,
-  "variableTotal": -63139.0,
+  "variableTotal": -65472.0,
   "categories": [
     {
       "category": "訂閱",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -27948.0,
+      "amount": -29651.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -64,7 +64,7 @@
     },
     {
       "category": "飲料",
-      "amount": -2217.0,
+      "amount": -2847.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -922,6 +922,36 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-05-30",
+      "total": -2333.0,
+      "items": [
+        {
+          "date": "2026-05-30",
+          "category": "餐點",
+          "item": "atipic可麗餅",
+          "amount": -1703.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-30",
+          "category": "飲料",
+          "item": "雀巢膠囊咖啡",
+          "amount": -600.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-30",
+          "category": "飲料",
+          "item": "清心",
+          "amount": -30.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1563,6 +1593,30 @@
       "item": "麥當勞",
       "amount": -487.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-30",
+      "category": "餐點",
+      "item": "atipic可麗餅",
+      "amount": -1703.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-30",
+      "category": "飲料",
+      "item": "雀巢膠囊咖啡",
+      "amount": -600.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-30",
+      "category": "飲料",
+      "item": "清心",
+      "amount": -30.0,
+      "icon": "🧋",
       "group": "variable"
     }
   ]

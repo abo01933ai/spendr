@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -124986.0,
+  "total": -126119.0,
   "fixedTotal": -59514.0,
-  "variableTotal": -65472.0,
+  "variableTotal": -66605.0,
   "categories": [
     {
       "category": "訂閱",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -29651.0,
+      "amount": -30359.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -50,7 +50,7 @@
     },
     {
       "category": "娛樂",
-      "amount": -3687.0,
+      "amount": -4067.0,
       "icon": "🎮",
       "color": "#A78BFA",
       "group": "variable"
@@ -64,7 +64,7 @@
     },
     {
       "category": "飲料",
-      "amount": -2847.0,
+      "amount": -2892.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -952,6 +952,36 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-05-31",
+      "total": -1133.0,
+      "items": [
+        {
+          "date": "2026-05-31",
+          "category": "餐點",
+          "item": "漢神美食街",
+          "amount": -708.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-31",
+          "category": "飲料",
+          "item": "大茗",
+          "amount": -45.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-31",
+          "category": "娛樂",
+          "item": "招財貓盲盒",
+          "amount": -380.0,
+          "icon": "🎮",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1617,6 +1647,30 @@
       "item": "清心",
       "amount": -30.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-31",
+      "category": "餐點",
+      "item": "漢神美食街",
+      "amount": -708.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-31",
+      "category": "飲料",
+      "item": "大茗",
+      "amount": -45.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-31",
+      "category": "娛樂",
+      "item": "招財貓盲盒",
+      "amount": -380.0,
+      "icon": "🎮",
       "group": "variable"
     }
   ]

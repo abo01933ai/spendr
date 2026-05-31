@@ -2,9 +2,9 @@
   "month": "2026-05",
   "year": 2026,
   "monthNum": 5,
-  "total": -126119.0,
+  "total": -126457.0,
   "fixedTotal": -59514.0,
-  "variableTotal": -66605.0,
+  "variableTotal": -66943.0,
   "categories": [
     {
       "category": "訂閱",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -30359.0,
+      "amount": -30697.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -955,7 +955,7 @@
     },
     {
       "date": "2026-05-31",
-      "total": -1133.0,
+      "total": -1471.0,
       "items": [
         {
           "date": "2026-05-31",
@@ -979,6 +979,14 @@
           "item": "招財貓盲盒",
           "amount": -380.0,
           "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-05-31",
+          "category": "餐點",
+          "item": "雞肉本家",
+          "amount": -338.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -1671,6 +1679,14 @@
       "item": "招財貓盲盒",
       "amount": -380.0,
       "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-05-31",
+      "category": "餐點",
+      "item": "雞肉本家",
+      "amount": -338.0,
+      "icon": "🍱",
       "group": "variable"
     }
   ]

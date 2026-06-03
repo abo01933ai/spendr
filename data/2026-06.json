@@ -2,9 +2,9 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -39765.0,
+  "total": -40985.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -271.0,
+  "variableTotal": -1491.0,
   "categories": [
     {
       "category": "訂閱",
@@ -28,6 +28,13 @@
       "group": "fixed"
     },
     {
+      "category": "美容",
+      "amount": -1100.0,
+      "icon": "💇",
+      "color": "#C084FC",
+      "group": "variable"
+    },
+    {
       "category": "運動",
       "amount": -888.0,
       "icon": "🏋️",
@@ -36,7 +43,7 @@
     },
     {
       "category": "餐點",
-      "amount": -271.0,
+      "amount": -391.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -59,13 +66,37 @@
     },
     {
       "date": "2026-06-03",
-      "total": -271.0,
+      "total": -1491.0,
       "items": [
         {
           "date": "2026-06-03",
           "category": "餐點",
           "item": "麥當勞",
           "amount": -271.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-03",
+          "category": "美容",
+          "item": "洗加剪",
+          "amount": -700.0,
+          "icon": "💇",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-03",
+          "category": "美容",
+          "item": "按摩",
+          "amount": -400.0,
+          "icon": "💇",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-03",
+          "category": "餐點",
+          "item": "雞排",
+          "amount": -120.0,
           "icon": "🍱",
           "group": "variable"
         }
@@ -158,6 +189,30 @@
       "category": "餐點",
       "item": "麥當勞",
       "amount": -271.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-03",
+      "category": "美容",
+      "item": "洗加剪",
+      "amount": -700.0,
+      "icon": "💇",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-03",
+      "category": "美容",
+      "item": "按摩",
+      "amount": -400.0,
+      "icon": "💇",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-03",
+      "category": "餐點",
+      "item": "雞排",
+      "amount": -120.0,
       "icon": "🍱",
       "group": "variable"
     },

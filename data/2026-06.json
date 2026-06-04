@@ -2,9 +2,9 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -40985.0,
+  "total": -41727.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -1491.0,
+  "variableTotal": -2233.0,
   "categories": [
     {
       "category": "訂閱",
@@ -35,6 +35,13 @@
       "group": "variable"
     },
     {
+      "category": "餐點",
+      "amount": -911.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
+    {
       "category": "運動",
       "amount": -888.0,
       "icon": "🏋️",
@@ -42,10 +49,10 @@
       "group": "fixed"
     },
     {
-      "category": "餐點",
-      "amount": -391.0,
-      "icon": "🍱",
-      "color": "#F87171",
+      "category": "飲料",
+      "amount": -222.0,
+      "icon": "🧋",
+      "color": "#FB923C",
       "group": "variable"
     }
   ],
@@ -98,6 +105,28 @@
           "item": "雞排",
           "amount": -120.0,
           "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "total": -742.0,
+      "items": [
+        {
+          "date": "2026-06-04",
+          "category": "餐點",
+          "item": "老王酸菜白肉麵",
+          "amount": -520.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-04",
+          "category": "飲料",
+          "item": "50嵐",
+          "amount": -222.0,
+          "icon": "🧋",
           "group": "variable"
         }
       ]
@@ -214,6 +243,22 @@
       "item": "雞排",
       "amount": -120.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-04",
+      "category": "餐點",
+      "item": "老王酸菜白肉麵",
+      "amount": -520.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-04",
+      "category": "飲料",
+      "item": "50嵐",
+      "amount": -222.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

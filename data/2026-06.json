@@ -2,9 +2,9 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -41727.0,
+  "total": -42572.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -2233.0,
+  "variableTotal": -3078.0,
   "categories": [
     {
       "category": "訂閱",
@@ -28,17 +28,17 @@
       "group": "fixed"
     },
     {
+      "category": "餐點",
+      "amount": -1526.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
+    {
       "category": "美容",
       "amount": -1100.0,
       "icon": "💇",
       "color": "#C084FC",
-      "group": "variable"
-    },
-    {
-      "category": "餐點",
-      "amount": -911.0,
-      "icon": "🍱",
-      "color": "#F87171",
       "group": "variable"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "category": "飲料",
-      "amount": -222.0,
+      "amount": -452.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -126,6 +126,28 @@
           "category": "飲料",
           "item": "50嵐",
           "amount": -222.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "total": -845.0,
+      "items": [
+        {
+          "date": "2026-06-06",
+          "category": "餐點",
+          "item": "白妞鹽酥雞",
+          "amount": -615.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-06",
+          "category": "飲料",
+          "item": "可不可",
+          "amount": -230.0,
           "icon": "🧋",
           "group": "variable"
         }
@@ -258,6 +280,22 @@
       "category": "飲料",
       "item": "50嵐",
       "amount": -222.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-06",
+      "category": "餐點",
+      "item": "白妞鹽酥雞",
+      "amount": -615.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-06",
+      "category": "飲料",
+      "item": "可不可",
+      "amount": -230.0,
       "icon": "🧋",
       "group": "variable"
     },

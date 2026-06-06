@@ -2,9 +2,9 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -42572.0,
+  "total": -44193.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -3078.0,
+  "variableTotal": -4699.0,
   "categories": [
     {
       "category": "訂閱",
@@ -26,6 +26,13 @@
       "icon": "🏠",
       "color": "#60A5FA",
       "group": "fixed"
+    },
+    {
+      "category": "學習",
+      "amount": -1621.0,
+      "icon": "📚",
+      "color": "#94A3B8",
+      "group": "variable"
     },
     {
       "category": "餐點",
@@ -133,7 +140,7 @@
     },
     {
       "date": "2026-06-06",
-      "total": -845.0,
+      "total": -2466.0,
       "items": [
         {
           "date": "2026-06-06",
@@ -149,6 +156,14 @@
           "item": "可不可",
           "amount": -230.0,
           "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-06",
+          "category": "學習",
+          "item": "書（投資人的生存戰役、蘋果之道、槓桿ETF投資法、交易聖經）",
+          "amount": -1621.0,
+          "icon": "📚",
           "group": "variable"
         }
       ]
@@ -297,6 +312,14 @@
       "item": "可不可",
       "amount": -230.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-06",
+      "category": "學習",
+      "item": "書（投資人的生存戰役、蘋果之道、槓桿ETF投資法、交易聖經）",
+      "amount": -1621.0,
+      "icon": "📚",
       "group": "variable"
     },
     {

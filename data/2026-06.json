@@ -2,9 +2,9 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -47212.0,
+  "total": -52294.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -7718.0,
+  "variableTotal": -12800.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,9 +29,16 @@
     },
     {
       "category": "餐點",
-      "amount": -2829.0,
+      "amount": -6069.0,
       "icon": "🍱",
       "color": "#F87171",
+      "group": "variable"
+    },
+    {
+      "category": "購物",
+      "amount": -1842.0,
+      "icon": "🛍️",
+      "color": "#F472B6",
       "group": "variable"
     },
     {
@@ -177,7 +184,7 @@
     },
     {
       "date": "2026-06-07",
-      "total": -3019.0,
+      "total": -8101.0,
       "items": [
         {
           "date": "2026-06-07",
@@ -201,6 +208,38 @@
           "item": "麻古",
           "amount": -136.0,
           "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-07",
+          "category": "餐點",
+          "item": "黑毛屋",
+          "amount": -3074.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-07",
+          "category": "購物",
+          "item": "Lopia",
+          "amount": -667.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-07",
+          "category": "購物",
+          "item": "姜泡菜",
+          "amount": -1175.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-07",
+          "category": "餐點",
+          "item": "點心",
+          "amount": -166.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -381,6 +420,38 @@
       "item": "麻古",
       "amount": -136.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-07",
+      "category": "餐點",
+      "item": "黑毛屋",
+      "amount": -3074.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-07",
+      "category": "購物",
+      "item": "Lopia",
+      "amount": -667.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-07",
+      "category": "購物",
+      "item": "姜泡菜",
+      "amount": -1175.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-07",
+      "category": "餐點",
+      "item": "點心",
+      "amount": -166.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

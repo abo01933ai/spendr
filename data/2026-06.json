@@ -2,9 +2,9 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -44193.0,
+  "total": -47212.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -4699.0,
+  "variableTotal": -7718.0,
   "categories": [
     {
       "category": "訂閱",
@@ -28,6 +28,13 @@
       "group": "fixed"
     },
     {
+      "category": "餐點",
+      "amount": -2829.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
+    {
       "category": "學習",
       "amount": -1621.0,
       "icon": "📚",
@@ -35,10 +42,10 @@
       "group": "variable"
     },
     {
-      "category": "餐點",
-      "amount": -1526.0,
-      "icon": "🍱",
-      "color": "#F87171",
+      "category": "交通",
+      "amount": -1580.0,
+      "icon": "🚗",
+      "color": "#38BDF8",
       "group": "variable"
     },
     {
@@ -57,7 +64,7 @@
     },
     {
       "category": "飲料",
-      "amount": -452.0,
+      "amount": -588.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -164,6 +171,36 @@
           "item": "書（投資人的生存戰役、蘋果之道、槓桿ETF投資法、交易聖經）",
           "amount": -1621.0,
           "icon": "📚",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-07",
+      "total": -3019.0,
+      "items": [
+        {
+          "date": "2026-06-07",
+          "category": "交通",
+          "item": "高鐵左營台中來回",
+          "amount": -1580.0,
+          "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-07",
+          "category": "餐點",
+          "item": "大戶屋",
+          "amount": -1303.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-07",
+          "category": "飲料",
+          "item": "麻古",
+          "amount": -136.0,
+          "icon": "🧋",
           "group": "variable"
         }
       ]
@@ -320,6 +357,30 @@
       "item": "書（投資人的生存戰役、蘋果之道、槓桿ETF投資法、交易聖經）",
       "amount": -1621.0,
       "icon": "📚",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-07",
+      "category": "交通",
+      "item": "高鐵左營台中來回",
+      "amount": -1580.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-07",
+      "category": "餐點",
+      "item": "大戶屋",
+      "amount": -1303.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-07",
+      "category": "飲料",
+      "item": "麻古",
+      "amount": -136.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

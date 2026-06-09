@@ -2,9 +2,9 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -52294.0,
+  "total": -52424.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -12800.0,
+  "variableTotal": -12930.0,
   "categories": [
     {
       "category": "訂閱",
@@ -36,7 +36,7 @@
     },
     {
       "category": "購物",
-      "amount": -1842.0,
+      "amount": -1972.0,
       "icon": "🛍️",
       "color": "#F472B6",
       "group": "variable"
@@ -240,6 +240,20 @@
           "item": "點心",
           "amount": -166.0,
           "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "total": -130.0,
+      "items": [
+        {
+          "date": "2026-06-09",
+          "category": "購物",
+          "item": "Mac 小程式",
+          "amount": -130.0,
+          "icon": "🛍️",
           "group": "variable"
         }
       ]
@@ -452,6 +466,14 @@
       "item": "點心",
       "amount": -166.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-09",
+      "category": "購物",
+      "item": "Mac 小程式",
+      "amount": -130.0,
+      "icon": "🛍️",
       "group": "variable"
     },
     {

@@ -2,9 +2,9 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -52424.0,
+  "total": -52693.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -12930.0,
+  "variableTotal": -13199.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -6069.0,
+      "amount": -6338.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -260,7 +260,7 @@
     },
     {
       "date": "2026-06-10",
-      "total": -888.0,
+      "total": -1157.0,
       "items": [
         {
           "date": "2026-06-10",
@@ -269,6 +269,14 @@
           "amount": -888.0,
           "icon": "🏋️",
           "group": "fixed"
+        },
+        {
+          "date": "2026-06-10",
+          "category": "餐點",
+          "item": "鮮口福包子",
+          "amount": -269.0,
+          "icon": "🍱",
+          "group": "variable"
         }
       ]
     },
@@ -483,6 +491,14 @@
       "amount": -888.0,
       "icon": "🏋️",
       "group": "fixed"
+    },
+    {
+      "date": "2026-06-10",
+      "category": "餐點",
+      "item": "鮮口福包子",
+      "amount": -269.0,
+      "icon": "🍱",
+      "group": "variable"
     },
     {
       "date": "2026-06-15",

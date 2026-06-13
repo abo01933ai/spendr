@@ -2,9 +2,9 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -52693.0,
+  "total": -53117.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -13199.0,
+  "variableTotal": -13623.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -6338.0,
+      "amount": -6762.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -275,6 +275,28 @@
           "category": "餐點",
           "item": "鮮口福包子",
           "amount": -269.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "total": -424.0,
+      "items": [
+        {
+          "date": "2026-06-13",
+          "category": "餐點",
+          "item": "美之城",
+          "amount": -344.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-13",
+          "category": "餐點",
+          "item": "心僕優格",
+          "amount": -80.0,
           "icon": "🍱",
           "group": "variable"
         }
@@ -531,6 +553,22 @@
       "amount": -13084.0,
       "icon": "💳",
       "group": "fixed"
+    },
+    {
+      "date": "2026-06-13",
+      "category": "餐點",
+      "item": "美之城",
+      "amount": -344.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-13",
+      "category": "餐點",
+      "item": "心僕優格",
+      "amount": -80.0,
+      "icon": "🍱",
+      "group": "variable"
     },
     {
       "date": "2026-06-25",

@@ -2,9 +2,9 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -53117.0,
+  "total": -56807.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -13623.0,
+  "variableTotal": -17313.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -6762.0,
+      "amount": -10452.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -282,7 +282,7 @@
     },
     {
       "date": "2026-06-13",
-      "total": -424.0,
+      "total": -4114.0,
       "items": [
         {
           "date": "2026-06-13",
@@ -297,6 +297,30 @@
           "category": "餐點",
           "item": "心僕優格",
           "amount": -80.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-13",
+          "category": "餐點",
+          "item": "芒果",
+          "amount": -149.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-13",
+          "category": "餐點",
+          "item": "得正",
+          "amount": -247.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-13",
+          "category": "餐點",
+          "item": "饗麻饗辣",
+          "amount": -3294.0,
           "icon": "🍱",
           "group": "variable"
         }
@@ -567,6 +591,30 @@
       "category": "餐點",
       "item": "心僕優格",
       "amount": -80.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-13",
+      "category": "餐點",
+      "item": "芒果",
+      "amount": -149.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-13",
+      "category": "餐點",
+      "item": "得正",
+      "amount": -247.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-13",
+      "category": "餐點",
+      "item": "饗麻饗辣",
+      "amount": -3294.0,
       "icon": "🍱",
       "group": "variable"
     },

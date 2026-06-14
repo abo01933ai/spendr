@@ -2,9 +2,9 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -56807.0,
+  "total": -57823.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -17313.0,
+  "variableTotal": -18329.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -10452.0,
+      "amount": -11388.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -71,7 +71,7 @@
     },
     {
       "category": "飲料",
-      "amount": -588.0,
+      "amount": -668.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -294,10 +294,10 @@
         },
         {
           "date": "2026-06-13",
-          "category": "餐點",
+          "category": "飲料",
           "item": "心僕優格",
           "amount": -80.0,
-          "icon": "🍱",
+          "icon": "🧋",
           "group": "variable"
         },
         {
@@ -321,6 +321,28 @@
           "category": "餐點",
           "item": "饗麻饗辣",
           "amount": -3294.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-14",
+      "total": -1016.0,
+      "items": [
+        {
+          "date": "2026-06-14",
+          "category": "餐點",
+          "item": "anini+六星炸雞",
+          "amount": -508.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-14",
+          "category": "餐點",
+          "item": "anini + 六星炸雞",
+          "amount": -508.0,
           "icon": "🍱",
           "group": "variable"
         }
@@ -547,6 +569,54 @@
       "group": "variable"
     },
     {
+      "date": "2026-06-13",
+      "category": "餐點",
+      "item": "美之城",
+      "amount": -344.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-13",
+      "category": "飲料",
+      "item": "心僕優格",
+      "amount": -80.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-13",
+      "category": "餐點",
+      "item": "芒果",
+      "amount": -149.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-13",
+      "category": "餐點",
+      "item": "得正",
+      "amount": -247.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-13",
+      "category": "餐點",
+      "item": "饗麻饗辣",
+      "amount": -3294.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-14",
+      "category": "餐點",
+      "item": "anini+六星炸雞",
+      "amount": -508.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
       "date": "2026-06-15",
       "category": "訂閱",
       "item": "訂閱費",
@@ -579,42 +649,10 @@
       "group": "fixed"
     },
     {
-      "date": "2026-06-13",
+      "date": "2026-06-14",
       "category": "餐點",
-      "item": "美之城",
-      "amount": -344.0,
-      "icon": "🍱",
-      "group": "variable"
-    },
-    {
-      "date": "2026-06-13",
-      "category": "餐點",
-      "item": "心僕優格",
-      "amount": -80.0,
-      "icon": "🍱",
-      "group": "variable"
-    },
-    {
-      "date": "2026-06-13",
-      "category": "餐點",
-      "item": "芒果",
-      "amount": -149.0,
-      "icon": "🍱",
-      "group": "variable"
-    },
-    {
-      "date": "2026-06-13",
-      "category": "餐點",
-      "item": "得正",
-      "amount": -247.0,
-      "icon": "🍱",
-      "group": "variable"
-    },
-    {
-      "date": "2026-06-13",
-      "category": "餐點",
-      "item": "饗麻饗辣",
-      "amount": -3294.0,
+      "item": "anini + 六星炸雞",
+      "amount": -508.0,
       "icon": "🍱",
       "group": "variable"
     },

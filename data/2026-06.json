@@ -2,9 +2,9 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -57823.0,
+  "total": -57873.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -18329.0,
+  "variableTotal": -18379.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -11388.0,
+      "amount": -10880.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -74,6 +74,13 @@
       "amount": -668.0,
       "icon": "🧋",
       "color": "#FB923C",
+      "group": "variable"
+    },
+    {
+      "category": "寵物",
+      "amount": -558.0,
+      "icon": "🐈",
+      "color": "#FBBF24",
       "group": "variable"
     }
   ],
@@ -328,22 +335,22 @@
     },
     {
       "date": "2026-06-14",
-      "total": -1016.0,
+      "total": -1066.0,
       "items": [
-        {
-          "date": "2026-06-14",
-          "category": "餐點",
-          "item": "anini+六星炸雞",
-          "amount": -508.0,
-          "icon": "🍱",
-          "group": "variable"
-        },
         {
           "date": "2026-06-14",
           "category": "餐點",
           "item": "anini + 六星炸雞",
           "amount": -508.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-14",
+          "category": "寵物",
+          "item": "pidan 貓砂",
+          "amount": -558.0,
+          "icon": "🐈",
           "group": "variable"
         }
       ]
@@ -611,9 +618,17 @@
     {
       "date": "2026-06-14",
       "category": "餐點",
-      "item": "anini+六星炸雞",
+      "item": "anini + 六星炸雞",
       "amount": -508.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-14",
+      "category": "寵物",
+      "item": "pidan 貓砂",
+      "amount": -558.0,
+      "icon": "🐈",
       "group": "variable"
     },
     {
@@ -647,14 +662,6 @@
       "amount": -13084.0,
       "icon": "💳",
       "group": "fixed"
-    },
-    {
-      "date": "2026-06-14",
-      "category": "餐點",
-      "item": "anini + 六星炸雞",
-      "amount": -508.0,
-      "icon": "🍱",
-      "group": "variable"
     },
     {
       "date": "2026-06-25",

@@ -2,9 +2,9 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -61449.0,
+  "total": -62699.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -21955.0,
+  "variableTotal": -23205.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -10880.0,
+      "amount": -11370.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -75,6 +75,13 @@
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
+    },
+    {
+      "category": "娛樂",
+      "amount": -760.0,
+      "icon": "🎮",
+      "color": "#A78BFA",
+      "group": "variable"
     },
     {
       "category": "飲料",
@@ -387,7 +394,7 @@
     },
     {
       "date": "2026-06-16",
-      "total": -3576.0,
+      "total": -4826.0,
       "items": [
         {
           "date": "2026-06-16",
@@ -395,6 +402,22 @@
           "item": "汪喵滴雞精×4 + 零食",
           "amount": -3576.0,
           "icon": "🐈",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-16",
+          "category": "娛樂",
+          "item": "招財貓盲盒",
+          "amount": -760.0,
+          "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-16",
+          "category": "餐點",
+          "item": "可頌 + 咖啡",
+          "amount": -490.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -675,6 +698,22 @@
       "item": "汪喵滴雞精×4 + 零食",
       "amount": -3576.0,
       "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-16",
+      "category": "娛樂",
+      "item": "招財貓盲盒",
+      "amount": -760.0,
+      "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-16",
+      "category": "餐點",
+      "item": "可頌 + 咖啡",
+      "amount": -490.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

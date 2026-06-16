@@ -2,9 +2,9 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -57873.0,
+  "total": -61449.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -18379.0,
+  "variableTotal": -21955.0,
   "categories": [
     {
       "category": "訂閱",
@@ -32,6 +32,13 @@
       "amount": -10880.0,
       "icon": "🍱",
       "color": "#F87171",
+      "group": "variable"
+    },
+    {
+      "category": "寵物",
+      "amount": -4134.0,
+      "icon": "🐈",
+      "color": "#FBBF24",
       "group": "variable"
     },
     {
@@ -74,13 +81,6 @@
       "amount": -668.0,
       "icon": "🧋",
       "color": "#FB923C",
-      "group": "variable"
-    },
-    {
-      "category": "寵物",
-      "amount": -558.0,
-      "icon": "🐈",
-      "color": "#FBBF24",
       "group": "variable"
     }
   ],
@@ -386,6 +386,20 @@
       ]
     },
     {
+      "date": "2026-06-16",
+      "total": -3576.0,
+      "items": [
+        {
+          "date": "2026-06-16",
+          "category": "寵物",
+          "item": "汪喵滴雞精×4 + 零食",
+          "amount": -3576.0,
+          "icon": "🐈",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-06-20",
       "total": -13084.0,
       "items": [
@@ -654,6 +668,14 @@
       "amount": -3000.0,
       "icon": "📱",
       "group": "fixed"
+    },
+    {
+      "date": "2026-06-16",
+      "category": "寵物",
+      "item": "汪喵滴雞精×4 + 零食",
+      "amount": -3576.0,
+      "icon": "🐈",
+      "group": "variable"
     },
     {
       "date": "2026-06-20",

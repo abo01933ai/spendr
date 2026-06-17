@@ -2,9 +2,9 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -62699.0,
+  "total": -64782.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -23205.0,
+  "variableTotal": -25288.0,
   "categories": [
     {
       "category": "訂閱",
@@ -36,7 +36,7 @@
     },
     {
       "category": "寵物",
-      "amount": -4134.0,
+      "amount": -5902.0,
       "icon": "🐈",
       "color": "#FBBF24",
       "group": "variable"
@@ -88,6 +88,13 @@
       "amount": -668.0,
       "icon": "🧋",
       "color": "#FB923C",
+      "group": "variable"
+    },
+    {
+      "category": "服飾",
+      "amount": -315.0,
+      "icon": "👕",
+      "color": "#F472B6",
       "group": "variable"
     }
   ],
@@ -423,6 +430,28 @@
       ]
     },
     {
+      "date": "2026-06-18",
+      "total": -2083.0,
+      "items": [
+        {
+          "date": "2026-06-18",
+          "category": "寵物",
+          "item": "皇家貓濕糧×60",
+          "amount": -1768.0,
+          "icon": "🐈",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-18",
+          "category": "服飾",
+          "item": "襪子",
+          "amount": -315.0,
+          "icon": "👕",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-06-20",
       "total": -13084.0,
       "items": [
@@ -714,6 +743,22 @@
       "item": "可頌 + 咖啡",
       "amount": -490.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-18",
+      "category": "寵物",
+      "item": "皇家貓濕糧×60",
+      "amount": -1768.0,
+      "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-18",
+      "category": "服飾",
+      "item": "襪子",
+      "amount": -315.0,
+      "icon": "👕",
       "group": "variable"
     },
     {

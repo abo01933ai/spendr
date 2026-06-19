@@ -2,9 +2,9 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -66777.0,
+  "total": -67025.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -27283.0,
+  "variableTotal": -27531.0,
   "categories": [
     {
       "category": "訂閱",
@@ -36,7 +36,7 @@
     },
     {
       "category": "寵物",
-      "amount": -5902.0,
+      "amount": -6101.0,
       "icon": "🐈",
       "color": "#FBBF24",
       "group": "variable"
@@ -85,7 +85,7 @@
     },
     {
       "category": "飲料",
-      "amount": -775.0,
+      "amount": -824.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -453,7 +453,7 @@
     },
     {
       "date": "2026-06-19",
-      "total": -1995.0,
+      "total": -2243.0,
       "items": [
         {
           "date": "2026-06-19",
@@ -501,6 +501,22 @@
           "item": "玩具",
           "amount": -565.0,
           "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-19",
+          "category": "寵物",
+          "item": "貓刷牙工具",
+          "amount": -199.0,
+          "icon": "🐈",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-19",
+          "category": "飲料",
+          "item": "瓶裝飲料",
+          "amount": -49.0,
+          "icon": "🧋",
           "group": "variable"
         }
       ]
@@ -861,6 +877,22 @@
       "item": "玩具",
       "amount": -565.0,
       "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-19",
+      "category": "寵物",
+      "item": "貓刷牙工具",
+      "amount": -199.0,
+      "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-19",
+      "category": "飲料",
+      "item": "瓶裝飲料",
+      "amount": -49.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

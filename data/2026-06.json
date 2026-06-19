@@ -2,9 +2,9 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -64782.0,
+  "total": -66777.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -25288.0,
+  "variableTotal": -27283.0,
   "categories": [
     {
       "category": "訂閱",
@@ -21,18 +21,18 @@
       "group": "fixed"
     },
     {
+      "category": "餐點",
+      "amount": -12383.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
+    {
       "category": "住",
       "amount": -11623.0,
       "icon": "🏠",
       "color": "#60A5FA",
       "group": "fixed"
-    },
-    {
-      "category": "餐點",
-      "amount": -11370.0,
-      "icon": "🍱",
-      "color": "#F87171",
-      "group": "variable"
     },
     {
       "category": "寵物",
@@ -46,6 +46,13 @@
       "amount": -1972.0,
       "icon": "🛍️",
       "color": "#F472B6",
+      "group": "variable"
+    },
+    {
+      "category": "娛樂",
+      "amount": -1635.0,
+      "icon": "🎮",
+      "color": "#A78BFA",
       "group": "variable"
     },
     {
@@ -77,15 +84,8 @@
       "group": "fixed"
     },
     {
-      "category": "娛樂",
-      "amount": -760.0,
-      "icon": "🎮",
-      "color": "#A78BFA",
-      "group": "variable"
-    },
-    {
       "category": "飲料",
-      "amount": -668.0,
+      "amount": -775.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -452,6 +452,60 @@
       ]
     },
     {
+      "date": "2026-06-19",
+      "total": -1995.0,
+      "items": [
+        {
+          "date": "2026-06-19",
+          "category": "餐點",
+          "item": "小辛干麻辣乾鍋",
+          "amount": -335.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-19",
+          "category": "餐點",
+          "item": "牛喜壽喜燒",
+          "amount": -678.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-19",
+          "category": "娛樂",
+          "item": "電影驚聲尖笑",
+          "amount": -310.0,
+          "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-19",
+          "category": "飲料",
+          "item": "咖啡",
+          "amount": -60.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-19",
+          "category": "飲料",
+          "item": "水",
+          "amount": -47.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-19",
+          "category": "娛樂",
+          "item": "玩具",
+          "amount": -565.0,
+          "icon": "🎮",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-06-20",
       "total": -13084.0,
       "items": [
@@ -759,6 +813,54 @@
       "item": "襪子",
       "amount": -315.0,
       "icon": "👕",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-19",
+      "category": "餐點",
+      "item": "小辛干麻辣乾鍋",
+      "amount": -335.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-19",
+      "category": "餐點",
+      "item": "牛喜壽喜燒",
+      "amount": -678.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-19",
+      "category": "娛樂",
+      "item": "電影驚聲尖笑",
+      "amount": -310.0,
+      "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-19",
+      "category": "飲料",
+      "item": "咖啡",
+      "amount": -60.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-19",
+      "category": "飲料",
+      "item": "水",
+      "amount": -47.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-19",
+      "category": "娛樂",
+      "item": "玩具",
+      "amount": -565.0,
+      "icon": "🎮",
       "group": "variable"
     },
     {

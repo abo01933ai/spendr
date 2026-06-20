@@ -2,9 +2,9 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -67025.0,
+  "total": -67437.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -27531.0,
+  "variableTotal": -27943.0,
   "categories": [
     {
       "category": "訂閱",
@@ -22,7 +22,7 @@
     },
     {
       "category": "餐點",
-      "amount": -12383.0,
+      "amount": -12683.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -49,6 +49,13 @@
       "group": "variable"
     },
     {
+      "category": "交通",
+      "amount": -1692.0,
+      "icon": "🚗",
+      "color": "#38BDF8",
+      "group": "variable"
+    },
+    {
       "category": "娛樂",
       "amount": -1635.0,
       "icon": "🎮",
@@ -60,13 +67,6 @@
       "amount": -1621.0,
       "icon": "📚",
       "color": "#94A3B8",
-      "group": "variable"
-    },
-    {
-      "category": "交通",
-      "amount": -1580.0,
-      "icon": "🚗",
-      "color": "#38BDF8",
       "group": "variable"
     },
     {
@@ -523,7 +523,7 @@
     },
     {
       "date": "2026-06-20",
-      "total": -13084.0,
+      "total": -13496.0,
       "items": [
         {
           "date": "2026-06-20",
@@ -532,6 +532,22 @@
           "amount": -13084.0,
           "icon": "💳",
           "group": "fixed"
+        },
+        {
+          "date": "2026-06-20",
+          "category": "交通",
+          "item": "加油",
+          "amount": -112.0,
+          "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-20",
+          "category": "餐點",
+          "item": "買菜",
+          "amount": -300.0,
+          "icon": "🍱",
+          "group": "variable"
         }
       ]
     },
@@ -902,6 +918,22 @@
       "amount": -13084.0,
       "icon": "💳",
       "group": "fixed"
+    },
+    {
+      "date": "2026-06-20",
+      "category": "交通",
+      "item": "加油",
+      "amount": -112.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-20",
+      "category": "餐點",
+      "item": "買菜",
+      "amount": -300.0,
+      "icon": "🍱",
+      "group": "variable"
     },
     {
       "date": "2026-06-25",

@@ -2,9 +2,9 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -70354.0,
+  "total": -71454.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -30860.0,
+  "variableTotal": -31960.0,
   "categories": [
     {
       "category": "餐點",
@@ -49,6 +49,13 @@
       "group": "variable"
     },
     {
+      "category": "美容",
+      "amount": -2200.0,
+      "icon": "💇",
+      "color": "#C084FC",
+      "group": "variable"
+    },
+    {
       "category": "交通",
       "amount": -1692.0,
       "icon": "🚗",
@@ -74,13 +81,6 @@
       "amount": -1264.0,
       "icon": "🧋",
       "color": "#FB923C",
-      "group": "variable"
-    },
-    {
-      "category": "美容",
-      "amount": -1100.0,
-      "icon": "💇",
-      "color": "#C084FC",
       "group": "variable"
     },
     {
@@ -453,7 +453,7 @@
     },
     {
       "date": "2026-06-19",
-      "total": -2243.0,
+      "total": -3343.0,
       "items": [
         {
           "date": "2026-06-19",
@@ -517,6 +517,14 @@
           "item": "瓶裝飲料",
           "amount": -49.0,
           "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-19",
+          "category": "美容",
+          "item": "不老松（按摩）",
+          "amount": -1100.0,
+          "icon": "💇",
           "group": "variable"
         }
       ]
@@ -963,6 +971,14 @@
       "item": "瓶裝飲料",
       "amount": -49.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-19",
+      "category": "美容",
+      "item": "不老松（按摩）",
+      "amount": -1100.0,
+      "icon": "💇",
       "group": "variable"
     },
     {

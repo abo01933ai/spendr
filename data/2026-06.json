@@ -2,23 +2,23 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -68072.0,
+  "total": -70354.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -28578.0,
+  "variableTotal": -30860.0,
   "categories": [
+    {
+      "category": "餐點",
+      "amount": -14275.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
     {
       "category": "訂閱",
       "amount": -13899.0,
       "icon": "📱",
       "color": "#94e1df",
       "group": "fixed"
-    },
-    {
-      "category": "餐點",
-      "amount": -13318.0,
-      "icon": "🍱",
-      "color": "#F87171",
-      "group": "variable"
     },
     {
       "category": "財務",
@@ -43,7 +43,7 @@
     },
     {
       "category": "購物",
-      "amount": -1972.0,
+      "amount": -2857.0,
       "icon": "🛍️",
       "color": "#F472B6",
       "group": "variable"
@@ -70,6 +70,13 @@
       "group": "variable"
     },
     {
+      "category": "飲料",
+      "amount": -1264.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "美容",
       "amount": -1100.0,
       "icon": "💇",
@@ -82,13 +89,6 @@
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
-    },
-    {
-      "category": "飲料",
-      "amount": -824.0,
-      "icon": "🧋",
-      "color": "#FB923C",
-      "group": "variable"
     },
     {
       "category": "服飾",
@@ -553,7 +553,7 @@
     },
     {
       "date": "2026-06-21",
-      "total": -635.0,
+      "total": -2917.0,
       "items": [
         {
           "date": "2026-06-21",
@@ -561,6 +561,46 @@
           "item": "買菜",
           "amount": -635.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-21",
+          "category": "購物",
+          "item": "Lopia",
+          "amount": -390.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-21",
+          "category": "購物",
+          "item": "姜泡菜",
+          "amount": -495.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-21",
+          "category": "飲料",
+          "item": "飲料",
+          "amount": -50.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-21",
+          "category": "餐點",
+          "item": "雞三和",
+          "amount": -957.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-21",
+          "category": "飲料",
+          "item": "咖啡",
+          "amount": -390.0,
+          "icon": "🧋",
           "group": "variable"
         }
       ]
@@ -955,6 +995,46 @@
       "item": "買菜",
       "amount": -635.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-21",
+      "category": "購物",
+      "item": "Lopia",
+      "amount": -390.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-21",
+      "category": "購物",
+      "item": "姜泡菜",
+      "amount": -495.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-21",
+      "category": "飲料",
+      "item": "飲料",
+      "amount": -50.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-21",
+      "category": "餐點",
+      "item": "雞三和",
+      "amount": -957.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-21",
+      "category": "飲料",
+      "item": "咖啡",
+      "amount": -390.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

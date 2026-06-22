@@ -2,9 +2,9 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -72582.0,
+  "total": -72617.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -33088.0,
+  "variableTotal": -33123.0,
   "categories": [
     {
       "category": "餐點",
@@ -78,7 +78,7 @@
     },
     {
       "category": "飲料",
-      "amount": -1264.0,
+      "amount": -1299.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -615,7 +615,7 @@
     },
     {
       "date": "2026-06-22",
-      "total": -1128.0,
+      "total": -1163.0,
       "items": [
         {
           "date": "2026-06-22",
@@ -623,6 +623,14 @@
           "item": "青茶波波貓砂",
           "amount": -1128.0,
           "icon": "🐈",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-22",
+          "category": "飲料",
+          "item": "tea top",
+          "amount": -35.0,
+          "icon": "🧋",
           "group": "variable"
         }
       ]
@@ -1073,6 +1081,14 @@
       "item": "青茶波波貓砂",
       "amount": -1128.0,
       "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-22",
+      "category": "飲料",
+      "item": "tea top",
+      "amount": -35.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

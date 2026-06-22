@@ -2,9 +2,9 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -71454.0,
+  "total": -72582.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -31960.0,
+  "variableTotal": -33088.0,
   "categories": [
     {
       "category": "餐點",
@@ -36,7 +36,7 @@
     },
     {
       "category": "寵物",
-      "amount": -6101.0,
+      "amount": -7229.0,
       "icon": "🐈",
       "color": "#FBBF24",
       "group": "variable"
@@ -614,6 +614,20 @@
       ]
     },
     {
+      "date": "2026-06-22",
+      "total": -1128.0,
+      "items": [
+        {
+          "date": "2026-06-22",
+          "category": "寵物",
+          "item": "青茶波波貓砂",
+          "amount": -1128.0,
+          "icon": "🐈",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-06-25",
       "total": -11623.0,
       "items": [
@@ -1051,6 +1065,14 @@
       "item": "咖啡",
       "amount": -390.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-22",
+      "category": "寵物",
+      "item": "青茶波波貓砂",
+      "amount": -1128.0,
+      "icon": "🐈",
       "group": "variable"
     },
     {

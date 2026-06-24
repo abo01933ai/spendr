@@ -2,9 +2,9 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -72617.0,
+  "total": -79267.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -33123.0,
+  "variableTotal": -39773.0,
   "categories": [
     {
       "category": "餐點",
@@ -21,6 +21,13 @@
       "group": "fixed"
     },
     {
+      "category": "寵物",
+      "amount": -13879.0,
+      "icon": "🐈",
+      "color": "#FBBF24",
+      "group": "variable"
+    },
+    {
       "category": "財務",
       "amount": -13084.0,
       "icon": "💳",
@@ -33,13 +40,6 @@
       "icon": "🏠",
       "color": "#60A5FA",
       "group": "fixed"
-    },
-    {
-      "category": "寵物",
-      "amount": -7229.0,
-      "icon": "🐈",
-      "color": "#FBBF24",
-      "group": "variable"
     },
     {
       "category": "購物",
@@ -636,6 +636,20 @@
       ]
     },
     {
+      "date": "2026-06-23",
+      "total": -6650.0,
+      "items": [
+        {
+          "date": "2026-06-23",
+          "category": "寵物",
+          "item": "lemon 洗牙術前檢查",
+          "amount": -6650.0,
+          "icon": "🐈",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-06-25",
       "total": -11623.0,
       "items": [
@@ -1089,6 +1103,14 @@
       "item": "tea top",
       "amount": -35.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-23",
+      "category": "寵物",
+      "item": "lemon 洗牙術前檢查",
+      "amount": -6650.0,
+      "icon": "🐈",
       "group": "variable"
     },
     {

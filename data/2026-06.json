@@ -2,13 +2,13 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -79267.0,
+  "total": -80949.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -39773.0,
+  "variableTotal": -41455.0,
   "categories": [
     {
       "category": "餐點",
-      "amount": -14275.0,
+      "amount": -15957.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -662,6 +662,20 @@
           "group": "fixed"
         }
       ]
+    },
+    {
+      "date": "2026-06-26",
+      "total": -1682.0,
+      "items": [
+        {
+          "date": "2026-06-26",
+          "category": "餐點",
+          "item": "灸居",
+          "amount": -1682.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1111,6 +1125,14 @@
       "item": "lemon 洗牙術前檢查",
       "amount": -6650.0,
       "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-26",
+      "category": "餐點",
+      "item": "灸居",
+      "amount": -1682.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

@@ -2,13 +2,13 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -80949.0,
+  "total": -82160.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -41455.0,
+  "variableTotal": -42666.0,
   "categories": [
     {
       "category": "餐點",
-      "amount": -15957.0,
+      "amount": -17064.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -95,6 +95,13 @@
       "amount": -315.0,
       "icon": "👕",
       "color": "#F472B6",
+      "group": "variable"
+    },
+    {
+      "category": "捐款",
+      "amount": -104.0,
+      "icon": "🙏",
+      "color": "#6EE7B7",
       "group": "variable"
     }
   ],
@@ -676,6 +683,36 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-06-27",
+      "total": -1211.0,
+      "items": [
+        {
+          "date": "2026-06-27",
+          "category": "餐點",
+          "item": "糖果",
+          "amount": -260.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-27",
+          "category": "捐款",
+          "item": "拜拜捐款",
+          "amount": -104.0,
+          "icon": "🙏",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-27",
+          "category": "餐點",
+          "item": "春水堂",
+          "amount": -847.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1142,6 +1179,30 @@
       "amount": -11623.0,
       "icon": "🏠",
       "group": "fixed"
+    },
+    {
+      "date": "2026-06-27",
+      "category": "餐點",
+      "item": "糖果",
+      "amount": -260.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-27",
+      "category": "捐款",
+      "item": "拜拜捐款",
+      "amount": -104.0,
+      "icon": "🙏",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-27",
+      "category": "餐點",
+      "item": "春水堂",
+      "amount": -847.0,
+      "icon": "🍱",
+      "group": "variable"
     }
   ]
 }

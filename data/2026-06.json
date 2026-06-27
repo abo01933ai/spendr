@@ -2,13 +2,13 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -82160.0,
+  "total": -82672.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -42666.0,
+  "variableTotal": -43178.0,
   "categories": [
     {
       "category": "餐點",
-      "amount": -17064.0,
+      "amount": -17576.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -686,7 +686,7 @@
     },
     {
       "date": "2026-06-27",
-      "total": -1211.0,
+      "total": -1723.0,
       "items": [
         {
           "date": "2026-06-27",
@@ -709,6 +709,14 @@
           "category": "餐點",
           "item": "春水堂",
           "amount": -847.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-27",
+          "category": "餐點",
+          "item": "麥當勞",
+          "amount": -512.0,
           "icon": "🍱",
           "group": "variable"
         }
@@ -1201,6 +1209,14 @@
       "category": "餐點",
       "item": "春水堂",
       "amount": -847.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-27",
+      "category": "餐點",
+      "item": "麥當勞",
+      "amount": -512.0,
       "icon": "🍱",
       "group": "variable"
     }

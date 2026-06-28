@@ -2,13 +2,20 @@
   "month": "2026-06",
   "year": 2026,
   "monthNum": 6,
-  "total": -82672.0,
+  "total": -96305.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -43178.0,
+  "variableTotal": -56811.0,
   "categories": [
     {
+      "category": "寵物",
+      "amount": -24269.0,
+      "icon": "🐈",
+      "color": "#FBBF24",
+      "group": "variable"
+    },
+    {
       "category": "餐點",
-      "amount": -17576.0,
+      "amount": -19862.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -19,13 +26,6 @@
       "icon": "📱",
       "color": "#94e1df",
       "group": "fixed"
-    },
-    {
-      "category": "寵物",
-      "amount": -13879.0,
-      "icon": "🐈",
-      "color": "#FBBF24",
-      "group": "variable"
     },
     {
       "category": "財務",
@@ -43,9 +43,16 @@
     },
     {
       "category": "購物",
-      "amount": -2857.0,
+      "amount": -3054.0,
       "icon": "🛍️",
       "color": "#F472B6",
+      "group": "variable"
+    },
+    {
+      "category": "娛樂",
+      "amount": -2395.0,
+      "icon": "🎮",
+      "color": "#A78BFA",
       "group": "variable"
     },
     {
@@ -60,13 +67,6 @@
       "amount": -1692.0,
       "icon": "🚗",
       "color": "#38BDF8",
-      "group": "variable"
-    },
-    {
-      "category": "娛樂",
-      "amount": -1635.0,
-      "icon": "🎮",
-      "color": "#A78BFA",
       "group": "variable"
     },
     {
@@ -721,6 +721,52 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-06-28",
+      "total": -13633.0,
+      "items": [
+        {
+          "date": "2026-06-28",
+          "category": "餐點",
+          "item": "Subway",
+          "amount": -527.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-28",
+          "category": "購物",
+          "item": "路上",
+          "amount": -197.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-28",
+          "category": "餐點",
+          "item": "尚屋燒肉",
+          "amount": -1759.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-28",
+          "category": "娛樂",
+          "item": "招財貓盲盒",
+          "amount": -760.0,
+          "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-06-28",
+          "category": "寵物",
+          "item": "lemon 拔牙",
+          "amount": -10390.0,
+          "icon": "🐈",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1218,6 +1264,46 @@
       "item": "麥當勞",
       "amount": -512.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-28",
+      "category": "餐點",
+      "item": "Subway",
+      "amount": -527.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-28",
+      "category": "購物",
+      "item": "路上",
+      "amount": -197.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-28",
+      "category": "餐點",
+      "item": "尚屋燒肉",
+      "amount": -1759.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-28",
+      "category": "娛樂",
+      "item": "招財貓盲盒",
+      "amount": -760.0,
+      "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-06-28",
+      "category": "寵物",
+      "item": "lemon 拔牙",
+      "amount": -10390.0,
+      "icon": "🐈",
       "group": "variable"
     }
   ]

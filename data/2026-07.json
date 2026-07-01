@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -40594.0,
+  "total": -41200.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -1100.0,
+  "variableTotal": -1706.0,
   "categories": [
     {
       "category": "訂閱",
@@ -43,16 +43,23 @@
     },
     {
       "category": "餐點",
-      "amount": -220.0,
+      "amount": -613.0,
       "icon": "🍱",
       "color": "#F87171",
+      "group": "variable"
+    },
+    {
+      "category": "飲料",
+      "amount": -213.0,
+      "icon": "🧋",
+      "color": "#FB923C",
       "group": "variable"
     }
   ],
   "days": [
     {
       "date": "2026-07-01",
-      "total": -11100.0,
+      "total": -11706.0,
       "items": [
         {
           "date": "2026-07-01",
@@ -76,6 +83,22 @@
           "item": "怪獸對打機",
           "amount": -880.0,
           "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-01",
+          "category": "飲料",
+          "item": "可不可",
+          "amount": -213.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-01",
+          "category": "餐點",
+          "item": "宏家鐵板燒",
+          "amount": -393.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -176,6 +199,22 @@
       "item": "怪獸對打機",
       "amount": -880.0,
       "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-01",
+      "category": "飲料",
+      "item": "可不可",
+      "amount": -213.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-01",
+      "category": "餐點",
+      "item": "宏家鐵板燒",
+      "amount": -393.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

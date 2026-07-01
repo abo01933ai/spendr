@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -39494.0,
+  "total": -40594.0,
   "fixedTotal": -39494.0,
-  "variableTotal": 0,
+  "variableTotal": -1100.0,
   "categories": [
     {
       "category": "訂閱",
@@ -33,12 +33,26 @@
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
+    },
+    {
+      "category": "娛樂",
+      "amount": -880.0,
+      "icon": "🎮",
+      "color": "#A78BFA",
+      "group": "variable"
+    },
+    {
+      "category": "餐點",
+      "amount": -220.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
     }
   ],
   "days": [
     {
       "date": "2026-07-01",
-      "total": -10000.0,
+      "total": -11100.0,
       "items": [
         {
           "date": "2026-07-01",
@@ -47,6 +61,22 @@
           "amount": -10000.0,
           "icon": "📱",
           "group": "fixed"
+        },
+        {
+          "date": "2026-07-01",
+          "category": "餐點",
+          "item": "7-11",
+          "amount": -220.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-01",
+          "category": "娛樂",
+          "item": "怪獸對打機",
+          "amount": -880.0,
+          "icon": "🎮",
+          "group": "variable"
         }
       ]
     },
@@ -131,6 +161,22 @@
       "amount": -10000.0,
       "icon": "📱",
       "group": "fixed"
+    },
+    {
+      "date": "2026-07-01",
+      "category": "餐點",
+      "item": "7-11",
+      "amount": -220.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-01",
+      "category": "娛樂",
+      "item": "怪獸對打機",
+      "amount": -880.0,
+      "icon": "🎮",
+      "group": "variable"
     },
     {
       "date": "2026-07-10",

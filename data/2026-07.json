@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -41200.0,
+  "total": -42924.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -1706.0,
+  "variableTotal": -3430.0,
   "categories": [
     {
       "category": "訂閱",
@@ -28,18 +28,18 @@
       "group": "fixed"
     },
     {
+      "category": "娛樂",
+      "amount": -2369.0,
+      "icon": "🎮",
+      "color": "#A78BFA",
+      "group": "variable"
+    },
+    {
       "category": "運動",
       "amount": -888.0,
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
-    },
-    {
-      "category": "娛樂",
-      "amount": -880.0,
-      "icon": "🎮",
-      "color": "#A78BFA",
-      "group": "variable"
     },
     {
       "category": "餐點",
@@ -50,7 +50,7 @@
     },
     {
       "category": "飲料",
-      "amount": -213.0,
+      "amount": -448.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -99,6 +99,36 @@
           "item": "宏家鐵板燒",
           "amount": -393.0,
           "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "total": -1724.0,
+      "items": [
+        {
+          "date": "2026-07-02",
+          "category": "娛樂",
+          "item": "節奏天國",
+          "amount": -1350.0,
+          "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-02",
+          "category": "飲料",
+          "item": "喫茶趣",
+          "amount": -235.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-02",
+          "category": "娛樂",
+          "item": "樂高人偶",
+          "amount": -139.0,
+          "icon": "🎮",
           "group": "variable"
         }
       ]
@@ -264,6 +294,30 @@
       "amount": -11623.0,
       "icon": "🏠",
       "group": "fixed"
+    },
+    {
+      "date": "2026-07-02",
+      "category": "娛樂",
+      "item": "節奏天國",
+      "amount": -1350.0,
+      "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-02",
+      "category": "飲料",
+      "item": "喫茶趣",
+      "amount": -235.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-02",
+      "category": "娛樂",
+      "item": "樂高人偶",
+      "amount": -139.0,
+      "icon": "🎮",
+      "group": "variable"
     }
   ]
 }

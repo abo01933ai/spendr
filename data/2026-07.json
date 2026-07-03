@@ -2,10 +2,17 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -42924.0,
-  "fixedTotal": -39494.0,
-  "variableTotal": -3430.0,
+  "total": -49630.0,
+  "fixedTotal": -45410.0,
+  "variableTotal": -4220.0,
   "categories": [
+    {
+      "category": "住",
+      "amount": -17539.0,
+      "icon": "🏠",
+      "color": "#60A5FA",
+      "group": "fixed"
+    },
     {
       "category": "訂閱",
       "amount": -13899.0,
@@ -18,13 +25,6 @@
       "amount": -13084.0,
       "icon": "💳",
       "color": "#7C83FD",
-      "group": "fixed"
-    },
-    {
-      "category": "住",
-      "amount": -11623.0,
-      "icon": "🏠",
-      "color": "#60A5FA",
       "group": "fixed"
     },
     {
@@ -43,9 +43,16 @@
     },
     {
       "category": "餐點",
-      "amount": -613.0,
+      "amount": -854.0,
       "icon": "🍱",
       "color": "#F87171",
+      "group": "variable"
+    },
+    {
+      "category": "交通",
+      "amount": -450.0,
+      "icon": "🚗",
+      "color": "#38BDF8",
       "group": "variable"
     },
     {
@@ -53,6 +60,13 @@
       "amount": -448.0,
       "icon": "🧋",
       "color": "#FB923C",
+      "group": "variable"
+    },
+    {
+      "category": "學習",
+      "amount": -99.0,
+      "icon": "📚",
+      "color": "#94A3B8",
       "group": "variable"
     }
   ],
@@ -129,6 +143,44 @@
           "item": "樂高人偶",
           "amount": -139.0,
           "icon": "🎮",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "total": -6706.0,
+      "items": [
+        {
+          "date": "2026-07-03",
+          "category": "交通",
+          "item": "機車燃料稅",
+          "amount": -450.0,
+          "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-03",
+          "category": "住",
+          "item": "管理費 (7-9月)",
+          "amount": -5916.0,
+          "icon": "🏠",
+          "group": "fixed"
+        },
+        {
+          "date": "2026-07-03",
+          "category": "餐點",
+          "item": "7-11",
+          "amount": -241.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-03",
+          "category": "學習",
+          "item": "紅酒與心理師(書)",
+          "amount": -99.0,
+          "icon": "📚",
           "group": "variable"
         }
       ]
@@ -317,6 +369,38 @@
       "item": "樂高人偶",
       "amount": -139.0,
       "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "交通",
+      "item": "機車燃料稅",
+      "amount": -450.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "住",
+      "item": "管理費 (7-9月)",
+      "amount": -5916.0,
+      "icon": "🏠",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "餐點",
+      "item": "7-11",
+      "amount": -241.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "學習",
+      "item": "紅酒與心理師(書)",
+      "amount": -99.0,
+      "icon": "📚",
       "group": "variable"
     }
   ]

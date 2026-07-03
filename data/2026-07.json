@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -49630.0,
+  "total": -56407.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -4220.0,
+  "variableTotal": -10997.0,
   "categories": [
     {
       "category": "住",
@@ -29,9 +29,16 @@
     },
     {
       "category": "娛樂",
-      "amount": -2369.0,
+      "amount": -7727.0,
       "icon": "🎮",
       "color": "#A78BFA",
+      "group": "variable"
+    },
+    {
+      "category": "餐點",
+      "amount": -2273.0,
+      "icon": "🍱",
+      "color": "#F87171",
       "group": "variable"
     },
     {
@@ -40,13 +47,6 @@
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
-    },
-    {
-      "category": "餐點",
-      "amount": -854.0,
-      "icon": "🍱",
-      "color": "#F87171",
-      "group": "variable"
     },
     {
       "category": "交通",
@@ -149,7 +149,7 @@
     },
     {
       "date": "2026-07-03",
-      "total": -6706.0,
+      "total": -13483.0,
       "items": [
         {
           "date": "2026-07-03",
@@ -181,6 +181,30 @@
           "item": "紅酒與心理師(書)",
           "amount": -99.0,
           "icon": "📚",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-03",
+          "category": "娛樂",
+          "item": "樂高",
+          "amount": -3738.0,
+          "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-03",
+          "category": "娛樂",
+          "item": "tomica小車",
+          "amount": -1620.0,
+          "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-03",
+          "category": "餐點",
+          "item": "牛喜",
+          "amount": -1419.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -401,6 +425,30 @@
       "item": "紅酒與心理師(書)",
       "amount": -99.0,
       "icon": "📚",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "娛樂",
+      "item": "樂高",
+      "amount": -3738.0,
+      "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "娛樂",
+      "item": "tomica小車",
+      "amount": -1620.0,
+      "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "餐點",
+      "item": "牛喜",
+      "amount": -1419.0,
+      "icon": "🍱",
       "group": "variable"
     }
   ]

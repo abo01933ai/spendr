@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -56407.0,
+  "total": -56622.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -10997.0,
+  "variableTotal": -11212.0,
   "categories": [
     {
       "category": "住",
@@ -36,7 +36,7 @@
     },
     {
       "category": "餐點",
-      "amount": -2273.0,
+      "amount": -2488.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -204,6 +204,20 @@
           "category": "餐點",
           "item": "牛喜",
           "amount": -1419.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "total": -215.0,
+      "items": [
+        {
+          "date": "2026-07-04",
+          "category": "餐點",
+          "item": "休息站飲食",
+          "amount": -215.0,
           "icon": "🍱",
           "group": "variable"
         }
@@ -448,6 +462,14 @@
       "category": "餐點",
       "item": "牛喜",
       "amount": -1419.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-04",
+      "category": "餐點",
+      "item": "休息站飲食",
+      "amount": -215.0,
       "icon": "🍱",
       "group": "variable"
     }

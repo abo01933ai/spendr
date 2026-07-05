@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -56622.0,
+  "total": -61151.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -11212.0,
+  "variableTotal": -15741.0,
   "categories": [
     {
       "category": "住",
@@ -36,9 +36,16 @@
     },
     {
       "category": "餐點",
-      "amount": -2488.0,
+      "amount": -4624.0,
       "icon": "🍱",
       "color": "#F87171",
+      "group": "variable"
+    },
+    {
+      "category": "保健",
+      "amount": -1773.0,
+      "icon": "💊",
+      "color": "#4ADE80",
       "group": "variable"
     },
     {
@@ -49,6 +56,13 @@
       "group": "fixed"
     },
     {
+      "category": "飲料",
+      "amount": -818.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "交通",
       "amount": -450.0,
       "icon": "🚗",
@@ -56,10 +70,10 @@
       "group": "variable"
     },
     {
-      "category": "飲料",
-      "amount": -448.0,
-      "icon": "🧋",
-      "color": "#FB923C",
+      "category": "寵物",
+      "amount": -250.0,
+      "icon": "🐈",
+      "color": "#FBBF24",
       "group": "variable"
     },
     {
@@ -219,6 +233,60 @@
           "item": "休息站飲食",
           "amount": -215.0,
           "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "total": -4529.0,
+      "items": [
+        {
+          "date": "2026-07-05",
+          "category": "保健",
+          "item": "DHC 保健品",
+          "amount": -1773.0,
+          "icon": "💊",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-05",
+          "category": "餐點",
+          "item": "漢堡排嘉",
+          "amount": -1400.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-05",
+          "category": "飲料",
+          "item": "AO Coffee",
+          "amount": -370.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-05",
+          "category": "餐點",
+          "item": "水果",
+          "amount": -287.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-05",
+          "category": "餐點",
+          "item": "QBurger",
+          "amount": -449.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-05",
+          "category": "寵物",
+          "item": "lemon 回診",
+          "amount": -250.0,
+          "icon": "🐈",
           "group": "variable"
         }
       ]
@@ -471,6 +539,54 @@
       "item": "休息站飲食",
       "amount": -215.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-05",
+      "category": "保健",
+      "item": "DHC 保健品",
+      "amount": -1773.0,
+      "icon": "💊",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-05",
+      "category": "餐點",
+      "item": "漢堡排嘉",
+      "amount": -1400.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-05",
+      "category": "飲料",
+      "item": "AO Coffee",
+      "amount": -370.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-05",
+      "category": "餐點",
+      "item": "水果",
+      "amount": -287.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-05",
+      "category": "餐點",
+      "item": "QBurger",
+      "amount": -449.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-05",
+      "category": "寵物",
+      "item": "lemon 回診",
+      "amount": -250.0,
+      "icon": "🐈",
       "group": "variable"
     }
   ]

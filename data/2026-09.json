@@ -1,0 +1,43 @@
+{
+  "month": "2026-09",
+  "year": 2026,
+  "monthNum": 9,
+  "total": -2876.0,
+  "fixedTotal": 0,
+  "variableTotal": -2876.0,
+  "categories": [
+    {
+      "category": "旅遊",
+      "amount": -2876.0,
+      "icon": "✈️",
+      "color": "#34D399",
+      "group": "variable"
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-09-18",
+      "total": -2876.0,
+      "items": [
+        {
+          "date": "2026-09-18",
+          "category": "旅遊",
+          "item": "由布院之森列車",
+          "amount": -2876.0,
+          "icon": "✈️",
+          "group": "variable"
+        }
+      ]
+    }
+  ],
+  "transactions": [
+    {
+      "date": "2026-09-18",
+      "category": "旅遊",
+      "item": "由布院之森列車",
+      "amount": -2876.0,
+      "icon": "✈️",
+      "group": "variable"
+    }
+  ]
+}

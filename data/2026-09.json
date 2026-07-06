@@ -2,19 +2,105 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -2876.0,
-  "fixedTotal": 0,
+  "total": -42370.0,
+  "fixedTotal": -39494.0,
   "variableTotal": -2876.0,
   "categories": [
+    {
+      "category": "訂閱",
+      "amount": -13899.0,
+      "icon": "📱",
+      "color": "#94e1df",
+      "group": "fixed"
+    },
+    {
+      "category": "財務",
+      "amount": -13084.0,
+      "icon": "💳",
+      "color": "#7C83FD",
+      "group": "fixed"
+    },
+    {
+      "category": "住",
+      "amount": -11623.0,
+      "icon": "🏠",
+      "color": "#60A5FA",
+      "group": "fixed"
+    },
     {
       "category": "旅遊",
       "amount": -2876.0,
       "icon": "✈️",
       "color": "#34D399",
       "group": "variable"
+    },
+    {
+      "category": "運動",
+      "amount": -888.0,
+      "icon": "🏋️",
+      "color": "#86EFAC",
+      "group": "fixed"
     }
   ],
   "days": [
+    {
+      "date": "2026-09-01",
+      "total": -10000.0,
+      "items": [
+        {
+          "date": "2026-09-01",
+          "category": "訂閱",
+          "item": "投資週報",
+          "amount": -10000.0,
+          "icon": "📱",
+          "group": "fixed"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "total": -888.0,
+      "items": [
+        {
+          "date": "2026-09-10",
+          "category": "運動",
+          "item": "健身房",
+          "amount": -888.0,
+          "icon": "🏋️",
+          "group": "fixed"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "total": -3899.0,
+      "items": [
+        {
+          "date": "2026-09-15",
+          "category": "訂閱",
+          "item": "訂閱費",
+          "amount": -600.0,
+          "icon": "📱",
+          "group": "fixed"
+        },
+        {
+          "date": "2026-09-15",
+          "category": "訂閱",
+          "item": "通話費",
+          "amount": -299.0,
+          "icon": "📱",
+          "group": "fixed"
+        },
+        {
+          "date": "2026-09-15",
+          "category": "訂閱",
+          "item": "AI 模型",
+          "amount": -3000.0,
+          "icon": "📱",
+          "group": "fixed"
+        }
+      ]
+    },
     {
       "date": "2026-09-18",
       "total": -2876.0,
@@ -28,9 +114,77 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-09-20",
+      "total": -13084.0,
+      "items": [
+        {
+          "date": "2026-09-20",
+          "category": "財務",
+          "item": "信貸",
+          "amount": -13084.0,
+          "icon": "💳",
+          "group": "fixed"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "total": -11623.0,
+      "items": [
+        {
+          "date": "2026-09-25",
+          "category": "住",
+          "item": "房貸",
+          "amount": -11623.0,
+          "icon": "🏠",
+          "group": "fixed"
+        }
+      ]
     }
   ],
   "transactions": [
+    {
+      "date": "2026-09-01",
+      "category": "訂閱",
+      "item": "投資週報",
+      "amount": -10000.0,
+      "icon": "📱",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-09-10",
+      "category": "運動",
+      "item": "健身房",
+      "amount": -888.0,
+      "icon": "🏋️",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-09-15",
+      "category": "訂閱",
+      "item": "訂閱費",
+      "amount": -600.0,
+      "icon": "📱",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-09-15",
+      "category": "訂閱",
+      "item": "通話費",
+      "amount": -299.0,
+      "icon": "📱",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-09-15",
+      "category": "訂閱",
+      "item": "AI 模型",
+      "amount": -3000.0,
+      "icon": "📱",
+      "group": "fixed"
+    },
     {
       "date": "2026-09-18",
       "category": "旅遊",
@@ -38,6 +192,22 @@
       "amount": -2876.0,
       "icon": "✈️",
       "group": "variable"
+    },
+    {
+      "date": "2026-09-20",
+      "category": "財務",
+      "item": "信貸",
+      "amount": -13084.0,
+      "icon": "💳",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-09-25",
+      "category": "住",
+      "item": "房貸",
+      "amount": -11623.0,
+      "icon": "🏠",
+      "group": "fixed"
     }
   ]
 }

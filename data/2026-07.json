@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -61151.0,
+  "total": -62142.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -15741.0,
+  "variableTotal": -16732.0,
   "categories": [
     {
       "category": "住",
@@ -36,7 +36,7 @@
     },
     {
       "category": "餐點",
-      "amount": -4624.0,
+      "amount": -5402.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -49,18 +49,18 @@
       "group": "variable"
     },
     {
+      "category": "飲料",
+      "amount": -1031.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "運動",
       "amount": -888.0,
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
-    },
-    {
-      "category": "飲料",
-      "amount": -818.0,
-      "icon": "🧋",
-      "color": "#FB923C",
-      "group": "variable"
     },
     {
       "category": "交通",
@@ -287,6 +287,42 @@
           "item": "lemon 回診",
           "amount": -250.0,
           "icon": "🐈",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "total": -496.0,
+      "items": [
+        {
+          "date": "2026-07-06",
+          "category": "飲料",
+          "item": "得正",
+          "amount": -213.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-06",
+          "category": "餐點",
+          "item": "Subway",
+          "amount": -283.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-07",
+      "total": -495.0,
+      "items": [
+        {
+          "date": "2026-07-07",
+          "category": "餐點",
+          "item": "小六鍋貼",
+          "amount": -495.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -587,6 +623,30 @@
       "item": "lemon 回診",
       "amount": -250.0,
       "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-06",
+      "category": "飲料",
+      "item": "得正",
+      "amount": -213.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-06",
+      "category": "餐點",
+      "item": "Subway",
+      "amount": -283.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-07",
+      "category": "餐點",
+      "item": "小六鍋貼",
+      "amount": -495.0,
+      "icon": "🍱",
       "group": "variable"
     }
   ]

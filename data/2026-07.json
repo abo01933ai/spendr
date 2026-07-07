@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -62142.0,
+  "total": -62590.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -16732.0,
+  "variableTotal": -17180.0,
   "categories": [
     {
       "category": "住",
@@ -36,7 +36,7 @@
     },
     {
       "category": "餐點",
-      "amount": -5402.0,
+      "amount": -5626.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -50,7 +50,7 @@
     },
     {
       "category": "飲料",
-      "amount": -1031.0,
+      "amount": -1255.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -315,7 +315,7 @@
     },
     {
       "date": "2026-07-07",
-      "total": -495.0,
+      "total": -943.0,
       "items": [
         {
           "date": "2026-07-07",
@@ -323,6 +323,22 @@
           "item": "小六鍋貼",
           "amount": -495.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-07",
+          "category": "餐點",
+          "item": "狄狄龍雞排",
+          "amount": -224.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-07",
+          "category": "飲料",
+          "item": "烏弄",
+          "amount": -224.0,
+          "icon": "🧋",
           "group": "variable"
         }
       ]
@@ -647,6 +663,22 @@
       "item": "小六鍋貼",
       "amount": -495.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-07",
+      "category": "餐點",
+      "item": "狄狄龍雞排",
+      "amount": -224.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-07",
+      "category": "飲料",
+      "item": "烏弄",
+      "amount": -224.0,
+      "icon": "🧋",
       "group": "variable"
     }
   ]

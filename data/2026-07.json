@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -73273.0,
+  "total": -75048.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -27863.0,
+  "variableTotal": -29638.0,
   "categories": [
     {
       "category": "住",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -8875.0,
+      "amount": -10250.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -49,17 +49,17 @@
       "group": "variable"
     },
     {
+      "category": "飲料",
+      "amount": -1835.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "保健",
       "amount": -1773.0,
       "icon": "💊",
       "color": "#4ADE80",
-      "group": "variable"
-    },
-    {
-      "category": "飲料",
-      "amount": -1435.0,
-      "icon": "🧋",
-      "color": "#FB923C",
       "group": "variable"
     },
     {
@@ -436,6 +436,44 @@
           "item": "清心",
           "amount": -145.0,
           "icon": "🧋",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-12",
+      "total": -1775.0,
+      "items": [
+        {
+          "date": "2026-07-12",
+          "category": "餐點",
+          "item": "楓康買菜",
+          "amount": -263.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-12",
+          "category": "餐點",
+          "item": "六星炸雞",
+          "amount": -210.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-12",
+          "category": "飲料",
+          "item": "nana’s green tea",
+          "amount": -400.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-12",
+          "category": "餐點",
+          "item": "preserve",
+          "amount": -902.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -825,6 +863,38 @@
       "category": "餐點",
       "item": "燒肉shojo",
       "amount": -2738.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-12",
+      "category": "餐點",
+      "item": "楓康買菜",
+      "amount": -263.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-12",
+      "category": "餐點",
+      "item": "六星炸雞",
+      "amount": -210.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-12",
+      "category": "飲料",
+      "item": "nana’s green tea",
+      "amount": -400.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-12",
+      "category": "餐點",
+      "item": "preserve",
+      "amount": -902.0,
       "icon": "🍱",
       "group": "variable"
     }

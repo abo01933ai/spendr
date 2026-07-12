@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -75048.0,
+  "total": -78966.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -29638.0,
+  "variableTotal": -33556.0,
   "categories": [
     {
       "category": "住",
@@ -28,17 +28,17 @@
       "group": "fixed"
     },
     {
+      "category": "娛樂",
+      "amount": -12201.0,
+      "icon": "🎮",
+      "color": "#A78BFA",
+      "group": "variable"
+    },
+    {
       "category": "餐點",
       "amount": -10250.0,
       "icon": "🍱",
       "color": "#F87171",
-      "group": "variable"
-    },
-    {
-      "category": "娛樂",
-      "amount": -8283.0,
-      "icon": "🎮",
-      "color": "#A78BFA",
       "group": "variable"
     },
     {
@@ -442,7 +442,7 @@
     },
     {
       "date": "2026-07-12",
-      "total": -1775.0,
+      "total": -5693.0,
       "items": [
         {
           "date": "2026-07-12",
@@ -474,6 +474,14 @@
           "item": "preserve",
           "amount": -902.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-12",
+          "category": "娛樂",
+          "item": "招財貓",
+          "amount": -3918.0,
+          "icon": "🎮",
           "group": "variable"
         }
       ]
@@ -896,6 +904,14 @@
       "item": "preserve",
       "amount": -902.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-12",
+      "category": "娛樂",
+      "item": "招財貓",
+      "amount": -3918.0,
+      "icon": "🎮",
       "group": "variable"
     }
   ]

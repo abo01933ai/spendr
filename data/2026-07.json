@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -78966.0,
+  "total": -79650.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -33556.0,
+  "variableTotal": -34240.0,
   "categories": [
     {
       "category": "住",
@@ -29,7 +29,7 @@
     },
     {
       "category": "娛樂",
-      "amount": -12201.0,
+      "amount": -12885.0,
       "icon": "🎮",
       "color": "#A78BFA",
       "group": "variable"
@@ -487,6 +487,20 @@
       ]
     },
     {
+      "date": "2026-07-13",
+      "total": -684.0,
+      "items": [
+        {
+          "date": "2026-07-13",
+          "category": "娛樂",
+          "item": "樂高",
+          "amount": -684.0,
+          "icon": "🎮",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-07-15",
       "total": -3899.0,
       "items": [
@@ -911,6 +925,14 @@
       "category": "娛樂",
       "item": "招財貓",
       "amount": -3918.0,
+      "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-13",
+      "category": "娛樂",
+      "item": "樂高",
+      "amount": -684.0,
       "icon": "🎮",
       "group": "variable"
     }

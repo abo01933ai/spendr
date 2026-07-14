@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -79650.0,
+  "total": -79792.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -34240.0,
+  "variableTotal": -34382.0,
   "categories": [
     {
       "category": "住",
@@ -36,7 +36,7 @@
     },
     {
       "category": "餐點",
-      "amount": -10250.0,
+      "amount": -10392.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -501,6 +501,20 @@
       ]
     },
     {
+      "date": "2026-07-14",
+      "total": -142.0,
+      "items": [
+        {
+          "date": "2026-07-14",
+          "category": "餐點",
+          "item": "全家",
+          "amount": -142.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-07-15",
       "total": -3899.0,
       "items": [
@@ -934,6 +948,14 @@
       "item": "樂高",
       "amount": -684.0,
       "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-14",
+      "category": "餐點",
+      "item": "全家",
+      "amount": -142.0,
+      "icon": "🍱",
       "group": "variable"
     }
   ]

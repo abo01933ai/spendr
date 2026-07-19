@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -84604.0,
+  "total": -86125.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -39194.0,
+  "variableTotal": -40715.0,
   "categories": [
     {
       "category": "住",
@@ -21,6 +21,13 @@
       "group": "fixed"
     },
     {
+      "category": "餐點",
+      "amount": -13738.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
+    {
       "category": "娛樂",
       "amount": -13235.0,
       "icon": "🎮",
@@ -33,13 +40,6 @@
       "icon": "💳",
       "color": "#7C83FD",
       "group": "fixed"
-    },
-    {
-      "category": "餐點",
-      "amount": -12380.0,
-      "icon": "🍱",
-      "color": "#F87171",
-      "group": "variable"
     },
     {
       "category": "服飾",
@@ -57,7 +57,7 @@
     },
     {
       "category": "飲料",
-      "amount": -1874.0,
+      "amount": -2037.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -605,7 +605,7 @@
     },
     {
       "date": "2026-07-19",
-      "total": -1289.0,
+      "total": -2810.0,
       "items": [
         {
           "date": "2026-07-19",
@@ -645,6 +645,30 @@
           "item": "蜜柑盲盒",
           "amount": -350.0,
           "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-19",
+          "category": "餐點",
+          "item": "7-11",
+          "amount": -488.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-19",
+          "category": "餐點",
+          "item": "禾作食堂",
+          "amount": -870.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-19",
+          "category": "飲料",
+          "item": "mateas",
+          "amount": -163.0,
+          "icon": "🧋",
           "group": "variable"
         }
       ]
@@ -1141,6 +1165,30 @@
       "item": "蜜柑盲盒",
       "amount": -350.0,
       "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-19",
+      "category": "餐點",
+      "item": "7-11",
+      "amount": -488.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-19",
+      "category": "餐點",
+      "item": "禾作食堂",
+      "amount": -870.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-19",
+      "category": "飲料",
+      "item": "mateas",
+      "amount": -163.0,
+      "icon": "🧋",
       "group": "variable"
     }
   ]

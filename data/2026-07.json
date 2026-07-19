@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -83315.0,
+  "total": -84604.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -37905.0,
+  "variableTotal": -39194.0,
   "categories": [
     {
       "category": "住",
@@ -21,18 +21,18 @@
       "group": "fixed"
     },
     {
+      "category": "娛樂",
+      "amount": -13235.0,
+      "icon": "🎮",
+      "color": "#A78BFA",
+      "group": "variable"
+    },
+    {
       "category": "財務",
       "amount": -13084.0,
       "icon": "💳",
       "color": "#7C83FD",
       "group": "fixed"
-    },
-    {
-      "category": "娛樂",
-      "amount": -12885.0,
-      "icon": "🎮",
-      "color": "#A78BFA",
-      "group": "variable"
     },
     {
       "category": "餐點",
@@ -49,8 +49,15 @@
       "group": "variable"
     },
     {
+      "category": "旅遊",
+      "amount": -2250.0,
+      "icon": "✈️",
+      "color": "#34D399",
+      "group": "variable"
+    },
+    {
       "category": "飲料",
-      "amount": -1835.0,
+      "amount": -1874.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -63,13 +70,6 @@
       "group": "variable"
     },
     {
-      "category": "旅遊",
-      "amount": -1485.0,
-      "icon": "✈️",
-      "color": "#34D399",
-      "group": "variable"
-    },
-    {
       "category": "運動",
       "amount": -888.0,
       "icon": "🏋️",
@@ -78,7 +78,7 @@
     },
     {
       "category": "交通",
-      "amount": -500.0,
+      "amount": -635.0,
       "icon": "🚗",
       "color": "#38BDF8",
       "group": "variable"
@@ -604,6 +604,52 @@
       ]
     },
     {
+      "date": "2026-07-19",
+      "total": -1289.0,
+      "items": [
+        {
+          "date": "2026-07-19",
+          "category": "旅遊",
+          "item": "高鐵左營台中",
+          "amount": -765.0,
+          "icon": "✈️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-19",
+          "category": "交通",
+          "item": "捷運",
+          "amount": -95.0,
+          "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-19",
+          "category": "飲料",
+          "item": "咖啡",
+          "amount": -39.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-19",
+          "category": "交通",
+          "item": "停車",
+          "amount": -40.0,
+          "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-19",
+          "category": "娛樂",
+          "item": "蜜柑盲盒",
+          "amount": -350.0,
+          "icon": "🎮",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-07-20",
       "total": -13084.0,
       "items": [
@@ -1055,6 +1101,46 @@
       "item": "捷運",
       "amount": -50.0,
       "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-19",
+      "category": "旅遊",
+      "item": "高鐵左營台中",
+      "amount": -765.0,
+      "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-19",
+      "category": "交通",
+      "item": "捷運",
+      "amount": -95.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-19",
+      "category": "飲料",
+      "item": "咖啡",
+      "amount": -39.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-19",
+      "category": "交通",
+      "item": "停車",
+      "amount": -40.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-19",
+      "category": "娛樂",
+      "item": "蜜柑盲盒",
+      "amount": -350.0,
+      "icon": "🎮",
       "group": "variable"
     }
   ]

@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -86125.0,
+  "total": -86453.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -40715.0,
+  "variableTotal": -41043.0,
   "categories": [
     {
       "category": "住",
@@ -22,7 +22,7 @@
     },
     {
       "category": "餐點",
-      "amount": -13738.0,
+      "amount": -13858.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -57,7 +57,7 @@
     },
     {
       "category": "飲料",
-      "amount": -2037.0,
+      "amount": -2245.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -688,6 +688,28 @@
       ]
     },
     {
+      "date": "2026-07-21",
+      "total": -328.0,
+      "items": [
+        {
+          "date": "2026-07-21",
+          "category": "飲料",
+          "item": "大茗",
+          "amount": -208.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-21",
+          "category": "餐點",
+          "item": "自助餐",
+          "amount": -120.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-07-25",
       "total": -11623.0,
       "items": [
@@ -1189,6 +1211,22 @@
       "item": "mateas",
       "amount": -163.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-21",
+      "category": "飲料",
+      "item": "大茗",
+      "amount": -208.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-21",
+      "category": "餐點",
+      "item": "自助餐",
+      "amount": -120.0,
+      "icon": "🍱",
       "group": "variable"
     }
   ]

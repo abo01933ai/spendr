@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -86662.0,
+  "total": -87408.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -41252.0,
+  "variableTotal": -41998.0,
   "categories": [
     {
       "category": "住",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -14067.0,
+      "amount": -14813.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -711,13 +711,29 @@
     },
     {
       "date": "2026-07-22",
-      "total": -209.0,
+      "total": -955.0,
       "items": [
         {
           "date": "2026-07-22",
           "category": "餐點",
           "item": "土木公社",
           "amount": -209.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-22",
+          "category": "餐點",
+          "item": "買菜",
+          "amount": -533.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-22",
+          "category": "餐點",
+          "item": "健康餐",
+          "amount": -213.0,
           "icon": "🍱",
           "group": "variable"
         }
@@ -1248,6 +1264,22 @@
       "category": "餐點",
       "item": "土木公社",
       "amount": -209.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-22",
+      "category": "餐點",
+      "item": "買菜",
+      "amount": -533.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-22",
+      "category": "餐點",
+      "item": "健康餐",
+      "amount": -213.0,
       "icon": "🍱",
       "group": "variable"
     }

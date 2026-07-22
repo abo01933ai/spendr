@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -86453.0,
+  "total": -86662.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -41043.0,
+  "variableTotal": -41252.0,
   "categories": [
     {
       "category": "住",
@@ -14,18 +14,18 @@
       "group": "fixed"
     },
     {
+      "category": "餐點",
+      "amount": -14067.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
+    {
       "category": "訂閱",
       "amount": -13899.0,
       "icon": "📱",
       "color": "#94e1df",
       "group": "fixed"
-    },
-    {
-      "category": "餐點",
-      "amount": -13858.0,
-      "icon": "🍱",
-      "color": "#F87171",
-      "group": "variable"
     },
     {
       "category": "娛樂",
@@ -710,6 +710,20 @@
       ]
     },
     {
+      "date": "2026-07-22",
+      "total": -209.0,
+      "items": [
+        {
+          "date": "2026-07-22",
+          "category": "餐點",
+          "item": "土木公社",
+          "amount": -209.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-07-25",
       "total": -11623.0,
       "items": [
@@ -1226,6 +1240,14 @@
       "category": "餐點",
       "item": "自助餐",
       "amount": -120.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-22",
+      "category": "餐點",
+      "item": "土木公社",
+      "amount": -209.0,
       "icon": "🍱",
       "group": "variable"
     }

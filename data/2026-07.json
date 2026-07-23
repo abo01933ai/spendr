@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -87408.0,
+  "total": -87833.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -41998.0,
+  "variableTotal": -42423.0,
   "categories": [
     {
       "category": "住",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -14813.0,
+      "amount": -15238.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -740,6 +740,28 @@
       ]
     },
     {
+      "date": "2026-07-23",
+      "total": -425.0,
+      "items": [
+        {
+          "date": "2026-07-23",
+          "category": "餐點",
+          "item": "水煎包",
+          "amount": -90.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-23",
+          "category": "餐點",
+          "item": "買菜",
+          "amount": -335.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-07-25",
       "total": -11623.0,
       "items": [
@@ -1280,6 +1302,22 @@
       "category": "餐點",
       "item": "健康餐",
       "amount": -213.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-23",
+      "category": "餐點",
+      "item": "水煎包",
+      "amount": -90.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-23",
+      "category": "餐點",
+      "item": "買菜",
+      "amount": -335.0,
       "icon": "🍱",
       "group": "variable"
     }

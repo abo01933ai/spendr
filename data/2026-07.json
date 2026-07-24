@@ -818,78 +818,6 @@
       "group": "variable"
     },
     {
-      "date": "2026-07-10",
-      "category": "運動",
-      "item": "健身房",
-      "amount": -888.0,
-      "icon": "🏋️",
-      "group": "fixed"
-    },
-    {
-      "date": "2026-07-10",
-      "category": "餐點",
-      "item": "可不可地瓜球",
-      "amount": -50.0,
-      "icon": "🍱",
-      "group": "variable"
-    },
-    {
-      "date": "2026-07-10",
-      "category": "餐點",
-      "item": "巧克力吐司",
-      "amount": -32.0,
-      "icon": "🍱",
-      "group": "variable"
-    },
-    {
-      "date": "2026-07-10",
-      "category": "飲料",
-      "item": "清心",
-      "amount": -145.0,
-      "icon": "🧋",
-      "group": "variable"
-    },
-    {
-      "date": "2026-07-15",
-      "category": "訂閱",
-      "item": "訂閱費",
-      "amount": -600.0,
-      "icon": "📱",
-      "group": "fixed"
-    },
-    {
-      "date": "2026-07-15",
-      "category": "訂閱",
-      "item": "通話費",
-      "amount": -299.0,
-      "icon": "📱",
-      "group": "fixed"
-    },
-    {
-      "date": "2026-07-15",
-      "category": "訂閱",
-      "item": "AI 模型",
-      "amount": -3000.0,
-      "icon": "📱",
-      "group": "fixed"
-    },
-    {
-      "date": "2026-07-20",
-      "category": "財務",
-      "item": "信貸",
-      "amount": -13084.0,
-      "icon": "💳",
-      "group": "fixed"
-    },
-    {
-      "date": "2026-07-25",
-      "category": "住",
-      "item": "房貸",
-      "amount": -11623.0,
-      "icon": "🏠",
-      "group": "fixed"
-    },
-    {
       "date": "2026-07-02",
       "category": "娛樂",
       "item": "節奏天國",
@@ -1106,6 +1034,38 @@
       "group": "variable"
     },
     {
+      "date": "2026-07-10",
+      "category": "運動",
+      "item": "健身房",
+      "amount": -888.0,
+      "icon": "🏋️",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-07-10",
+      "category": "餐點",
+      "item": "可不可地瓜球",
+      "amount": -50.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-10",
+      "category": "餐點",
+      "item": "巧克力吐司",
+      "amount": -32.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-10",
+      "category": "飲料",
+      "item": "清心",
+      "amount": -145.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
       "date": "2026-07-12",
       "category": "餐點",
       "item": "楓康買菜",
@@ -1160,6 +1120,30 @@
       "amount": -142.0,
       "icon": "🍱",
       "group": "variable"
+    },
+    {
+      "date": "2026-07-15",
+      "category": "訂閱",
+      "item": "訂閱費",
+      "amount": -600.0,
+      "icon": "📱",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-07-15",
+      "category": "訂閱",
+      "item": "通話費",
+      "amount": -299.0,
+      "icon": "📱",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-07-15",
+      "category": "訂閱",
+      "item": "AI 模型",
+      "amount": -3000.0,
+      "icon": "📱",
+      "group": "fixed"
     },
     {
       "date": "2026-07-17",
@@ -1266,6 +1250,14 @@
       "group": "variable"
     },
     {
+      "date": "2026-07-20",
+      "category": "財務",
+      "item": "信貸",
+      "amount": -13084.0,
+      "icon": "💳",
+      "group": "fixed"
+    },
+    {
       "date": "2026-07-21",
       "category": "飲料",
       "item": "大茗",
@@ -1320,6 +1312,14 @@
       "amount": -335.0,
       "icon": "🍱",
       "group": "variable"
+    },
+    {
+      "date": "2026-07-25",
+      "category": "住",
+      "item": "房貸",
+      "amount": -11623.0,
+      "icon": "🏠",
+      "group": "fixed"
     }
   ]
 }

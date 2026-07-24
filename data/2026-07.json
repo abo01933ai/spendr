@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -87833.0,
+  "total": -88859.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -42423.0,
+  "variableTotal": -43449.0,
   "categories": [
     {
       "category": "住",
@@ -49,24 +49,24 @@
       "group": "variable"
     },
     {
-      "category": "旅遊",
-      "amount": -2250.0,
-      "icon": "✈️",
-      "color": "#34D399",
+      "category": "保健",
+      "amount": -2751.0,
+      "icon": "💊",
+      "color": "#4ADE80",
       "group": "variable"
     },
     {
       "category": "飲料",
-      "amount": -2245.0,
+      "amount": -2293.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
     },
     {
-      "category": "保健",
-      "amount": -1773.0,
-      "icon": "💊",
-      "color": "#4ADE80",
+      "category": "旅遊",
+      "amount": -2250.0,
+      "icon": "✈️",
+      "color": "#34D399",
       "group": "variable"
     },
     {
@@ -763,7 +763,7 @@
     },
     {
       "date": "2026-07-25",
-      "total": -11623.0,
+      "total": -12649.0,
       "items": [
         {
           "date": "2026-07-25",
@@ -772,6 +772,22 @@
           "amount": -11623.0,
           "icon": "🏠",
           "group": "fixed"
+        },
+        {
+          "date": "2026-07-25",
+          "category": "保健",
+          "item": "spark protein*20包",
+          "amount": -978.0,
+          "icon": "💊",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-25",
+          "category": "飲料",
+          "item": "奧利多水",
+          "amount": -48.0,
+          "icon": "🧋",
+          "group": "variable"
         }
       ]
     }
@@ -1320,6 +1336,22 @@
       "amount": -11623.0,
       "icon": "🏠",
       "group": "fixed"
+    },
+    {
+      "date": "2026-07-25",
+      "category": "保健",
+      "item": "spark protein*20包",
+      "amount": -978.0,
+      "icon": "💊",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-25",
+      "category": "飲料",
+      "item": "奧利多水",
+      "amount": -48.0,
+      "icon": "🧋",
+      "group": "variable"
     }
   ]
 }

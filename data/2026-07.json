@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -90246.0,
+  "total": -90976.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -44836.0,
+  "variableTotal": -45566.0,
   "categories": [
     {
       "category": "住",
@@ -70,6 +70,13 @@
       "group": "variable"
     },
     {
+      "category": "交通",
+      "amount": -1365.0,
+      "icon": "🚗",
+      "color": "#38BDF8",
+      "group": "variable"
+    },
+    {
       "category": "美容",
       "amount": -1000.0,
       "icon": "💇",
@@ -82,13 +89,6 @@
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
-    },
-    {
-      "category": "交通",
-      "amount": -635.0,
-      "icon": "🚗",
-      "color": "#38BDF8",
-      "group": "variable"
     },
     {
       "category": "寵物",
@@ -776,38 +776,8 @@
       ]
     },
     {
-      "date": "2026-07-24",
-      "total": -1387.0,
-      "items": [
-        {
-          "date": "2026-07-24",
-          "category": "美容",
-          "item": "按摩",
-          "amount": -1000.0,
-          "icon": "💇",
-          "group": "variable"
-        },
-        {
-          "date": "2026-07-24",
-          "category": "餐點",
-          "item": "麻麻麻婆豆腐",
-          "amount": -260.0,
-          "icon": "🍱",
-          "group": "variable"
-        },
-        {
-          "date": "2026-07-24",
-          "category": "購物",
-          "item": "路上（飲料）",
-          "amount": -127.0,
-          "icon": "🛍️",
-          "group": "variable"
-        }
-      ]
-    },
-    {
       "date": "2026-07-25",
-      "total": -12649.0,
+      "total": -14766.0,
       "items": [
         {
           "date": "2026-07-25",
@@ -831,6 +801,38 @@
           "item": "奧利多水",
           "amount": -48.0,
           "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-25",
+          "category": "美容",
+          "item": "按摩",
+          "amount": -1000.0,
+          "icon": "💇",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-25",
+          "category": "餐點",
+          "item": "麻麻麻婆豆腐",
+          "amount": -260.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-25",
+          "category": "購物",
+          "item": "路上（飲料）",
+          "amount": -127.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-25",
+          "category": "交通",
+          "item": "機車保養",
+          "amount": -730.0,
+          "icon": "🚗",
           "group": "variable"
         }
       ]
@@ -1398,7 +1400,7 @@
       "group": "variable"
     },
     {
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "category": "美容",
       "item": "按摩",
       "amount": -1000.0,
@@ -1406,7 +1408,7 @@
       "group": "variable"
     },
     {
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "category": "餐點",
       "item": "麻麻麻婆豆腐",
       "amount": -260.0,
@@ -1414,11 +1416,19 @@
       "group": "variable"
     },
     {
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "category": "購物",
       "item": "路上（飲料）",
       "amount": -127.0,
       "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-25",
+      "category": "交通",
+      "item": "機車保養",
+      "amount": -730.0,
+      "icon": "🚗",
       "group": "variable"
     }
   ]

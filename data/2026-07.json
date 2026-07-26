@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -90976.0,
+  "total": -94630.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -45566.0,
+  "variableTotal": -49220.0,
   "categories": [
     {
       "category": "住",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -15498.0,
+      "amount": -17001.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -57,7 +57,7 @@
     },
     {
       "category": "飲料",
-      "amount": -2293.0,
+      "amount": -2613.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -67,6 +67,13 @@
       "amount": -2250.0,
       "icon": "✈️",
       "color": "#34D399",
+      "group": "variable"
+    },
+    {
+      "category": "寵物",
+      "amount": -1981.0,
+      "icon": "🐈",
+      "color": "#FBBF24",
       "group": "variable"
     },
     {
@@ -91,17 +98,17 @@
       "group": "fixed"
     },
     {
-      "category": "寵物",
-      "amount": -250.0,
-      "icon": "🐈",
-      "color": "#FBBF24",
-      "group": "variable"
-    },
-    {
       "category": "購物",
       "amount": -127.0,
       "icon": "🛍️",
       "color": "#F472B6",
+      "group": "variable"
+    },
+    {
+      "category": "捐款",
+      "amount": -100.0,
+      "icon": "🙏",
+      "color": "#6EE7B7",
       "group": "variable"
     },
     {
@@ -836,6 +843,68 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-07-26",
+      "total": -3654.0,
+      "items": [
+        {
+          "date": "2026-07-26",
+          "category": "餐點",
+          "item": "芸彰牧場火鍋",
+          "amount": -1310.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-26",
+          "category": "餐點",
+          "item": "mini one 可頌",
+          "amount": -109.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-26",
+          "category": "餐點",
+          "item": "7-11",
+          "amount": -84.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-26",
+          "category": "飲料",
+          "item": "喫茶月滿",
+          "amount": -320.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-26",
+          "category": "捐款",
+          "item": "捐款",
+          "amount": -100.0,
+          "icon": "🙏",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-26",
+          "category": "寵物",
+          "item": "怪獸部落凍乾",
+          "amount": -962.0,
+          "icon": "🐈",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-26",
+          "category": "寵物",
+          "item": "汪喵星球滴雞精",
+          "amount": -769.0,
+          "icon": "🐈",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1429,6 +1498,62 @@
       "item": "機車保養",
       "amount": -730.0,
       "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-26",
+      "category": "餐點",
+      "item": "芸彰牧場火鍋",
+      "amount": -1310.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-26",
+      "category": "餐點",
+      "item": "mini one 可頌",
+      "amount": -109.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-26",
+      "category": "餐點",
+      "item": "7-11",
+      "amount": -84.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-26",
+      "category": "飲料",
+      "item": "喫茶月滿",
+      "amount": -320.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-26",
+      "category": "捐款",
+      "item": "捐款",
+      "amount": -100.0,
+      "icon": "🙏",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-26",
+      "category": "寵物",
+      "item": "怪獸部落凍乾",
+      "amount": -962.0,
+      "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-26",
+      "category": "寵物",
+      "item": "汪喵星球滴雞精",
+      "amount": -769.0,
+      "icon": "🐈",
       "group": "variable"
     }
   ]

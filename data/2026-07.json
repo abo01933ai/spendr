@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -94630.0,
+  "total": -95316.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -49220.0,
+  "variableTotal": -49906.0,
   "categories": [
     {
       "category": "住",
@@ -43,7 +43,7 @@
     },
     {
       "category": "服飾",
-      "amount": -6698.0,
+      "amount": -7384.0,
       "icon": "👕",
       "color": "#F472B6",
       "group": "variable"
@@ -905,6 +905,20 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-07-27",
+      "total": -686.0,
+      "items": [
+        {
+          "date": "2026-07-27",
+          "category": "服飾",
+          "item": "puma訓練無袖上衣",
+          "amount": -686.0,
+          "icon": "👕",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1554,6 +1568,14 @@
       "item": "汪喵星球滴雞精",
       "amount": -769.0,
       "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-27",
+      "category": "服飾",
+      "item": "puma訓練無袖上衣",
+      "amount": -686.0,
+      "icon": "👕",
       "group": "variable"
     }
   ]

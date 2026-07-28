@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -95316.0,
+  "total": -96316.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -49906.0,
+  "variableTotal": -50906.0,
   "categories": [
     {
       "category": "住",
@@ -84,6 +84,13 @@
       "group": "variable"
     },
     {
+      "category": "捐款",
+      "amount": -1100.0,
+      "icon": "🙏",
+      "color": "#6EE7B7",
+      "group": "variable"
+    },
+    {
       "category": "美容",
       "amount": -1000.0,
       "icon": "💇",
@@ -102,13 +109,6 @@
       "amount": -127.0,
       "icon": "🛍️",
       "color": "#F472B6",
-      "group": "variable"
-    },
-    {
-      "category": "捐款",
-      "amount": -100.0,
-      "icon": "🙏",
-      "color": "#6EE7B7",
       "group": "variable"
     },
     {
@@ -919,6 +919,20 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-07-28",
+      "total": -1000.0,
+      "items": [
+        {
+          "date": "2026-07-28",
+          "category": "捐款",
+          "item": "台灣之心捐款",
+          "amount": -1000.0,
+          "icon": "🙏",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1576,6 +1590,14 @@
       "item": "puma訓練無袖上衣",
       "amount": -686.0,
       "icon": "👕",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-28",
+      "category": "捐款",
+      "item": "台灣之心捐款",
+      "amount": -1000.0,
+      "icon": "🙏",
       "group": "variable"
     }
   ]

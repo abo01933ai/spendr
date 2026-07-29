@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -96316.0,
+  "total": -97102.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -50906.0,
+  "variableTotal": -51692.0,
   "categories": [
     {
       "category": "住",
@@ -63,17 +63,17 @@
       "group": "variable"
     },
     {
+      "category": "寵物",
+      "amount": -2531.0,
+      "icon": "🐈",
+      "color": "#FBBF24",
+      "group": "variable"
+    },
+    {
       "category": "旅遊",
       "amount": -2250.0,
       "icon": "✈️",
       "color": "#34D399",
-      "group": "variable"
-    },
-    {
-      "category": "寵物",
-      "amount": -1981.0,
-      "icon": "🐈",
-      "color": "#FBBF24",
       "group": "variable"
     },
     {
@@ -105,17 +105,17 @@
       "group": "fixed"
     },
     {
+      "category": "學習",
+      "amount": -335.0,
+      "icon": "📚",
+      "color": "#94A3B8",
+      "group": "variable"
+    },
+    {
       "category": "購物",
       "amount": -127.0,
       "icon": "🛍️",
       "color": "#F472B6",
-      "group": "variable"
-    },
-    {
-      "category": "學習",
-      "amount": -99.0,
-      "icon": "📚",
-      "color": "#94A3B8",
       "group": "variable"
     }
   ],
@@ -933,6 +933,28 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-07-29",
+      "total": -786.0,
+      "items": [
+        {
+          "date": "2026-07-29",
+          "category": "學習",
+          "item": "風險之書",
+          "amount": -236.0,
+          "icon": "📚",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-29",
+          "category": "寵物",
+          "item": "皇家潔牙成貓乾糧",
+          "amount": -550.0,
+          "icon": "🐈",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1598,6 +1620,22 @@
       "item": "台灣之心捐款",
       "amount": -1000.0,
       "icon": "🙏",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-29",
+      "category": "學習",
+      "item": "風險之書",
+      "amount": -236.0,
+      "icon": "📚",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-29",
+      "category": "寵物",
+      "item": "皇家潔牙成貓乾糧",
+      "amount": -550.0,
+      "icon": "🐈",
       "group": "variable"
     }
   ]

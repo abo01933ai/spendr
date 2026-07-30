@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -97549.0,
+  "total": -97609.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -52139.0,
+  "variableTotal": -52199.0,
   "categories": [
     {
       "category": "住",
@@ -57,7 +57,7 @@
     },
     {
       "category": "飲料",
-      "amount": -2613.0,
+      "amount": -2653.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -78,7 +78,7 @@
     },
     {
       "category": "交通",
-      "amount": -1365.0,
+      "amount": -1385.0,
       "icon": "🚗",
       "color": "#38BDF8",
       "group": "variable"
@@ -966,7 +966,7 @@
     },
     {
       "date": "2026-07-30",
-      "total": -164.0,
+      "total": -224.0,
       "items": [
         {
           "date": "2026-07-30",
@@ -974,6 +974,22 @@
           "item": "鮮奶+優酪乳",
           "amount": -164.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-30",
+          "category": "飲料",
+          "item": "青茶",
+          "amount": -40.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-30",
+          "category": "交通",
+          "item": "停車",
+          "amount": -20.0,
+          "icon": "🚗",
           "group": "variable"
         }
       ]
@@ -1674,6 +1690,22 @@
       "item": "鮮奶+優酪乳",
       "amount": -164.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-30",
+      "category": "飲料",
+      "item": "青茶",
+      "amount": -40.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-30",
+      "category": "交通",
+      "item": "停車",
+      "amount": -20.0,
+      "icon": "🚗",
       "group": "variable"
     }
   ]

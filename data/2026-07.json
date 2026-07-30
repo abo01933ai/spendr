@@ -2,9 +2,9 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -97385.0,
+  "total": -97549.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -51975.0,
+  "variableTotal": -52139.0,
   "categories": [
     {
       "category": "住",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -17284.0,
+      "amount": -17448.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -963,6 +963,20 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-07-30",
+      "total": -164.0,
+      "items": [
+        {
+          "date": "2026-07-30",
+          "category": "餐點",
+          "item": "鮮奶+優酪乳",
+          "amount": -164.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1651,6 +1665,14 @@
       "category": "餐點",
       "item": "Subway",
       "amount": -283.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-30",
+      "category": "餐點",
+      "item": "鮮奶+優酪乳",
+      "amount": -164.0,
       "icon": "🍱",
       "group": "variable"
     }

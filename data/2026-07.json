@@ -2,23 +2,23 @@
   "month": "2026-07",
   "year": 2026,
   "monthNum": 7,
-  "total": -97609.0,
+  "total": -97927.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -52199.0,
+  "variableTotal": -52517.0,
   "categories": [
+    {
+      "category": "餐點",
+      "amount": -17667.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
     {
       "category": "住",
       "amount": -17539.0,
       "icon": "🏠",
       "color": "#60A5FA",
       "group": "fixed"
-    },
-    {
-      "category": "餐點",
-      "amount": -17448.0,
-      "icon": "🍱",
-      "color": "#F87171",
-      "group": "variable"
     },
     {
       "category": "訂閱",
@@ -106,7 +106,7 @@
     },
     {
       "category": "學習",
-      "amount": -335.0,
+      "amount": -434.0,
       "icon": "📚",
       "color": "#94A3B8",
       "group": "variable"
@@ -993,6 +993,28 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-07-31",
+      "total": -318.0,
+      "items": [
+        {
+          "date": "2026-07-31",
+          "category": "餐點",
+          "item": "土木公社",
+          "amount": -219.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-07-31",
+          "category": "學習",
+          "item": "一本書讀懂美元",
+          "amount": -99.0,
+          "icon": "📚",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1706,6 +1728,22 @@
       "item": "停車",
       "amount": -20.0,
       "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-31",
+      "category": "餐點",
+      "item": "土木公社",
+      "amount": -219.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-07-31",
+      "category": "學習",
+      "item": "一本書讀懂美元",
+      "amount": -99.0,
+      "icon": "📚",
       "group": "variable"
     }
   ]

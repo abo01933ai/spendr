@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -42535.0,
+  "total": -42773.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -3041.0,
+  "variableTotal": -3279.0,
   "categories": [
     {
       "category": "訂閱",
@@ -36,7 +36,7 @@
     },
     {
       "category": "餐點",
-      "amount": -1113.0,
+      "amount": -1351.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -52,7 +52,7 @@
   "days": [
     {
       "date": "2026-08-01",
-      "total": -13041.0,
+      "total": -13279.0,
       "items": [
         {
           "date": "2026-08-01",
@@ -84,6 +84,14 @@
           "item": "樂高獵魔女團老虎",
           "amount": -1928.0,
           "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-01",
+          "category": "餐點",
+          "item": "天時鮮魚湯",
+          "amount": -238.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -192,6 +200,14 @@
       "item": "樂高獵魔女團老虎",
       "amount": -1928.0,
       "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-01",
+      "category": "餐點",
+      "item": "天時鮮魚湯",
+      "amount": -238.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

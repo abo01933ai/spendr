@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -39898.0,
+  "total": -42535.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -404.0,
+  "variableTotal": -3041.0,
   "categories": [
     {
       "category": "訂閱",
@@ -28,24 +28,31 @@
       "group": "fixed"
     },
     {
+      "category": "娛樂",
+      "amount": -1928.0,
+      "icon": "🎮",
+      "color": "#A78BFA",
+      "group": "variable"
+    },
+    {
+      "category": "餐點",
+      "amount": -1113.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
+    {
       "category": "運動",
       "amount": -888.0,
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
-    },
-    {
-      "category": "餐點",
-      "amount": -404.0,
-      "icon": "🍱",
-      "color": "#F87171",
-      "group": "variable"
     }
   ],
   "days": [
     {
       "date": "2026-08-01",
-      "total": -10404.0,
+      "total": -13041.0,
       "items": [
         {
           "date": "2026-08-01",
@@ -61,6 +68,22 @@
           "item": "麥當勞",
           "amount": -404.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-01",
+          "category": "餐點",
+          "item": "松日咖啡",
+          "amount": -709.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-01",
+          "category": "娛樂",
+          "item": "樂高獵魔女團老虎",
+          "amount": -1928.0,
+          "icon": "🎮",
           "group": "variable"
         }
       ]
@@ -153,6 +176,22 @@
       "item": "麥當勞",
       "amount": -404.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-01",
+      "category": "餐點",
+      "item": "松日咖啡",
+      "amount": -709.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-01",
+      "category": "娛樂",
+      "item": "樂高獵魔女團老虎",
+      "amount": -1928.0,
+      "icon": "🎮",
       "group": "variable"
     },
     {

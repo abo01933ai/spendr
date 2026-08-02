@@ -241,6 +241,30 @@
       "group": "variable"
     },
     {
+      "date": "2026-08-02",
+      "category": "餐點",
+      "item": "A-NiNi夏威夷輕食",
+      "amount": -441.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-02",
+      "category": "餐點",
+      "item": "楓康買菜",
+      "amount": -467.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-02",
+      "category": "餐點",
+      "item": "漢家園火鍋",
+      "amount": -820.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
       "date": "2026-08-10",
       "category": "運動",
       "item": "健身房",
@@ -287,30 +311,6 @@
       "amount": -11623.0,
       "icon": "🏠",
       "group": "fixed"
-    },
-    {
-      "date": "2026-08-02",
-      "category": "餐點",
-      "item": "A-NiNi夏威夷輕食",
-      "amount": -441.0,
-      "icon": "🍱",
-      "group": "variable"
-    },
-    {
-      "date": "2026-08-02",
-      "category": "餐點",
-      "item": "楓康買菜",
-      "amount": -467.0,
-      "icon": "🍱",
-      "group": "variable"
-    },
-    {
-      "date": "2026-08-02",
-      "category": "餐點",
-      "item": "漢家園火鍋",
-      "amount": -820.0,
-      "icon": "🍱",
-      "group": "variable"
     }
   ]
 }

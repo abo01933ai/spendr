@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -43681.0,
+  "total": -43593.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -4187.0,
+  "variableTotal": -4099.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -2259.0,
+      "amount": -2171.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -98,21 +98,13 @@
     },
     {
       "date": "2026-08-02",
-      "total": -908.0,
+      "total": -820.0,
       "items": [
         {
           "date": "2026-08-02",
           "category": "餐點",
-          "item": "A-NiNi夏威夷輕食",
-          "amount": -441.0,
-          "icon": "🍱",
-          "group": "variable"
-        },
-        {
-          "date": "2026-08-02",
-          "category": "餐點",
-          "item": "楓康買菜",
-          "amount": -467.0,
+          "item": "漢家園火鍋",
+          "amount": -820.0,
           "icon": "🍱",
           "group": "variable"
         }
@@ -283,16 +275,8 @@
     {
       "date": "2026-08-02",
       "category": "餐點",
-      "item": "A-NiNi夏威夷輕食",
-      "amount": -441.0,
-      "icon": "🍱",
-      "group": "variable"
-    },
-    {
-      "date": "2026-08-02",
-      "category": "餐點",
-      "item": "楓康買菜",
-      "amount": -467.0,
+      "item": "漢家園火鍋",
+      "amount": -820.0,
       "icon": "🍱",
       "group": "variable"
     }

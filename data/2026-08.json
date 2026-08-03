@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -44600.0,
+  "total": -44870.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -5106.0,
+  "variableTotal": -5376.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -3079.0,
+      "amount": -3349.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -135,7 +135,7 @@
     },
     {
       "date": "2026-08-03",
-      "total": -99.0,
+      "total": -369.0,
       "items": [
         {
           "date": "2026-08-03",
@@ -143,6 +143,14 @@
           "item": "藝術的40堂公開課（書）",
           "amount": -99.0,
           "icon": "📚",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-03",
+          "category": "餐點",
+          "item": "初包子",
+          "amount": -270.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -291,6 +299,14 @@
       "item": "藝術的40堂公開課（書）",
       "amount": -99.0,
       "icon": "📚",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-03",
+      "category": "餐點",
+      "item": "初包子",
+      "amount": -270.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

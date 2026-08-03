@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -44501.0,
+  "total": -44600.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -5007.0,
+  "variableTotal": -5106.0,
   "categories": [
     {
       "category": "訂閱",
@@ -47,6 +47,13 @@
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
+    },
+    {
+      "category": "學習",
+      "amount": -99.0,
+      "icon": "📚",
+      "color": "#94A3B8",
+      "group": "variable"
     }
   ],
   "days": [
@@ -98,7 +105,7 @@
     },
     {
       "date": "2026-08-02",
-      "total": -1728.0,
+      "total": -1827.0,
       "items": [
         {
           "date": "2026-08-02",
@@ -122,6 +129,14 @@
           "item": "漢家園火鍋",
           "amount": -820.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-02",
+          "category": "學習",
+          "item": "藝術的40堂公開課（書）",
+          "amount": -99.0,
+          "icon": "📚",
           "group": "variable"
         }
       ]
@@ -262,6 +277,14 @@
       "item": "漢家園火鍋",
       "amount": -820.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-02",
+      "category": "學習",
+      "item": "藝術的40堂公開課（書）",
+      "amount": -99.0,
+      "icon": "📚",
       "group": "variable"
     },
     {

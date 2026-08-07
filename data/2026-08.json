@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -48634.0,
+  "total": -50899.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -9140.0,
+  "variableTotal": -11405.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -3629.0,
+      "amount": -5894.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -192,7 +192,7 @@
     },
     {
       "date": "2026-08-07",
-      "total": -2240.0,
+      "total": -4505.0,
       "items": [
         {
           "date": "2026-08-07",
@@ -215,6 +215,30 @@
           "category": "餐點",
           "item": "燒臘飯",
           "amount": -280.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-07",
+          "category": "餐點",
+          "item": "豬肉榮小料理",
+          "amount": -1345.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-07",
+          "category": "餐點",
+          "item": "台酒泡麵",
+          "amount": -775.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-07",
+          "category": "餐點",
+          "item": "旱溪夜市小吃",
+          "amount": -145.0,
           "icon": "🍱",
           "group": "variable"
         }
@@ -403,6 +427,30 @@
       "category": "餐點",
       "item": "燒臘飯",
       "amount": -280.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-07",
+      "category": "餐點",
+      "item": "豬肉榮小料理",
+      "amount": -1345.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-07",
+      "category": "餐點",
+      "item": "台酒泡麵",
+      "amount": -775.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-07",
+      "category": "餐點",
+      "item": "旱溪夜市小吃",
+      "amount": -145.0,
       "icon": "🍱",
       "group": "variable"
     },

@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -46394.0,
+  "total": -48634.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -6900.0,
+  "variableTotal": -9140.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -3349.0,
+      "amount": -3629.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -39,6 +39,13 @@
       "amount": -1928.0,
       "icon": "🎮",
       "color": "#A78BFA",
+      "group": "variable"
+    },
+    {
+      "category": "服飾",
+      "amount": -1890.0,
+      "icon": "👕",
+      "color": "#F472B6",
       "group": "variable"
     },
     {
@@ -60,6 +67,13 @@
       "amount": -99.0,
       "icon": "📚",
       "color": "#94A3B8",
+      "group": "variable"
+    },
+    {
+      "category": "飲料",
+      "amount": -70.0,
+      "icon": "🧋",
+      "color": "#FB923C",
       "group": "variable"
     }
   ],
@@ -172,6 +186,36 @@
           "item": "iHerb(甘氨酸鎂+D3K2)",
           "amount": -1524.0,
           "icon": "💊",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "total": -2240.0,
+      "items": [
+        {
+          "date": "2026-08-07",
+          "category": "服飾",
+          "item": "niko and 哥吉拉襯衫",
+          "amount": -1890.0,
+          "icon": "👕",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-07",
+          "category": "飲料",
+          "item": "先喝道",
+          "amount": -70.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-07",
+          "category": "餐點",
+          "item": "燒臘飯",
+          "amount": -280.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -336,6 +380,30 @@
       "item": "iHerb(甘氨酸鎂+D3K2)",
       "amount": -1524.0,
       "icon": "💊",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-07",
+      "category": "服飾",
+      "item": "niko and 哥吉拉襯衫",
+      "amount": -1890.0,
+      "icon": "👕",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-07",
+      "category": "飲料",
+      "item": "先喝道",
+      "amount": -70.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-07",
+      "category": "餐點",
+      "item": "燒臘飯",
+      "amount": -280.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

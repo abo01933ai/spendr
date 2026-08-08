@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -53591.0,
+  "total": -55320.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -14097.0,
+  "variableTotal": -15826.0,
   "categories": [
     {
       "category": "訂閱",
@@ -35,17 +35,17 @@
       "group": "variable"
     },
     {
+      "category": "娛樂",
+      "amount": -3657.0,
+      "icon": "🎮",
+      "color": "#A78BFA",
+      "group": "variable"
+    },
+    {
       "category": "寵物",
       "amount": -2355.0,
       "icon": "🐈",
       "color": "#FBBF24",
-      "group": "variable"
-    },
-    {
-      "category": "娛樂",
-      "amount": -1928.0,
-      "icon": "🎮",
-      "color": "#A78BFA",
       "group": "variable"
     },
     {
@@ -253,7 +253,7 @@
     },
     {
       "date": "2026-08-08",
-      "total": -2692.0,
+      "total": -4421.0,
       "items": [
         {
           "date": "2026-08-08",
@@ -277,6 +277,14 @@
           "item": "蔓越莓乳清蛋白飲",
           "amount": -79.0,
           "icon": "💊",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-08",
+          "category": "娛樂",
+          "item": "樂高皮克斯跳跳燈",
+          "amount": -1729.0,
+          "icon": "🎮",
           "group": "variable"
         }
       ]
@@ -513,6 +521,14 @@
       "item": "蔓越莓乳清蛋白飲",
       "amount": -79.0,
       "icon": "💊",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-08",
+      "category": "娛樂",
+      "item": "樂高皮克斯跳跳燈",
+      "amount": -1729.0,
+      "icon": "🎮",
       "group": "variable"
     },
     {

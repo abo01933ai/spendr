@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -55320.0,
+  "total": -56818.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -15826.0,
+  "variableTotal": -17324.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,14 +29,14 @@
     },
     {
       "category": "餐點",
-      "amount": -6152.0,
+      "amount": -7351.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
     },
     {
       "category": "娛樂",
-      "amount": -3657.0,
+      "amount": -3906.0,
       "icon": "🎮",
       "color": "#A78BFA",
       "group": "variable"
@@ -70,17 +70,17 @@
       "group": "fixed"
     },
     {
+      "category": "飲料",
+      "amount": -120.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "學習",
       "amount": -99.0,
       "icon": "📚",
       "color": "#94A3B8",
-      "group": "variable"
-    },
-    {
-      "category": "飲料",
-      "amount": -70.0,
-      "icon": "🧋",
-      "color": "#FB923C",
       "group": "variable"
     }
   ],
@@ -253,7 +253,7 @@
     },
     {
       "date": "2026-08-08",
-      "total": -4421.0,
+      "total": -5919.0,
       "items": [
         {
           "date": "2026-08-08",
@@ -285,6 +285,30 @@
           "item": "樂高皮克斯跳跳燈",
           "amount": -1729.0,
           "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-08",
+          "category": "飲料",
+          "item": "序序茶",
+          "amount": -50.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-08",
+          "category": "娛樂",
+          "item": "抱抱貓盲盒",
+          "amount": -249.0,
+          "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-08",
+          "category": "餐點",
+          "item": "勝牛（餐廳）",
+          "amount": -1199.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -529,6 +553,30 @@
       "item": "樂高皮克斯跳跳燈",
       "amount": -1729.0,
       "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-08",
+      "category": "飲料",
+      "item": "序序茶",
+      "amount": -50.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-08",
+      "category": "娛樂",
+      "item": "抱抱貓盲盒",
+      "amount": -249.0,
+      "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-08",
+      "category": "餐點",
+      "item": "勝牛（餐廳）",
+      "amount": -1199.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

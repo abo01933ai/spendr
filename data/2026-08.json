@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -50899.0,
+  "total": -51157.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -11405.0,
+  "variableTotal": -11663.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -5894.0,
+      "amount": -6152.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -245,6 +245,20 @@
       ]
     },
     {
+      "date": "2026-08-08",
+      "total": -258.0,
+      "items": [
+        {
+          "date": "2026-08-08",
+          "category": "餐點",
+          "item": "早安美芝城",
+          "amount": -258.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-08-10",
       "total": -888.0,
       "items": [
@@ -451,6 +465,14 @@
       "category": "餐點",
       "item": "旱溪夜市小吃",
       "amount": -145.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-08",
+      "category": "餐點",
+      "item": "早安美芝城",
+      "amount": -258.0,
       "icon": "🍱",
       "group": "variable"
     },

@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -51157.0,
+  "total": -53591.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -11663.0,
+  "variableTotal": -14097.0,
   "categories": [
     {
       "category": "訂閱",
@@ -35,6 +35,13 @@
       "group": "variable"
     },
     {
+      "category": "寵物",
+      "amount": -2355.0,
+      "icon": "🐈",
+      "color": "#FBBF24",
+      "group": "variable"
+    },
+    {
       "category": "娛樂",
       "amount": -1928.0,
       "icon": "🎮",
@@ -50,7 +57,7 @@
     },
     {
       "category": "保健",
-      "amount": -1524.0,
+      "amount": -1603.0,
       "icon": "💊",
       "color": "#4ADE80",
       "group": "variable"
@@ -246,7 +253,7 @@
     },
     {
       "date": "2026-08-08",
-      "total": -258.0,
+      "total": -2692.0,
       "items": [
         {
           "date": "2026-08-08",
@@ -254,6 +261,22 @@
           "item": "早安美芝城",
           "amount": -258.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-08",
+          "category": "寵物",
+          "item": "皇家貓濕糧*72",
+          "amount": -2355.0,
+          "icon": "🐈",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-08",
+          "category": "保健",
+          "item": "蔓越莓乳清蛋白飲",
+          "amount": -79.0,
+          "icon": "💊",
           "group": "variable"
         }
       ]
@@ -474,6 +497,22 @@
       "item": "早安美芝城",
       "amount": -258.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-08",
+      "category": "寵物",
+      "item": "皇家貓濕糧*72",
+      "amount": -2355.0,
+      "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-08",
+      "category": "保健",
+      "item": "蔓越莓乳清蛋白飲",
+      "amount": -79.0,
+      "icon": "💊",
       "group": "variable"
     },
     {

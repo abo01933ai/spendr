@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -56818.0,
+  "total": -57303.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -17324.0,
+  "variableTotal": -17809.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -7351.0,
+      "amount": -7836.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -314,11 +314,19 @@
       ]
     },
     {
-      "date": "2026-08-10",
-      "total": -888.0,
+      "date": "2026-08-09",
+      "total": -1373.0,
       "items": [
         {
-          "date": "2026-08-10",
+          "date": "2026-08-09",
+          "category": "餐點",
+          "item": "全聯",
+          "amount": -485.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-09",
           "category": "運動",
           "item": "健身房",
           "amount": -888.0,
@@ -580,7 +588,15 @@
       "group": "variable"
     },
     {
-      "date": "2026-08-10",
+      "date": "2026-08-09",
+      "category": "餐點",
+      "item": "全聯",
+      "amount": -485.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-09",
       "category": "運動",
       "item": "健身房",
       "amount": -888.0,

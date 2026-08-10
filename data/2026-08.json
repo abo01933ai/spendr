@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -57303.0,
-  "fixedTotal": -39494.0,
-  "variableTotal": -17809.0,
+  "total": -57653.0,
+  "fixedTotal": -39707.0,
+  "variableTotal": -17946.0,
   "categories": [
     {
       "category": "訂閱",
@@ -22,14 +22,14 @@
     },
     {
       "category": "住",
-      "amount": -11623.0,
+      "amount": -11836.0,
       "icon": "🏠",
       "color": "#60A5FA",
       "group": "fixed"
     },
     {
       "category": "餐點",
-      "amount": -7836.0,
+      "amount": -7973.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -315,7 +315,7 @@
     },
     {
       "date": "2026-08-09",
-      "total": -1373.0,
+      "total": -485.0,
       "items": [
         {
           "date": "2026-08-09",
@@ -324,13 +324,35 @@
           "amount": -485.0,
           "icon": "🍱",
           "group": "variable"
-        },
+        }
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "total": -1238.0,
+      "items": [
         {
-          "date": "2026-08-09",
+          "date": "2026-08-10",
           "category": "運動",
           "item": "健身房",
           "amount": -888.0,
           "icon": "🏋️",
+          "group": "fixed"
+        },
+        {
+          "date": "2026-08-10",
+          "category": "餐點",
+          "item": "全家",
+          "amount": -137.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-10",
+          "category": "住",
+          "item": "水費",
+          "amount": -213.0,
+          "icon": "🏠",
           "group": "fixed"
         }
       ]
@@ -596,11 +618,27 @@
       "group": "variable"
     },
     {
-      "date": "2026-08-09",
+      "date": "2026-08-10",
       "category": "運動",
       "item": "健身房",
       "amount": -888.0,
       "icon": "🏋️",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-08-10",
+      "category": "餐點",
+      "item": "全家",
+      "amount": -137.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-10",
+      "category": "住",
+      "item": "水費",
+      "amount": -213.0,
+      "icon": "🏠",
       "group": "fixed"
     },
     {

@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -57653.0,
+  "total": -57748.0,
   "fixedTotal": -39707.0,
-  "variableTotal": -17946.0,
+  "variableTotal": -18041.0,
   "categories": [
     {
       "category": "訂閱",
@@ -81,6 +81,13 @@
       "amount": -99.0,
       "icon": "📚",
       "color": "#94A3B8",
+      "group": "variable"
+    },
+    {
+      "category": "交通",
+      "amount": -95.0,
+      "icon": "🚗",
+      "color": "#38BDF8",
       "group": "variable"
     }
   ],
@@ -354,6 +361,20 @@
           "amount": -213.0,
           "icon": "🏠",
           "group": "fixed"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-11",
+      "total": -95.0,
+      "items": [
+        {
+          "date": "2026-08-11",
+          "category": "交通",
+          "item": "加油",
+          "amount": -95.0,
+          "icon": "🚗",
+          "group": "variable"
         }
       ]
     },
@@ -640,6 +661,14 @@
       "amount": -213.0,
       "icon": "🏠",
       "group": "fixed"
+    },
+    {
+      "date": "2026-08-11",
+      "category": "交通",
+      "item": "加油",
+      "amount": -95.0,
+      "icon": "🚗",
+      "group": "variable"
     },
     {
       "date": "2026-08-15",

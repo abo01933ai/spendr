@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -58251.0,
+  "total": -61809.0,
   "fixedTotal": -39707.0,
-  "variableTotal": -18544.0,
+  "variableTotal": -22102.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,14 +29,14 @@
     },
     {
       "category": "餐點",
-      "amount": -8377.0,
+      "amount": -10152.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
     },
     {
       "category": "娛樂",
-      "amount": -3906.0,
+      "amount": -5689.0,
       "icon": "🎮",
       "color": "#A78BFA",
       "group": "variable"
@@ -380,7 +380,7 @@
     },
     {
       "date": "2026-08-14",
-      "total": -503.0,
+      "total": -4061.0,
       "items": [
         {
           "date": "2026-08-14",
@@ -396,6 +396,30 @@
           "item": "正確犯錯(書)",
           "amount": -99.0,
           "icon": "📚",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-14",
+          "category": "餐點",
+          "item": "燒肉Like",
+          "amount": -1650.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-14",
+          "category": "餐點",
+          "item": "Bread Papa",
+          "amount": -125.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-14",
+          "category": "娛樂",
+          "item": "抱抱貓盲盒",
+          "amount": -1783.0,
+          "icon": "🎮",
           "group": "variable"
         }
       ]
@@ -706,6 +730,30 @@
       "item": "正確犯錯(書)",
       "amount": -99.0,
       "icon": "📚",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-14",
+      "category": "餐點",
+      "item": "燒肉Like",
+      "amount": -1650.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-14",
+      "category": "餐點",
+      "item": "Bread Papa",
+      "amount": -125.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-14",
+      "category": "娛樂",
+      "item": "抱抱貓盲盒",
+      "amount": -1783.0,
+      "icon": "🎮",
       "group": "variable"
     },
     {

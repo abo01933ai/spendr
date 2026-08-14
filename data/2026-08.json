@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -61809.0,
+  "total": -62439.0,
   "fixedTotal": -39707.0,
-  "variableTotal": -22102.0,
+  "variableTotal": -22732.0,
   "categories": [
     {
       "category": "訂閱",
@@ -43,7 +43,7 @@
     },
     {
       "category": "寵物",
-      "amount": -2355.0,
+      "amount": -2985.0,
       "icon": "🐈",
       "color": "#FBBF24",
       "group": "variable"
@@ -380,7 +380,7 @@
     },
     {
       "date": "2026-08-14",
-      "total": -4061.0,
+      "total": -4691.0,
       "items": [
         {
           "date": "2026-08-14",
@@ -420,6 +420,14 @@
           "item": "抱抱貓盲盒",
           "amount": -1783.0,
           "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-14",
+          "category": "寵物",
+          "item": "pidan貓砂",
+          "amount": -630.0,
+          "icon": "🐈",
           "group": "variable"
         }
       ]
@@ -754,6 +762,14 @@
       "item": "抱抱貓盲盒",
       "amount": -1783.0,
       "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-14",
+      "category": "寵物",
+      "item": "pidan貓砂",
+      "amount": -630.0,
+      "icon": "🐈",
       "group": "variable"
     },
     {

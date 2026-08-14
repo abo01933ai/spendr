@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -57748.0,
+  "total": -58251.0,
   "fixedTotal": -39707.0,
-  "variableTotal": -18041.0,
+  "variableTotal": -18544.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -7973.0,
+      "amount": -8377.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -70,17 +70,17 @@
       "group": "fixed"
     },
     {
+      "category": "學習",
+      "amount": -198.0,
+      "icon": "📚",
+      "color": "#94A3B8",
+      "group": "variable"
+    },
+    {
       "category": "飲料",
       "amount": -120.0,
       "icon": "🧋",
       "color": "#FB923C",
-      "group": "variable"
-    },
-    {
-      "category": "學習",
-      "amount": -99.0,
-      "icon": "📚",
-      "color": "#94A3B8",
       "group": "variable"
     },
     {
@@ -379,6 +379,28 @@
       ]
     },
     {
+      "date": "2026-08-14",
+      "total": -503.0,
+      "items": [
+        {
+          "date": "2026-08-14",
+          "category": "餐點",
+          "item": "王氏異廚",
+          "amount": -404.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-14",
+          "category": "學習",
+          "item": "正確犯錯(書)",
+          "amount": -99.0,
+          "icon": "📚",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-08-15",
       "total": -3899.0,
       "items": [
@@ -668,6 +690,22 @@
       "item": "加油",
       "amount": -95.0,
       "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-14",
+      "category": "餐點",
+      "item": "王氏異廚",
+      "amount": -404.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-14",
+      "category": "學習",
+      "item": "正確犯錯(書)",
+      "amount": -99.0,
+      "icon": "📚",
       "group": "variable"
     },
     {

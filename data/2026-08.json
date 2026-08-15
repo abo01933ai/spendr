@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -65143.0,
+  "total": -66393.0,
   "fixedTotal": -39707.0,
-  "variableTotal": -25436.0,
+  "variableTotal": -26686.0,
   "categories": [
     {
       "category": "訂閱",
@@ -21,18 +21,18 @@
       "group": "fixed"
     },
     {
+      "category": "餐點",
+      "amount": -12422.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
+    {
       "category": "住",
       "amount": -11836.0,
       "icon": "🏠",
       "color": "#60A5FA",
       "group": "fixed"
-    },
-    {
-      "category": "餐點",
-      "amount": -11172.0,
-      "icon": "🍱",
-      "color": "#F87171",
-      "group": "variable"
     },
     {
       "category": "娛樂",
@@ -441,7 +441,7 @@
     },
     {
       "date": "2026-08-15",
-      "total": -6603.0,
+      "total": -7853.0,
       "items": [
         {
           "date": "2026-08-15",
@@ -489,6 +489,14 @@
           "item": "雪碧",
           "amount": -49.0,
           "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-15",
+          "category": "餐點",
+          "item": "雲Nuvola Pizza",
+          "amount": -1250.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -849,6 +857,14 @@
       "item": "雪碧",
       "amount": -49.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-15",
+      "category": "餐點",
+      "item": "雲Nuvola Pizza",
+      "amount": -1250.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

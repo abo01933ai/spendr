@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -62439.0,
+  "total": -65143.0,
   "fixedTotal": -39707.0,
-  "variableTotal": -22732.0,
+  "variableTotal": -25436.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -10152.0,
+      "amount": -11172.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -56,6 +56,13 @@
       "group": "variable"
     },
     {
+      "category": "購物",
+      "amount": -1635.0,
+      "icon": "🛍️",
+      "color": "#F472B6",
+      "group": "variable"
+    },
+    {
       "category": "保健",
       "amount": -1603.0,
       "icon": "💊",
@@ -78,7 +85,7 @@
     },
     {
       "category": "飲料",
-      "amount": -120.0,
+      "amount": -169.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -434,7 +441,7 @@
     },
     {
       "date": "2026-08-15",
-      "total": -3899.0,
+      "total": -6603.0,
       "items": [
         {
           "date": "2026-08-15",
@@ -459,6 +466,30 @@
           "amount": -3000.0,
           "icon": "📱",
           "group": "fixed"
+        },
+        {
+          "date": "2026-08-15",
+          "category": "餐點",
+          "item": "壽司郎",
+          "amount": -1020.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-15",
+          "category": "購物",
+          "item": "農會商品",
+          "amount": -1635.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-15",
+          "category": "飲料",
+          "item": "雪碧",
+          "amount": -49.0,
+          "icon": "🧋",
+          "group": "variable"
         }
       ]
     },
@@ -795,6 +826,30 @@
       "amount": -3000.0,
       "icon": "📱",
       "group": "fixed"
+    },
+    {
+      "date": "2026-08-15",
+      "category": "餐點",
+      "item": "壽司郎",
+      "amount": -1020.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-15",
+      "category": "購物",
+      "item": "農會商品",
+      "amount": -1635.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-15",
+      "category": "飲料",
+      "item": "雪碧",
+      "amount": -49.0,
+      "icon": "🧋",
+      "group": "variable"
     },
     {
       "date": "2026-08-20",

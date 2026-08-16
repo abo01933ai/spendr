@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -66393.0,
+  "total": -68018.0,
   "fixedTotal": -39707.0,
-  "variableTotal": -26686.0,
+  "variableTotal": -28311.0,
   "categories": [
     {
       "category": "訂閱",
@@ -14,18 +14,18 @@
       "group": "fixed"
     },
     {
+      "category": "餐點",
+      "amount": -13157.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
+    {
       "category": "財務",
       "amount": -13084.0,
       "icon": "💳",
       "color": "#7C83FD",
       "group": "fixed"
-    },
-    {
-      "category": "餐點",
-      "amount": -12422.0,
-      "icon": "🍱",
-      "color": "#F87171",
-      "group": "variable"
     },
     {
       "category": "住",
@@ -49,16 +49,16 @@
       "group": "variable"
     },
     {
-      "category": "服飾",
-      "amount": -1890.0,
-      "icon": "👕",
+      "category": "購物",
+      "amount": -2490.0,
+      "icon": "🛍️",
       "color": "#F472B6",
       "group": "variable"
     },
     {
-      "category": "購物",
-      "amount": -1635.0,
-      "icon": "🛍️",
+      "category": "服飾",
+      "amount": -1890.0,
+      "icon": "👕",
       "color": "#F472B6",
       "group": "variable"
     },
@@ -77,17 +77,17 @@
       "group": "fixed"
     },
     {
+      "category": "飲料",
+      "amount": -204.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "學習",
       "amount": -198.0,
       "icon": "📚",
       "color": "#94A3B8",
-      "group": "variable"
-    },
-    {
-      "category": "飲料",
-      "amount": -169.0,
-      "icon": "🧋",
-      "color": "#FB923C",
       "group": "variable"
     },
     {
@@ -502,6 +502,36 @@
       ]
     },
     {
+      "date": "2026-08-16",
+      "total": -1625.0,
+      "items": [
+        {
+          "date": "2026-08-16",
+          "category": "購物",
+          "item": "大買家",
+          "amount": -855.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-16",
+          "category": "餐點",
+          "item": "哞一河粉",
+          "amount": -735.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-16",
+          "category": "飲料",
+          "item": "烏弄",
+          "amount": -35.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-08-20",
       "total": -13084.0,
       "items": [
@@ -865,6 +895,30 @@
       "item": "雲Nuvola Pizza",
       "amount": -1250.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-16",
+      "category": "購物",
+      "item": "大買家",
+      "amount": -855.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-16",
+      "category": "餐點",
+      "item": "哞一河粉",
+      "amount": -735.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-16",
+      "category": "飲料",
+      "item": "烏弄",
+      "amount": -35.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

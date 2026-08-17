@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -68018.0,
+  "total": -69517.0,
   "fixedTotal": -39707.0,
-  "variableTotal": -28311.0,
+  "variableTotal": -29810.0,
   "categories": [
     {
       "category": "訂閱",
@@ -42,17 +42,17 @@
       "group": "variable"
     },
     {
+      "category": "購物",
+      "amount": -3989.0,
+      "icon": "🛍️",
+      "color": "#F472B6",
+      "group": "variable"
+    },
+    {
       "category": "寵物",
       "amount": -2985.0,
       "icon": "🐈",
       "color": "#FBBF24",
-      "group": "variable"
-    },
-    {
-      "category": "購物",
-      "amount": -2490.0,
-      "icon": "🛍️",
-      "color": "#F472B6",
       "group": "variable"
     },
     {
@@ -532,6 +532,20 @@
       ]
     },
     {
+      "date": "2026-08-17",
+      "total": -1499.0,
+      "items": [
+        {
+          "date": "2026-08-17",
+          "category": "購物",
+          "item": "防災收音機",
+          "amount": -1499.0,
+          "icon": "🛍️",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-08-20",
       "total": -13084.0,
       "items": [
@@ -919,6 +933,14 @@
       "item": "烏弄",
       "amount": -35.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-17",
+      "category": "購物",
+      "item": "防災收音機",
+      "amount": -1499.0,
+      "icon": "🛍️",
       "group": "variable"
     },
     {

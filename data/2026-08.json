@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -69517.0,
+  "total": -69592.0,
   "fixedTotal": -39707.0,
-  "variableTotal": -29810.0,
+  "variableTotal": -29885.0,
   "categories": [
     {
       "category": "訂閱",
@@ -78,7 +78,7 @@
     },
     {
       "category": "飲料",
-      "amount": -204.0,
+      "amount": -279.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -546,6 +546,20 @@
       ]
     },
     {
+      "date": "2026-08-18",
+      "total": -75.0,
+      "items": [
+        {
+          "date": "2026-08-18",
+          "category": "飲料",
+          "item": "可不可",
+          "amount": -75.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-08-20",
       "total": -13084.0,
       "items": [
@@ -941,6 +955,14 @@
       "item": "防災收音機",
       "amount": -1499.0,
       "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-18",
+      "category": "飲料",
+      "item": "可不可",
+      "amount": -75.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

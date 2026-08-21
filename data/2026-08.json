@@ -2,23 +2,23 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -70436.0,
+  "total": -71678.0,
   "fixedTotal": -39707.0,
-  "variableTotal": -30729.0,
+  "variableTotal": -31971.0,
   "categories": [
+    {
+      "category": "餐點",
+      "amount": -14986.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
     {
       "category": "訂閱",
       "amount": -13899.0,
       "icon": "📱",
       "color": "#94e1df",
       "group": "fixed"
-    },
-    {
-      "category": "餐點",
-      "amount": -13789.0,
-      "icon": "🍱",
-      "color": "#F87171",
-      "group": "variable"
     },
     {
       "category": "財務",
@@ -78,7 +78,7 @@
     },
     {
       "category": "飲料",
-      "amount": -491.0,
+      "amount": -536.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -591,13 +591,37 @@
     },
     {
       "date": "2026-08-21",
-      "total": -335.0,
+      "total": -1577.0,
       "items": [
         {
           "date": "2026-08-21",
           "category": "餐點",
           "item": "Anini",
           "amount": -335.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-21",
+          "category": "餐點",
+          "item": "漢來湯包",
+          "amount": -1132.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-21",
+          "category": "飲料",
+          "item": "大茗",
+          "amount": -45.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-21",
+          "category": "餐點",
+          "item": "Tom cat(麵包)",
+          "amount": -65.0,
           "icon": "🍱",
           "group": "variable"
         }
@@ -1024,6 +1048,30 @@
       "category": "餐點",
       "item": "Anini",
       "amount": -335.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-21",
+      "category": "餐點",
+      "item": "漢來湯包",
+      "amount": -1132.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-21",
+      "category": "飲料",
+      "item": "大茗",
+      "amount": -45.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-21",
+      "category": "餐點",
+      "item": "Tom cat(麵包)",
+      "amount": -65.0,
       "icon": "🍱",
       "group": "variable"
     },

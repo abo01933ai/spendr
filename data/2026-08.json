@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -70101.0,
+  "total": -70436.0,
   "fixedTotal": -39707.0,
-  "variableTotal": -30394.0,
+  "variableTotal": -30729.0,
   "categories": [
     {
       "category": "訂閱",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -13454.0,
+      "amount": -13789.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -590,6 +590,20 @@
       ]
     },
     {
+      "date": "2026-08-21",
+      "total": -335.0,
+      "items": [
+        {
+          "date": "2026-08-21",
+          "category": "餐點",
+          "item": "Anini",
+          "amount": -335.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-08-25",
       "total": -11623.0,
       "items": [
@@ -1003,6 +1017,14 @@
       "item": "大苑子",
       "amount": -212.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-21",
+      "category": "餐點",
+      "item": "Anini",
+      "amount": -335.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

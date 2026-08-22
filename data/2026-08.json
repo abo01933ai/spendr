@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -74296.0,
+  "total": -75296.0,
   "fixedTotal": -39707.0,
-  "variableTotal": -34589.0,
+  "variableTotal": -35589.0,
   "categories": [
     {
       "category": "餐點",
@@ -67,6 +67,13 @@
       "amount": -1603.0,
       "icon": "💊",
       "color": "#4ADE80",
+      "group": "variable"
+    },
+    {
+      "category": "捐款",
+      "amount": -1000.0,
+      "icon": "🙏",
+      "color": "#6EE7B7",
       "group": "variable"
     },
     {
@@ -629,7 +636,7 @@
     },
     {
       "date": "2026-08-22",
-      "total": -2618.0,
+      "total": -3618.0,
       "items": [
         {
           "date": "2026-08-22",
@@ -661,6 +668,14 @@
           "item": "捷運",
           "amount": -45.0,
           "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-22",
+          "category": "捐款",
+          "item": "捐款",
+          "amount": -1000.0,
+          "icon": "🙏",
           "group": "variable"
         }
       ]
@@ -1143,6 +1158,14 @@
       "item": "捷運",
       "amount": -45.0,
       "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-22",
+      "category": "捐款",
+      "item": "捐款",
+      "amount": -1000.0,
+      "icon": "🙏",
       "group": "variable"
     },
     {

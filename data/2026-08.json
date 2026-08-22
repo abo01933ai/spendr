@@ -2,13 +2,13 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -75296.0,
+  "total": -76337.0,
   "fixedTotal": -39707.0,
-  "variableTotal": -35589.0,
+  "variableTotal": -36630.0,
   "categories": [
     {
       "category": "餐點",
-      "amount": -16730.0,
+      "amount": -16911.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -63,6 +63,13 @@
       "group": "variable"
     },
     {
+      "category": "交通",
+      "amount": -1790.0,
+      "icon": "🚗",
+      "color": "#38BDF8",
+      "group": "variable"
+    },
+    {
       "category": "保健",
       "amount": -1603.0,
       "icon": "💊",
@@ -74,13 +81,6 @@
       "amount": -1000.0,
       "icon": "🙏",
       "color": "#6EE7B7",
-      "group": "variable"
-    },
-    {
-      "category": "交通",
-      "amount": -930.0,
-      "icon": "🚗",
-      "color": "#38BDF8",
       "group": "variable"
     },
     {
@@ -636,7 +636,7 @@
     },
     {
       "date": "2026-08-22",
-      "total": -3618.0,
+      "total": -4659.0,
       "items": [
         {
           "date": "2026-08-22",
@@ -676,6 +676,30 @@
           "item": "捐款",
           "amount": -1000.0,
           "icon": "🙏",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-22",
+          "category": "交通",
+          "item": "捷運",
+          "amount": -95.0,
+          "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-22",
+          "category": "交通",
+          "item": "高鐵左營台中",
+          "amount": -765.0,
+          "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-22",
+          "category": "餐點",
+          "item": "麥當勞",
+          "amount": -181.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -1166,6 +1190,30 @@
       "item": "捐款",
       "amount": -1000.0,
       "icon": "🙏",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-22",
+      "category": "交通",
+      "item": "捷運",
+      "amount": -95.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-22",
+      "category": "交通",
+      "item": "高鐵左營台中",
+      "amount": -765.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-22",
+      "category": "餐點",
+      "item": "麥當勞",
+      "amount": -181.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

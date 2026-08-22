@@ -2,13 +2,13 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -71678.0,
+  "total": -74296.0,
   "fixedTotal": -39707.0,
-  "variableTotal": -31971.0,
+  "variableTotal": -34589.0,
   "categories": [
     {
       "category": "餐點",
-      "amount": -14986.0,
+      "amount": -16730.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -70,6 +70,13 @@
       "group": "variable"
     },
     {
+      "category": "交通",
+      "amount": -930.0,
+      "icon": "🚗",
+      "color": "#38BDF8",
+      "group": "variable"
+    },
+    {
       "category": "運動",
       "amount": -888.0,
       "icon": "🏋️",
@@ -78,7 +85,7 @@
     },
     {
       "category": "飲料",
-      "amount": -536.0,
+      "amount": -575.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -88,13 +95,6 @@
       "amount": -198.0,
       "icon": "📚",
       "color": "#94A3B8",
-      "group": "variable"
-    },
-    {
-      "category": "交通",
-      "amount": -95.0,
-      "icon": "🚗",
-      "color": "#38BDF8",
       "group": "variable"
     }
   ],
@@ -628,6 +628,44 @@
       ]
     },
     {
+      "date": "2026-08-22",
+      "total": -2618.0,
+      "items": [
+        {
+          "date": "2026-08-22",
+          "category": "餐點",
+          "item": "上菜片皮鴨",
+          "amount": -1744.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-22",
+          "category": "交通",
+          "item": "高鐵台中左營",
+          "amount": -790.0,
+          "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-22",
+          "category": "飲料",
+          "item": "咖啡",
+          "amount": -39.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-22",
+          "category": "交通",
+          "item": "捷運",
+          "amount": -45.0,
+          "icon": "🚗",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-08-25",
       "total": -11623.0,
       "items": [
@@ -1073,6 +1111,38 @@
       "item": "Tom cat(麵包)",
       "amount": -65.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-22",
+      "category": "餐點",
+      "item": "上菜片皮鴨",
+      "amount": -1744.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-22",
+      "category": "交通",
+      "item": "高鐵台中左營",
+      "amount": -790.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-22",
+      "category": "飲料",
+      "item": "咖啡",
+      "amount": -39.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-22",
+      "category": "交通",
+      "item": "捷運",
+      "amount": -45.0,
+      "icon": "🚗",
       "group": "variable"
     },
     {

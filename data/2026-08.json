@@ -2,13 +2,13 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -76337.0,
+  "total": -77297.0,
   "fixedTotal": -39707.0,
-  "variableTotal": -36630.0,
+  "variableTotal": -37590.0,
   "categories": [
     {
       "category": "餐點",
-      "amount": -16911.0,
+      "amount": -17491.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -84,18 +84,18 @@
       "group": "variable"
     },
     {
+      "category": "飲料",
+      "amount": -955.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "運動",
       "amount": -888.0,
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
-    },
-    {
-      "category": "飲料",
-      "amount": -575.0,
-      "icon": "🧋",
-      "color": "#FB923C",
-      "group": "variable"
     },
     {
       "category": "學習",
@@ -705,6 +705,28 @@
       ]
     },
     {
+      "date": "2026-08-23",
+      "total": -960.0,
+      "items": [
+        {
+          "date": "2026-08-23",
+          "category": "餐點",
+          "item": "牛柚拉麵",
+          "amount": -580.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-23",
+          "category": "飲料",
+          "item": "phase coffee",
+          "amount": -380.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-08-25",
       "total": -11623.0,
       "items": [
@@ -1214,6 +1236,22 @@
       "item": "麥當勞",
       "amount": -181.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-23",
+      "category": "餐點",
+      "item": "牛柚拉麵",
+      "amount": -580.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-23",
+      "category": "飲料",
+      "item": "phase coffee",
+      "amount": -380.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

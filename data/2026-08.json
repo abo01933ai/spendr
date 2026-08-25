@@ -2,13 +2,13 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -77297.0,
+  "total": -79335.0,
   "fixedTotal": -39707.0,
-  "variableTotal": -37590.0,
+  "variableTotal": -39628.0,
   "categories": [
     {
       "category": "餐點",
-      "amount": -17491.0,
+      "amount": -19529.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -706,7 +706,7 @@
     },
     {
       "date": "2026-08-23",
-      "total": -960.0,
+      "total": -2172.0,
       "items": [
         {
           "date": "2026-08-23",
@@ -723,12 +723,28 @@
           "amount": -380.0,
           "icon": "🧋",
           "group": "variable"
+        },
+        {
+          "date": "2026-08-23",
+          "category": "餐點",
+          "item": "大戶屋",
+          "amount": -1001.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-23",
+          "category": "餐點",
+          "item": "Tom cat(麵包)",
+          "amount": -211.0,
+          "icon": "🍱",
+          "group": "variable"
         }
       ]
     },
     {
       "date": "2026-08-25",
-      "total": -11623.0,
+      "total": -12449.0,
       "items": [
         {
           "date": "2026-08-25",
@@ -737,6 +753,22 @@
           "amount": -11623.0,
           "icon": "🏠",
           "group": "fixed"
+        },
+        {
+          "date": "2026-08-25",
+          "category": "餐點",
+          "item": "7-11",
+          "amount": -623.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-25",
+          "category": "餐點",
+          "item": "7-11",
+          "amount": -203.0,
+          "icon": "🍱",
+          "group": "variable"
         }
       ]
     }
@@ -1255,12 +1287,44 @@
       "group": "variable"
     },
     {
+      "date": "2026-08-23",
+      "category": "餐點",
+      "item": "大戶屋",
+      "amount": -1001.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-23",
+      "category": "餐點",
+      "item": "Tom cat(麵包)",
+      "amount": -211.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
       "date": "2026-08-25",
       "category": "住",
       "item": "房貸",
       "amount": -11623.0,
       "icon": "🏠",
       "group": "fixed"
+    },
+    {
+      "date": "2026-08-25",
+      "category": "餐點",
+      "item": "7-11",
+      "amount": -623.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-25",
+      "category": "餐點",
+      "item": "7-11",
+      "amount": -203.0,
+      "icon": "🍱",
+      "group": "variable"
     }
   ]
 }

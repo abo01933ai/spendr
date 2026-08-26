@@ -2,13 +2,13 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -79335.0,
+  "total": -80436.0,
   "fixedTotal": -39707.0,
-  "variableTotal": -39628.0,
+  "variableTotal": -40729.0,
   "categories": [
     {
       "category": "餐點",
-      "amount": -19529.0,
+      "amount": -20124.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -56,17 +56,17 @@
       "group": "variable"
     },
     {
+      "category": "交通",
+      "amount": -2296.0,
+      "icon": "🚗",
+      "color": "#38BDF8",
+      "group": "variable"
+    },
+    {
       "category": "服飾",
       "amount": -1890.0,
       "icon": "👕",
       "color": "#F472B6",
-      "group": "variable"
-    },
-    {
-      "category": "交通",
-      "amount": -1790.0,
-      "icon": "🚗",
-      "color": "#38BDF8",
       "group": "variable"
     },
     {
@@ -771,6 +771,28 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-08-26",
+      "total": -1101.0,
+      "items": [
+        {
+          "date": "2026-08-26",
+          "category": "餐點",
+          "item": "Subway",
+          "amount": -595.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-26",
+          "category": "交通",
+          "item": "Uber勤美洲際來回",
+          "amount": -506.0,
+          "icon": "🚗",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1300,6 +1322,22 @@
       "item": "Tom cat(麵包)",
       "amount": -211.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-26",
+      "category": "餐點",
+      "item": "Subway",
+      "amount": -595.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-26",
+      "category": "交通",
+      "item": "Uber勤美洲際來回",
+      "amount": -506.0,
+      "icon": "🚗",
       "group": "variable"
     },
     {

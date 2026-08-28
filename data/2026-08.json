@@ -2,9 +2,9 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -80721.0,
+  "total": -80821.0,
   "fixedTotal": -39707.0,
-  "variableTotal": -41014.0,
+  "variableTotal": -41114.0,
   "categories": [
     {
       "category": "餐點",
@@ -101,6 +101,13 @@
       "category": "學習",
       "amount": -198.0,
       "icon": "📚",
+      "color": "#94A3B8",
+      "group": "variable"
+    },
+    {
+      "category": "日常用品",
+      "amount": -100.0,
+      "icon": "📦",
       "color": "#94A3B8",
       "group": "variable"
     }
@@ -796,7 +803,7 @@
     },
     {
       "date": "2026-08-28",
-      "total": -285.0,
+      "total": -385.0,
       "items": [
         {
           "date": "2026-08-28",
@@ -812,6 +819,14 @@
           "item": "鮮喝道",
           "amount": -50.0,
           "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-28",
+          "category": "日常用品",
+          "item": "垃圾袋",
+          "amount": -100.0,
+          "icon": "📦",
           "group": "variable"
         }
       ]
@@ -1360,6 +1375,14 @@
       "item": "鮮喝道",
       "amount": -50.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-28",
+      "category": "日常用品",
+      "item": "垃圾袋",
+      "amount": -100.0,
+      "icon": "📦",
       "group": "variable"
     },
     {

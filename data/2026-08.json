@@ -2,13 +2,13 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -80436.0,
+  "total": -80721.0,
   "fixedTotal": -39707.0,
-  "variableTotal": -40729.0,
+  "variableTotal": -41014.0,
   "categories": [
     {
       "category": "餐點",
-      "amount": -20124.0,
+      "amount": -20359.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -77,17 +77,17 @@
       "group": "variable"
     },
     {
+      "category": "飲料",
+      "amount": -1005.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "捐款",
       "amount": -1000.0,
       "icon": "🙏",
       "color": "#6EE7B7",
-      "group": "variable"
-    },
-    {
-      "category": "飲料",
-      "amount": -955.0,
-      "icon": "🧋",
-      "color": "#FB923C",
       "group": "variable"
     },
     {
@@ -793,6 +793,28 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-08-28",
+      "total": -285.0,
+      "items": [
+        {
+          "date": "2026-08-28",
+          "category": "餐點",
+          "item": "土木公社",
+          "amount": -235.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-28",
+          "category": "飲料",
+          "item": "鮮喝道",
+          "amount": -50.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1322,6 +1344,22 @@
       "item": "Tom cat(麵包)",
       "amount": -211.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-28",
+      "category": "餐點",
+      "item": "土木公社",
+      "amount": -235.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-28",
+      "category": "飲料",
+      "item": "鮮喝道",
+      "amount": -50.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

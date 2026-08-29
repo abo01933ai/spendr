@@ -2,13 +2,13 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -82559.0,
+  "total": -93549.0,
   "fixedTotal": -39707.0,
-  "variableTotal": -42852.0,
+  "variableTotal": -53842.0,
   "categories": [
     {
       "category": "餐點",
-      "amount": -20395.0,
+      "amount": -20755.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -26,6 +26,13 @@
       "icon": "💳",
       "color": "#7C83FD",
       "group": "fixed"
+    },
+    {
+      "category": "美容",
+      "amount": -12100.0,
+      "icon": "💇",
+      "color": "#C084FC",
+      "group": "variable"
     },
     {
       "category": "住",
@@ -77,15 +84,8 @@
       "group": "variable"
     },
     {
-      "category": "美容",
-      "amount": -1500.0,
-      "icon": "💇",
-      "color": "#C084FC",
-      "group": "variable"
-    },
-    {
       "category": "飲料",
-      "amount": -1005.0,
+      "amount": -1035.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -840,7 +840,7 @@
     },
     {
       "date": "2026-08-29",
-      "total": -1738.0,
+      "total": -12728.0,
       "items": [
         {
           "date": "2026-08-29",
@@ -872,6 +872,38 @@
           "item": "路上",
           "amount": -93.0,
           "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-29",
+          "category": "美容",
+          "item": "染燙護髮",
+          "amount": -10600.0,
+          "icon": "💇",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-29",
+          "category": "餐點",
+          "item": "天時鮮魚湯",
+          "amount": -295.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-29",
+          "category": "飲料",
+          "item": "清心",
+          "amount": -30.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-29",
+          "category": "餐點",
+          "item": "軍功一潤餅",
+          "amount": -65.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -1436,6 +1468,38 @@
       "item": "路上",
       "amount": -93.0,
       "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-29",
+      "category": "美容",
+      "item": "染燙護髮",
+      "amount": -10600.0,
+      "icon": "💇",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-29",
+      "category": "餐點",
+      "item": "天時鮮魚湯",
+      "amount": -295.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-29",
+      "category": "飲料",
+      "item": "清心",
+      "amount": -30.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-29",
+      "category": "餐點",
+      "item": "軍功一潤餅",
+      "amount": -65.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

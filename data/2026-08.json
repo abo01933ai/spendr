@@ -2,13 +2,13 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -80821.0,
+  "total": -82559.0,
   "fixedTotal": -39707.0,
-  "variableTotal": -41114.0,
+  "variableTotal": -42852.0,
   "categories": [
     {
       "category": "餐點",
-      "amount": -20359.0,
+      "amount": -20395.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -43,7 +43,7 @@
     },
     {
       "category": "購物",
-      "amount": -3989.0,
+      "amount": -4082.0,
       "icon": "🛍️",
       "color": "#F472B6",
       "group": "variable"
@@ -57,7 +57,7 @@
     },
     {
       "category": "交通",
-      "amount": -2296.0,
+      "amount": -2405.0,
       "icon": "🚗",
       "color": "#38BDF8",
       "group": "variable"
@@ -74,6 +74,13 @@
       "amount": -1603.0,
       "icon": "💊",
       "color": "#4ADE80",
+      "group": "variable"
+    },
+    {
+      "category": "美容",
+      "amount": -1500.0,
+      "icon": "💇",
+      "color": "#C084FC",
       "group": "variable"
     },
     {
@@ -830,6 +837,44 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-08-29",
+      "total": -1738.0,
+      "items": [
+        {
+          "date": "2026-08-29",
+          "category": "交通",
+          "item": "加油",
+          "amount": -109.0,
+          "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-29",
+          "category": "美容",
+          "item": "按摩",
+          "amount": -1500.0,
+          "icon": "💇",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-29",
+          "category": "餐點",
+          "item": "飯糰",
+          "amount": -36.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-29",
+          "category": "購物",
+          "item": "路上",
+          "amount": -93.0,
+          "icon": "🛍️",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1359,6 +1404,38 @@
       "item": "Tom cat(麵包)",
       "amount": -211.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-29",
+      "category": "交通",
+      "item": "加油",
+      "amount": -109.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-29",
+      "category": "美容",
+      "item": "按摩",
+      "amount": -1500.0,
+      "icon": "💇",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-29",
+      "category": "餐點",
+      "item": "飯糰",
+      "amount": -36.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-29",
+      "category": "購物",
+      "item": "路上",
+      "amount": -93.0,
+      "icon": "🛍️",
       "group": "variable"
     },
     {

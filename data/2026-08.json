@@ -2,13 +2,13 @@
   "month": "2026-08",
   "year": 2026,
   "monthNum": 8,
-  "total": -93904.0,
+  "total": -95252.0,
   "fixedTotal": -39707.0,
-  "variableTotal": -54197.0,
+  "variableTotal": -55545.0,
   "categories": [
     {
       "category": "餐點",
-      "amount": -21000.0,
+      "amount": -22348.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -929,6 +929,28 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "total": -1348.0,
+      "items": [
+        {
+          "date": "2026-08-31",
+          "category": "餐點",
+          "item": "Tom cat",
+          "amount": -296.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-08-31",
+          "category": "餐點",
+          "item": "春香飯店",
+          "amount": -1052.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1457,6 +1479,22 @@
       "category": "餐點",
       "item": "Tom cat(麵包)",
       "amount": -211.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-31",
+      "category": "餐點",
+      "item": "Tom cat",
+      "amount": -296.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-08-31",
+      "category": "餐點",
+      "item": "春香飯店",
+      "amount": -1052.0,
       "icon": "🍱",
       "group": "variable"
     },

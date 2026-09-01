@@ -2,23 +2,73 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -12193.0,
-  "fixedTotal": 0,
-  "variableTotal": -12193.0,
+  "total": -56424.0,
+  "fixedTotal": -39494.0,
+  "variableTotal": -16930.0,
   "categories": [
+    {
+      "category": "訂閱",
+      "amount": -13899.0,
+      "icon": "📱",
+      "color": "#94e1df",
+      "group": "fixed"
+    },
+    {
+      "category": "財務",
+      "amount": -13084.0,
+      "icon": "💳",
+      "color": "#7C83FD",
+      "group": "fixed"
+    },
     {
       "category": "購物",
       "amount": -12193.0,
       "icon": "🛍️",
       "color": "#F472B6",
       "group": "variable"
+    },
+    {
+      "category": "住",
+      "amount": -11623.0,
+      "icon": "🏠",
+      "color": "#60A5FA",
+      "group": "fixed"
+    },
+    {
+      "category": "旅遊",
+      "amount": -3053.0,
+      "icon": "✈️",
+      "color": "#34D399",
+      "group": "variable"
+    },
+    {
+      "category": "寵物",
+      "amount": -1684.0,
+      "icon": "🐈",
+      "color": "#FBBF24",
+      "group": "variable"
+    },
+    {
+      "category": "運動",
+      "amount": -888.0,
+      "icon": "🏋️",
+      "color": "#86EFAC",
+      "group": "fixed"
     }
   ],
   "days": [
     {
       "date": "2026-09-01",
-      "total": -12193.0,
+      "total": -23877.0,
       "items": [
+        {
+          "date": "2026-09-01",
+          "category": "訂閱",
+          "item": "投資週報",
+          "amount": -10000.0,
+          "icon": "📱",
+          "group": "fixed"
+        },
         {
           "date": "2026-09-01",
           "category": "購物",
@@ -26,6 +76,114 @@
           "amount": -12193.0,
           "icon": "🛍️",
           "group": "variable"
+        },
+        {
+          "date": "2026-09-01",
+          "category": "寵物",
+          "item": "怪獸部落主食糧*2",
+          "amount": -1684.0,
+          "icon": "🐈",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "total": -888.0,
+      "items": [
+        {
+          "date": "2026-09-10",
+          "category": "運動",
+          "item": "健身房",
+          "amount": -888.0,
+          "icon": "🏋️",
+          "group": "fixed"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "total": -3899.0,
+      "items": [
+        {
+          "date": "2026-09-15",
+          "category": "訂閱",
+          "item": "訂閱費",
+          "amount": -600.0,
+          "icon": "📱",
+          "group": "fixed"
+        },
+        {
+          "date": "2026-09-15",
+          "category": "訂閱",
+          "item": "通話費",
+          "amount": -299.0,
+          "icon": "📱",
+          "group": "fixed"
+        },
+        {
+          "date": "2026-09-15",
+          "category": "訂閱",
+          "item": "AI 模型",
+          "amount": -3000.0,
+          "icon": "📱",
+          "group": "fixed"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "total": -2876.0,
+      "items": [
+        {
+          "date": "2026-09-18",
+          "category": "旅遊",
+          "item": "由布院之森列車",
+          "amount": -2876.0,
+          "icon": "✈️",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "total": -13084.0,
+      "items": [
+        {
+          "date": "2026-09-20",
+          "category": "財務",
+          "item": "信貸",
+          "amount": -13084.0,
+          "icon": "💳",
+          "group": "fixed"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "total": -177.0,
+      "items": [
+        {
+          "date": "2026-09-23",
+          "category": "旅遊",
+          "item": "tanteeru富士預訂費 (880 JPY)",
+          "amount": -177.0,
+          "icon": "✈️",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "total": -11623.0,
+      "items": [
+        {
+          "date": "2026-09-25",
+          "category": "住",
+          "item": "房貸",
+          "amount": -11623.0,
+          "icon": "🏠",
+          "group": "fixed"
         }
       ]
     }
@@ -33,11 +191,91 @@
   "transactions": [
     {
       "date": "2026-09-01",
+      "category": "訂閱",
+      "item": "投資週報",
+      "amount": -10000.0,
+      "icon": "📱",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-09-01",
       "category": "購物",
       "item": "雲台相機pocket4",
       "amount": -12193.0,
       "icon": "🛍️",
       "group": "variable"
+    },
+    {
+      "date": "2026-09-01",
+      "category": "寵物",
+      "item": "怪獸部落主食糧*2",
+      "amount": -1684.0,
+      "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-10",
+      "category": "運動",
+      "item": "健身房",
+      "amount": -888.0,
+      "icon": "🏋️",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-09-15",
+      "category": "訂閱",
+      "item": "訂閱費",
+      "amount": -600.0,
+      "icon": "📱",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-09-15",
+      "category": "訂閱",
+      "item": "通話費",
+      "amount": -299.0,
+      "icon": "📱",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-09-15",
+      "category": "訂閱",
+      "item": "AI 模型",
+      "amount": -3000.0,
+      "icon": "📱",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-09-18",
+      "category": "旅遊",
+      "item": "由布院之森列車",
+      "amount": -2876.0,
+      "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-20",
+      "category": "財務",
+      "item": "信貸",
+      "amount": -13084.0,
+      "icon": "💳",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-09-23",
+      "category": "旅遊",
+      "item": "tanteeru富士預訂費 (880 JPY)",
+      "amount": -177.0,
+      "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-25",
+      "category": "住",
+      "item": "房貸",
+      "amount": -11623.0,
+      "icon": "🏠",
+      "group": "fixed"
     }
   ]
 }

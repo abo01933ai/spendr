@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -57573.0,
+  "total": -57922.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -18079.0,
+  "variableTotal": -18428.0,
   "categories": [
     {
       "category": "訂閱",
@@ -54,12 +54,19 @@
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
+    },
+    {
+      "category": "美容",
+      "amount": -349.0,
+      "icon": "💇",
+      "color": "#C084FC",
+      "group": "variable"
     }
   ],
   "days": [
     {
       "date": "2026-09-01",
-      "total": -25026.0,
+      "total": -25375.0,
       "items": [
         {
           "date": "2026-09-01",
@@ -91,6 +98,14 @@
           "item": "怪獸部落凍乾*3",
           "amount": -1149.0,
           "icon": "🐈",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-01",
+          "category": "美容",
+          "item": "校色洗髮精",
+          "amount": -349.0,
+          "icon": "💇",
           "group": "variable"
         }
       ]
@@ -227,6 +242,14 @@
       "item": "怪獸部落凍乾*3",
       "amount": -1149.0,
       "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-01",
+      "category": "美容",
+      "item": "校色洗髮精",
+      "amount": -349.0,
+      "icon": "💇",
       "group": "variable"
     },
     {

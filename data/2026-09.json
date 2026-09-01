@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -57922.0,
+  "total": -58712.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -18428.0,
+  "variableTotal": -19218.0,
   "categories": [
     {
       "category": "訂閱",
@@ -56,6 +56,13 @@
       "group": "fixed"
     },
     {
+      "category": "交通",
+      "amount": -790.0,
+      "icon": "🚗",
+      "color": "#38BDF8",
+      "group": "variable"
+    },
+    {
       "category": "美容",
       "amount": -349.0,
       "icon": "💇",
@@ -66,7 +73,7 @@
   "days": [
     {
       "date": "2026-09-01",
-      "total": -25375.0,
+      "total": -26165.0,
       "items": [
         {
           "date": "2026-09-01",
@@ -106,6 +113,14 @@
           "item": "校色洗髮精",
           "amount": -349.0,
           "icon": "💇",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-01",
+          "category": "交通",
+          "item": "高鐵台中左營",
+          "amount": -790.0,
+          "icon": "🚗",
           "group": "variable"
         }
       ]
@@ -250,6 +265,14 @@
       "item": "校色洗髮精",
       "amount": -349.0,
       "icon": "💇",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-01",
+      "category": "交通",
+      "item": "高鐵台中左營",
+      "amount": -790.0,
+      "icon": "🚗",
       "group": "variable"
     },
     {

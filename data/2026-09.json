@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -56424.0,
+  "total": -57573.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -16930.0,
+  "variableTotal": -18079.0,
   "categories": [
     {
       "category": "訂閱",
@@ -43,7 +43,7 @@
     },
     {
       "category": "寵物",
-      "amount": -1684.0,
+      "amount": -2833.0,
       "icon": "🐈",
       "color": "#FBBF24",
       "group": "variable"
@@ -59,7 +59,7 @@
   "days": [
     {
       "date": "2026-09-01",
-      "total": -23877.0,
+      "total": -25026.0,
       "items": [
         {
           "date": "2026-09-01",
@@ -82,6 +82,14 @@
           "category": "寵物",
           "item": "怪獸部落主食糧*2",
           "amount": -1684.0,
+          "icon": "🐈",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-01",
+          "category": "寵物",
+          "item": "怪獸部落凍乾*3",
+          "amount": -1149.0,
           "icon": "🐈",
           "group": "variable"
         }
@@ -210,6 +218,14 @@
       "category": "寵物",
       "item": "怪獸部落主食糧*2",
       "amount": -1684.0,
+      "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-01",
+      "category": "寵物",
+      "item": "怪獸部落凍乾*3",
+      "amount": -1149.0,
       "icon": "🐈",
       "group": "variable"
     },

@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -60488.0,
+  "total": -61857.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -20994.0,
+  "variableTotal": -22363.0,
   "categories": [
     {
       "category": "訂閱",
@@ -56,6 +56,13 @@
       "group": "variable"
     },
     {
+      "category": "服飾",
+      "amount": -1280.0,
+      "icon": "👕",
+      "color": "#F472B6",
+      "group": "variable"
+    },
+    {
       "category": "運動",
       "amount": -888.0,
       "icon": "🏋️",
@@ -74,6 +81,13 @@
       "amount": -349.0,
       "icon": "💇",
       "color": "#C084FC",
+      "group": "variable"
+    },
+    {
+      "category": "飲料",
+      "amount": -89.0,
+      "icon": "🧋",
+      "color": "#FB923C",
       "group": "variable"
     }
   ],
@@ -148,7 +162,7 @@
     },
     {
       "date": "2026-09-04",
-      "total": -1639.0,
+      "total": -3008.0,
       "items": [
         {
           "date": "2026-09-04",
@@ -164,6 +178,22 @@
           "item": "牛喜",
           "amount": -1335.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-04",
+          "category": "飲料",
+          "item": "西西里咖啡",
+          "amount": -89.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-04",
+          "category": "服飾",
+          "item": "converse衣服",
+          "amount": -1280.0,
+          "icon": "👕",
           "group": "variable"
         }
       ]
@@ -284,6 +314,22 @@
       "item": "牛喜",
       "amount": -1335.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-04",
+      "category": "飲料",
+      "item": "西西里咖啡",
+      "amount": -89.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-04",
+      "category": "服飾",
+      "item": "converse衣服",
+      "amount": -1280.0,
+      "icon": "👕",
       "group": "variable"
     },
     {

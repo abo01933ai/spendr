@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -58849.0,
+  "total": -59153.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -19355.0,
+  "variableTotal": -19659.0,
   "categories": [
     {
       "category": "訂閱",
@@ -63,17 +63,17 @@
       "group": "variable"
     },
     {
+      "category": "餐點",
+      "amount": -441.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
+    {
       "category": "美容",
       "amount": -349.0,
       "icon": "💇",
       "color": "#C084FC",
-      "group": "variable"
-    },
-    {
-      "category": "餐點",
-      "amount": -137.0,
-      "icon": "🍱",
-      "color": "#F87171",
       "group": "variable"
     }
   ],
@@ -141,6 +141,20 @@
           "category": "餐點",
           "item": "7-11",
           "amount": -137.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "total": -304.0,
+      "items": [
+        {
+          "date": "2026-09-04",
+          "category": "餐點",
+          "item": "麥當勞",
+          "amount": -304.0,
           "icon": "🍱",
           "group": "variable"
         }
@@ -248,6 +262,14 @@
     }
   ],
   "transactions": [
+    {
+      "date": "2026-09-04",
+      "category": "餐點",
+      "item": "麥當勞",
+      "amount": -304.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
     {
       "date": "2026-09-02",
       "category": "餐點",

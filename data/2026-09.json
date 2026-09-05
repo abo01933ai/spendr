@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -61857.0,
+  "total": -62042.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -22363.0,
+  "variableTotal": -22548.0,
   "categories": [
     {
       "category": "訂閱",
@@ -50,7 +50,7 @@
     },
     {
       "category": "餐點",
-      "amount": -1776.0,
+      "amount": -1931.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -85,7 +85,7 @@
     },
     {
       "category": "飲料",
-      "amount": -89.0,
+      "amount": -119.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -199,6 +199,28 @@
       ]
     },
     {
+      "date": "2026-09-05",
+      "total": -185.0,
+      "items": [
+        {
+          "date": "2026-09-05",
+          "category": "餐點",
+          "item": "曾功夫鍋貼+一米粒飯糰",
+          "amount": -155.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-05",
+          "category": "飲料",
+          "item": "清心",
+          "amount": -30.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-09-10",
       "total": -888.0,
       "items": [
@@ -300,6 +322,22 @@
     }
   ],
   "transactions": [
+    {
+      "date": "2026-09-05",
+      "category": "餐點",
+      "item": "曾功夫鍋貼+一米粒飯糰",
+      "amount": -155.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-05",
+      "category": "飲料",
+      "item": "清心",
+      "amount": -30.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
     {
       "date": "2026-09-04",
       "category": "餐點",

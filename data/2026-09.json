@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -62042.0,
+  "total": -62720.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -22548.0,
+  "variableTotal": -23226.0,
   "categories": [
     {
       "category": "訂閱",
@@ -35,17 +35,17 @@
       "group": "fixed"
     },
     {
+      "category": "寵物",
+      "amount": -3511.0,
+      "icon": "🐈",
+      "color": "#FBBF24",
+      "group": "variable"
+    },
+    {
       "category": "旅遊",
       "amount": -3053.0,
       "icon": "✈️",
       "color": "#34D399",
-      "group": "variable"
-    },
-    {
-      "category": "寵物",
-      "amount": -2833.0,
-      "icon": "🐈",
-      "color": "#FBBF24",
       "group": "variable"
     },
     {
@@ -200,7 +200,7 @@
     },
     {
       "date": "2026-09-05",
-      "total": -185.0,
+      "total": -863.0,
       "items": [
         {
           "date": "2026-09-05",
@@ -216,6 +216,14 @@
           "item": "清心",
           "amount": -30.0,
           "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-05",
+          "category": "寵物",
+          "item": "寵物公園",
+          "amount": -678.0,
+          "icon": "🐈",
           "group": "variable"
         }
       ]
@@ -336,6 +344,14 @@
       "item": "清心",
       "amount": -30.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-05",
+      "category": "寵物",
+      "item": "寵物公園",
+      "amount": -678.0,
+      "icon": "🐈",
       "group": "variable"
     },
     {

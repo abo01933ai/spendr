@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -62720.0,
+  "total": -65560.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -23226.0,
+  "variableTotal": -26066.0,
   "categories": [
     {
       "category": "訂閱",
@@ -35,6 +35,13 @@
       "group": "fixed"
     },
     {
+      "category": "餐點",
+      "amount": -4131.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
+    {
       "category": "寵物",
       "amount": -3511.0,
       "icon": "🐈",
@@ -46,13 +53,6 @@
       "amount": -3053.0,
       "icon": "✈️",
       "color": "#34D399",
-      "group": "variable"
-    },
-    {
-      "category": "餐點",
-      "amount": -1931.0,
-      "icon": "🍱",
-      "color": "#F87171",
       "group": "variable"
     },
     {
@@ -77,6 +77,13 @@
       "group": "variable"
     },
     {
+      "category": "娛樂",
+      "amount": -450.0,
+      "icon": "🎮",
+      "color": "#A78BFA",
+      "group": "variable"
+    },
+    {
       "category": "美容",
       "amount": -349.0,
       "icon": "💇",
@@ -85,7 +92,7 @@
     },
     {
       "category": "飲料",
-      "amount": -119.0,
+      "amount": -309.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -200,7 +207,7 @@
     },
     {
       "date": "2026-09-05",
-      "total": -863.0,
+      "total": -3703.0,
       "items": [
         {
           "date": "2026-09-05",
@@ -224,6 +231,38 @@
           "item": "寵物公園",
           "amount": -678.0,
           "icon": "🐈",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-05",
+          "category": "餐點",
+          "item": "Calm Calm(餐廳)",
+          "amount": -2200.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-05",
+          "category": "飲料",
+          "item": "康茶飲",
+          "amount": -40.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-05",
+          "category": "飲料",
+          "item": "Gelato",
+          "amount": -150.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-05",
+          "category": "娛樂",
+          "item": "抱抱貓盲盒",
+          "amount": -450.0,
+          "icon": "🎮",
           "group": "variable"
         }
       ]
@@ -352,6 +391,38 @@
       "item": "寵物公園",
       "amount": -678.0,
       "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-05",
+      "category": "餐點",
+      "item": "Calm Calm(餐廳)",
+      "amount": -2200.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-05",
+      "category": "飲料",
+      "item": "康茶飲",
+      "amount": -40.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-05",
+      "category": "飲料",
+      "item": "Gelato",
+      "amount": -150.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-05",
+      "category": "娛樂",
+      "item": "抱抱貓盲盒",
+      "amount": -450.0,
+      "icon": "🎮",
       "group": "variable"
     },
     {

@@ -2,10 +2,17 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -69026.0,
+  "total": -74156.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -29532.0,
+  "variableTotal": -34662.0,
   "categories": [
+    {
+      "category": "購物",
+      "amount": -16673.0,
+      "icon": "🛍️",
+      "color": "#F472B6",
+      "group": "variable"
+    },
     {
       "category": "訂閱",
       "amount": -13899.0,
@@ -19,13 +26,6 @@
       "icon": "💳",
       "color": "#7C83FD",
       "group": "fixed"
-    },
-    {
-      "category": "購物",
-      "amount": -12193.0,
-      "icon": "🛍️",
-      "color": "#F472B6",
-      "group": "variable"
     },
     {
       "category": "住",
@@ -63,6 +63,13 @@
       "group": "variable"
     },
     {
+      "category": "娛樂",
+      "amount": -1100.0,
+      "icon": "🎮",
+      "color": "#A78BFA",
+      "group": "variable"
+    },
+    {
       "category": "運動",
       "amount": -888.0,
       "icon": "🏋️",
@@ -81,13 +88,6 @@
       "amount": -749.0,
       "icon": "🧋",
       "color": "#FB923C",
-      "group": "variable"
-    },
-    {
-      "category": "娛樂",
-      "amount": -450.0,
-      "icon": "🎮",
-      "color": "#A78BFA",
       "group": "variable"
     },
     {
@@ -269,7 +269,7 @@
     },
     {
       "date": "2026-09-06",
-      "total": -1945.0,
+      "total": -7075.0,
       "items": [
         {
           "date": "2026-09-06",
@@ -309,6 +309,30 @@
           "item": "水煎包",
           "amount": -90.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-06",
+          "category": "娛樂",
+          "item": "樂高人偶",
+          "amount": -650.0,
+          "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-06",
+          "category": "購物",
+          "item": "Beams 保冷杯",
+          "amount": -600.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-06",
+          "category": "購物",
+          "item": "Human Made 包包",
+          "amount": -3880.0,
+          "icon": "🛍️",
           "group": "variable"
         }
       ]
@@ -467,6 +491,30 @@
       "item": "水煎包",
       "amount": -90.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-06",
+      "category": "娛樂",
+      "item": "樂高人偶",
+      "amount": -650.0,
+      "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-06",
+      "category": "購物",
+      "item": "Beams 保冷杯",
+      "amount": -600.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-06",
+      "category": "購物",
+      "item": "Human Made 包包",
+      "amount": -3880.0,
+      "icon": "🛍️",
       "group": "variable"
     },
     {

@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -68231.0,
+  "total": -69026.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -28737.0,
+  "variableTotal": -29532.0,
   "categories": [
     {
       "category": "訂閱",
@@ -36,7 +36,7 @@
     },
     {
       "category": "餐點",
-      "amount": -4841.0,
+      "amount": -5636.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -269,7 +269,7 @@
     },
     {
       "date": "2026-09-06",
-      "total": -1150.0,
+      "total": -1945.0,
       "items": [
         {
           "date": "2026-09-06",
@@ -285,6 +285,30 @@
           "item": "Umai Coffee",
           "amount": -440.0,
           "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-06",
+          "category": "餐點",
+          "item": "水果",
+          "amount": -415.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-06",
+          "category": "餐點",
+          "item": "買菜",
+          "amount": -290.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-06",
+          "category": "餐點",
+          "item": "水煎包",
+          "amount": -90.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -419,6 +443,30 @@
       "item": "Umai Coffee",
       "amount": -440.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-06",
+      "category": "餐點",
+      "item": "水果",
+      "amount": -415.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-06",
+      "category": "餐點",
+      "item": "買菜",
+      "amount": -290.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-06",
+      "category": "餐點",
+      "item": "水煎包",
+      "amount": -90.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

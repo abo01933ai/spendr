@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -98565.0,
+  "total": -98822.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -59071.0,
+  "variableTotal": -59328.0,
   "categories": [
     {
       "category": "旅遊",
@@ -43,7 +43,7 @@
     },
     {
       "category": "餐點",
-      "amount": -5636.0,
+      "amount": -5893.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -338,6 +338,28 @@
       ]
     },
     {
+      "date": "2026-09-08",
+      "total": -257.0,
+      "items": [
+        {
+          "date": "2026-09-08",
+          "category": "餐點",
+          "item": "7-11",
+          "amount": -119.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-08",
+          "category": "餐點",
+          "item": "全家",
+          "amount": -138.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-09-10",
       "total": -888.0,
       "items": [
@@ -467,6 +489,22 @@
     }
   ],
   "transactions": [
+    {
+      "date": "2026-09-08",
+      "category": "餐點",
+      "item": "7-11",
+      "amount": -119.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-08",
+      "category": "餐點",
+      "item": "全家",
+      "amount": -138.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
     {
       "date": "2026-09-06",
       "category": "餐點",

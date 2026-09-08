@@ -2,10 +2,17 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -74156.0,
+  "total": -98565.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -34662.0,
+  "variableTotal": -59071.0,
   "categories": [
+    {
+      "category": "旅遊",
+      "amount": -28983.0,
+      "icon": "✈️",
+      "color": "#34D399",
+      "group": "variable"
+    },
     {
       "category": "購物",
       "amount": -16673.0,
@@ -39,13 +46,6 @@
       "amount": -5636.0,
       "icon": "🍱",
       "color": "#F87171",
-      "group": "variable"
-    },
-    {
-      "category": "旅遊",
-      "amount": -4574.0,
-      "icon": "✈️",
-      "color": "#34D399",
       "group": "variable"
     },
     {
@@ -382,6 +382,20 @@
       ]
     },
     {
+      "date": "2026-09-16",
+      "total": -24409.0,
+      "items": [
+        {
+          "date": "2026-09-16",
+          "category": "旅遊",
+          "item": "旅遊住宿",
+          "amount": -24409.0,
+          "icon": "✈️",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-09-18",
       "total": -2876.0,
       "items": [
@@ -692,6 +706,14 @@
       "amount": -3000.0,
       "icon": "📱",
       "group": "fixed"
+    },
+    {
+      "date": "2026-09-16",
+      "category": "旅遊",
+      "item": "旅遊住宿",
+      "amount": -24409.0,
+      "icon": "✈️",
+      "group": "variable"
     },
     {
       "date": "2026-09-18",

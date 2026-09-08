@@ -339,7 +339,7 @@
     },
     {
       "date": "2026-09-08",
-      "total": -7523.0,
+      "total": -257.0,
       "items": [
         {
           "date": "2026-09-08",
@@ -356,9 +356,15 @@
           "amount": -138.0,
           "icon": "🍱",
           "group": "variable"
-        },
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "total": -7266.0,
+      "items": [
         {
-          "date": "2026-09-08",
+          "date": "2026-09-09",
           "category": "服飾",
           "item": "束胸內衣*3",
           "amount": -3985.0,
@@ -366,7 +372,7 @@
           "group": "variable"
         },
         {
-          "date": "2026-09-08",
+          "date": "2026-09-09",
           "category": "寵物",
           "item": "皇家貓濕糧*60",
           "amount": -2451.0,
@@ -374,7 +380,7 @@
           "group": "variable"
         },
         {
-          "date": "2026-09-08",
+          "date": "2026-09-09",
           "category": "購物",
           "item": "DJI pocket 4 配件",
           "amount": -830.0,
@@ -514,6 +520,30 @@
   ],
   "transactions": [
     {
+      "date": "2026-09-09",
+      "category": "服飾",
+      "item": "束胸內衣*3",
+      "amount": -3985.0,
+      "icon": "👕",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-09",
+      "category": "寵物",
+      "item": "皇家貓濕糧*60",
+      "amount": -2451.0,
+      "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-09",
+      "category": "購物",
+      "item": "DJI pocket 4 配件",
+      "amount": -830.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
       "date": "2026-09-08",
       "category": "餐點",
       "item": "7-11",
@@ -527,30 +557,6 @@
       "item": "全家",
       "amount": -138.0,
       "icon": "🍱",
-      "group": "variable"
-    },
-    {
-      "date": "2026-09-08",
-      "category": "服飾",
-      "item": "束胸內衣*3",
-      "amount": -3985.0,
-      "icon": "👕",
-      "group": "variable"
-    },
-    {
-      "date": "2026-09-08",
-      "category": "寵物",
-      "item": "皇家貓濕糧*60",
-      "amount": -2451.0,
-      "icon": "🐈",
-      "group": "variable"
-    },
-    {
-      "date": "2026-09-08",
-      "category": "購物",
-      "item": "DJI pocket 4 配件",
-      "amount": -830.0,
-      "icon": "🛍️",
       "group": "variable"
     },
     {

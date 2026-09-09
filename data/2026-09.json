@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -106838.0,
+  "total": -110134.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -67344.0,
+  "variableTotal": -70640.0,
   "categories": [
     {
       "category": "旅遊",
@@ -43,7 +43,7 @@
     },
     {
       "category": "寵物",
-      "amount": -5962.0,
+      "amount": -9258.0,
       "icon": "🐈",
       "color": "#FBBF24",
       "group": "variable"
@@ -361,7 +361,7 @@
     },
     {
       "date": "2026-09-09",
-      "total": -8016.0,
+      "total": -11312.0,
       "items": [
         {
           "date": "2026-09-09",
@@ -393,6 +393,14 @@
           "item": "傑拉托尼玩偶",
           "amount": -750.0,
           "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-09",
+          "category": "寵物",
+          "item": "怪獸部落*4",
+          "amount": -3296.0,
+          "icon": "🐈",
           "group": "variable"
         }
       ]
@@ -557,6 +565,14 @@
       "item": "傑拉托尼玩偶",
       "amount": -750.0,
       "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-09",
+      "category": "寵物",
+      "item": "怪獸部落*4",
+      "amount": -3296.0,
+      "icon": "🐈",
       "group": "variable"
     },
     {

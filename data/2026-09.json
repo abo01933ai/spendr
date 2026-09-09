@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -106088.0,
+  "total": -106838.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -66594.0,
+  "variableTotal": -67344.0,
   "categories": [
     {
       "category": "旅遊",
@@ -64,7 +64,7 @@
     },
     {
       "category": "娛樂",
-      "amount": -1100.0,
+      "amount": -1850.0,
       "icon": "🎮",
       "color": "#A78BFA",
       "group": "variable"
@@ -361,7 +361,7 @@
     },
     {
       "date": "2026-09-09",
-      "total": -7266.0,
+      "total": -8016.0,
       "items": [
         {
           "date": "2026-09-09",
@@ -385,6 +385,14 @@
           "item": "DJI pocket 4 配件",
           "amount": -830.0,
           "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-09",
+          "category": "娛樂",
+          "item": "傑拉托尼玩偶",
+          "amount": -750.0,
+          "icon": "🎮",
           "group": "variable"
         }
       ]
@@ -541,6 +549,14 @@
       "item": "DJI pocket 4 配件",
       "amount": -830.0,
       "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-09",
+      "category": "娛樂",
+      "item": "傑拉托尼玩偶",
+      "amount": -750.0,
+      "icon": "🎮",
       "group": "variable"
     },
     {

@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -111537.0,
+  "total": -111666.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -72043.0,
+  "variableTotal": -72172.0,
   "categories": [
     {
       "category": "旅遊",
@@ -50,7 +50,7 @@
     },
     {
       "category": "餐點",
-      "amount": -5893.0,
+      "amount": -6022.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -361,7 +361,7 @@
     },
     {
       "date": "2026-09-09",
-      "total": -12715.0,
+      "total": -12844.0,
       "items": [
         {
           "date": "2026-09-09",
@@ -417,6 +417,14 @@
           "item": "襪子*5",
           "amount": -315.0,
           "icon": "👕",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-09",
+          "category": "餐點",
+          "item": "全家",
+          "amount": -129.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -605,6 +613,14 @@
       "item": "襪子*5",
       "amount": -315.0,
       "icon": "👕",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-09",
+      "category": "餐點",
+      "item": "全家",
+      "amount": -129.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

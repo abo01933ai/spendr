@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -111222.0,
+  "total": -111537.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -71728.0,
+  "variableTotal": -72043.0,
   "categories": [
     {
       "category": "旅遊",
@@ -57,7 +57,7 @@
     },
     {
       "category": "服飾",
-      "amount": -5265.0,
+      "amount": -5580.0,
       "icon": "👕",
       "color": "#F472B6",
       "group": "variable"
@@ -361,7 +361,7 @@
     },
     {
       "date": "2026-09-09",
-      "total": -12400.0,
+      "total": -12715.0,
       "items": [
         {
           "date": "2026-09-09",
@@ -409,6 +409,14 @@
           "item": "汪喵點心罐*48",
           "amount": -1088.0,
           "icon": "🐈",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-09",
+          "category": "服飾",
+          "item": "襪子*5",
+          "amount": -315.0,
+          "icon": "👕",
           "group": "variable"
         }
       ]
@@ -589,6 +597,14 @@
       "item": "汪喵點心罐*48",
       "amount": -1088.0,
       "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-09",
+      "category": "服飾",
+      "item": "襪子*5",
+      "amount": -315.0,
+      "icon": "👕",
       "group": "variable"
     },
     {

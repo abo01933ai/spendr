@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -110134.0,
+  "total": -111222.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -70640.0,
+  "variableTotal": -71728.0,
   "categories": [
     {
       "category": "旅遊",
@@ -43,7 +43,7 @@
     },
     {
       "category": "寵物",
-      "amount": -9258.0,
+      "amount": -10346.0,
       "icon": "🐈",
       "color": "#FBBF24",
       "group": "variable"
@@ -361,7 +361,7 @@
     },
     {
       "date": "2026-09-09",
-      "total": -11312.0,
+      "total": -12400.0,
       "items": [
         {
           "date": "2026-09-09",
@@ -400,6 +400,14 @@
           "category": "寵物",
           "item": "怪獸部落*4",
           "amount": -3296.0,
+          "icon": "🐈",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-09",
+          "category": "寵物",
+          "item": "汪喵點心罐*48",
+          "amount": -1088.0,
           "icon": "🐈",
           "group": "variable"
         }
@@ -572,6 +580,14 @@
       "category": "寵物",
       "item": "怪獸部落*4",
       "amount": -3296.0,
+      "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-09",
+      "category": "寵物",
+      "item": "汪喵點心罐*48",
+      "amount": -1088.0,
       "icon": "🐈",
       "group": "variable"
     },

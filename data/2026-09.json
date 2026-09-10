@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -111666.0,
+  "total": -111765.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -72172.0,
+  "variableTotal": -72271.0,
   "categories": [
     {
       "category": "旅遊",
@@ -95,6 +95,13 @@
       "amount": -349.0,
       "icon": "💇",
       "color": "#C084FC",
+      "group": "variable"
+    },
+    {
+      "category": "學習",
+      "amount": -99.0,
+      "icon": "📚",
+      "color": "#94A3B8",
       "group": "variable"
     }
   ],
@@ -444,6 +451,20 @@
       ]
     },
     {
+      "date": "2026-09-11",
+      "total": -99.0,
+      "items": [
+        {
+          "date": "2026-09-11",
+          "category": "學習",
+          "item": "一如既往（書）",
+          "amount": -99.0,
+          "icon": "📚",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-09-15",
       "total": -3899.0,
       "items": [
@@ -559,6 +580,14 @@
     }
   ],
   "transactions": [
+    {
+      "date": "2026-09-11",
+      "category": "學習",
+      "item": "一如既往（書）",
+      "amount": -99.0,
+      "icon": "📚",
+      "group": "variable"
+    },
     {
       "date": "2026-09-09",
       "category": "服飾",

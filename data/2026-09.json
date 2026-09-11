@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -111765.0,
+  "total": -115160.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -72271.0,
+  "variableTotal": -75666.0,
   "categories": [
     {
       "category": "旅遊",
@@ -15,7 +15,7 @@
     },
     {
       "category": "購物",
-      "amount": -17503.0,
+      "amount": -19529.0,
       "icon": "🛍️",
       "color": "#F472B6",
       "group": "variable"
@@ -50,7 +50,7 @@
     },
     {
       "category": "餐點",
-      "amount": -6022.0,
+      "amount": -7166.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -64,7 +64,7 @@
     },
     {
       "category": "娛樂",
-      "amount": -1850.0,
+      "amount": -2030.0,
       "icon": "🎮",
       "color": "#A78BFA",
       "group": "variable"
@@ -77,17 +77,17 @@
       "group": "fixed"
     },
     {
+      "category": "飲料",
+      "amount": -794.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "交通",
       "amount": -790.0,
       "icon": "🚗",
       "color": "#38BDF8",
-      "group": "variable"
-    },
-    {
-      "category": "飲料",
-      "amount": -749.0,
-      "icon": "🧋",
-      "color": "#FB923C",
       "group": "variable"
     },
     {
@@ -452,7 +452,7 @@
     },
     {
       "date": "2026-09-11",
-      "total": -99.0,
+      "total": -3494.0,
       "items": [
         {
           "date": "2026-09-11",
@@ -460,6 +460,46 @@
           "item": "一如既往（書）",
           "amount": -99.0,
           "icon": "📚",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-11",
+          "category": "餐點",
+          "item": "7-11",
+          "amount": -280.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-11",
+          "category": "餐點",
+          "item": "大戶屋",
+          "amount": -864.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-11",
+          "category": "娛樂",
+          "item": "Tom cat",
+          "amount": -180.0,
+          "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-11",
+          "category": "購物",
+          "item": "雀巢膠囊*8",
+          "amount": -2026.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-11",
+          "category": "飲料",
+          "item": "大茗",
+          "amount": -45.0,
+          "icon": "🧋",
           "group": "variable"
         }
       ]
@@ -586,6 +626,46 @@
       "item": "一如既往（書）",
       "amount": -99.0,
       "icon": "📚",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-11",
+      "category": "餐點",
+      "item": "7-11",
+      "amount": -280.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-11",
+      "category": "餐點",
+      "item": "大戶屋",
+      "amount": -864.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-11",
+      "category": "娛樂",
+      "item": "Tom cat",
+      "amount": -180.0,
+      "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-11",
+      "category": "購物",
+      "item": "雀巢膠囊*8",
+      "amount": -2026.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-11",
+      "category": "飲料",
+      "item": "大茗",
+      "amount": -45.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

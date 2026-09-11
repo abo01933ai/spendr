@@ -50,7 +50,7 @@
     },
     {
       "category": "餐點",
-      "amount": -7166.0,
+      "amount": -7346.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -64,7 +64,7 @@
     },
     {
       "category": "娛樂",
-      "amount": -2030.0,
+      "amount": -1850.0,
       "icon": "🎮",
       "color": "#A78BFA",
       "group": "variable"
@@ -480,10 +480,10 @@
         },
         {
           "date": "2026-09-11",
-          "category": "娛樂",
+          "category": "餐點",
           "item": "Tom cat",
           "amount": -180.0,
-          "icon": "🎮",
+          "icon": "🍱",
           "group": "variable"
         },
         {
@@ -646,10 +646,10 @@
     },
     {
       "date": "2026-09-11",
-      "category": "娛樂",
+      "category": "餐點",
       "item": "Tom cat",
       "amount": -180.0,
-      "icon": "🎮",
+      "icon": "🍱",
       "group": "variable"
     },
     {

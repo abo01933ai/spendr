@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -115660.0,
+  "total": -116489.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -76166.0,
+  "variableTotal": -76995.0,
   "categories": [
     {
       "category": "旅遊",
@@ -50,7 +50,7 @@
     },
     {
       "category": "餐點",
-      "amount": -7346.0,
+      "amount": -7385.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -70,6 +70,13 @@
       "group": "variable"
     },
     {
+      "category": "交通",
+      "amount": -1580.0,
+      "icon": "🚗",
+      "color": "#38BDF8",
+      "group": "variable"
+    },
+    {
       "category": "飲料",
       "amount": -1294.0,
       "icon": "🧋",
@@ -82,13 +89,6 @@
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
-    },
-    {
-      "category": "交通",
-      "amount": -790.0,
-      "icon": "🚗",
-      "color": "#38BDF8",
-      "group": "variable"
     },
     {
       "category": "美容",
@@ -506,7 +506,7 @@
     },
     {
       "date": "2026-09-12",
-      "total": -500.0,
+      "total": -1329.0,
       "items": [
         {
           "date": "2026-09-12",
@@ -514,6 +514,22 @@
           "item": "星巴克",
           "amount": -500.0,
           "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-12",
+          "category": "交通",
+          "item": "高鐵台中左營",
+          "amount": -790.0,
+          "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-12",
+          "category": "餐點",
+          "item": "水",
+          "amount": -39.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -640,6 +656,22 @@
       "item": "星巴克",
       "amount": -500.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-12",
+      "category": "交通",
+      "item": "高鐵台中左營",
+      "amount": -790.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-12",
+      "category": "餐點",
+      "item": "水",
+      "amount": -39.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

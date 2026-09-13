@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -116489.0,
+  "total": -119740.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -76995.0,
+  "variableTotal": -80246.0,
   "categories": [
     {
       "category": "旅遊",
@@ -50,7 +50,7 @@
     },
     {
       "category": "餐點",
-      "amount": -7385.0,
+      "amount": -8765.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -64,21 +64,21 @@
     },
     {
       "category": "娛樂",
-      "amount": -1850.0,
+      "amount": -2766.0,
       "icon": "🎮",
       "color": "#A78BFA",
       "group": "variable"
     },
     {
       "category": "交通",
-      "amount": -1580.0,
+      "amount": -2345.0,
       "icon": "🚗",
       "color": "#38BDF8",
       "group": "variable"
     },
     {
       "category": "飲料",
-      "amount": -1294.0,
+      "amount": -1484.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -535,6 +535,68 @@
       ]
     },
     {
+      "date": "2026-09-13",
+      "total": -3251.0,
+      "items": [
+        {
+          "date": "2026-09-13",
+          "category": "交通",
+          "item": "高鐵左營台中",
+          "amount": -765.0,
+          "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-13",
+          "category": "飲料",
+          "item": "可不可",
+          "amount": -60.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-13",
+          "category": "娛樂",
+          "item": "電影票",
+          "amount": -916.0,
+          "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-13",
+          "category": "餐點",
+          "item": "饗泰多（餐廳）",
+          "amount": -913.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-13",
+          "category": "餐點",
+          "item": "銷魂麵館",
+          "amount": -350.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-13",
+          "category": "餐點",
+          "item": "mini one 可頌",
+          "amount": -117.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-13",
+          "category": "飲料",
+          "item": "得正",
+          "amount": -130.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-09-15",
       "total": -3899.0,
       "items": [
@@ -650,6 +712,62 @@
     }
   ],
   "transactions": [
+    {
+      "date": "2026-09-13",
+      "category": "交通",
+      "item": "高鐵左營台中",
+      "amount": -765.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-13",
+      "category": "飲料",
+      "item": "可不可",
+      "amount": -60.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-13",
+      "category": "娛樂",
+      "item": "電影票",
+      "amount": -916.0,
+      "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-13",
+      "category": "餐點",
+      "item": "饗泰多（餐廳）",
+      "amount": -913.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-13",
+      "category": "餐點",
+      "item": "銷魂麵館",
+      "amount": -350.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-13",
+      "category": "餐點",
+      "item": "mini one 可頌",
+      "amount": -117.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-13",
+      "category": "飲料",
+      "item": "得正",
+      "amount": -130.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
     {
       "date": "2026-09-12",
       "category": "飲料",

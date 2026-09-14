@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -119740.0,
+  "total": -121385.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -80246.0,
+  "variableTotal": -81891.0,
   "categories": [
     {
       "category": "旅遊",
@@ -50,7 +50,7 @@
     },
     {
       "category": "餐點",
-      "amount": -8765.0,
+      "amount": -8990.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -77,8 +77,15 @@
       "group": "variable"
     },
     {
+      "category": "美容",
+      "amount": -1699.0,
+      "icon": "💇",
+      "color": "#C084FC",
+      "group": "variable"
+    },
+    {
       "category": "飲料",
-      "amount": -1484.0,
+      "amount": -1554.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -89,13 +96,6 @@
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
-    },
-    {
-      "category": "美容",
-      "amount": -349.0,
-      "icon": "💇",
-      "color": "#C084FC",
-      "group": "variable"
     },
     {
       "category": "學習",
@@ -597,6 +597,36 @@
       ]
     },
     {
+      "date": "2026-09-14",
+      "total": -1645.0,
+      "items": [
+        {
+          "date": "2026-09-14",
+          "category": "美容",
+          "item": "洗加剪",
+          "amount": -1350.0,
+          "icon": "💇",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-14",
+          "category": "餐點",
+          "item": "晚餐",
+          "amount": -225.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-14",
+          "category": "飲料",
+          "item": "浩月茶室",
+          "amount": -70.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-09-15",
       "total": -3899.0,
       "items": [
@@ -712,6 +742,30 @@
     }
   ],
   "transactions": [
+    {
+      "date": "2026-09-14",
+      "category": "美容",
+      "item": "洗加剪",
+      "amount": -1350.0,
+      "icon": "💇",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-14",
+      "category": "餐點",
+      "item": "晚餐",
+      "amount": -225.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-14",
+      "category": "飲料",
+      "item": "浩月茶室",
+      "amount": -70.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
     {
       "date": "2026-09-13",
       "category": "交通",

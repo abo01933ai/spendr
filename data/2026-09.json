@@ -2,13 +2,13 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -123058.0,
+  "total": -125390.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -83564.0,
+  "variableTotal": -85896.0,
   "categories": [
     {
       "category": "旅遊",
-      "amount": -30537.0,
+      "amount": -32869.0,
       "icon": "✈️",
       "color": "#34D399",
       "group": "variable"
@@ -751,6 +751,20 @@
       ]
     },
     {
+      "date": "2026-09-24",
+      "total": -2332.0,
+      "items": [
+        {
+          "date": "2026-09-24",
+          "category": "旅遊",
+          "item": "機場台中包車",
+          "amount": -2332.0,
+          "icon": "✈️",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-09-25",
       "total": -11623.0,
       "items": [
@@ -1309,6 +1323,14 @@
       "amount": -11623.0,
       "icon": "🏠",
       "group": "fixed"
+    },
+    {
+      "date": "2026-09-24",
+      "category": "旅遊",
+      "item": "機場台中包車",
+      "amount": -2332.0,
+      "icon": "✈️",
+      "group": "variable"
     }
   ]
 }

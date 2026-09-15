@@ -791,6 +791,30 @@
       "group": "variable"
     },
     {
+      "date": "2026-09-15",
+      "category": "訂閱",
+      "item": "訂閱費",
+      "amount": -600.0,
+      "icon": "📱",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-09-15",
+      "category": "訂閱",
+      "item": "通話費",
+      "amount": -299.0,
+      "icon": "📱",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-09-15",
+      "category": "訂閱",
+      "item": "AI 模型",
+      "amount": -3000.0,
+      "icon": "📱",
+      "group": "fixed"
+    },
+    {
       "date": "2026-09-14",
       "category": "美容",
       "item": "洗加剪",
@@ -1236,30 +1260,6 @@
       "item": "健身房",
       "amount": -888.0,
       "icon": "🏋️",
-      "group": "fixed"
-    },
-    {
-      "date": "2026-09-15",
-      "category": "訂閱",
-      "item": "訂閱費",
-      "amount": -600.0,
-      "icon": "📱",
-      "group": "fixed"
-    },
-    {
-      "date": "2026-09-15",
-      "category": "訂閱",
-      "item": "通話費",
-      "amount": -299.0,
-      "icon": "📱",
-      "group": "fixed"
-    },
-    {
-      "date": "2026-09-15",
-      "category": "訂閱",
-      "item": "AI 模型",
-      "amount": -3000.0,
-      "icon": "📱",
       "group": "fixed"
     },
     {

@@ -2,13 +2,13 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -121385.0,
+  "total": -123058.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -81891.0,
+  "variableTotal": -83564.0,
   "categories": [
     {
       "category": "旅遊",
-      "amount": -28983.0,
+      "amount": -30537.0,
       "icon": "✈️",
       "color": "#34D399",
       "group": "variable"
@@ -50,7 +50,7 @@
     },
     {
       "category": "餐點",
-      "amount": -8990.0,
+      "amount": -9049.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -71,7 +71,7 @@
     },
     {
       "category": "交通",
-      "amount": -2345.0,
+      "amount": -2405.0,
       "icon": "🚗",
       "color": "#38BDF8",
       "group": "variable"
@@ -628,8 +628,32 @@
     },
     {
       "date": "2026-09-15",
-      "total": -3899.0,
+      "total": -5572.0,
       "items": [
+        {
+          "date": "2026-09-15",
+          "category": "旅遊",
+          "item": "旅平險",
+          "amount": -1554.0,
+          "icon": "✈️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-15",
+          "category": "餐點",
+          "item": "7-11",
+          "amount": -59.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-15",
+          "category": "交通",
+          "item": "停車",
+          "amount": -60.0,
+          "icon": "🚗",
+          "group": "variable"
+        },
         {
           "date": "2026-09-15",
           "category": "訂閱",
@@ -742,6 +766,30 @@
     }
   ],
   "transactions": [
+    {
+      "date": "2026-09-15",
+      "category": "旅遊",
+      "item": "旅平險",
+      "amount": -1554.0,
+      "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-15",
+      "category": "餐點",
+      "item": "7-11",
+      "amount": -59.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-15",
+      "category": "交通",
+      "item": "停車",
+      "amount": -60.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
     {
       "date": "2026-09-14",
       "category": "美容",

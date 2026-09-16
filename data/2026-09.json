@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -137150.0,
+  "total": -137550.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -97656.0,
+  "variableTotal": -98056.0,
   "categories": [
     {
       "category": "旅遊",
@@ -77,17 +77,17 @@
       "group": "variable"
     },
     {
+      "category": "飲料",
+      "amount": -1954.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "美容",
       "amount": -1699.0,
       "icon": "💇",
       "color": "#C084FC",
-      "group": "variable"
-    },
-    {
-      "category": "飲料",
-      "amount": -1554.0,
-      "icon": "🧋",
-      "color": "#FB923C",
       "group": "variable"
     },
     {
@@ -682,7 +682,7 @@
     },
     {
       "date": "2026-09-16",
-      "total": -36169.0,
+      "total": -36569.0,
       "items": [
         {
           "date": "2026-09-16",
@@ -698,6 +698,14 @@
           "item": "YOASOBI演唱會",
           "amount": -11760.0,
           "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-16",
+          "category": "飲料",
+          "item": "興波咖啡",
+          "amount": -400.0,
+          "icon": "🧋",
           "group": "variable"
         }
       ]
@@ -1298,6 +1306,14 @@
       "item": "YOASOBI演唱會",
       "amount": -11760.0,
       "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-16",
+      "category": "飲料",
+      "item": "興波咖啡",
+      "amount": -400.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

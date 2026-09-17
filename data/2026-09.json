@@ -2,27 +2,34 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -137957.0,
+  "total": -149342.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -98463.0,
+  "variableTotal": -109848.0,
   "categories": [
     {
       "category": "旅遊",
-      "amount": -32961.0,
+      "amount": -30223.0,
       "icon": "✈️",
       "color": "#34D399",
       "group": "variable"
     },
     {
       "category": "購物",
-      "amount": -19529.0,
+      "amount": -21943.0,
       "icon": "🛍️",
       "color": "#F472B6",
       "group": "variable"
     },
     {
+      "category": "服飾",
+      "amount": -15742.0,
+      "icon": "👕",
+      "color": "#F472B6",
+      "group": "variable"
+    },
+    {
       "category": "娛樂",
-      "amount": -14526.0,
+      "amount": -15593.0,
       "icon": "🎮",
       "color": "#A78BFA",
       "group": "variable"
@@ -57,16 +64,9 @@
     },
     {
       "category": "餐點",
-      "amount": -9364.0,
+      "amount": -9844.0,
       "icon": "🍱",
       "color": "#F87171",
-      "group": "variable"
-    },
-    {
-      "category": "服飾",
-      "amount": -5580.0,
-      "icon": "👕",
-      "color": "#F472B6",
       "group": "variable"
     },
     {
@@ -727,14 +727,62 @@
       ]
     },
     {
-      "date": "2026-09-18",
-      "total": -2876.0,
+      "date": "2026-09-17",
+      "total": -14261.0,
       "items": [
         {
-          "date": "2026-09-18",
+          "date": "2026-09-17",
+          "category": "餐點",
+          "item": "DACOMECCA(麵包) (2192 JPY)",
+          "amount": -480.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-17",
+          "category": "購物",
+          "item": "寶可夢中心 (11025 JPY)",
+          "amount": -2414.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-17",
+          "category": "娛樂",
+          "item": "哥吉拉盲盒 (3275 JPY)",
+          "amount": -717.0,
+          "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-17",
+          "category": "娛樂",
+          "item": "扭蛋*3 (1600 JPY)",
+          "amount": -350.0,
+          "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-17",
+          "category": "服飾",
+          "item": "鬼塚虎小包 (25000 JPY)",
+          "amount": -5475.0,
+          "icon": "👕",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-17",
+          "category": "服飾",
+          "item": "on跑鞋 (21400 JPY)",
+          "amount": -4687.0,
+          "icon": "👕",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-17",
           "category": "旅遊",
-          "item": "由布院之森列車",
-          "amount": -2876.0,
+          "item": "福岡JR (630 JPY)",
+          "amount": -138.0,
           "icon": "✈️",
           "group": "variable"
         }
@@ -1349,10 +1397,58 @@
       "group": "variable"
     },
     {
-      "date": "2026-09-18",
+      "date": "2026-09-17",
+      "category": "餐點",
+      "item": "DACOMECCA(麵包) (2192 JPY)",
+      "amount": -480.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-17",
+      "category": "購物",
+      "item": "寶可夢中心 (11025 JPY)",
+      "amount": -2414.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-17",
+      "category": "娛樂",
+      "item": "哥吉拉盲盒 (3275 JPY)",
+      "amount": -717.0,
+      "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-17",
+      "category": "娛樂",
+      "item": "扭蛋*3 (1600 JPY)",
+      "amount": -350.0,
+      "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-17",
+      "category": "服飾",
+      "item": "鬼塚虎小包 (25000 JPY)",
+      "amount": -5475.0,
+      "icon": "👕",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-17",
+      "category": "服飾",
+      "item": "on跑鞋 (21400 JPY)",
+      "amount": -4687.0,
+      "icon": "👕",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-17",
       "category": "旅遊",
-      "item": "由布院之森列車",
-      "amount": -2876.0,
+      "item": "福岡JR (630 JPY)",
+      "amount": -138.0,
       "icon": "✈️",
       "group": "variable"
     },

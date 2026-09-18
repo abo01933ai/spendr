@@ -2,13 +2,13 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -152014.0,
+  "total": -160073.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -112520.0,
+  "variableTotal": -120579.0,
   "categories": [
     {
       "category": "旅遊",
-      "amount": -30315.0,
+      "amount": -36443.0,
       "icon": "✈️",
       "color": "#34D399",
       "group": "variable"
@@ -22,7 +22,7 @@
     },
     {
       "category": "服飾",
-      "amount": -15742.0,
+      "amount": -16585.0,
       "icon": "👕",
       "color": "#F472B6",
       "group": "variable"
@@ -50,7 +50,7 @@
     },
     {
       "category": "餐點",
-      "amount": -12424.0,
+      "amount": -12960.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -70,17 +70,17 @@
       "group": "variable"
     },
     {
+      "category": "飲料",
+      "amount": -2506.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "交通",
       "amount": -2405.0,
       "icon": "🚗",
       "color": "#38BDF8",
-      "group": "variable"
-    },
-    {
-      "category": "飲料",
-      "amount": -1954.0,
-      "icon": "🧋",
-      "color": "#FB923C",
       "group": "variable"
     },
     {
@@ -805,6 +805,76 @@
       ]
     },
     {
+      "date": "2026-09-18",
+      "total": -8059.0,
+      "items": [
+        {
+          "date": "2026-09-18",
+          "category": "旅遊",
+          "item": "由布院之森列車",
+          "amount": -2876.0,
+          "icon": "✈️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-18",
+          "category": "飲料",
+          "item": "Fuglen coffee (2520 JPY)",
+          "amount": -552.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-18",
+          "category": "餐點",
+          "item": "鞠智銅鑼燒 (1240 JPY)",
+          "amount": -272.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-18",
+          "category": "餐點",
+          "item": "可麗露 (483 JPY)",
+          "amount": -106.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-18",
+          "category": "旅遊",
+          "item": "貓貓寺門票+商品 (10850 JPY)",
+          "amount": -2376.0,
+          "icon": "✈️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-18",
+          "category": "餐點",
+          "item": "吉吾炸雞 (720 JPY)",
+          "amount": -158.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-18",
+          "category": "旅遊",
+          "item": "由布院列車商品 (4000 JPY)",
+          "amount": -876.0,
+          "icon": "✈️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-18",
+          "category": "服飾",
+          "item": "潮T (3850 JPY)",
+          "amount": -843.0,
+          "icon": "👕",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-09-20",
       "total": -13084.0,
       "items": [
@@ -1482,6 +1552,70 @@
       "item": "福岡JR (420 JPY)",
       "amount": -92.0,
       "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-18",
+      "category": "旅遊",
+      "item": "由布院之森列車",
+      "amount": -2876.0,
+      "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-18",
+      "category": "飲料",
+      "item": "Fuglen coffee (2520 JPY)",
+      "amount": -552.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-18",
+      "category": "餐點",
+      "item": "鞠智銅鑼燒 (1240 JPY)",
+      "amount": -272.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-18",
+      "category": "餐點",
+      "item": "可麗露 (483 JPY)",
+      "amount": -106.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-18",
+      "category": "旅遊",
+      "item": "貓貓寺門票+商品 (10850 JPY)",
+      "amount": -2376.0,
+      "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-18",
+      "category": "餐點",
+      "item": "吉吾炸雞 (720 JPY)",
+      "amount": -158.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-18",
+      "category": "旅遊",
+      "item": "由布院列車商品 (4000 JPY)",
+      "amount": -876.0,
+      "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-18",
+      "category": "服飾",
+      "item": "潮T (3850 JPY)",
+      "amount": -843.0,
+      "icon": "👕",
       "group": "variable"
     },
     {

@@ -2,13 +2,13 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -168399.0,
+  "total": -168699.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -128905.0,
+  "variableTotal": -129205.0,
   "categories": [
     {
       "category": "旅遊",
-      "amount": -36618.0,
+      "amount": -36918.0,
       "icon": "✈️",
       "color": "#34D399",
       "group": "variable"
@@ -806,7 +806,7 @@
     },
     {
       "date": "2026-09-18",
-      "total": -16385.0,
+      "total": -16685.0,
       "items": [
         {
           "date": "2026-09-18",
@@ -894,6 +894,14 @@
           "item": "由布院別府車票*2 (2600 JPY)",
           "amount": -569.0,
           "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-18",
+          "category": "旅遊",
+          "item": "esim",
+          "amount": -300.0,
+          "icon": "✈️",
           "group": "variable"
         }
       ]
@@ -1664,6 +1672,14 @@
       "item": "由布院別府車票*2 (2600 JPY)",
       "amount": -569.0,
       "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-18",
+      "category": "旅遊",
+      "item": "esim",
+      "amount": -300.0,
+      "icon": "✈️",
       "group": "variable"
     },
     {

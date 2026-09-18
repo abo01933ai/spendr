@@ -2,20 +2,20 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -160073.0,
+  "total": -168399.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -120579.0,
+  "variableTotal": -128905.0,
   "categories": [
     {
       "category": "旅遊",
-      "amount": -36443.0,
+      "amount": -36618.0,
       "icon": "✈️",
       "color": "#34D399",
       "group": "variable"
     },
     {
       "category": "購物",
-      "amount": -21943.0,
+      "amount": -29525.0,
       "icon": "🛍️",
       "color": "#F472B6",
       "group": "variable"
@@ -70,17 +70,17 @@
       "group": "variable"
     },
     {
+      "category": "交通",
+      "amount": -2974.0,
+      "icon": "🚗",
+      "color": "#38BDF8",
+      "group": "variable"
+    },
+    {
       "category": "飲料",
       "amount": -2506.0,
       "icon": "🧋",
       "color": "#FB923C",
-      "group": "variable"
-    },
-    {
-      "category": "交通",
-      "amount": -2405.0,
-      "icon": "🚗",
-      "color": "#38BDF8",
       "group": "variable"
     },
     {
@@ -806,7 +806,7 @@
     },
     {
       "date": "2026-09-18",
-      "total": -8059.0,
+      "total": -16385.0,
       "items": [
         {
           "date": "2026-09-18",
@@ -870,6 +870,30 @@
           "item": "潮T (3850 JPY)",
           "amount": -843.0,
           "icon": "👕",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-18",
+          "category": "購物",
+          "item": "唐吉訶得 (34621 JPY)",
+          "amount": -7582.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-18",
+          "category": "旅遊",
+          "item": "寄物 (800 JPY)",
+          "amount": -175.0,
+          "icon": "✈️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-18",
+          "category": "交通",
+          "item": "由布院別府車票*2 (2600 JPY)",
+          "amount": -569.0,
+          "icon": "🚗",
           "group": "variable"
         }
       ]
@@ -1616,6 +1640,30 @@
       "item": "潮T (3850 JPY)",
       "amount": -843.0,
       "icon": "👕",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-18",
+      "category": "購物",
+      "item": "唐吉訶得 (34621 JPY)",
+      "amount": -7582.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-18",
+      "category": "旅遊",
+      "item": "寄物 (800 JPY)",
+      "amount": -175.0,
+      "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-18",
+      "category": "交通",
+      "item": "由布院別府車票*2 (2600 JPY)",
+      "amount": -569.0,
+      "icon": "🚗",
       "group": "variable"
     },
     {

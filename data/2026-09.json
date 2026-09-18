@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -168699.0,
+  "total": -169779.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -129205.0,
+  "variableTotal": -130285.0,
   "categories": [
     {
       "category": "旅遊",
@@ -15,7 +15,7 @@
     },
     {
       "category": "購物",
-      "amount": -29525.0,
+      "amount": -30605.0,
       "icon": "🛍️",
       "color": "#F472B6",
       "group": "variable"
@@ -806,7 +806,7 @@
     },
     {
       "date": "2026-09-18",
-      "total": -16685.0,
+      "total": -17765.0,
       "items": [
         {
           "date": "2026-09-18",
@@ -902,6 +902,14 @@
           "item": "esim",
           "amount": -300.0,
           "icon": "✈️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-18",
+          "category": "購物",
+          "item": "虎嚕商品",
+          "amount": -1080.0,
+          "icon": "🛍️",
           "group": "variable"
         }
       ]
@@ -1680,6 +1688,14 @@
       "item": "esim",
       "amount": -300.0,
       "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-18",
+      "category": "購物",
+      "item": "虎嚕商品",
+      "amount": -1080.0,
+      "icon": "🛍️",
       "group": "variable"
     },
     {

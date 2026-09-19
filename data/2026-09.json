@@ -2,13 +2,13 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -174597.0,
+  "total": -175186.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -135103.0,
+  "variableTotal": -135692.0,
   "categories": [
     {
       "category": "旅遊",
-      "amount": -36918.0,
+      "amount": -37010.0,
       "icon": "✈️",
       "color": "#34D399",
       "group": "variable"
@@ -71,7 +71,7 @@
     },
     {
       "category": "交通",
-      "amount": -2974.0,
+      "amount": -3471.0,
       "icon": "🚗",
       "color": "#38BDF8",
       "group": "variable"
@@ -916,7 +916,7 @@
     },
     {
       "date": "2026-09-19",
-      "total": -4818.0,
+      "total": -5407.0,
       "items": [
         {
           "date": "2026-09-19",
@@ -972,6 +972,22 @@
           "item": "7-11 (1181 JPY)",
           "amount": -259.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-19",
+          "category": "交通",
+          "item": "門司港-市區電車 (2270 JPY)",
+          "amount": -497.0,
+          "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-19",
+          "category": "旅遊",
+          "item": "福岡JR (420 JPY)",
+          "amount": -92.0,
+          "icon": "✈️",
           "group": "variable"
         }
       ]
@@ -1814,6 +1830,22 @@
       "item": "7-11 (1181 JPY)",
       "amount": -259.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-19",
+      "category": "交通",
+      "item": "門司港-市區電車 (2270 JPY)",
+      "amount": -497.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-19",
+      "category": "旅遊",
+      "item": "福岡JR (420 JPY)",
+      "amount": -92.0,
+      "icon": "✈️",
       "group": "variable"
     },
     {

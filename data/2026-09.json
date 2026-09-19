@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -169779.0,
+  "total": -174597.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -130285.0,
+  "variableTotal": -135103.0,
   "categories": [
     {
       "category": "旅遊",
@@ -22,7 +22,7 @@
     },
     {
       "category": "服飾",
-      "amount": -16585.0,
+      "amount": -18819.0,
       "icon": "👕",
       "color": "#F472B6",
       "group": "variable"
@@ -32,6 +32,13 @@
       "amount": -15593.0,
       "icon": "🎮",
       "color": "#A78BFA",
+      "group": "variable"
+    },
+    {
+      "category": "餐點",
+      "amount": -15318.0,
+      "icon": "🍱",
+      "color": "#F87171",
       "group": "variable"
     },
     {
@@ -47,13 +54,6 @@
       "icon": "💳",
       "color": "#7C83FD",
       "group": "fixed"
-    },
-    {
-      "category": "餐點",
-      "amount": -12960.0,
-      "icon": "🍱",
-      "color": "#F87171",
-      "group": "variable"
     },
     {
       "category": "住",
@@ -78,7 +78,7 @@
     },
     {
       "category": "飲料",
-      "amount": -2506.0,
+      "amount": -2732.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -915,6 +915,68 @@
       ]
     },
     {
+      "date": "2026-09-19",
+      "total": -4818.0,
+      "items": [
+        {
+          "date": "2026-09-19",
+          "category": "服飾",
+          "item": "Uniqlo (4800 JPY)",
+          "amount": -1051.0,
+          "icon": "👕",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-19",
+          "category": "服飾",
+          "item": "Puma衣服 (5400 JPY)",
+          "amount": -1183.0,
+          "icon": "👕",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-19",
+          "category": "餐點",
+          "item": "全家 (332 JPY)",
+          "amount": -73.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-19",
+          "category": "餐點",
+          "item": "利久牛舌 (9251 JPY)",
+          "amount": -2026.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-19",
+          "category": "飲料",
+          "item": "焙茶拿鐵 (680 JPY)",
+          "amount": -149.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-19",
+          "category": "飲料",
+          "item": "橘子汁 (350 JPY)",
+          "amount": -77.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-19",
+          "category": "餐點",
+          "item": "7-11 (1181 JPY)",
+          "amount": -259.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-09-20",
       "total": -13084.0,
       "items": [
@@ -1696,6 +1758,62 @@
       "item": "虎嚕商品",
       "amount": -1080.0,
       "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-19",
+      "category": "服飾",
+      "item": "Uniqlo (4800 JPY)",
+      "amount": -1051.0,
+      "icon": "👕",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-19",
+      "category": "服飾",
+      "item": "Puma衣服 (5400 JPY)",
+      "amount": -1183.0,
+      "icon": "👕",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-19",
+      "category": "餐點",
+      "item": "全家 (332 JPY)",
+      "amount": -73.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-19",
+      "category": "餐點",
+      "item": "利久牛舌 (9251 JPY)",
+      "amount": -2026.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-19",
+      "category": "飲料",
+      "item": "焙茶拿鐵 (680 JPY)",
+      "amount": -149.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-19",
+      "category": "飲料",
+      "item": "橘子汁 (350 JPY)",
+      "amount": -77.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-19",
+      "category": "餐點",
+      "item": "7-11 (1181 JPY)",
+      "amount": -259.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -179961.0,
+  "total": -180618.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -140467.0,
+  "variableTotal": -141124.0,
   "categories": [
     {
       "category": "旅遊",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -15990.0,
+      "amount": -16494.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -96,6 +96,13 @@
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
+    },
+    {
+      "category": "日常用品",
+      "amount": -153.0,
+      "icon": "📦",
+      "color": "#94A3B8",
+      "group": "variable"
     },
     {
       "category": "學習",
@@ -994,7 +1001,7 @@
     },
     {
       "date": "2026-09-20",
-      "total": -17859.0,
+      "total": -18516.0,
       "items": [
         {
           "date": "2026-09-20",
@@ -1066,6 +1073,22 @@
           "item": "扭蛋 (500 JPY)",
           "amount": -109.0,
           "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-20",
+          "category": "餐點",
+          "item": "Lawson (2300 JPY)",
+          "amount": -504.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-20",
+          "category": "日常用品",
+          "item": "洗衣服 (700 JPY)",
+          "amount": -153.0,
+          "icon": "📦",
           "group": "variable"
         }
       ]
@@ -1982,6 +2005,22 @@
       "item": "扭蛋 (500 JPY)",
       "amount": -109.0,
       "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-20",
+      "category": "餐點",
+      "item": "Lawson (2300 JPY)",
+      "amount": -504.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-20",
+      "category": "日常用品",
+      "item": "洗衣服 (700 JPY)",
+      "amount": -153.0,
+      "icon": "📦",
       "group": "variable"
     },
     {

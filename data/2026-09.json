@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -194804.0,
+  "total": -195923.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -155310.0,
+  "variableTotal": -156429.0,
   "categories": [
     {
       "category": "旅遊",
@@ -78,7 +78,7 @@
     },
     {
       "category": "交通",
-      "amount": -3471.0,
+      "amount": -4590.0,
       "icon": "🚗",
       "color": "#38BDF8",
       "group": "variable"
@@ -1001,7 +1001,7 @@
     },
     {
       "date": "2026-09-20",
-      "total": -18516.0,
+      "total": -19219.0,
       "items": [
         {
           "date": "2026-09-20",
@@ -1090,12 +1090,20 @@
           "amount": -153.0,
           "icon": "📦",
           "group": "variable"
+        },
+        {
+          "date": "2026-09-20",
+          "category": "交通",
+          "item": "福岡JR (3210 JPY)",
+          "amount": -703.0,
+          "icon": "🚗",
+          "group": "variable"
         }
       ]
     },
     {
       "date": "2026-09-21",
-      "total": -14186.0,
+      "total": -14602.0,
       "items": [
         {
           "date": "2026-09-21",
@@ -1159,6 +1167,14 @@
           "item": "河馬壽司 (8184 JPY)",
           "amount": -1792.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-21",
+          "category": "交通",
+          "item": "福岡JR (1900 JPY)",
+          "amount": -416.0,
+          "icon": "🚗",
           "group": "variable"
         }
       ]
@@ -2070,6 +2086,14 @@
       "group": "variable"
     },
     {
+      "date": "2026-09-21",
+      "category": "交通",
+      "item": "福岡JR (1900 JPY)",
+      "amount": -416.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
+    {
       "date": "2026-09-20",
       "category": "財務",
       "item": "信貸",
@@ -2155,6 +2179,14 @@
       "item": "洗衣服 (700 JPY)",
       "amount": -153.0,
       "icon": "📦",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-20",
+      "category": "交通",
+      "item": "福岡JR (3210 JPY)",
+      "amount": -703.0,
+      "icon": "🚗",
       "group": "variable"
     },
     {

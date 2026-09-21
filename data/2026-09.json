@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -180618.0,
+  "total": -181463.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -141124.0,
+  "variableTotal": -141969.0,
   "categories": [
     {
       "category": "旅遊",
@@ -70,17 +70,17 @@
       "group": "variable"
     },
     {
+      "category": "飲料",
+      "amount": -3971.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "交通",
       "amount": -3471.0,
       "icon": "🚗",
       "color": "#38BDF8",
-      "group": "variable"
-    },
-    {
-      "category": "飲料",
-      "amount": -3126.0,
-      "icon": "🧋",
-      "color": "#FB923C",
       "group": "variable"
     },
     {
@@ -1094,6 +1094,20 @@
       ]
     },
     {
+      "date": "2026-09-21",
+      "total": -845.0,
+      "items": [
+        {
+          "date": "2026-09-21",
+          "category": "飲料",
+          "item": "Coffee country coffee (3860 JPY)",
+          "amount": -845.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-09-22",
       "total": -1521.0,
       "items": [
@@ -1933,6 +1947,14 @@
       "item": "福岡JR (420 JPY)",
       "amount": -92.0,
       "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-21",
+      "category": "飲料",
+      "item": "Coffee country coffee (3860 JPY)",
+      "amount": -845.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

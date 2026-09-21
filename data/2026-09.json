@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -181463.0,
+  "total": -194804.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -141969.0,
+  "variableTotal": -155310.0,
   "categories": [
     {
       "category": "旅遊",
@@ -15,21 +15,21 @@
     },
     {
       "category": "購物",
-      "amount": -31520.0,
+      "amount": -35447.0,
       "icon": "🛍️",
       "color": "#F472B6",
       "group": "variable"
     },
     {
       "category": "服飾",
-      "amount": -21504.0,
+      "amount": -26278.0,
       "icon": "👕",
       "color": "#F472B6",
       "group": "variable"
     },
     {
       "category": "餐點",
-      "amount": -16494.0,
+      "amount": -20452.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -71,7 +71,7 @@
     },
     {
       "category": "飲料",
-      "amount": -3971.0,
+      "amount": -4653.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -1095,7 +1095,7 @@
     },
     {
       "date": "2026-09-21",
-      "total": -845.0,
+      "total": -14186.0,
       "items": [
         {
           "date": "2026-09-21",
@@ -1103,6 +1103,62 @@
           "item": "Coffee country coffee (3860 JPY)",
           "amount": -845.0,
           "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-21",
+          "category": "購物",
+          "item": "BBB Potters 馬克杯*2 (3740 JPY)",
+          "amount": -819.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-21",
+          "category": "購物",
+          "item": "山響屋(招財貓) (14190 JPY)",
+          "amount": -3108.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-21",
+          "category": "服飾",
+          "item": "Human Made(衣服) (21800 JPY)",
+          "amount": -4774.0,
+          "icon": "👕",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-21",
+          "category": "餐點",
+          "item": "芋屋今次郎(點心) (7500 JPY)",
+          "amount": -1643.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-21",
+          "category": "飲料",
+          "item": "Blue bottle coffee (3113 JPY)",
+          "amount": -682.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-21",
+          "category": "餐點",
+          "item": "治一郎布丁 (2390 JPY)",
+          "amount": -523.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-21",
+          "category": "餐點",
+          "item": "河馬壽司 (8184 JPY)",
+          "amount": -1792.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -1955,6 +2011,62 @@
       "item": "Coffee country coffee (3860 JPY)",
       "amount": -845.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-21",
+      "category": "購物",
+      "item": "BBB Potters 馬克杯*2 (3740 JPY)",
+      "amount": -819.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-21",
+      "category": "購物",
+      "item": "山響屋(招財貓) (14190 JPY)",
+      "amount": -3108.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-21",
+      "category": "服飾",
+      "item": "Human Made(衣服) (21800 JPY)",
+      "amount": -4774.0,
+      "icon": "👕",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-21",
+      "category": "餐點",
+      "item": "芋屋今次郎(點心) (7500 JPY)",
+      "amount": -1643.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-21",
+      "category": "飲料",
+      "item": "Blue bottle coffee (3113 JPY)",
+      "amount": -682.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-21",
+      "category": "餐點",
+      "item": "治一郎布丁 (2390 JPY)",
+      "amount": -523.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-21",
+      "category": "餐點",
+      "item": "河馬壽司 (8184 JPY)",
+      "amount": -1792.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -201130.0,
+  "total": -201439.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -161636.0,
+  "variableTotal": -161945.0,
   "categories": [
     {
       "category": "旅遊",
@@ -78,7 +78,7 @@
     },
     {
       "category": "交通",
-      "amount": -4590.0,
+      "amount": -4899.0,
       "icon": "🚗",
       "color": "#38BDF8",
       "group": "variable"
@@ -1181,7 +1181,7 @@
     },
     {
       "date": "2026-09-22",
-      "total": -6728.0,
+      "total": -7037.0,
       "items": [
         {
           "date": "2026-09-22",
@@ -1237,6 +1237,14 @@
           "item": "爐端燒 (7580 JPY)",
           "amount": -1660.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-22",
+          "category": "交通",
+          "item": "福岡JR (1410 JPY)",
+          "amount": -309.0,
+          "icon": "🚗",
           "group": "variable"
         }
       ]
@@ -2299,6 +2307,14 @@
       "item": "爐端燒 (7580 JPY)",
       "amount": -1660.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-22",
+      "category": "交通",
+      "item": "福岡JR (1410 JPY)",
+      "amount": -309.0,
+      "icon": "🚗",
       "group": "variable"
     },
     {

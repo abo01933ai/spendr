@@ -2,20 +2,20 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -195923.0,
+  "total": -199470.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -156429.0,
+  "variableTotal": -159976.0,
   "categories": [
     {
       "category": "旅遊",
-      "amount": -37010.0,
+      "amount": -37295.0,
       "icon": "✈️",
       "color": "#34D399",
       "group": "variable"
     },
     {
       "category": "購物",
-      "amount": -35447.0,
+      "amount": -35995.0,
       "icon": "🛍️",
       "color": "#F472B6",
       "group": "variable"
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -20452.0,
+      "amount": -22695.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -71,7 +71,7 @@
     },
     {
       "category": "飲料",
-      "amount": -4653.0,
+      "amount": -5124.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -1181,13 +1181,53 @@
     },
     {
       "date": "2026-09-22",
-      "total": -1521.0,
+      "total": -5068.0,
       "items": [
         {
           "date": "2026-09-22",
           "category": "旅遊",
           "item": "海之中道門票*3",
           "amount": -1521.0,
+          "icon": "✈️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-22",
+          "category": "餐點",
+          "item": "全家 (1834 JPY)",
+          "amount": -402.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-22",
+          "category": "飲料",
+          "item": "FUK coffee (2150 JPY)",
+          "amount": -471.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-22",
+          "category": "購物",
+          "item": "海之中道紀念品 (2500 JPY)",
+          "amount": -548.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-22",
+          "category": "餐點",
+          "item": "燒鳥長政 (8404 JPY)",
+          "amount": -1841.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-22",
+          "category": "旅遊",
+          "item": "福岡塔-海之中道船票 (1300 JPY)",
+          "amount": -285.0,
           "icon": "✈️",
           "group": "variable"
         }
@@ -2202,6 +2242,46 @@
       "category": "旅遊",
       "item": "海之中道門票*3",
       "amount": -1521.0,
+      "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-22",
+      "category": "餐點",
+      "item": "全家 (1834 JPY)",
+      "amount": -402.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-22",
+      "category": "飲料",
+      "item": "FUK coffee (2150 JPY)",
+      "amount": -471.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-22",
+      "category": "購物",
+      "item": "海之中道紀念品 (2500 JPY)",
+      "amount": -548.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-22",
+      "category": "餐點",
+      "item": "燒鳥長政 (8404 JPY)",
+      "amount": -1841.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-22",
+      "category": "旅遊",
+      "item": "福岡塔-海之中道船票 (1300 JPY)",
+      "amount": -285.0,
       "icon": "✈️",
       "group": "variable"
     },

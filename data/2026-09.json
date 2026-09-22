@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -199470.0,
+  "total": -201130.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -159976.0,
+  "variableTotal": -161636.0,
   "categories": [
     {
       "category": "旅遊",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -22695.0,
+      "amount": -24355.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -1181,7 +1181,7 @@
     },
     {
       "date": "2026-09-22",
-      "total": -5068.0,
+      "total": -6728.0,
       "items": [
         {
           "date": "2026-09-22",
@@ -1229,6 +1229,14 @@
           "item": "福岡塔-海之中道船票 (1300 JPY)",
           "amount": -285.0,
           "icon": "✈️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-22",
+          "category": "餐點",
+          "item": "爐端燒 (7580 JPY)",
+          "amount": -1660.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -2283,6 +2291,14 @@
       "item": "福岡塔-海之中道船票 (1300 JPY)",
       "amount": -285.0,
       "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-22",
+      "category": "餐點",
+      "item": "爐端燒 (7580 JPY)",
+      "amount": -1660.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

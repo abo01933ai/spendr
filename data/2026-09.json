@@ -2,10 +2,17 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -201439.0,
+  "total": -208149.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -161945.0,
+  "variableTotal": -168655.0,
   "categories": [
+    {
+      "category": "購物",
+      "amount": -38115.0,
+      "icon": "🛍️",
+      "color": "#F472B6",
+      "group": "variable"
+    },
     {
       "category": "旅遊",
       "amount": -37295.0,
@@ -14,22 +21,15 @@
       "group": "variable"
     },
     {
-      "category": "購物",
-      "amount": -35995.0,
-      "icon": "🛍️",
-      "color": "#F472B6",
-      "group": "variable"
-    },
-    {
       "category": "服飾",
-      "amount": -26278.0,
+      "amount": -27671.0,
       "icon": "👕",
       "color": "#F472B6",
       "group": "variable"
     },
     {
       "category": "餐點",
-      "amount": -24355.0,
+      "amount": -26930.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -71,14 +71,14 @@
     },
     {
       "category": "飲料",
-      "amount": -5124.0,
+      "amount": -5387.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
     },
     {
       "category": "交通",
-      "amount": -4899.0,
+      "amount": -5258.0,
       "icon": "🚗",
       "color": "#38BDF8",
       "group": "variable"
@@ -1251,7 +1251,7 @@
     },
     {
       "date": "2026-09-23",
-      "total": -177.0,
+      "total": -6887.0,
       "items": [
         {
           "date": "2026-09-23",
@@ -1259,6 +1259,78 @@
           "item": "tanteeru富士預訂費 (880 JPY)",
           "amount": -177.0,
           "icon": "✈️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-23",
+          "category": "購物",
+          "item": "寶可夢中心-睡覺小火龍 (3740 JPY)",
+          "amount": -819.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-23",
+          "category": "服飾",
+          "item": "gap 長袖T (6360 JPY)",
+          "amount": -1393.0,
+          "icon": "👕",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-23",
+          "category": "交通",
+          "item": "福岡JR (480 JPY)",
+          "amount": -105.0,
+          "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-23",
+          "category": "餐點",
+          "item": "牛舌牛尾富士（餐廳） (10500 JPY)",
+          "amount": -2300.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-23",
+          "category": "飲料",
+          "item": "country stock coffee (750 JPY)",
+          "amount": -164.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-23",
+          "category": "餐點",
+          "item": "pain stock (麵包) (1257 JPY)",
+          "amount": -275.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-23",
+          "category": "購物",
+          "item": "山響屋 (5940 JPY)",
+          "amount": -1301.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-23",
+          "category": "交通",
+          "item": "相島交通 (1160 JPY)",
+          "amount": -254.0,
+          "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-23",
+          "category": "飲料",
+          "item": "豆香洞咖啡 (450 JPY)",
+          "amount": -99.0,
+          "icon": "🧋",
           "group": "variable"
         }
       ]
@@ -2251,6 +2323,78 @@
       "item": "tanteeru富士預訂費 (880 JPY)",
       "amount": -177.0,
       "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-23",
+      "category": "購物",
+      "item": "寶可夢中心-睡覺小火龍 (3740 JPY)",
+      "amount": -819.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-23",
+      "category": "服飾",
+      "item": "gap 長袖T (6360 JPY)",
+      "amount": -1393.0,
+      "icon": "👕",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-23",
+      "category": "交通",
+      "item": "福岡JR (480 JPY)",
+      "amount": -105.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-23",
+      "category": "餐點",
+      "item": "牛舌牛尾富士（餐廳） (10500 JPY)",
+      "amount": -2300.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-23",
+      "category": "飲料",
+      "item": "country stock coffee (750 JPY)",
+      "amount": -164.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-23",
+      "category": "餐點",
+      "item": "pain stock (麵包) (1257 JPY)",
+      "amount": -275.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-23",
+      "category": "購物",
+      "item": "山響屋 (5940 JPY)",
+      "amount": -1301.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-23",
+      "category": "交通",
+      "item": "相島交通 (1160 JPY)",
+      "amount": -254.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-23",
+      "category": "飲料",
+      "item": "豆香洞咖啡 (450 JPY)",
+      "amount": -99.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

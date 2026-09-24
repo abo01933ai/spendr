@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -208149.0,
+  "total": -208451.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -168655.0,
+  "variableTotal": -168957.0,
   "categories": [
     {
       "category": "購物",
@@ -70,17 +70,17 @@
       "group": "variable"
     },
     {
+      "category": "交通",
+      "amount": -5560.0,
+      "icon": "🚗",
+      "color": "#38BDF8",
+      "group": "variable"
+    },
+    {
       "category": "飲料",
       "amount": -5387.0,
       "icon": "🧋",
       "color": "#FB923C",
-      "group": "variable"
-    },
-    {
-      "category": "交通",
-      "amount": -5258.0,
-      "icon": "🚗",
-      "color": "#38BDF8",
       "group": "variable"
     },
     {
@@ -1251,7 +1251,7 @@
     },
     {
       "date": "2026-09-23",
-      "total": -6887.0,
+      "total": -7189.0,
       "items": [
         {
           "date": "2026-09-23",
@@ -1331,6 +1331,14 @@
           "item": "豆香洞咖啡 (450 JPY)",
           "amount": -99.0,
           "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-23",
+          "category": "交通",
+          "item": "福岡JR (1380 JPY)",
+          "amount": -302.0,
+          "icon": "🚗",
           "group": "variable"
         }
       ]
@@ -2395,6 +2403,14 @@
       "item": "豆香洞咖啡 (450 JPY)",
       "amount": -99.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-23",
+      "category": "交通",
+      "item": "福岡JR (1380 JPY)",
+      "amount": -302.0,
+      "icon": "🚗",
       "group": "variable"
     },
     {

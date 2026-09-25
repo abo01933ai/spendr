@@ -8,14 +8,14 @@
   "categories": [
     {
       "category": "購物",
-      "amount": -42023.0,
+      "amount": -41585.0,
       "icon": "🛍️",
       "color": "#F472B6",
       "group": "variable"
     },
     {
       "category": "旅遊",
-      "amount": -37295.0,
+      "amount": -37733.0,
       "icon": "✈️",
       "color": "#34D399",
       "group": "variable"
@@ -1374,9 +1374,17 @@
         {
           "date": "2026-09-24",
           "category": "購物",
-          "item": "麵包超人博物館伴手禮+門票 (10550 JPY)",
-          "amount": -2310.0,
+          "item": "麵包超人博物館伴手禮 (8550 JPY)",
+          "amount": -1872.0,
           "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-24",
+          "category": "旅遊",
+          "item": "麵包超人博物館門票 (2000 JPY)",
+          "amount": -438.0,
+          "icon": "✈️",
           "group": "variable"
         },
         {
@@ -2552,9 +2560,17 @@
     {
       "date": "2026-09-24",
       "category": "購物",
-      "item": "麵包超人博物館伴手禮+門票 (10550 JPY)",
-      "amount": -2310.0,
+      "item": "麵包超人博物館伴手禮 (8550 JPY)",
+      "amount": -1872.0,
       "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-24",
+      "category": "旅遊",
+      "item": "麵包超人博物館門票 (2000 JPY)",
+      "amount": -438.0,
+      "icon": "✈️",
       "group": "variable"
     },
     {

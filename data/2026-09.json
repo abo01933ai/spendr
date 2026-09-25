@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -213283.0,
+  "total": -215635.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -173789.0,
+  "variableTotal": -176141.0,
   "categories": [
     {
       "category": "購物",
@@ -22,7 +22,7 @@
     },
     {
       "category": "餐點",
-      "amount": -27714.0,
+      "amount": -28726.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -71,14 +71,14 @@
     },
     {
       "category": "交通",
-      "amount": -5700.0,
+      "amount": -6660.0,
       "icon": "🚗",
       "color": "#38BDF8",
       "group": "variable"
     },
     {
       "category": "飲料",
-      "amount": -5387.0,
+      "amount": -5767.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -1407,7 +1407,7 @@
     },
     {
       "date": "2026-09-25",
-      "total": -11623.0,
+      "total": -13975.0,
       "items": [
         {
           "date": "2026-09-25",
@@ -1416,6 +1416,46 @@
           "amount": -11623.0,
           "icon": "🏠",
           "group": "fixed"
+        },
+        {
+          "date": "2026-09-25",
+          "category": "交通",
+          "item": "高鐵台中左營",
+          "amount": -810.0,
+          "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-25",
+          "category": "餐點",
+          "item": "樂雅樂（餐廳）",
+          "amount": -1012.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-25",
+          "category": "交通",
+          "item": "停車費",
+          "amount": -150.0,
+          "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-25",
+          "category": "飲料",
+          "item": "可不可",
+          "amount": -120.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-25",
+          "category": "飲料",
+          "item": "老江紅茶牛奶",
+          "amount": -260.0,
+          "icon": "🧋",
+          "group": "variable"
         }
       ]
     }
@@ -2532,6 +2572,46 @@
       "amount": -11623.0,
       "icon": "🏠",
       "group": "fixed"
+    },
+    {
+      "date": "2026-09-25",
+      "category": "交通",
+      "item": "高鐵台中左營",
+      "amount": -810.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-25",
+      "category": "餐點",
+      "item": "樂雅樂（餐廳）",
+      "amount": -1012.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-25",
+      "category": "交通",
+      "item": "停車費",
+      "amount": -150.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-25",
+      "category": "飲料",
+      "item": "可不可",
+      "amount": -120.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-25",
+      "category": "飲料",
+      "item": "老江紅茶牛奶",
+      "amount": -260.0,
+      "icon": "🧋",
+      "group": "variable"
     },
     {
       "date": "2026-09-24",

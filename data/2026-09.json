@@ -2,13 +2,13 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -208451.0,
+  "total": -213283.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -168957.0,
+  "variableTotal": -173789.0,
   "categories": [
     {
       "category": "購物",
-      "amount": -38115.0,
+      "amount": -42023.0,
       "icon": "🛍️",
       "color": "#F472B6",
       "group": "variable"
@@ -21,17 +21,17 @@
       "group": "variable"
     },
     {
+      "category": "餐點",
+      "amount": -27714.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
+    {
       "category": "服飾",
       "amount": -27671.0,
       "icon": "👕",
       "color": "#F472B6",
-      "group": "variable"
-    },
-    {
-      "category": "餐點",
-      "amount": -26930.0,
-      "icon": "🍱",
-      "color": "#F87171",
       "group": "variable"
     },
     {
@@ -71,7 +71,7 @@
     },
     {
       "category": "交通",
-      "amount": -5560.0,
+      "amount": -5700.0,
       "icon": "🚗",
       "color": "#38BDF8",
       "group": "variable"
@@ -1345,7 +1345,7 @@
     },
     {
       "date": "2026-09-24",
-      "total": -2332.0,
+      "total": -7164.0,
       "items": [
         {
           "date": "2026-09-24",
@@ -1353,6 +1353,46 @@
           "item": "機場台中包車",
           "amount": -2332.0,
           "icon": "✈️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-24",
+          "category": "購物",
+          "item": "伴手禮 (3120 JPY)",
+          "amount": -683.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-24",
+          "category": "購物",
+          "item": "貓和堂伴手禮 (4180 JPY)",
+          "amount": -915.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-24",
+          "category": "購物",
+          "item": "麵包超人博物館伴手禮+門票 (10550 JPY)",
+          "amount": -2310.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-24",
+          "category": "餐點",
+          "item": "福岡機場美食街 (3579 JPY)",
+          "amount": -784.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-24",
+          "category": "交通",
+          "item": "福岡JR (640 JPY)",
+          "amount": -140.0,
+          "icon": "🚗",
           "group": "variable"
         }
       ]
@@ -2491,6 +2531,46 @@
       "item": "機場台中包車",
       "amount": -2332.0,
       "icon": "✈️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-24",
+      "category": "購物",
+      "item": "伴手禮 (3120 JPY)",
+      "amount": -683.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-24",
+      "category": "購物",
+      "item": "貓和堂伴手禮 (4180 JPY)",
+      "amount": -915.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-24",
+      "category": "購物",
+      "item": "麵包超人博物館伴手禮+門票 (10550 JPY)",
+      "amount": -2310.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-24",
+      "category": "餐點",
+      "item": "福岡機場美食街 (3579 JPY)",
+      "amount": -784.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-24",
+      "category": "交通",
+      "item": "福岡JR (640 JPY)",
+      "amount": -140.0,
+      "icon": "🚗",
       "group": "variable"
     }
   ]

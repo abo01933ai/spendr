@@ -2,13 +2,13 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -217111.0,
+  "total": -217259.0,
   "fixedTotal": -39509.0,
-  "variableTotal": -177602.0,
+  "variableTotal": -177750.0,
   "categories": [
     {
       "category": "購物",
-      "amount": -41829.0,
+      "amount": -41977.0,
       "icon": "🛍️",
       "color": "#F472B6",
       "group": "variable"
@@ -1491,7 +1491,7 @@
     },
     {
       "date": "2026-09-28",
-      "total": -541.0,
+      "total": -689.0,
       "items": [
         {
           "date": "2026-09-28",
@@ -1514,6 +1514,14 @@
           "category": "購物",
           "item": "路上",
           "amount": -244.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-28",
+          "category": "購物",
+          "item": "中聯五金用品",
+          "amount": -148.0,
           "icon": "🛍️",
           "group": "variable"
         }
@@ -2774,6 +2782,14 @@
       "category": "購物",
       "item": "路上",
       "amount": -244.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-28",
+      "category": "購物",
+      "item": "中聯五金用品",
+      "amount": -148.0,
       "icon": "🛍️",
       "group": "variable"
     }

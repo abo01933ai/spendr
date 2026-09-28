@@ -2,13 +2,13 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -216570.0,
-  "fixedTotal": -39494.0,
-  "variableTotal": -177076.0,
+  "total": -217111.0,
+  "fixedTotal": -39509.0,
+  "variableTotal": -177602.0,
   "categories": [
     {
       "category": "購物",
-      "amount": -41585.0,
+      "amount": -41829.0,
       "icon": "🛍️",
       "color": "#F472B6",
       "group": "variable"
@@ -22,7 +22,7 @@
     },
     {
       "category": "餐點",
-      "amount": -28806.0,
+      "amount": -29088.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -43,7 +43,7 @@
     },
     {
       "category": "訂閱",
-      "amount": -13899.0,
+      "amount": -13914.0,
       "icon": "📱",
       "color": "#94e1df",
       "group": "fixed"
@@ -1488,6 +1488,36 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "total": -541.0,
+      "items": [
+        {
+          "date": "2026-09-28",
+          "category": "訂閱",
+          "item": "Uber 會員",
+          "amount": -15.0,
+          "icon": "📱",
+          "group": "fixed"
+        },
+        {
+          "date": "2026-09-28",
+          "category": "餐點",
+          "item": "Subway",
+          "amount": -282.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-28",
+          "category": "購物",
+          "item": "路上",
+          "amount": -244.0,
+          "icon": "🛍️",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -2721,6 +2751,30 @@
       "item": "牛老總涮牛肉",
       "amount": -80.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-28",
+      "category": "訂閱",
+      "item": "Uber 會員",
+      "amount": -15.0,
+      "icon": "📱",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-09-28",
+      "category": "餐點",
+      "item": "Subway",
+      "amount": -282.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-28",
+      "category": "購物",
+      "item": "路上",
+      "amount": -244.0,
+      "icon": "🛍️",
       "group": "variable"
     }
   ]

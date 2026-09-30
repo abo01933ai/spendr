@@ -1,0 +1,43 @@
+{
+  "month": "2026-10",
+  "year": 2026,
+  "monthNum": 10,
+  "total": -10000.0,
+  "fixedTotal": -10000.0,
+  "variableTotal": 0,
+  "categories": [
+    {
+      "category": "訂閱",
+      "amount": -10000.0,
+      "icon": "📱",
+      "color": "#94e1df",
+      "group": "fixed"
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-10-01",
+      "total": -10000.0,
+      "items": [
+        {
+          "date": "2026-10-01",
+          "category": "訂閱",
+          "item": "投資週報",
+          "amount": -10000.0,
+          "icon": "📱",
+          "group": "fixed"
+        }
+      ]
+    }
+  ],
+  "transactions": [
+    {
+      "date": "2026-10-01",
+      "category": "訂閱",
+      "item": "投資週報",
+      "amount": -10000.0,
+      "icon": "📱",
+      "group": "fixed"
+    }
+  ]
+}

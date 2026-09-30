@@ -46,5 +46,11 @@
     "total": -217539.0,
     "fixedTotal": -39509.0,
     "variableTotal": -178030.0
+  },
+  {
+    "month": "2026-10",
+    "total": -10000.0,
+    "fixedTotal": -10000.0,
+    "variableTotal": 0
   }
 ]

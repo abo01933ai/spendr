@@ -2,9 +2,9 @@
   "month": "2026-09",
   "year": 2026,
   "monthNum": 9,
-  "total": -217259.0,
+  "total": -217539.0,
   "fixedTotal": -39509.0,
-  "variableTotal": -177750.0,
+  "variableTotal": -178030.0,
   "categories": [
     {
       "category": "購物",
@@ -22,7 +22,7 @@
     },
     {
       "category": "餐點",
-      "amount": -29088.0,
+      "amount": -29368.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -1526,6 +1526,28 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-09-30",
+      "total": -280.0,
+      "items": [
+        {
+          "date": "2026-09-30",
+          "category": "餐點",
+          "item": "土木公社",
+          "amount": -95.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-09-30",
+          "category": "餐點",
+          "item": "燒烤",
+          "amount": -185.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -2791,6 +2813,22 @@
       "item": "中聯五金用品",
       "amount": -148.0,
       "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-30",
+      "category": "餐點",
+      "item": "土木公社",
+      "amount": -95.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-09-30",
+      "category": "餐點",
+      "item": "燒烤",
+      "amount": -185.0,
+      "icon": "🍱",
       "group": "variable"
     }
   ]

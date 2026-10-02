@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -40166.0,
+  "total": -41827.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -672.0,
+  "variableTotal": -2333.0,
   "categories": [
     {
       "category": "訂閱",
@@ -28,18 +28,18 @@
       "group": "fixed"
     },
     {
+      "category": "餐點",
+      "amount": -2089.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
+    {
       "category": "運動",
       "amount": -888.0,
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
-    },
-    {
-      "category": "餐點",
-      "amount": -428.0,
-      "icon": "🍱",
-      "color": "#F87171",
-      "group": "variable"
     },
     {
       "category": "飲料",
@@ -74,7 +74,7 @@
     },
     {
       "date": "2026-10-02",
-      "total": -582.0,
+      "total": -2243.0,
       "items": [
         {
           "date": "2026-10-02",
@@ -90,6 +90,14 @@
           "item": "路上",
           "amount": -244.0,
           "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-02",
+          "category": "餐點",
+          "item": "yayoi 軒",
+          "amount": -1661.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -198,6 +206,14 @@
       "item": "路上",
       "amount": -244.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-02",
+      "category": "餐點",
+      "item": "yayoi 軒",
+      "amount": -1661.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

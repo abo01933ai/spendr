@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -39584.0,
+  "total": -40166.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -90.0,
+  "variableTotal": -672.0,
   "categories": [
     {
       "category": "訂閱",
@@ -36,9 +36,16 @@
     },
     {
       "category": "餐點",
-      "amount": -90.0,
+      "amount": -428.0,
       "icon": "🍱",
       "color": "#F87171",
+      "group": "variable"
+    },
+    {
+      "category": "飲料",
+      "amount": -244.0,
+      "icon": "🧋",
+      "color": "#FB923C",
       "group": "variable"
     }
   ],
@@ -61,6 +68,28 @@
           "item": "東北小爺水餃",
           "amount": -90.0,
           "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "total": -582.0,
+      "items": [
+        {
+          "date": "2026-10-02",
+          "category": "餐點",
+          "item": "土木公社",
+          "amount": -338.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-02",
+          "category": "飲料",
+          "item": "路上",
+          "amount": -244.0,
+          "icon": "🧋",
           "group": "variable"
         }
       ]
@@ -153,6 +182,22 @@
       "item": "東北小爺水餃",
       "amount": -90.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-02",
+      "category": "餐點",
+      "item": "土木公社",
+      "amount": -338.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-02",
+      "category": "飲料",
+      "item": "路上",
+      "amount": -244.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

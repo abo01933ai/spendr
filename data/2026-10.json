@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -41827.0,
+  "total": -42140.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -2333.0,
+  "variableTotal": -2646.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -2089.0,
+      "amount": -2317.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -43,7 +43,7 @@
     },
     {
       "category": "飲料",
-      "amount": -244.0,
+      "amount": -329.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -74,7 +74,7 @@
     },
     {
       "date": "2026-10-02",
-      "total": -2243.0,
+      "total": -2556.0,
       "items": [
         {
           "date": "2026-10-02",
@@ -97,6 +97,22 @@
           "category": "餐點",
           "item": "yayoi 軒",
           "amount": -1661.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-02",
+          "category": "飲料",
+          "item": "序序茶",
+          "amount": -85.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-02",
+          "category": "餐點",
+          "item": "咖樂迪紅豆麻糬",
+          "amount": -228.0,
           "icon": "🍱",
           "group": "variable"
         }
@@ -213,6 +229,22 @@
       "category": "餐點",
       "item": "yayoi 軒",
       "amount": -1661.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-02",
+      "category": "飲料",
+      "item": "序序茶",
+      "amount": -85.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-02",
+      "category": "餐點",
+      "item": "咖樂迪紅豆麻糬",
+      "amount": -228.0,
       "icon": "🍱",
       "group": "variable"
     },

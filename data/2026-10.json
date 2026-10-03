@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -42140.0,
+  "total": -43815.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -2646.0,
+  "variableTotal": -4321.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -2317.0,
+      "amount": -3652.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -43,7 +43,7 @@
     },
     {
       "category": "飲料",
-      "amount": -329.0,
+      "amount": -669.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -113,6 +113,36 @@
           "category": "餐點",
           "item": "咖樂迪紅豆麻糬",
           "amount": -228.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "total": -1675.0,
+      "items": [
+        {
+          "date": "2026-10-03",
+          "category": "飲料",
+          "item": "圈直火烘豆所",
+          "amount": -340.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-03",
+          "category": "餐點",
+          "item": "小六鍋貼",
+          "amount": -345.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-03",
+          "category": "餐點",
+          "item": "lopia食材",
+          "amount": -990.0,
           "icon": "🍱",
           "group": "variable"
         }
@@ -245,6 +275,30 @@
       "category": "餐點",
       "item": "咖樂迪紅豆麻糬",
       "amount": -228.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-03",
+      "category": "飲料",
+      "item": "圈直火烘豆所",
+      "amount": -340.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-03",
+      "category": "餐點",
+      "item": "小六鍋貼",
+      "amount": -345.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-03",
+      "category": "餐點",
+      "item": "lopia食材",
+      "amount": -990.0,
       "icon": "🍱",
       "group": "variable"
     },

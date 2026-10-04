@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -43815.0,
+  "total": -45589.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -4321.0,
+  "variableTotal": -6095.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -3652.0,
+      "amount": -5276.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -46,6 +46,13 @@
       "amount": -669.0,
       "icon": "🧋",
       "color": "#FB923C",
+      "group": "variable"
+    },
+    {
+      "category": "捐款",
+      "amount": -150.0,
+      "icon": "🙏",
+      "color": "#6EE7B7",
       "group": "variable"
     }
   ],
@@ -144,6 +151,36 @@
           "item": "lopia食材",
           "amount": -990.0,
           "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "total": -1774.0,
+      "items": [
+        {
+          "date": "2026-10-04",
+          "category": "餐點",
+          "item": "to moro",
+          "amount": -899.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-04",
+          "category": "餐點",
+          "item": "買菜",
+          "amount": -725.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-04",
+          "category": "捐款",
+          "item": "捐款",
+          "amount": -150.0,
+          "icon": "🙏",
           "group": "variable"
         }
       ]
@@ -300,6 +337,30 @@
       "item": "lopia食材",
       "amount": -990.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-04",
+      "category": "餐點",
+      "item": "to moro",
+      "amount": -899.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-04",
+      "category": "餐點",
+      "item": "買菜",
+      "amount": -725.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-04",
+      "category": "捐款",
+      "item": "捐款",
+      "amount": -150.0,
+      "icon": "🙏",
       "group": "variable"
     },
     {

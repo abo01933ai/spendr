@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -45589.0,
+  "total": -46978.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -6095.0,
+  "variableTotal": -7484.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -5276.0,
+      "amount": -5875.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -40,6 +40,13 @@
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
+    },
+    {
+      "category": "交通",
+      "amount": -790.0,
+      "icon": "🚗",
+      "color": "#38BDF8",
+      "group": "variable"
     },
     {
       "category": "飲料",
@@ -157,7 +164,7 @@
     },
     {
       "date": "2026-10-04",
-      "total": -1774.0,
+      "total": -1873.0,
       "items": [
         {
           "date": "2026-10-04",
@@ -181,6 +188,14 @@
           "item": "捐款",
           "amount": -150.0,
           "icon": "🙏",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-04",
+          "category": "餐點",
+          "item": "全家",
+          "amount": -99.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -244,6 +259,20 @@
       ]
     },
     {
+      "date": "2026-10-24",
+      "total": -500.0,
+      "items": [
+        {
+          "date": "2026-10-24",
+          "category": "餐點",
+          "item": "饗食天堂訂金",
+          "amount": -500.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-10-25",
       "total": -11623.0,
       "items": [
@@ -254,6 +283,20 @@
           "amount": -11623.0,
           "icon": "🏠",
           "group": "fixed"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "total": -790.0,
+      "items": [
+        {
+          "date": "2026-10-26",
+          "category": "交通",
+          "item": "高鐵左營→台中",
+          "amount": -790.0,
+          "icon": "🚗",
+          "group": "variable"
         }
       ]
     }
@@ -364,6 +407,14 @@
       "group": "variable"
     },
     {
+      "date": "2026-10-04",
+      "category": "餐點",
+      "item": "全家",
+      "amount": -99.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
       "date": "2026-10-10",
       "category": "運動",
       "item": "健身房",
@@ -404,12 +455,28 @@
       "group": "fixed"
     },
     {
+      "date": "2026-10-24",
+      "category": "餐點",
+      "item": "饗食天堂訂金",
+      "amount": -500.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
       "date": "2026-10-25",
       "category": "住",
       "item": "房貸",
       "amount": -11623.0,
       "icon": "🏠",
       "group": "fixed"
+    },
+    {
+      "date": "2026-10-26",
+      "category": "交通",
+      "item": "高鐵左營→台中",
+      "amount": -790.0,
+      "icon": "🚗",
+      "group": "variable"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -49243.0,
+  "total": -53848.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -9749.0,
+  "variableTotal": -14354.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,16 +29,23 @@
     },
     {
       "category": "餐點",
-      "amount": -7240.0,
+      "amount": -8009.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
     },
     {
-      "category": "飲料",
-      "amount": -1569.0,
-      "icon": "🧋",
-      "color": "#FB923C",
+      "category": "服飾",
+      "amount": -3706.0,
+      "icon": "👕",
+      "color": "#F472B6",
+      "group": "variable"
+    },
+    {
+      "category": "咖啡",
+      "amount": -1370.0,
+      "icon": "💸",
+      "color": "#94A3B8",
       "group": "variable"
     },
     {
@@ -53,6 +60,13 @@
       "amount": -790.0,
       "icon": "🚗",
       "color": "#38BDF8",
+      "group": "variable"
+    },
+    {
+      "category": "飲料",
+      "amount": -329.0,
+      "icon": "🧋",
+      "color": "#FB923C",
       "group": "variable"
     },
     {
@@ -138,10 +152,10 @@
       "items": [
         {
           "date": "2026-10-03",
-          "category": "飲料",
+          "category": "咖啡",
           "item": "圈直火烘豆所",
           "amount": -340.0,
-          "icon": "🧋",
+          "icon": "💸",
           "group": "variable"
         },
         {
@@ -202,14 +216,14 @@
     },
     {
       "date": "2026-10-09",
-      "total": -2265.0,
+      "total": -6870.0,
       "items": [
         {
           "date": "2026-10-09",
-          "category": "飲料",
+          "category": "咖啡",
           "item": "圈直火烘豆所",
           "amount": -900.0,
-          "icon": "🧋",
+          "icon": "💸",
           "group": "variable"
         },
         {
@@ -218,6 +232,30 @@
           "item": "鳳久小料理",
           "amount": -1365.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-09",
+          "category": "咖啡",
+          "item": "咖啡濾紙",
+          "amount": -130.0,
+          "icon": "💸",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-09",
+          "category": "餐點",
+          "item": "飪室咖哩",
+          "amount": -769.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-09",
+          "category": "服飾",
+          "item": "carhartt",
+          "amount": -3706.0,
+          "icon": "👕",
           "group": "variable"
         }
       ]
@@ -382,10 +420,10 @@
     },
     {
       "date": "2026-10-03",
-      "category": "飲料",
+      "category": "咖啡",
       "item": "圈直火烘豆所",
       "amount": -340.0,
-      "icon": "🧋",
+      "icon": "💸",
       "group": "variable"
     },
     {
@@ -438,10 +476,10 @@
     },
     {
       "date": "2026-10-09",
-      "category": "飲料",
+      "category": "咖啡",
       "item": "圈直火烘豆所",
       "amount": -900.0,
-      "icon": "🧋",
+      "icon": "💸",
       "group": "variable"
     },
     {
@@ -450,6 +488,30 @@
       "item": "鳳久小料理",
       "amount": -1365.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "咖啡",
+      "item": "咖啡濾紙",
+      "amount": -130.0,
+      "icon": "💸",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "餐點",
+      "item": "飪室咖哩",
+      "amount": -769.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "服飾",
+      "item": "carhartt",
+      "amount": -3706.0,
+      "icon": "👕",
       "group": "variable"
     },
     {

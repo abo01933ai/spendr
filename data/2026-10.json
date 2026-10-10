@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -54299.0,
+  "total": -55342.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -14805.0,
+  "variableTotal": -15848.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -8314.0,
+      "amount": -8828.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -63,8 +63,15 @@
       "group": "fixed"
     },
     {
+      "category": "美容",
+      "amount": -499.0,
+      "icon": "💇",
+      "color": "#C084FC",
+      "group": "variable"
+    },
+    {
       "category": "飲料",
-      "amount": -329.0,
+      "amount": -359.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -262,7 +269,7 @@
     },
     {
       "date": "2026-10-10",
-      "total": -1339.0,
+      "total": -2382.0,
       "items": [
         {
           "date": "2026-10-10",
@@ -286,6 +293,38 @@
           "item": "加油",
           "amount": -146.0,
           "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-10",
+          "category": "餐點",
+          "item": "浪人鐵板燒",
+          "amount": -420.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-10",
+          "category": "飲料",
+          "item": "麻古",
+          "amount": -30.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-10",
+          "category": "美容",
+          "item": "品木宣言化妝水",
+          "amount": -499.0,
+          "icon": "💇",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-10",
+          "category": "餐點",
+          "item": "7-11",
+          "amount": -94.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -552,6 +591,38 @@
       "item": "加油",
       "amount": -146.0,
       "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-10",
+      "category": "餐點",
+      "item": "浪人鐵板燒",
+      "amount": -420.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-10",
+      "category": "飲料",
+      "item": "麻古",
+      "amount": -30.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-10",
+      "category": "美容",
+      "item": "品木宣言化妝水",
+      "amount": -499.0,
+      "icon": "💇",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-10",
+      "category": "餐點",
+      "item": "7-11",
+      "amount": -94.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

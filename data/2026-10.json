@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -53848.0,
+  "total": -54299.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -14354.0,
+  "variableTotal": -14805.0,
   "categories": [
     {
       "category": "訂閱",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -8009.0,
+      "amount": -8314.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -49,18 +49,18 @@
       "group": "variable"
     },
     {
+      "category": "交通",
+      "amount": -936.0,
+      "icon": "🚗",
+      "color": "#38BDF8",
+      "group": "variable"
+    },
+    {
       "category": "運動",
       "amount": -888.0,
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
-    },
-    {
-      "category": "交通",
-      "amount": -790.0,
-      "icon": "🚗",
-      "color": "#38BDF8",
-      "group": "variable"
     },
     {
       "category": "飲料",
@@ -262,7 +262,7 @@
     },
     {
       "date": "2026-10-10",
-      "total": -888.0,
+      "total": -1339.0,
       "items": [
         {
           "date": "2026-10-10",
@@ -271,6 +271,22 @@
           "amount": -888.0,
           "icon": "🏋️",
           "group": "fixed"
+        },
+        {
+          "date": "2026-10-10",
+          "category": "餐點",
+          "item": "Qburger",
+          "amount": -305.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-10",
+          "category": "交通",
+          "item": "加油",
+          "amount": -146.0,
+          "icon": "🚗",
+          "group": "variable"
         }
       ]
     },
@@ -521,6 +537,22 @@
       "amount": -888.0,
       "icon": "🏋️",
       "group": "fixed"
+    },
+    {
+      "date": "2026-10-10",
+      "category": "餐點",
+      "item": "Qburger",
+      "amount": -305.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-10",
+      "category": "交通",
+      "item": "加油",
+      "amount": -146.0,
+      "icon": "🚗",
+      "group": "variable"
     },
     {
       "date": "2026-10-15",

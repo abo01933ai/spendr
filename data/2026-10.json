@@ -2,10 +2,17 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -55342.0,
-  "fixedTotal": -39494.0,
-  "variableTotal": -15848.0,
+  "total": -64350.0,
+  "fixedTotal": -45410.0,
+  "variableTotal": -18940.0,
   "categories": [
+    {
+      "category": "住",
+      "amount": -17539.0,
+      "icon": "🏠",
+      "color": "#60A5FA",
+      "group": "fixed"
+    },
     {
       "category": "訂閱",
       "amount": -13899.0,
@@ -21,22 +28,15 @@
       "group": "fixed"
     },
     {
-      "category": "住",
-      "amount": -11623.0,
-      "icon": "🏠",
-      "color": "#60A5FA",
-      "group": "fixed"
-    },
-    {
       "category": "餐點",
-      "amount": -8828.0,
+      "amount": -10050.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
     },
     {
       "category": "服飾",
-      "amount": -3706.0,
+      "amount": -5576.0,
       "icon": "👕",
       "color": "#F472B6",
       "group": "variable"
@@ -324,6 +324,44 @@
           "category": "餐點",
           "item": "7-11",
           "amount": -94.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "total": -9008.0,
+      "items": [
+        {
+          "date": "2026-10-11",
+          "category": "住",
+          "item": "10-12月管理費",
+          "amount": -5916.0,
+          "icon": "🏠",
+          "group": "fixed"
+        },
+        {
+          "date": "2026-10-11",
+          "category": "餐點",
+          "item": "拉雅漢堡",
+          "amount": -254.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-11",
+          "category": "服飾",
+          "item": "Uniqlo",
+          "amount": -1870.0,
+          "icon": "👕",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-11",
+          "category": "餐點",
+          "item": "博多山海",
+          "amount": -968.0,
           "icon": "🍱",
           "group": "variable"
         }
@@ -622,6 +660,38 @@
       "category": "餐點",
       "item": "7-11",
       "amount": -94.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-11",
+      "category": "住",
+      "item": "10-12月管理費",
+      "amount": -5916.0,
+      "icon": "🏠",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-10-11",
+      "category": "餐點",
+      "item": "拉雅漢堡",
+      "amount": -254.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-11",
+      "category": "服飾",
+      "item": "Uniqlo",
+      "amount": -1870.0,
+      "icon": "👕",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-11",
+      "category": "餐點",
+      "item": "博多山海",
+      "amount": -968.0,
       "icon": "🍱",
       "group": "variable"
     },

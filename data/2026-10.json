@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -64350.0,
+  "total": -64490.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -18940.0,
+  "variableTotal": -19080.0,
   "categories": [
     {
       "category": "住",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -10050.0,
+      "amount": -10190.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -368,6 +368,20 @@
       ]
     },
     {
+      "date": "2026-10-13",
+      "total": -140.0,
+      "items": [
+        {
+          "date": "2026-10-13",
+          "category": "餐點",
+          "item": "土木公社",
+          "amount": -140.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-10-15",
       "total": -3899.0,
       "items": [
@@ -692,6 +706,14 @@
       "category": "餐點",
       "item": "博多山海",
       "amount": -968.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-13",
+      "category": "餐點",
+      "item": "土木公社",
+      "amount": -140.0,
       "icon": "🍱",
       "group": "variable"
     },

@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -64490.0,
+  "total": -66330.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -19080.0,
+  "variableTotal": -20920.0,
   "categories": [
     {
       "category": "住",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -10190.0,
+      "amount": -10380.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -39,6 +39,13 @@
       "amount": -5576.0,
       "icon": "👕",
       "color": "#F472B6",
+      "group": "variable"
+    },
+    {
+      "category": "美容",
+      "amount": -2149.0,
+      "icon": "💇",
+      "color": "#C084FC",
       "group": "variable"
     },
     {
@@ -61,13 +68,6 @@
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
-    },
-    {
-      "category": "美容",
-      "amount": -499.0,
-      "icon": "💇",
-      "color": "#C084FC",
-      "group": "variable"
     },
     {
       "category": "飲料",
@@ -377,6 +377,28 @@
           "item": "土木公社",
           "amount": -140.0,
           "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "total": -1840.0,
+      "items": [
+        {
+          "date": "2026-10-14",
+          "category": "餐點",
+          "item": "燒臘教父",
+          "amount": -190.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-14",
+          "category": "美容",
+          "item": "按摩",
+          "amount": -1650.0,
+          "icon": "💇",
           "group": "variable"
         }
       ]
@@ -715,6 +737,22 @@
       "item": "土木公社",
       "amount": -140.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-14",
+      "category": "餐點",
+      "item": "燒臘教父",
+      "amount": -190.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-14",
+      "category": "美容",
+      "item": "按摩",
+      "amount": -1650.0,
+      "icon": "💇",
       "group": "variable"
     },
     {

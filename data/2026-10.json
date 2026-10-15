@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -66330.0,
+  "total": -67530.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -20920.0,
+  "variableTotal": -22120.0,
   "categories": [
     {
       "category": "住",
@@ -29,7 +29,7 @@
     },
     {
       "category": "餐點",
-      "amount": -10380.0,
+      "amount": -11580.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -405,7 +405,7 @@
     },
     {
       "date": "2026-10-15",
-      "total": -3899.0,
+      "total": -5099.0,
       "items": [
         {
           "date": "2026-10-15",
@@ -430,6 +430,14 @@
           "amount": -3000.0,
           "icon": "📱",
           "group": "fixed"
+        },
+        {
+          "date": "2026-10-15",
+          "category": "餐點",
+          "item": "中山招待所",
+          "amount": -1200.0,
+          "icon": "🍱",
+          "group": "variable"
         }
       ]
     },
@@ -778,6 +786,14 @@
       "amount": -3000.0,
       "icon": "📱",
       "group": "fixed"
+    },
+    {
+      "date": "2026-10-15",
+      "category": "餐點",
+      "item": "中山招待所",
+      "amount": -1200.0,
+      "icon": "🍱",
+      "group": "variable"
     },
     {
       "date": "2026-10-20",

@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -67530.0,
+  "total": -70600.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -22120.0,
+  "variableTotal": -25190.0,
   "categories": [
     {
       "category": "住",
@@ -21,18 +21,18 @@
       "group": "fixed"
     },
     {
+      "category": "餐點",
+      "amount": -13180.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
+    {
       "category": "財務",
       "amount": -13084.0,
       "icon": "💳",
       "color": "#7C83FD",
       "group": "fixed"
-    },
-    {
-      "category": "餐點",
-      "amount": -11580.0,
-      "icon": "🍱",
-      "color": "#F87171",
-      "group": "variable"
     },
     {
       "category": "服飾",
@@ -46,6 +46,13 @@
       "amount": -2149.0,
       "icon": "💇",
       "color": "#C084FC",
+      "group": "variable"
+    },
+    {
+      "category": "娛樂",
+      "amount": -1390.0,
+      "icon": "🎮",
+      "color": "#A78BFA",
       "group": "variable"
     },
     {
@@ -71,7 +78,7 @@
     },
     {
       "category": "飲料",
-      "amount": -359.0,
+      "amount": -439.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -442,6 +449,36 @@
       ]
     },
     {
+      "date": "2026-10-16",
+      "total": -3070.0,
+      "items": [
+        {
+          "date": "2026-10-16",
+          "category": "娛樂",
+          "item": "rataton 遊戲",
+          "amount": -1390.0,
+          "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-16",
+          "category": "餐點",
+          "item": "海波小館",
+          "amount": -1600.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-16",
+          "category": "飲料",
+          "item": "青山茶行",
+          "amount": -80.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-10-20",
       "total": -13084.0,
       "items": [
@@ -793,6 +830,30 @@
       "item": "中山招待所",
       "amount": -1200.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-16",
+      "category": "娛樂",
+      "item": "rataton 遊戲",
+      "amount": -1390.0,
+      "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-16",
+      "category": "餐點",
+      "item": "海波小館",
+      "amount": -1600.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-16",
+      "category": "飲料",
+      "item": "青山茶行",
+      "amount": -80.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

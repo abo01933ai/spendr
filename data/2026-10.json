@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -70600.0,
+  "total": -72833.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -25190.0,
+  "variableTotal": -27423.0,
   "categories": [
     {
       "category": "住",
@@ -14,18 +14,18 @@
       "group": "fixed"
     },
     {
+      "category": "餐點",
+      "amount": -14174.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
+    {
       "category": "訂閱",
       "amount": -13899.0,
       "icon": "📱",
       "color": "#94e1df",
       "group": "fixed"
-    },
-    {
-      "category": "餐點",
-      "amount": -13180.0,
-      "icon": "🍱",
-      "color": "#F87171",
-      "group": "variable"
     },
     {
       "category": "財務",
@@ -77,8 +77,15 @@
       "group": "fixed"
     },
     {
+      "category": "購物",
+      "amount": -850.0,
+      "icon": "🛍️",
+      "color": "#F472B6",
+      "group": "variable"
+    },
+    {
       "category": "飲料",
-      "amount": -439.0,
+      "amount": -828.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -479,6 +486,68 @@
       ]
     },
     {
+      "date": "2026-10-17",
+      "total": -2233.0,
+      "items": [
+        {
+          "date": "2026-10-17",
+          "category": "餐點",
+          "item": "subway",
+          "amount": -304.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-17",
+          "category": "飲料",
+          "item": "大茗",
+          "amount": -193.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-17",
+          "category": "購物",
+          "item": "無印良品（抽屜櫃）",
+          "amount": -850.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-17",
+          "category": "餐點",
+          "item": "聖多諾黑（甜點）",
+          "amount": -490.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-17",
+          "category": "飲料",
+          "item": "tea top",
+          "amount": -135.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-17",
+          "category": "餐點",
+          "item": "金邊現炒",
+          "amount": -200.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-17",
+          "category": "飲料",
+          "item": "天仁茗茶",
+          "amount": -61.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-10-20",
       "total": -13084.0,
       "items": [
@@ -853,6 +922,62 @@
       "category": "飲料",
       "item": "青山茶行",
       "amount": -80.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "餐點",
+      "item": "subway",
+      "amount": -304.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "飲料",
+      "item": "大茗",
+      "amount": -193.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "購物",
+      "item": "無印良品（抽屜櫃）",
+      "amount": -850.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "餐點",
+      "item": "聖多諾黑（甜點）",
+      "amount": -490.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "飲料",
+      "item": "tea top",
+      "amount": -135.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "餐點",
+      "item": "金邊現炒",
+      "amount": -200.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-17",
+      "category": "飲料",
+      "item": "天仁茗茶",
+      "amount": -61.0,
       "icon": "🧋",
       "group": "variable"
     },

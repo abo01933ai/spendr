@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -72833.0,
+  "total": -73833.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -27423.0,
+  "variableTotal": -28423.0,
   "categories": [
     {
       "category": "住",
@@ -49,6 +49,13 @@
       "group": "variable"
     },
     {
+      "category": "購物",
+      "amount": -1850.0,
+      "icon": "🛍️",
+      "color": "#F472B6",
+      "group": "variable"
+    },
+    {
       "category": "娛樂",
       "amount": -1390.0,
       "icon": "🎮",
@@ -75,13 +82,6 @@
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
-    },
-    {
-      "category": "購物",
-      "amount": -850.0,
-      "icon": "🛍️",
-      "color": "#F472B6",
-      "group": "variable"
     },
     {
       "category": "飲料",
@@ -487,7 +487,7 @@
     },
     {
       "date": "2026-10-17",
-      "total": -2233.0,
+      "total": -3233.0,
       "items": [
         {
           "date": "2026-10-17",
@@ -509,7 +509,7 @@
           "date": "2026-10-17",
           "category": "購物",
           "item": "無印良品（抽屜櫃）",
-          "amount": -850.0,
+          "amount": -1850.0,
           "icon": "🛍️",
           "group": "variable"
         },
@@ -945,7 +945,7 @@
       "date": "2026-10-17",
       "category": "購物",
       "item": "無印良品（抽屜櫃）",
-      "amount": -850.0,
+      "amount": -1850.0,
       "icon": "🛍️",
       "group": "variable"
     },

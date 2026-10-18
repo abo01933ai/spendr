@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -74188.0,
+  "total": -75338.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -28778.0,
+  "variableTotal": -29928.0,
   "categories": [
     {
       "category": "住",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -14529.0,
+      "amount": -15619.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -77,18 +77,18 @@
       "group": "variable"
     },
     {
+      "category": "飲料",
+      "amount": -888.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "運動",
       "amount": -888.0,
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
-    },
-    {
-      "category": "飲料",
-      "amount": -828.0,
-      "icon": "🧋",
-      "color": "#FB923C",
-      "group": "variable"
     },
     {
       "category": "捐款",
@@ -549,7 +549,7 @@
     },
     {
       "date": "2026-10-18",
-      "total": -355.0,
+      "total": -1505.0,
       "items": [
         {
           "date": "2026-10-18",
@@ -557,6 +557,22 @@
           "item": "雞肉本家",
           "amount": -355.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-18",
+          "category": "餐點",
+          "item": "薑母鴨",
+          "amount": -1090.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-18",
+          "category": "飲料",
+          "item": "清心",
+          "amount": -60.0,
+          "icon": "🧋",
           "group": "variable"
         }
       ]
@@ -1001,6 +1017,22 @@
       "item": "雞肉本家",
       "amount": -355.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-18",
+      "category": "餐點",
+      "item": "薑母鴨",
+      "amount": -1090.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-18",
+      "category": "飲料",
+      "item": "清心",
+      "amount": -60.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -73833.0,
+  "total": -74188.0,
   "fixedTotal": -45410.0,
-  "variableTotal": -28423.0,
+  "variableTotal": -28778.0,
   "categories": [
     {
       "category": "住",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -14174.0,
+      "amount": -14529.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -548,6 +548,20 @@
       ]
     },
     {
+      "date": "2026-10-18",
+      "total": -355.0,
+      "items": [
+        {
+          "date": "2026-10-18",
+          "category": "餐點",
+          "item": "雞肉本家",
+          "amount": -355.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-10-20",
       "total": -13084.0,
       "items": [
@@ -979,6 +993,14 @@
       "item": "天仁茗茶",
       "amount": -61.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-18",
+      "category": "餐點",
+      "item": "雞肉本家",
+      "amount": -355.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

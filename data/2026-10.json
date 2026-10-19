@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -77793.0,
+  "total": -79821.0,
   "fixedTotal": -47865.0,
-  "variableTotal": -29928.0,
+  "variableTotal": -31956.0,
   "categories": [
     {
       "category": "住",
@@ -22,7 +22,7 @@
     },
     {
       "category": "餐點",
-      "amount": -15619.0,
+      "amount": -15749.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -43,7 +43,7 @@
     },
     {
       "category": "美容",
-      "amount": -2149.0,
+      "amount": -4047.0,
       "icon": "💇",
       "color": "#C084FC",
       "group": "variable"
@@ -579,7 +579,7 @@
     },
     {
       "date": "2026-10-19",
-      "total": -2455.0,
+      "total": -4483.0,
       "items": [
         {
           "date": "2026-10-19",
@@ -588,6 +588,22 @@
           "amount": -2455.0,
           "icon": "📱",
           "group": "fixed"
+        },
+        {
+          "date": "2026-10-19",
+          "category": "餐點",
+          "item": "永和豆漿",
+          "amount": -130.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-19",
+          "category": "美容",
+          "item": "洗加剪（含女友洗髮）",
+          "amount": -1898.0,
+          "icon": "💇",
+          "group": "variable"
         }
       ]
     },
@@ -1056,6 +1072,22 @@
       "amount": -2455.0,
       "icon": "📱",
       "group": "fixed"
+    },
+    {
+      "date": "2026-10-19",
+      "category": "餐點",
+      "item": "永和豆漿",
+      "amount": -130.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-19",
+      "category": "美容",
+      "item": "洗加剪（含女友洗髮）",
+      "amount": -1898.0,
+      "icon": "💇",
+      "group": "variable"
     },
     {
       "date": "2026-10-20",

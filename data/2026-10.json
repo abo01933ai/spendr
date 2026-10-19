@@ -2,8 +2,8 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -75338.0,
-  "fixedTotal": -45410.0,
+  "total": -77793.0,
+  "fixedTotal": -47865.0,
   "variableTotal": -29928.0,
   "categories": [
     {
@@ -14,18 +14,18 @@
       "group": "fixed"
     },
     {
+      "category": "訂閱",
+      "amount": -16354.0,
+      "icon": "📱",
+      "color": "#94e1df",
+      "group": "fixed"
+    },
+    {
       "category": "餐點",
       "amount": -15619.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
-    },
-    {
-      "category": "訂閱",
-      "amount": -13899.0,
-      "icon": "📱",
-      "color": "#94e1df",
-      "group": "fixed"
     },
     {
       "category": "財務",
@@ -578,6 +578,20 @@
       ]
     },
     {
+      "date": "2026-10-19",
+      "total": -2455.0,
+      "items": [
+        {
+          "date": "2026-10-19",
+          "category": "訂閱",
+          "item": "電話費（8、9月）",
+          "amount": -2455.0,
+          "icon": "📱",
+          "group": "fixed"
+        }
+      ]
+    },
+    {
       "date": "2026-10-20",
       "total": -13084.0,
       "items": [
@@ -1034,6 +1048,14 @@
       "amount": -60.0,
       "icon": "🧋",
       "group": "variable"
+    },
+    {
+      "date": "2026-10-19",
+      "category": "訂閱",
+      "item": "電話費（8、9月）",
+      "amount": -2455.0,
+      "icon": "📱",
+      "group": "fixed"
     },
     {
       "date": "2026-10-20",

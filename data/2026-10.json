@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -79821.0,
+  "total": -80183.0,
   "fixedTotal": -47865.0,
-  "variableTotal": -31956.0,
+  "variableTotal": -32318.0,
   "categories": [
     {
       "category": "住",
@@ -22,7 +22,7 @@
     },
     {
       "category": "餐點",
-      "amount": -15749.0,
+      "amount": -16018.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -56,6 +56,13 @@
       "group": "variable"
     },
     {
+      "category": "咖啡",
+      "amount": -1398.0,
+      "icon": "💸",
+      "color": "#94A3B8",
+      "group": "variable"
+    },
+    {
       "category": "娛樂",
       "amount": -1390.0,
       "icon": "🎮",
@@ -63,10 +70,10 @@
       "group": "variable"
     },
     {
-      "category": "咖啡",
-      "amount": -1370.0,
-      "icon": "💸",
-      "color": "#94A3B8",
+      "category": "飲料",
+      "amount": -953.0,
+      "icon": "🧋",
+      "color": "#FB923C",
       "group": "variable"
     },
     {
@@ -74,13 +81,6 @@
       "amount": -936.0,
       "icon": "🚗",
       "color": "#38BDF8",
-      "group": "variable"
-    },
-    {
-      "category": "飲料",
-      "amount": -888.0,
-      "icon": "🧋",
-      "color": "#FB923C",
       "group": "variable"
     },
     {
@@ -622,6 +622,60 @@
       ]
     },
     {
+      "date": "2026-10-21",
+      "total": -362.0,
+      "items": [
+        {
+          "date": "2026-10-21",
+          "category": "咖啡",
+          "item": "咖啡",
+          "amount": -28.0,
+          "icon": "💸",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-21",
+          "category": "餐點",
+          "item": "雞排",
+          "amount": -145.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-21",
+          "category": "飲料",
+          "item": "烏梅汁",
+          "amount": -25.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-21",
+          "category": "餐點",
+          "item": "香腸",
+          "amount": -64.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-21",
+          "category": "餐點",
+          "item": "泡泡冰",
+          "amount": -60.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-21",
+          "category": "飲料",
+          "item": "五十嵐",
+          "amount": -40.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-10-24",
       "total": -500.0,
       "items": [
@@ -1096,6 +1150,54 @@
       "amount": -13084.0,
       "icon": "💳",
       "group": "fixed"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "咖啡",
+      "item": "咖啡",
+      "amount": -28.0,
+      "icon": "💸",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "餐點",
+      "item": "雞排",
+      "amount": -145.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "飲料",
+      "item": "烏梅汁",
+      "amount": -25.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "餐點",
+      "item": "香腸",
+      "amount": -64.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "餐點",
+      "item": "泡泡冰",
+      "amount": -60.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-21",
+      "category": "飲料",
+      "item": "五十嵐",
+      "amount": -40.0,
+      "icon": "🧋",
+      "group": "variable"
     },
     {
       "date": "2026-10-24",

@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -80382.0,
+  "total": -81584.0,
   "fixedTotal": -47865.0,
-  "variableTotal": -32517.0,
+  "variableTotal": -33719.0,
   "categories": [
     {
       "category": "住",
@@ -67,6 +67,13 @@
       "amount": -1390.0,
       "icon": "🎮",
       "color": "#A78BFA",
+      "group": "variable"
+    },
+    {
+      "category": "寵物",
+      "amount": -1202.0,
+      "icon": "🐈",
+      "color": "#FBBF24",
       "group": "variable"
     },
     {
@@ -684,6 +691,20 @@
       ]
     },
     {
+      "date": "2026-10-23",
+      "total": -1202.0,
+      "items": [
+        {
+          "date": "2026-10-23",
+          "category": "寵物",
+          "item": "怪獸部落凍乾*3",
+          "amount": -1202.0,
+          "icon": "🐈",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-10-24",
       "total": -500.0,
       "items": [
@@ -1213,6 +1234,14 @@
       "item": "盲盒",
       "amount": -199.0,
       "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-23",
+      "category": "寵物",
+      "item": "怪獸部落凍乾*3",
+      "amount": -1202.0,
+      "icon": "🐈",
       "group": "variable"
     },
     {

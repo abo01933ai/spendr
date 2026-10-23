@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -81584.0,
+  "total": -81894.0,
   "fixedTotal": -47865.0,
-  "variableTotal": -33719.0,
+  "variableTotal": -34029.0,
   "categories": [
     {
       "category": "住",
@@ -70,6 +70,13 @@
       "group": "variable"
     },
     {
+      "category": "交通",
+      "amount": -1246.0,
+      "icon": "🚗",
+      "color": "#38BDF8",
+      "group": "variable"
+    },
+    {
       "category": "寵物",
       "amount": -1202.0,
       "icon": "🐈",
@@ -81,13 +88,6 @@
       "amount": -953.0,
       "icon": "🧋",
       "color": "#FB923C",
-      "group": "variable"
-    },
-    {
-      "category": "交通",
-      "amount": -936.0,
-      "icon": "🚗",
-      "color": "#38BDF8",
       "group": "variable"
     },
     {
@@ -692,7 +692,7 @@
     },
     {
       "date": "2026-10-23",
-      "total": -1202.0,
+      "total": -1512.0,
       "items": [
         {
           "date": "2026-10-23",
@@ -700,6 +700,14 @@
           "item": "怪獸部落凍乾*3",
           "amount": -1202.0,
           "icon": "🐈",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-23",
+          "category": "交通",
+          "item": "停車費",
+          "amount": -310.0,
+          "icon": "🚗",
           "group": "variable"
         }
       ]
@@ -1242,6 +1250,14 @@
       "item": "怪獸部落凍乾*3",
       "amount": -1202.0,
       "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-23",
+      "category": "交通",
+      "item": "停車費",
+      "amount": -310.0,
+      "icon": "🚗",
       "group": "variable"
     },
     {

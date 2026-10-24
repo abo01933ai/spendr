@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -81894.0,
+  "total": -83629.0,
   "fixedTotal": -47865.0,
-  "variableTotal": -34029.0,
+  "variableTotal": -35764.0,
   "categories": [
     {
       "category": "住",
@@ -50,14 +50,21 @@
     },
     {
       "category": "購物",
-      "amount": -2049.0,
+      "amount": -2929.0,
       "icon": "🛍️",
       "color": "#F472B6",
       "group": "variable"
     },
     {
+      "category": "交通",
+      "amount": -2056.0,
+      "icon": "🚗",
+      "color": "#38BDF8",
+      "group": "variable"
+    },
+    {
       "category": "咖啡",
-      "amount": -1398.0,
+      "amount": -1443.0,
       "icon": "💸",
       "color": "#94A3B8",
       "group": "variable"
@@ -67,13 +74,6 @@
       "amount": -1390.0,
       "icon": "🎮",
       "color": "#A78BFA",
-      "group": "variable"
-    },
-    {
-      "category": "交通",
-      "amount": -1246.0,
-      "icon": "🚗",
-      "color": "#38BDF8",
       "group": "variable"
     },
     {
@@ -714,7 +714,7 @@
     },
     {
       "date": "2026-10-24",
-      "total": -500.0,
+      "total": -2235.0,
       "items": [
         {
           "date": "2026-10-24",
@@ -722,6 +722,38 @@
           "item": "饗食天堂訂金",
           "amount": -500.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-24",
+          "category": "交通",
+          "item": "高鐵台中→左營",
+          "amount": -765.0,
+          "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-24",
+          "category": "咖啡",
+          "item": "全家咖啡",
+          "amount": -45.0,
+          "icon": "💸",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-24",
+          "category": "交通",
+          "item": "捷運",
+          "amount": -45.0,
+          "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-24",
+          "category": "購物",
+          "item": "歌舞伎皮卡丘玩偶",
+          "amount": -880.0,
+          "icon": "🛍️",
           "group": "variable"
         }
       ]
@@ -1266,6 +1298,38 @@
       "item": "饗食天堂訂金",
       "amount": -500.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-24",
+      "category": "交通",
+      "item": "高鐵台中→左營",
+      "amount": -765.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-24",
+      "category": "咖啡",
+      "item": "全家咖啡",
+      "amount": -45.0,
+      "icon": "💸",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-24",
+      "category": "交通",
+      "item": "捷運",
+      "amount": -45.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-24",
+      "category": "購物",
+      "item": "歌舞伎皮卡丘玩偶",
+      "amount": -880.0,
+      "icon": "🛍️",
       "group": "variable"
     },
     {

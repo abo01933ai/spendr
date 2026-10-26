@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -126390.0,
+  "total": -127809.0,
   "fixedTotal": -47865.0,
-  "variableTotal": -78525.0,
+  "variableTotal": -79944.0,
   "categories": [
     {
       "category": "購物",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -21734.0,
+      "amount": -21803.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -56,6 +56,13 @@
       "group": "variable"
     },
     {
+      "category": "娛樂",
+      "amount": -2740.0,
+      "icon": "🎮",
+      "color": "#A78BFA",
+      "group": "variable"
+    },
+    {
       "category": "交通",
       "amount": -2056.0,
       "icon": "🚗",
@@ -67,13 +74,6 @@
       "amount": -1443.0,
       "icon": "💸",
       "color": "#94A3B8",
-      "group": "variable"
-    },
-    {
-      "category": "娛樂",
-      "amount": -1390.0,
-      "icon": "🎮",
-      "color": "#A78BFA",
       "group": "variable"
     },
     {
@@ -790,7 +790,7 @@
     },
     {
       "date": "2026-10-26",
-      "total": -39053.0,
+      "total": -40472.0,
       "items": [
         {
           "date": "2026-10-26",
@@ -814,6 +814,22 @@
           "item": "MUJI 層架組",
           "amount": -37010.0,
           "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-26",
+          "category": "餐點",
+          "item": "鹽酥雞",
+          "amount": -69.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-26",
+          "category": "娛樂",
+          "item": "多邊獸皮卡丘",
+          "amount": -1350.0,
+          "icon": "🎮",
           "group": "variable"
         }
       ]
@@ -1410,6 +1426,22 @@
       "item": "MUJI 層架組",
       "amount": -37010.0,
       "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-26",
+      "category": "餐點",
+      "item": "鹽酥雞",
+      "amount": -69.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-26",
+      "category": "娛樂",
+      "item": "多邊獸皮卡丘",
+      "amount": -1350.0,
+      "icon": "🎮",
       "group": "variable"
     }
   ]

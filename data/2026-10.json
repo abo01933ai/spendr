@@ -2,13 +2,20 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -88127.0,
+  "total": -126390.0,
   "fixedTotal": -47865.0,
-  "variableTotal": -40262.0,
+  "variableTotal": -78525.0,
   "categories": [
     {
+      "category": "購物",
+      "amount": -39939.0,
+      "icon": "🛍️",
+      "color": "#F472B6",
+      "group": "variable"
+    },
+    {
       "category": "餐點",
-      "amount": -20481.0,
+      "amount": -21734.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -46,13 +53,6 @@
       "amount": -4047.0,
       "icon": "💇",
       "color": "#C084FC",
-      "group": "variable"
-    },
-    {
-      "category": "購物",
-      "amount": -2929.0,
-      "icon": "🛍️",
-      "color": "#F472B6",
       "group": "variable"
     },
     {
@@ -790,7 +790,7 @@
     },
     {
       "date": "2026-10-26",
-      "total": -790.0,
+      "total": -39053.0,
       "items": [
         {
           "date": "2026-10-26",
@@ -798,6 +798,22 @@
           "item": "高鐵左營→台中",
           "amount": -790.0,
           "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-26",
+          "category": "餐點",
+          "item": "勝牛",
+          "amount": -1253.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-26",
+          "category": "購物",
+          "item": "MUJI 層架組",
+          "amount": -37010.0,
+          "icon": "🛍️",
           "group": "variable"
         }
       ]
@@ -1378,6 +1394,22 @@
       "item": "高鐵左營→台中",
       "amount": -790.0,
       "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-26",
+      "category": "餐點",
+      "item": "勝牛",
+      "amount": -1253.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-26",
+      "category": "購物",
+      "item": "MUJI 層架組",
+      "amount": -37010.0,
+      "icon": "🛍️",
       "group": "variable"
     }
   ]

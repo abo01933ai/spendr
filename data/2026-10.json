@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -127809.0,
+  "total": -128048.0,
   "fixedTotal": -47865.0,
-  "variableTotal": -79944.0,
+  "variableTotal": -80183.0,
   "categories": [
     {
       "category": "購物",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -21803.0,
+      "amount": -21908.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -85,7 +85,7 @@
     },
     {
       "category": "飲料",
-      "amount": -988.0,
+      "amount": -1023.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -102,6 +102,13 @@
       "amount": -150.0,
       "icon": "🙏",
       "color": "#6EE7B7",
+      "group": "variable"
+    },
+    {
+      "category": "學習",
+      "amount": -99.0,
+      "icon": "📚",
+      "color": "#94A3B8",
       "group": "variable"
     }
   ],
@@ -833,6 +840,36 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-10-29",
+      "total": -239.0,
+      "items": [
+        {
+          "date": "2026-10-29",
+          "category": "餐點",
+          "item": "土木公社",
+          "amount": -105.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-29",
+          "category": "飲料",
+          "item": "麻古",
+          "amount": -35.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-29",
+          "category": "學習",
+          "item": "黑天鵝語錄（書）",
+          "amount": -99.0,
+          "icon": "📚",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1442,6 +1479,30 @@
       "item": "多邊獸皮卡丘",
       "amount": -1350.0,
       "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-29",
+      "category": "餐點",
+      "item": "土木公社",
+      "amount": -105.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-29",
+      "category": "飲料",
+      "item": "麻古",
+      "amount": -35.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-29",
+      "category": "學習",
+      "item": "黑天鵝語錄（書）",
+      "amount": -99.0,
+      "icon": "📚",
       "group": "variable"
     }
   ]

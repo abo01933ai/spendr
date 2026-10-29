@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -128114.0,
+  "total": -128534.0,
   "fixedTotal": -47865.0,
-  "variableTotal": -80249.0,
+  "variableTotal": -80669.0,
   "categories": [
     {
       "category": "購物",
@@ -77,17 +77,17 @@
       "group": "variable"
     },
     {
+      "category": "飲料",
+      "amount": -1473.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "寵物",
       "amount": -1202.0,
       "icon": "🐈",
       "color": "#FBBF24",
-      "group": "variable"
-    },
-    {
-      "category": "飲料",
-      "amount": -1053.0,
-      "icon": "🧋",
-      "color": "#FB923C",
       "group": "variable"
     },
     {
@@ -886,6 +886,20 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-10-30",
+      "total": -420.0,
+      "items": [
+        {
+          "date": "2026-10-30",
+          "category": "飲料",
+          "item": "水（一箱）",
+          "amount": -420.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1534,6 +1548,14 @@
       "category": "飲料",
       "item": "清心",
       "amount": -30.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-30",
+      "category": "飲料",
+      "item": "水（一箱）",
+      "amount": -420.0,
       "icon": "🧋",
       "group": "variable"
     }

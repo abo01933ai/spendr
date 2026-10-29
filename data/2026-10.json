@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -128048.0,
+  "total": -128114.0,
   "fixedTotal": -47865.0,
-  "variableTotal": -80183.0,
+  "variableTotal": -80249.0,
   "categories": [
     {
       "category": "購物",
@@ -71,7 +71,7 @@
     },
     {
       "category": "咖啡",
-      "amount": -1443.0,
+      "amount": -1479.0,
       "icon": "💸",
       "color": "#94A3B8",
       "group": "variable"
@@ -85,7 +85,7 @@
     },
     {
       "category": "飲料",
-      "amount": -1023.0,
+      "amount": -1053.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -843,7 +843,7 @@
     },
     {
       "date": "2026-10-29",
-      "total": -239.0,
+      "total": -305.0,
       "items": [
         {
           "date": "2026-10-29",
@@ -867,6 +867,22 @@
           "item": "黑天鵝語錄（書）",
           "amount": -99.0,
           "icon": "📚",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-29",
+          "category": "咖啡",
+          "item": "伯朗咖啡",
+          "amount": -36.0,
+          "icon": "💸",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-29",
+          "category": "飲料",
+          "item": "清心",
+          "amount": -30.0,
+          "icon": "🧋",
           "group": "variable"
         }
       ]
@@ -1503,6 +1519,22 @@
       "item": "黑天鵝語錄（書）",
       "amount": -99.0,
       "icon": "📚",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-29",
+      "category": "咖啡",
+      "item": "伯朗咖啡",
+      "amount": -36.0,
+      "icon": "💸",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-29",
+      "category": "飲料",
+      "item": "清心",
+      "amount": -30.0,
+      "icon": "🧋",
       "group": "variable"
     }
   ]

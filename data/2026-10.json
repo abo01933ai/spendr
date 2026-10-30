@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -128534.0,
+  "total": -130237.0,
   "fixedTotal": -47865.0,
-  "variableTotal": -80669.0,
+  "variableTotal": -82372.0,
   "categories": [
     {
       "category": "購物",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -21908.0,
+      "amount": -23611.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -889,7 +889,7 @@
     },
     {
       "date": "2026-10-30",
-      "total": -420.0,
+      "total": -2123.0,
       "items": [
         {
           "date": "2026-10-30",
@@ -897,6 +897,22 @@
           "item": "水（一箱）",
           "amount": -420.0,
           "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-30",
+          "category": "餐點",
+          "item": "瓦城",
+          "amount": -1322.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-30",
+          "category": "餐點",
+          "item": "全家",
+          "amount": -381.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -1557,6 +1573,22 @@
       "item": "水（一箱）",
       "amount": -420.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-30",
+      "category": "餐點",
+      "item": "瓦城",
+      "amount": -1322.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-30",
+      "category": "餐點",
+      "item": "全家",
+      "amount": -381.0,
+      "icon": "🍱",
       "group": "variable"
     }
   ]

@@ -1,0 +1,43 @@
+{
+  "month": "2026-11",
+  "year": 2026,
+  "monthNum": 11,
+  "total": -234.0,
+  "fixedTotal": 0,
+  "variableTotal": -234.0,
+  "categories": [
+    {
+      "category": "飲料",
+      "amount": -234.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-11-01",
+      "total": -234.0,
+      "items": [
+        {
+          "date": "2026-11-01",
+          "category": "飲料",
+          "item": "包手幸福豆漿",
+          "amount": -234.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
+    }
+  ],
+  "transactions": [
+    {
+      "date": "2026-11-01",
+      "category": "飲料",
+      "item": "包手幸福豆漿",
+      "amount": -234.0,
+      "icon": "🧋",
+      "group": "variable"
+    }
+  ]
+}

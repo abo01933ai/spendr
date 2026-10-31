@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -130715.0,
+  "total": -131019.0,
   "fixedTotal": -47865.0,
-  "variableTotal": -82850.0,
+  "variableTotal": -83154.0,
   "categories": [
     {
       "category": "購物",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -23873.0,
+      "amount": -24177.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -919,7 +919,7 @@
     },
     {
       "date": "2026-10-31",
-      "total": -478.0,
+      "total": -782.0,
       "items": [
         {
           "date": "2026-10-31",
@@ -935,6 +935,14 @@
           "item": "烏弄",
           "amount": -216.0,
           "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-31",
+          "category": "餐點",
+          "item": "Subway",
+          "amount": -304.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -1627,6 +1635,14 @@
       "item": "烏弄",
       "amount": -216.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-31",
+      "category": "餐點",
+      "item": "Subway",
+      "amount": -304.0,
+      "icon": "🍱",
       "group": "variable"
     }
   ]

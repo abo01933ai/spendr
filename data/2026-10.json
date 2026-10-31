@@ -2,9 +2,9 @@
   "month": "2026-10",
   "year": 2026,
   "monthNum": 10,
-  "total": -130237.0,
+  "total": -130715.0,
   "fixedTotal": -47865.0,
-  "variableTotal": -82372.0,
+  "variableTotal": -82850.0,
   "categories": [
     {
       "category": "購物",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -23611.0,
+      "amount": -23873.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -70,17 +70,17 @@
       "group": "variable"
     },
     {
+      "category": "飲料",
+      "amount": -1689.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "咖啡",
       "amount": -1479.0,
       "icon": "💸",
       "color": "#94A3B8",
-      "group": "variable"
-    },
-    {
-      "category": "飲料",
-      "amount": -1473.0,
-      "icon": "🧋",
-      "color": "#FB923C",
       "group": "variable"
     },
     {
@@ -916,6 +916,28 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-10-31",
+      "total": -478.0,
+      "items": [
+        {
+          "date": "2026-10-31",
+          "category": "餐點",
+          "item": "早安美芝城",
+          "amount": -262.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-10-31",
+          "category": "飲料",
+          "item": "烏弄",
+          "amount": -216.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1589,6 +1611,22 @@
       "item": "全家",
       "amount": -381.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-31",
+      "category": "餐點",
+      "item": "早安美芝城",
+      "amount": -262.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-10-31",
+      "category": "飲料",
+      "item": "烏弄",
+      "amount": -216.0,
+      "icon": "🧋",
       "group": "variable"
     }
   ]

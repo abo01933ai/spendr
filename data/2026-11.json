@@ -2,13 +2,13 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -47845.0,
-  "fixedTotal": -39494.0,
+  "total": -48095.0,
+  "fixedTotal": -39744.0,
   "variableTotal": -8351.0,
   "categories": [
     {
       "category": "訂閱",
-      "amount": -13899.0,
+      "amount": -14149.0,
       "icon": "📱",
       "color": "#94e1df",
       "group": "fixed"
@@ -66,7 +66,7 @@
   "days": [
     {
       "date": "2026-11-01",
-      "total": -18351.0,
+      "total": -18601.0,
       "items": [
         {
           "date": "2026-11-01",
@@ -115,6 +115,14 @@
           "amount": -191.0,
           "icon": "🍱",
           "group": "variable"
+        },
+        {
+          "date": "2026-11-01",
+          "category": "訂閱",
+          "item": "手機網路加碼 2G",
+          "amount": -250.0,
+          "icon": "📱",
+          "group": "fixed"
         }
       ]
     },
@@ -239,6 +247,14 @@
       "amount": -191.0,
       "icon": "🍱",
       "group": "variable"
+    },
+    {
+      "date": "2026-11-01",
+      "category": "訂閱",
+      "item": "手機網路加碼 2G",
+      "amount": -250.0,
+      "icon": "📱",
+      "group": "fixed"
     },
     {
       "date": "2026-11-10",

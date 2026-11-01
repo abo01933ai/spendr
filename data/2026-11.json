@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -39728.0,
+  "total": -47845.0,
   "fixedTotal": -39494.0,
-  "variableTotal": -234.0,
+  "variableTotal": -8351.0,
   "categories": [
     {
       "category": "訂閱",
@@ -28,11 +28,32 @@
       "group": "fixed"
     },
     {
+      "category": "娛樂",
+      "amount": -5888.0,
+      "icon": "🎮",
+      "color": "#A78BFA",
+      "group": "variable"
+    },
+    {
+      "category": "餐點",
+      "amount": -1543.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
+    {
       "category": "運動",
       "amount": -888.0,
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
+    },
+    {
+      "category": "購物",
+      "amount": -686.0,
+      "icon": "🛍️",
+      "color": "#F472B6",
+      "group": "variable"
     },
     {
       "category": "飲料",
@@ -45,7 +66,7 @@
   "days": [
     {
       "date": "2026-11-01",
-      "total": -10234.0,
+      "total": -18351.0,
       "items": [
         {
           "date": "2026-11-01",
@@ -62,6 +83,38 @@
           "amount": -10000.0,
           "icon": "📱",
           "group": "fixed"
+        },
+        {
+          "date": "2026-11-01",
+          "category": "購物",
+          "item": "寶雅",
+          "amount": -686.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-01",
+          "category": "餐點",
+          "item": "餐廳",
+          "amount": -1352.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-01",
+          "category": "娛樂",
+          "item": "樂高",
+          "amount": -5888.0,
+          "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-01",
+          "category": "餐點",
+          "item": "新光麵包",
+          "amount": -191.0,
+          "icon": "🍱",
+          "group": "variable"
         }
       ]
     },
@@ -154,6 +207,38 @@
       "amount": -10000.0,
       "icon": "📱",
       "group": "fixed"
+    },
+    {
+      "date": "2026-11-01",
+      "category": "購物",
+      "item": "寶雅",
+      "amount": -686.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-01",
+      "category": "餐點",
+      "item": "餐廳",
+      "amount": -1352.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-01",
+      "category": "娛樂",
+      "item": "樂高",
+      "amount": -5888.0,
+      "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-01",
+      "category": "餐點",
+      "item": "新光麵包",
+      "amount": -191.0,
+      "icon": "🍱",
+      "group": "variable"
     },
     {
       "date": "2026-11-10",

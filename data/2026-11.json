@@ -2,10 +2,17 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -48735.0,
+  "total": -88735.0,
   "fixedTotal": -39744.0,
-  "variableTotal": -8991.0,
+  "variableTotal": -48991.0,
   "categories": [
+    {
+      "category": "美容",
+      "amount": -40000.0,
+      "icon": "💇",
+      "color": "#C084FC",
+      "group": "variable"
+    },
     {
       "category": "訂閱",
       "amount": -14149.0,
@@ -66,7 +73,7 @@
   "days": [
     {
       "date": "2026-11-01",
-      "total": -19241.0,
+      "total": -59241.0,
       "items": [
         {
           "date": "2026-11-01",
@@ -130,6 +137,14 @@
           "item": "壽司郎",
           "amount": -640.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-01",
+          "category": "美容",
+          "item": "泰晶殿按摩券 ×20",
+          "amount": -40000.0,
+          "icon": "💇",
           "group": "variable"
         }
       ]
@@ -270,6 +285,14 @@
       "item": "壽司郎",
       "amount": -640.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-01",
+      "category": "美容",
+      "item": "泰晶殿按摩券 ×20",
+      "amount": -40000.0,
+      "icon": "💇",
       "group": "variable"
     },
     {

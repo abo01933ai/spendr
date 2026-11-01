@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -48095.0,
+  "total": -48735.0,
   "fixedTotal": -39744.0,
-  "variableTotal": -8351.0,
+  "variableTotal": -8991.0,
   "categories": [
     {
       "category": "訂閱",
@@ -36,7 +36,7 @@
     },
     {
       "category": "餐點",
-      "amount": -1543.0,
+      "amount": -2183.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -66,7 +66,7 @@
   "days": [
     {
       "date": "2026-11-01",
-      "total": -18601.0,
+      "total": -19241.0,
       "items": [
         {
           "date": "2026-11-01",
@@ -123,6 +123,14 @@
           "amount": -250.0,
           "icon": "📱",
           "group": "fixed"
+        },
+        {
+          "date": "2026-11-01",
+          "category": "餐點",
+          "item": "壽司郎",
+          "amount": -640.0,
+          "icon": "🍱",
+          "group": "variable"
         }
       ]
     },
@@ -255,6 +263,14 @@
       "amount": -250.0,
       "icon": "📱",
       "group": "fixed"
+    },
+    {
+      "date": "2026-11-01",
+      "category": "餐點",
+      "item": "壽司郎",
+      "amount": -640.0,
+      "icon": "🍱",
+      "group": "variable"
     },
     {
       "date": "2026-11-10",

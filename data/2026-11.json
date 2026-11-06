@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -88735.0,
+  "total": -89548.0,
   "fixedTotal": -39744.0,
-  "variableTotal": -48991.0,
+  "variableTotal": -49804.0,
   "categories": [
     {
       "category": "美容",
@@ -43,7 +43,7 @@
     },
     {
       "category": "餐點",
-      "amount": -2183.0,
+      "amount": -2996.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -145,6 +145,28 @@
           "item": "泰晶殿按摩券 ×20（加送 4 張，共 24 張）",
           "amount": -40000.0,
           "icon": "💇",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "total": -813.0,
+      "items": [
+        {
+          "date": "2026-11-06",
+          "category": "餐點",
+          "item": "7-11",
+          "amount": -243.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-06",
+          "category": "餐點",
+          "item": "總站夜市",
+          "amount": -570.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -293,6 +315,22 @@
       "item": "泰晶殿按摩券 ×20（加送 4 張，共 24 張）",
       "amount": -40000.0,
       "icon": "💇",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-06",
+      "category": "餐點",
+      "item": "7-11",
+      "amount": -243.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-06",
+      "category": "餐點",
+      "item": "總站夜市",
+      "amount": -570.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

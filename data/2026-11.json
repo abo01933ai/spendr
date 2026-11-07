@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -89548.0,
+  "total": -90113.0,
   "fixedTotal": -39744.0,
-  "variableTotal": -49804.0,
+  "variableTotal": -50369.0,
   "categories": [
     {
       "category": "美容",
@@ -43,7 +43,7 @@
     },
     {
       "category": "餐點",
-      "amount": -2996.0,
+      "amount": -3151.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -64,7 +64,7 @@
     },
     {
       "category": "飲料",
-      "amount": -234.0,
+      "amount": -644.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -167,6 +167,36 @@
           "item": "總站夜市",
           "amount": -570.0,
           "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "total": -565.0,
+      "items": [
+        {
+          "date": "2026-11-07",
+          "category": "餐點",
+          "item": "早安美芝城",
+          "amount": -155.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-07",
+          "category": "飲料",
+          "item": "茶湯會",
+          "amount": -80.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-07",
+          "category": "飲料",
+          "item": "phase coffee",
+          "amount": -330.0,
+          "icon": "🧋",
           "group": "variable"
         }
       ]
@@ -331,6 +361,30 @@
       "item": "總站夜市",
       "amount": -570.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "餐點",
+      "item": "早安美芝城",
+      "amount": -155.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "飲料",
+      "item": "茶湯會",
+      "amount": -80.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "飲料",
+      "item": "phase coffee",
+      "amount": -330.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

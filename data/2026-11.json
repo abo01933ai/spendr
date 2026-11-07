@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -90113.0,
+  "total": -91812.0,
   "fixedTotal": -39744.0,
-  "variableTotal": -50369.0,
+  "variableTotal": -52068.0,
   "categories": [
     {
       "category": "美容",
@@ -36,14 +36,14 @@
     },
     {
       "category": "娛樂",
-      "amount": -5888.0,
+      "amount": -6588.0,
       "icon": "🎮",
       "color": "#A78BFA",
       "group": "variable"
     },
     {
       "category": "餐點",
-      "amount": -3151.0,
+      "amount": -4150.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -173,7 +173,7 @@
     },
     {
       "date": "2026-11-07",
-      "total": -565.0,
+      "total": -2264.0,
       "items": [
         {
           "date": "2026-11-07",
@@ -197,6 +197,38 @@
           "item": "phase coffee",
           "amount": -330.0,
           "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-07",
+          "category": "餐點",
+          "item": "四喜雞鍋",
+          "amount": -680.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-07",
+          "category": "餐點",
+          "item": "麵包",
+          "amount": -229.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-07",
+          "category": "餐點",
+          "item": "31 冰淇淋",
+          "amount": -90.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-07",
+          "category": "娛樂",
+          "item": "柯南電影版",
+          "amount": -700.0,
+          "icon": "🎮",
           "group": "variable"
         }
       ]
@@ -385,6 +417,38 @@
       "item": "phase coffee",
       "amount": -330.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "餐點",
+      "item": "四喜雞鍋",
+      "amount": -680.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "餐點",
+      "item": "麵包",
+      "amount": -229.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "餐點",
+      "item": "31 冰淇淋",
+      "amount": -90.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "娛樂",
+      "item": "柯南電影版",
+      "amount": -700.0,
+      "icon": "🎮",
       "group": "variable"
     },
     {

@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -91812.0,
+  "total": -92583.0,
   "fixedTotal": -39744.0,
-  "variableTotal": -52068.0,
+  "variableTotal": -52839.0,
   "categories": [
     {
       "category": "美容",
@@ -54,6 +54,13 @@
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
+    },
+    {
+      "category": "學習",
+      "amount": -771.0,
+      "icon": "📚",
+      "color": "#94A3B8",
+      "group": "variable"
     },
     {
       "category": "購物",
@@ -173,7 +180,7 @@
     },
     {
       "date": "2026-11-07",
-      "total": -2264.0,
+      "total": -3035.0,
       "items": [
         {
           "date": "2026-11-07",
@@ -229,6 +236,14 @@
           "item": "柯南電影版",
           "amount": -700.0,
           "icon": "🎮",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-07",
+          "category": "學習",
+          "item": "書：關鍵買賣點、超越歐尼爾",
+          "amount": -771.0,
+          "icon": "📚",
           "group": "variable"
         }
       ]
@@ -449,6 +464,14 @@
       "item": "柯南電影版",
       "amount": -700.0,
       "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "學習",
+      "item": "書：關鍵買賣點、超越歐尼爾",
+      "amount": -771.0,
+      "icon": "📚",
       "group": "variable"
     },
     {

@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -93613.0,
+  "total": -94355.0,
   "fixedTotal": -39744.0,
-  "variableTotal": -53869.0,
+  "variableTotal": -54611.0,
   "categories": [
     {
       "category": "美容",
@@ -43,7 +43,7 @@
     },
     {
       "category": "餐點",
-      "amount": -5180.0,
+      "amount": -5827.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -63,17 +63,17 @@
       "group": "variable"
     },
     {
+      "category": "飲料",
+      "amount": -739.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "購物",
       "amount": -686.0,
       "icon": "🛍️",
       "color": "#F472B6",
-      "group": "variable"
-    },
-    {
-      "category": "飲料",
-      "amount": -644.0,
-      "icon": "🧋",
-      "color": "#FB923C",
       "group": "variable"
     }
   ],
@@ -250,7 +250,7 @@
     },
     {
       "date": "2026-11-08",
-      "total": -1030.0,
+      "total": -1772.0,
       "items": [
         {
           "date": "2026-11-08",
@@ -258,6 +258,30 @@
           "item": "好事157",
           "amount": -1030.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-08",
+          "category": "餐點",
+          "item": "全聯",
+          "amount": -497.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-08",
+          "category": "餐點",
+          "item": "總站夜市",
+          "amount": -150.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-08",
+          "category": "飲料",
+          "item": "麻古",
+          "amount": -95.0,
+          "icon": "🧋",
           "group": "variable"
         }
       ]
@@ -494,6 +518,30 @@
       "item": "好事157",
       "amount": -1030.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-08",
+      "category": "餐點",
+      "item": "全聯",
+      "amount": -497.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-08",
+      "category": "餐點",
+      "item": "總站夜市",
+      "amount": -150.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-08",
+      "category": "飲料",
+      "item": "麻古",
+      "amount": -95.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

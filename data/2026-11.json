@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -94355.0,
+  "total": -94626.0,
   "fixedTotal": -39744.0,
-  "variableTotal": -54611.0,
+  "variableTotal": -54882.0,
   "categories": [
     {
       "category": "美容",
@@ -43,7 +43,7 @@
     },
     {
       "category": "餐點",
-      "amount": -5827.0,
+      "amount": -6098.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -250,7 +250,7 @@
     },
     {
       "date": "2026-11-08",
-      "total": -1772.0,
+      "total": -2043.0,
       "items": [
         {
           "date": "2026-11-08",
@@ -282,6 +282,14 @@
           "item": "麻古",
           "amount": -95.0,
           "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-08",
+          "category": "餐點",
+          "item": "三頂紅麻辣鴨血",
+          "amount": -271.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -542,6 +550,14 @@
       "item": "麻古",
       "amount": -95.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-08",
+      "category": "餐點",
+      "item": "三頂紅麻辣鴨血",
+      "amount": -271.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

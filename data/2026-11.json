@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -92583.0,
+  "total": -93613.0,
   "fixedTotal": -39744.0,
-  "variableTotal": -52839.0,
+  "variableTotal": -53869.0,
   "categories": [
     {
       "category": "美容",
@@ -43,7 +43,7 @@
     },
     {
       "category": "餐點",
-      "amount": -4150.0,
+      "amount": -5180.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -244,6 +244,20 @@
           "item": "書：關鍵買賣點、超越歐尼爾",
           "amount": -771.0,
           "icon": "📚",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "total": -1030.0,
+      "items": [
+        {
+          "date": "2026-11-08",
+          "category": "餐點",
+          "item": "好事157",
+          "amount": -1030.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -472,6 +486,14 @@
       "item": "書：關鍵買賣點、超越歐尼爾",
       "amount": -771.0,
       "icon": "📚",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-08",
+      "category": "餐點",
+      "item": "好事157",
+      "amount": -1030.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

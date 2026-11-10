@@ -2,8 +2,8 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -94626.0,
-  "fixedTotal": -39744.0,
+  "total": -96876.0,
+  "fixedTotal": -41994.0,
   "variableTotal": -54882.0,
   "categories": [
     {
@@ -50,7 +50,7 @@
     },
     {
       "category": "運動",
-      "amount": -888.0,
+      "amount": -3138.0,
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
@@ -296,13 +296,21 @@
     },
     {
       "date": "2026-11-10",
-      "total": -888.0,
+      "total": -3138.0,
       "items": [
         {
           "date": "2026-11-10",
           "category": "運動",
           "item": "健身房",
           "amount": -888.0,
+          "icon": "🏋️",
+          "group": "fixed"
+        },
+        {
+          "date": "2026-11-10",
+          "category": "運動",
+          "item": "羽球拍",
+          "amount": -2250.0,
           "icon": "🏋️",
           "group": "fixed"
         }
@@ -565,6 +573,14 @@
       "category": "運動",
       "item": "健身房",
       "amount": -888.0,
+      "icon": "🏋️",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "運動",
+      "item": "羽球拍",
+      "amount": -2250.0,
       "icon": "🏋️",
       "group": "fixed"
     },

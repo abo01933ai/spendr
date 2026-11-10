@@ -1,0 +1,43 @@
+{
+  "month": "2026-12",
+  "year": 2026,
+  "monthNum": 12,
+  "total": -1223.0,
+  "fixedTotal": 0,
+  "variableTotal": -1223.0,
+  "categories": [
+    {
+      "category": "旅遊",
+      "amount": -1223.0,
+      "icon": "✈️",
+      "color": "#34D399",
+      "group": "variable"
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-12-12",
+      "total": -1223.0,
+      "items": [
+        {
+          "date": "2026-12-12",
+          "category": "旅遊",
+          "item": "膠囊列車",
+          "amount": -1223.0,
+          "icon": "✈️",
+          "group": "variable"
+        }
+      ]
+    }
+  ],
+  "transactions": [
+    {
+      "date": "2026-12-12",
+      "category": "旅遊",
+      "item": "膠囊列車",
+      "amount": -1223.0,
+      "icon": "✈️",
+      "group": "variable"
+    }
+  ]
+}

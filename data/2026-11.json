@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -96876.0,
+  "total": -108805.0,
   "fixedTotal": -41994.0,
-  "variableTotal": -54882.0,
+  "variableTotal": -66811.0,
   "categories": [
     {
       "category": "美容",
@@ -35,6 +35,13 @@
       "group": "fixed"
     },
     {
+      "category": "寵物",
+      "amount": -9664.0,
+      "icon": "🐈",
+      "color": "#FBBF24",
+      "group": "variable"
+    },
+    {
       "category": "娛樂",
       "amount": -6588.0,
       "icon": "🎮",
@@ -54,6 +61,13 @@
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
+    },
+    {
+      "category": "日常用品",
+      "amount": -2265.0,
+      "icon": "📦",
+      "color": "#94A3B8",
+      "group": "variable"
     },
     {
       "category": "學習",
@@ -313,6 +327,36 @@
           "amount": -2250.0,
           "icon": "🏋️",
           "group": "fixed"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "total": -11929.0,
+      "items": [
+        {
+          "date": "2026-11-11",
+          "category": "寵物",
+          "item": "怪獸部落凍乾+雞肉糧*5",
+          "amount": -5561.0,
+          "icon": "🐈",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-11",
+          "category": "日常用品",
+          "item": "愛康衛生棉*60",
+          "amount": -2265.0,
+          "icon": "📦",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-11",
+          "category": "寵物",
+          "item": "皇家貓濕糧*10",
+          "amount": -4103.0,
+          "icon": "🐈",
+          "group": "variable"
         }
       ]
     },
@@ -583,6 +627,30 @@
       "amount": -2250.0,
       "icon": "🏋️",
       "group": "fixed"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "寵物",
+      "item": "怪獸部落凍乾+雞肉糧*5",
+      "amount": -5561.0,
+      "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "日常用品",
+      "item": "愛康衛生棉*60",
+      "amount": -2265.0,
+      "icon": "📦",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "寵物",
+      "item": "皇家貓濕糧*10",
+      "amount": -4103.0,
+      "icon": "🐈",
+      "group": "variable"
     },
     {
       "date": "2026-11-15",

@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -108805.0,
+  "total": -111036.0,
   "fixedTotal": -41994.0,
-  "variableTotal": -66811.0,
+  "variableTotal": -69042.0,
   "categories": [
     {
       "category": "美容",
@@ -70,24 +70,24 @@
       "group": "variable"
     },
     {
-      "category": "學習",
-      "amount": -771.0,
-      "icon": "📚",
-      "color": "#94A3B8",
+      "category": "購物",
+      "amount": -1876.0,
+      "icon": "🛍️",
+      "color": "#F472B6",
       "group": "variable"
     },
     {
       "category": "飲料",
-      "amount": -739.0,
+      "amount": -1780.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
     },
     {
-      "category": "購物",
-      "amount": -686.0,
-      "icon": "🛍️",
-      "color": "#F472B6",
+      "category": "學習",
+      "amount": -771.0,
+      "icon": "📚",
+      "color": "#94A3B8",
       "group": "variable"
     }
   ],
@@ -332,7 +332,7 @@
     },
     {
       "date": "2026-11-11",
-      "total": -11929.0,
+      "total": -14160.0,
       "items": [
         {
           "date": "2026-11-11",
@@ -356,6 +356,22 @@
           "item": "皇家貓濕糧*10",
           "amount": -4103.0,
           "icon": "🐈",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-11",
+          "category": "飲料",
+          "item": "青茶波波沙*4",
+          "amount": -1041.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-11",
+          "category": "購物",
+          "item": "FARGO延長線",
+          "amount": -1190.0,
+          "icon": "🛍️",
           "group": "variable"
         }
       ]
@@ -650,6 +666,22 @@
       "item": "皇家貓濕糧*10",
       "amount": -4103.0,
       "icon": "🐈",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "飲料",
+      "item": "青茶波波沙*4",
+      "amount": -1041.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "購物",
+      "item": "FARGO延長線",
+      "amount": -1190.0,
+      "icon": "🛍️",
       "group": "variable"
     },
     {

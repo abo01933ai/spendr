@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -111036.0,
+  "total": -111386.0,
   "fixedTotal": -41994.0,
-  "variableTotal": -69042.0,
+  "variableTotal": -69392.0,
   "categories": [
     {
       "category": "美容",
@@ -50,7 +50,7 @@
     },
     {
       "category": "餐點",
-      "amount": -6098.0,
+      "amount": -6318.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -78,7 +78,7 @@
     },
     {
       "category": "飲料",
-      "amount": -1780.0,
+      "amount": -1850.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -88,6 +88,13 @@
       "amount": -771.0,
       "icon": "📚",
       "color": "#94A3B8",
+      "group": "variable"
+    },
+    {
+      "category": "交通",
+      "amount": -60.0,
+      "icon": "🚗",
+      "color": "#38BDF8",
       "group": "variable"
     }
   ],
@@ -372,6 +379,44 @@
           "item": "FARGO延長線",
           "amount": -1190.0,
           "icon": "🛍️",
+          "group": "variable"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "total": -350.0,
+      "items": [
+        {
+          "date": "2026-11-12",
+          "category": "飲料",
+          "item": "7-11 美式",
+          "amount": -35.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-12",
+          "category": "交通",
+          "item": "停車",
+          "amount": -60.0,
+          "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-12",
+          "category": "飲料",
+          "item": "先喝道",
+          "amount": -35.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-12",
+          "category": "餐點",
+          "item": "波奇走走（午餐）",
+          "amount": -220.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -682,6 +727,38 @@
       "item": "FARGO延長線",
       "amount": -1190.0,
       "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "飲料",
+      "item": "7-11 美式",
+      "amount": -35.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "交通",
+      "item": "停車",
+      "amount": -60.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "飲料",
+      "item": "先喝道",
+      "amount": -35.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "餐點",
+      "item": "波奇走走（午餐）",
+      "amount": -220.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

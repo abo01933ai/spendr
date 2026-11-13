@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -111386.0,
+  "total": -111566.0,
   "fixedTotal": -41994.0,
-  "variableTotal": -69392.0,
+  "variableTotal": -69572.0,
   "categories": [
     {
       "category": "美容",
@@ -50,7 +50,7 @@
     },
     {
       "category": "餐點",
-      "amount": -6318.0,
+      "amount": -6498.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -385,7 +385,7 @@
     },
     {
       "date": "2026-11-12",
-      "total": -350.0,
+      "total": -530.0,
       "items": [
         {
           "date": "2026-11-12",
@@ -416,6 +416,14 @@
           "category": "餐點",
           "item": "波奇走走（午餐）",
           "amount": -220.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-12",
+          "category": "餐點",
+          "item": "樂檸漢堡",
+          "amount": -180.0,
           "icon": "🍱",
           "group": "variable"
         }
@@ -758,6 +766,14 @@
       "category": "餐點",
       "item": "波奇走走（午餐）",
       "amount": -220.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "餐點",
+      "item": "樂檸漢堡",
+      "amount": -180.0,
       "icon": "🍱",
       "group": "variable"
     },

@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -111566.0,
+  "total": -111862.0,
   "fixedTotal": -41994.0,
-  "variableTotal": -69572.0,
+  "variableTotal": -69868.0,
   "categories": [
     {
       "category": "美容",
@@ -42,17 +42,17 @@
       "group": "variable"
     },
     {
+      "category": "餐點",
+      "amount": -6794.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
+    {
       "category": "娛樂",
       "amount": -6588.0,
       "icon": "🎮",
       "color": "#A78BFA",
-      "group": "variable"
-    },
-    {
-      "category": "餐點",
-      "amount": -6498.0,
-      "icon": "🍱",
-      "color": "#F87171",
       "group": "variable"
     },
     {
@@ -430,6 +430,28 @@
       ]
     },
     {
+      "date": "2026-11-13",
+      "total": -296.0,
+      "items": [
+        {
+          "date": "2026-11-13",
+          "category": "餐點",
+          "item": "麥當勞",
+          "amount": -143.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-13",
+          "category": "餐點",
+          "item": "逢甲燒餅豆漿",
+          "amount": -153.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-11-15",
       "total": -3899.0,
       "items": [
@@ -774,6 +796,22 @@
       "category": "餐點",
       "item": "樂檸漢堡",
       "amount": -180.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-13",
+      "category": "餐點",
+      "item": "麥當勞",
+      "amount": -143.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-13",
+      "category": "餐點",
+      "item": "逢甲燒餅豆漿",
+      "amount": -153.0,
       "icon": "🍱",
       "group": "variable"
     },

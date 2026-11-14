@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -111862.0,
+  "total": -112554.0,
   "fixedTotal": -41994.0,
-  "variableTotal": -69868.0,
+  "variableTotal": -70560.0,
   "categories": [
     {
       "category": "美容",
@@ -43,7 +43,7 @@
     },
     {
       "category": "餐點",
-      "amount": -6794.0,
+      "amount": -7486.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -452,6 +452,20 @@
       ]
     },
     {
+      "date": "2026-11-14",
+      "total": -692.0,
+      "items": [
+        {
+          "date": "2026-11-14",
+          "category": "餐點",
+          "item": "阿米奇義大利麵",
+          "amount": -692.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-11-15",
       "total": -3899.0,
       "items": [
@@ -812,6 +826,14 @@
       "category": "餐點",
       "item": "逢甲燒餅豆漿",
       "amount": -153.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "餐點",
+      "item": "阿米奇義大利麵",
+      "amount": -692.0,
       "icon": "🍱",
       "group": "variable"
     },

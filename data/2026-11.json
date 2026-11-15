@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -118340.0,
+  "total": -119840.0,
   "fixedTotal": -41994.0,
-  "variableTotal": -76346.0,
+  "variableTotal": -77846.0,
   "categories": [
     {
       "category": "美容",
@@ -88,6 +88,13 @@
       "amount": -2111.0,
       "icon": "🧋",
       "color": "#FB923C",
+      "group": "variable"
+    },
+    {
+      "category": "捐款",
+      "amount": -1500.0,
+      "icon": "🙏",
+      "color": "#6EE7B7",
       "group": "variable"
     },
     {
@@ -491,7 +498,7 @@
     },
     {
       "date": "2026-11-15",
-      "total": -7081.0,
+      "total": -8581.0,
       "items": [
         {
           "date": "2026-11-15",
@@ -571,6 +578,14 @@
           "item": "十甲黃昏市場",
           "amount": -883.0,
           "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-15",
+          "category": "捐款",
+          "item": "台灣之心捐款",
+          "amount": -1500.0,
+          "icon": "🙏",
           "group": "variable"
         }
       ]
@@ -1019,6 +1034,14 @@
       "item": "十甲黃昏市場",
       "amount": -883.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-15",
+      "category": "捐款",
+      "item": "台灣之心捐款",
+      "amount": -1500.0,
+      "icon": "🙏",
       "group": "variable"
     },
     {

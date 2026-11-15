@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -117457.0,
+  "total": -118340.0,
   "fixedTotal": -41994.0,
-  "variableTotal": -75463.0,
+  "variableTotal": -76346.0,
   "categories": [
     {
       "category": "美容",
@@ -35,17 +35,17 @@
       "group": "fixed"
     },
     {
+      "category": "餐點",
+      "amount": -10062.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
+    {
       "category": "寵物",
       "amount": -9664.0,
       "icon": "🐈",
       "color": "#FBBF24",
-      "group": "variable"
-    },
-    {
-      "category": "餐點",
-      "amount": -9179.0,
-      "icon": "🍱",
-      "color": "#F87171",
       "group": "variable"
     },
     {
@@ -491,7 +491,7 @@
     },
     {
       "date": "2026-11-15",
-      "total": -6198.0,
+      "total": -7081.0,
       "items": [
         {
           "date": "2026-11-15",
@@ -562,6 +562,14 @@
           "category": "餐點",
           "item": "coma泡芙/費南雪",
           "amount": -195.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-15",
+          "category": "餐點",
+          "item": "十甲黃昏市場",
+          "amount": -883.0,
           "icon": "🍱",
           "group": "variable"
         }
@@ -1002,6 +1010,14 @@
       "category": "餐點",
       "item": "coma泡芙/費南雪",
       "amount": -195.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-15",
+      "category": "餐點",
+      "item": "十甲黃昏市場",
+      "amount": -883.0,
       "icon": "🍱",
       "group": "variable"
     },

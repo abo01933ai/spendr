@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -115678.0,
+  "total": -117457.0,
   "fixedTotal": -41994.0,
-  "variableTotal": -73684.0,
+  "variableTotal": -75463.0,
   "categories": [
     {
       "category": "美容",
@@ -43,7 +43,7 @@
     },
     {
       "category": "餐點",
-      "amount": -8984.0,
+      "amount": -9179.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -77,22 +77,22 @@
       "group": "variable"
     },
     {
-      "category": "飲料",
-      "amount": -2066.0,
-      "icon": "🧋",
-      "color": "#FB923C",
-      "group": "variable"
-    },
-    {
       "category": "學習",
-      "amount": -771.0,
+      "amount": -2170.0,
       "icon": "📚",
       "color": "#94A3B8",
       "group": "variable"
     },
     {
+      "category": "飲料",
+      "amount": -2111.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "交通",
-      "amount": -90.0,
+      "amount": -230.0,
       "icon": "🚗",
       "color": "#38BDF8",
       "group": "variable"
@@ -491,7 +491,7 @@
     },
     {
       "date": "2026-11-15",
-      "total": -4419.0,
+      "total": -6198.0,
       "items": [
         {
           "date": "2026-11-15",
@@ -531,6 +531,38 @@
           "item": "烏弄",
           "amount": -216.0,
           "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-15",
+          "category": "學習",
+          "item": "7本二手書",
+          "amount": -1399.0,
+          "icon": "📚",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-15",
+          "category": "交通",
+          "item": "停車費",
+          "amount": -140.0,
+          "icon": "🚗",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-15",
+          "category": "飲料",
+          "item": "得正",
+          "amount": -45.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-15",
+          "category": "餐點",
+          "item": "coma泡芙/費南雪",
+          "amount": -195.0,
+          "icon": "🍱",
           "group": "variable"
         }
       ]
@@ -939,6 +971,38 @@
       "item": "烏弄",
       "amount": -216.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-15",
+      "category": "學習",
+      "item": "7本二手書",
+      "amount": -1399.0,
+      "icon": "📚",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-15",
+      "category": "交通",
+      "item": "停車費",
+      "amount": -140.0,
+      "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-15",
+      "category": "飲料",
+      "item": "得正",
+      "amount": -45.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-15",
+      "category": "餐點",
+      "item": "coma泡芙/費南雪",
+      "amount": -195.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

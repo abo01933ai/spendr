@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -115158.0,
+  "total": -115678.0,
   "fixedTotal": -41994.0,
-  "variableTotal": -73164.0,
+  "variableTotal": -73684.0,
   "categories": [
     {
       "category": "美容",
@@ -43,7 +43,7 @@
     },
     {
       "category": "餐點",
-      "amount": -8680.0,
+      "amount": -8984.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -78,7 +78,7 @@
     },
     {
       "category": "飲料",
-      "amount": -1850.0,
+      "amount": -2066.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -491,7 +491,7 @@
     },
     {
       "date": "2026-11-15",
-      "total": -3899.0,
+      "total": -4419.0,
       "items": [
         {
           "date": "2026-11-15",
@@ -516,6 +516,22 @@
           "amount": -3000.0,
           "icon": "📱",
           "group": "fixed"
+        },
+        {
+          "date": "2026-11-15",
+          "category": "餐點",
+          "item": "早安美芝城",
+          "amount": -304.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-15",
+          "category": "飲料",
+          "item": "烏弄",
+          "amount": -216.0,
+          "icon": "🧋",
+          "group": "variable"
         }
       ]
     },
@@ -908,6 +924,22 @@
       "amount": -3000.0,
       "icon": "📱",
       "group": "fixed"
+    },
+    {
+      "date": "2026-11-15",
+      "category": "餐點",
+      "item": "早安美芝城",
+      "amount": -304.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-15",
+      "category": "飲料",
+      "item": "烏弄",
+      "amount": -216.0,
+      "icon": "🧋",
+      "group": "variable"
     },
     {
       "date": "2026-11-20",

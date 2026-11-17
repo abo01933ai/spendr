@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -119840.0,
+  "total": -119970.0,
   "fixedTotal": -41994.0,
-  "variableTotal": -77846.0,
+  "variableTotal": -77976.0,
   "categories": [
     {
       "category": "美容",
@@ -77,17 +77,17 @@
       "group": "variable"
     },
     {
+      "category": "飲料",
+      "amount": -2241.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "學習",
       "amount": -2170.0,
       "icon": "📚",
       "color": "#94A3B8",
-      "group": "variable"
-    },
-    {
-      "category": "飲料",
-      "amount": -2111.0,
-      "icon": "🧋",
-      "color": "#FB923C",
       "group": "variable"
     },
     {
@@ -591,6 +591,20 @@
       ]
     },
     {
+      "date": "2026-11-17",
+      "total": -130.0,
+      "items": [
+        {
+          "date": "2026-11-17",
+          "category": "飲料",
+          "item": "路易莎",
+          "amount": -130.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-11-20",
       "total": -13084.0,
       "items": [
@@ -1042,6 +1056,14 @@
       "item": "台灣之心捐款",
       "amount": -1500.0,
       "icon": "🙏",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-17",
+      "category": "飲料",
+      "item": "路易莎",
+      "amount": -130.0,
+      "icon": "🧋",
       "group": "variable"
     },
     {

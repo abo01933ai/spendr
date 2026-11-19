@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -119970.0,
-  "fixedTotal": -41994.0,
-  "variableTotal": -77976.0,
+  "total": -120468.0,
+  "fixedTotal": -42251.0,
+  "variableTotal": -78217.0,
   "categories": [
     {
       "category": "美容",
@@ -29,14 +29,14 @@
     },
     {
       "category": "住",
-      "amount": -11623.0,
+      "amount": -11880.0,
       "icon": "🏠",
       "color": "#60A5FA",
       "group": "fixed"
     },
     {
       "category": "餐點",
-      "amount": -10062.0,
+      "amount": -10303.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -605,6 +605,28 @@
       ]
     },
     {
+      "date": "2026-11-19",
+      "total": -498.0,
+      "items": [
+        {
+          "date": "2026-11-19",
+          "category": "住",
+          "item": "地價稅",
+          "amount": -257.0,
+          "icon": "🏠",
+          "group": "fixed"
+        },
+        {
+          "date": "2026-11-19",
+          "category": "餐點",
+          "item": "早安美芝城",
+          "amount": -241.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-11-20",
       "total": -13084.0,
       "items": [
@@ -1064,6 +1086,22 @@
       "item": "路易莎",
       "amount": -130.0,
       "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-19",
+      "category": "住",
+      "item": "地價稅",
+      "amount": -257.0,
+      "icon": "🏠",
+      "group": "fixed"
+    },
+    {
+      "date": "2026-11-19",
+      "category": "餐點",
+      "item": "早安美芝城",
+      "amount": -241.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

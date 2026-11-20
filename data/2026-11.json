@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -120468.0,
+  "total": -120734.0,
   "fixedTotal": -42251.0,
-  "variableTotal": -78217.0,
+  "variableTotal": -78483.0,
   "categories": [
     {
       "category": "美容",
@@ -36,7 +36,7 @@
     },
     {
       "category": "餐點",
-      "amount": -10303.0,
+      "amount": -10569.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -628,7 +628,7 @@
     },
     {
       "date": "2026-11-20",
-      "total": -13084.0,
+      "total": -13350.0,
       "items": [
         {
           "date": "2026-11-20",
@@ -637,6 +637,14 @@
           "amount": -13084.0,
           "icon": "💳",
           "group": "fixed"
+        },
+        {
+          "date": "2026-11-20",
+          "category": "餐點",
+          "item": "7-11",
+          "amount": -266.0,
+          "icon": "🍱",
+          "group": "variable"
         }
       ]
     },
@@ -1111,6 +1119,14 @@
       "amount": -13084.0,
       "icon": "💳",
       "group": "fixed"
+    },
+    {
+      "date": "2026-11-20",
+      "category": "餐點",
+      "item": "7-11",
+      "amount": -266.0,
+      "icon": "🍱",
+      "group": "variable"
     },
     {
       "date": "2026-11-25",

@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -120832.0,
-  "fixedTotal": -42251.0,
-  "variableTotal": -78581.0,
+  "total": -122271.0,
+  "fixedTotal": -42518.0,
+  "variableTotal": -79753.0,
   "categories": [
     {
       "category": "美容",
@@ -36,7 +36,7 @@
     },
     {
       "category": "餐點",
-      "amount": -10667.0,
+      "amount": -11839.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -56,18 +56,18 @@
       "group": "variable"
     },
     {
+      "category": "運動",
+      "amount": -3405.0,
+      "icon": "🏋️",
+      "color": "#86EFAC",
+      "group": "fixed"
+    },
+    {
       "category": "購物",
       "amount": -3256.0,
       "icon": "🛍️",
       "color": "#F472B6",
       "group": "variable"
-    },
-    {
-      "category": "運動",
-      "amount": -3138.0,
-      "icon": "🏋️",
-      "color": "#86EFAC",
-      "group": "fixed"
     },
     {
       "category": "日常用品",
@@ -628,7 +628,7 @@
     },
     {
       "date": "2026-11-20",
-      "total": -13448.0,
+      "total": -14887.0,
       "items": [
         {
           "date": "2026-11-20",
@@ -653,6 +653,22 @@
           "amount": -98.0,
           "icon": "🍱",
           "group": "variable"
+        },
+        {
+          "date": "2026-11-20",
+          "category": "餐點",
+          "item": "萬客什鍋",
+          "amount": -1172.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-20",
+          "category": "運動",
+          "item": "羽球",
+          "amount": -267.0,
+          "icon": "🏋️",
+          "group": "fixed"
         }
       ]
     },
@@ -1143,6 +1159,22 @@
       "amount": -98.0,
       "icon": "🍱",
       "group": "variable"
+    },
+    {
+      "date": "2026-11-20",
+      "category": "餐點",
+      "item": "萬客什鍋",
+      "amount": -1172.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-20",
+      "category": "運動",
+      "item": "羽球",
+      "amount": -267.0,
+      "icon": "🏋️",
+      "group": "fixed"
     },
     {
       "date": "2026-11-25",

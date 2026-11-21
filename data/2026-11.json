@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -122271.0,
+  "total": -122892.0,
   "fixedTotal": -42518.0,
-  "variableTotal": -79753.0,
+  "variableTotal": -80374.0,
   "categories": [
     {
       "category": "美容",
@@ -28,18 +28,18 @@
       "group": "fixed"
     },
     {
+      "category": "餐點",
+      "amount": -12460.0,
+      "icon": "🍱",
+      "color": "#F87171",
+      "group": "variable"
+    },
+    {
       "category": "住",
       "amount": -11880.0,
       "icon": "🏠",
       "color": "#60A5FA",
       "group": "fixed"
-    },
-    {
-      "category": "餐點",
-      "amount": -11839.0,
-      "icon": "🍱",
-      "color": "#F87171",
-      "group": "variable"
     },
     {
       "category": "寵物",
@@ -673,6 +673,36 @@
       ]
     },
     {
+      "date": "2026-11-21",
+      "total": -621.0,
+      "items": [
+        {
+          "date": "2026-11-21",
+          "category": "餐點",
+          "item": "雞湯小卷米粉",
+          "amount": -280.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-21",
+          "category": "餐點",
+          "item": "早安美芝城",
+          "amount": -229.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-21",
+          "category": "餐點",
+          "item": "美廉社",
+          "amount": -112.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-11-25",
       "total": -11623.0,
       "items": [
@@ -1175,6 +1205,30 @@
       "amount": -267.0,
       "icon": "🏋️",
       "group": "fixed"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "餐點",
+      "item": "雞湯小卷米粉",
+      "amount": -280.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "餐點",
+      "item": "早安美芝城",
+      "amount": -229.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "餐點",
+      "item": "美廉社",
+      "amount": -112.0,
+      "icon": "🍱",
+      "group": "variable"
     },
     {
       "date": "2026-11-25",

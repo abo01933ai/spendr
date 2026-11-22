@@ -2,15 +2,22 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -122892.0,
+  "total": -126276.0,
   "fixedTotal": -42518.0,
-  "variableTotal": -80374.0,
+  "variableTotal": -83758.0,
   "categories": [
     {
       "category": "美容",
       "amount": -40000.0,
       "icon": "💇",
       "color": "#C084FC",
+      "group": "variable"
+    },
+    {
+      "category": "餐點",
+      "amount": -14468.0,
+      "icon": "🍱",
+      "color": "#F87171",
       "group": "variable"
     },
     {
@@ -26,13 +33,6 @@
       "icon": "💳",
       "color": "#7C83FD",
       "group": "fixed"
-    },
-    {
-      "category": "餐點",
-      "amount": -12460.0,
-      "icon": "🍱",
-      "color": "#F87171",
-      "group": "variable"
     },
     {
       "category": "住",
@@ -56,6 +56,13 @@
       "group": "variable"
     },
     {
+      "category": "購物",
+      "amount": -3652.0,
+      "icon": "🛍️",
+      "color": "#F472B6",
+      "group": "variable"
+    },
+    {
       "category": "運動",
       "amount": -3405.0,
       "icon": "🏋️",
@@ -63,10 +70,10 @@
       "group": "fixed"
     },
     {
-      "category": "購物",
-      "amount": -3256.0,
-      "icon": "🛍️",
-      "color": "#F472B6",
+      "category": "飲料",
+      "amount": -3151.0,
+      "icon": "🧋",
+      "color": "#FB923C",
       "group": "variable"
     },
     {
@@ -74,13 +81,6 @@
       "amount": -2265.0,
       "icon": "📦",
       "color": "#94A3B8",
-      "group": "variable"
-    },
-    {
-      "category": "飲料",
-      "amount": -2241.0,
-      "icon": "🧋",
-      "color": "#FB923C",
       "group": "variable"
     },
     {
@@ -99,7 +99,7 @@
     },
     {
       "category": "交通",
-      "amount": -230.0,
+      "amount": -300.0,
       "icon": "🚗",
       "color": "#38BDF8",
       "group": "variable"
@@ -703,6 +703,52 @@
       ]
     },
     {
+      "date": "2026-11-22",
+      "total": -3384.0,
+      "items": [
+        {
+          "date": "2026-11-22",
+          "category": "購物",
+          "item": "IKEA",
+          "amount": -396.0,
+          "icon": "🛍️",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-22",
+          "category": "飲料",
+          "item": "Kohpy Coffee",
+          "amount": -890.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-22",
+          "category": "餐點",
+          "item": "客觀炭火小料理",
+          "amount": -2008.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-22",
+          "category": "飲料",
+          "item": "飲料",
+          "amount": -20.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-22",
+          "category": "交通",
+          "item": "捷運",
+          "amount": -70.0,
+          "icon": "🚗",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-11-25",
       "total": -11623.0,
       "items": [
@@ -1228,6 +1274,46 @@
       "item": "美廉社",
       "amount": -112.0,
       "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-22",
+      "category": "購物",
+      "item": "IKEA",
+      "amount": -396.0,
+      "icon": "🛍️",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-22",
+      "category": "飲料",
+      "item": "Kohpy Coffee",
+      "amount": -890.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-22",
+      "category": "餐點",
+      "item": "客觀炭火小料理",
+      "amount": -2008.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-22",
+      "category": "飲料",
+      "item": "飲料",
+      "amount": -20.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-22",
+      "category": "交通",
+      "item": "捷運",
+      "amount": -70.0,
+      "icon": "🚗",
       "group": "variable"
     },
     {

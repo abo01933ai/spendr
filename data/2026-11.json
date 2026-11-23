@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -126276.0,
+  "total": -126836.0,
   "fixedTotal": -42518.0,
-  "variableTotal": -83758.0,
+  "variableTotal": -84318.0,
   "categories": [
     {
       "category": "美容",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -14468.0,
+      "amount": -14578.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -50,7 +50,7 @@
     },
     {
       "category": "娛樂",
-      "amount": -6588.0,
+      "amount": -6918.0,
       "icon": "🎮",
       "color": "#A78BFA",
       "group": "variable"
@@ -71,7 +71,7 @@
     },
     {
       "category": "飲料",
-      "amount": -3151.0,
+      "amount": -3271.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -749,6 +749,36 @@
       ]
     },
     {
+      "date": "2026-11-23",
+      "total": -560.0,
+      "items": [
+        {
+          "date": "2026-11-23",
+          "category": "餐點",
+          "item": "六星炸雞",
+          "amount": -110.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-23",
+          "category": "飲料",
+          "item": "大茗",
+          "amount": -120.0,
+          "icon": "🧋",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-23",
+          "category": "娛樂",
+          "item": "盲盒",
+          "amount": -330.0,
+          "icon": "🎮",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-11-25",
       "total": -11623.0,
       "items": [
@@ -1314,6 +1344,30 @@
       "item": "捷運",
       "amount": -70.0,
       "icon": "🚗",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-23",
+      "category": "餐點",
+      "item": "六星炸雞",
+      "amount": -110.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-23",
+      "category": "飲料",
+      "item": "大茗",
+      "amount": -120.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-23",
+      "category": "娛樂",
+      "item": "盲盒",
+      "amount": -330.0,
+      "icon": "🎮",
       "group": "variable"
     },
     {

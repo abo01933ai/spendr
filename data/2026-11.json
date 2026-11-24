@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -126836.0,
+  "total": -127966.0,
   "fixedTotal": -42518.0,
-  "variableTotal": -84318.0,
+  "variableTotal": -85448.0,
   "categories": [
     {
       "category": "美容",
@@ -15,7 +15,7 @@
     },
     {
       "category": "餐點",
-      "amount": -14578.0,
+      "amount": -14723.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -77,16 +77,16 @@
       "group": "variable"
     },
     {
-      "category": "日常用品",
-      "amount": -2265.0,
-      "icon": "📦",
+      "category": "學習",
+      "amount": -3155.0,
+      "icon": "📚",
       "color": "#94A3B8",
       "group": "variable"
     },
     {
-      "category": "學習",
-      "amount": -2170.0,
-      "icon": "📚",
+      "category": "日常用品",
+      "amount": -2265.0,
+      "icon": "📦",
       "color": "#94A3B8",
       "group": "variable"
     },
@@ -779,6 +779,28 @@
       ]
     },
     {
+      "date": "2026-11-24",
+      "total": -1130.0,
+      "items": [
+        {
+          "date": "2026-11-24",
+          "category": "學習",
+          "item": "書×4",
+          "amount": -985.0,
+          "icon": "📚",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-24",
+          "category": "餐點",
+          "item": "土木公社",
+          "amount": -145.0,
+          "icon": "🍱",
+          "group": "variable"
+        }
+      ]
+    },
+    {
       "date": "2026-11-25",
       "total": -11623.0,
       "items": [
@@ -1368,6 +1390,22 @@
       "item": "盲盒",
       "amount": -330.0,
       "icon": "🎮",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-24",
+      "category": "學習",
+      "item": "書×4",
+      "amount": -985.0,
+      "icon": "📚",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-24",
+      "category": "餐點",
+      "item": "土木公社",
+      "amount": -145.0,
+      "icon": "🍱",
       "group": "variable"
     },
     {

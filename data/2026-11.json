@@ -2,13 +2,13 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -136772.0,
+  "total": -138315.0,
   "fixedTotal": -51324.0,
-  "variableTotal": -85448.0,
+  "variableTotal": -86991.0,
   "categories": [
     {
       "category": "美容",
-      "amount": -40000.0,
+      "amount": -41380.0,
       "icon": "💇",
       "color": "#C084FC",
       "group": "variable"
@@ -22,7 +22,7 @@
     },
     {
       "category": "餐點",
-      "amount": -14723.0,
+      "amount": -14801.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -71,7 +71,7 @@
     },
     {
       "category": "飲料",
-      "amount": -3271.0,
+      "amount": -3356.0,
       "icon": "🧋",
       "color": "#FB923C",
       "group": "variable"
@@ -816,7 +816,7 @@
     },
     {
       "date": "2026-11-26",
-      "total": -8806.0,
+      "total": -10349.0,
       "items": [
         {
           "date": "2026-11-26",
@@ -825,6 +825,30 @@
           "amount": -8806.0,
           "icon": "📱",
           "group": "fixed"
+        },
+        {
+          "date": "2026-11-26",
+          "category": "美容",
+          "item": "洗加剪",
+          "amount": -1380.0,
+          "icon": "💇",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-26",
+          "category": "餐點",
+          "item": "7-11",
+          "amount": -78.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-26",
+          "category": "飲料",
+          "item": "50嵐",
+          "amount": -85.0,
+          "icon": "🧋",
+          "group": "variable"
         }
       ]
     }
@@ -1437,6 +1461,30 @@
       "amount": -8806.0,
       "icon": "📱",
       "group": "fixed"
+    },
+    {
+      "date": "2026-11-26",
+      "category": "美容",
+      "item": "洗加剪",
+      "amount": -1380.0,
+      "icon": "💇",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-26",
+      "category": "餐點",
+      "item": "7-11",
+      "amount": -78.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-26",
+      "category": "飲料",
+      "item": "50嵐",
+      "amount": -85.0,
+      "icon": "🧋",
+      "group": "variable"
     }
   ]
 }

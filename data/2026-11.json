@@ -2,9 +2,9 @@
   "month": "2026-11",
   "year": 2026,
   "monthNum": 11,
-  "total": -138315.0,
+  "total": -138545.0,
   "fixedTotal": -51324.0,
-  "variableTotal": -86991.0,
+  "variableTotal": -87221.0,
   "categories": [
     {
       "category": "美容",
@@ -22,7 +22,7 @@
     },
     {
       "category": "餐點",
-      "amount": -14801.0,
+      "amount": -14966.0,
       "icon": "🍱",
       "color": "#F87171",
       "group": "variable"
@@ -63,18 +63,18 @@
       "group": "variable"
     },
     {
+      "category": "飲料",
+      "amount": -3421.0,
+      "icon": "🧋",
+      "color": "#FB923C",
+      "group": "variable"
+    },
+    {
       "category": "運動",
       "amount": -3405.0,
       "icon": "🏋️",
       "color": "#86EFAC",
       "group": "fixed"
-    },
-    {
-      "category": "飲料",
-      "amount": -3356.0,
-      "icon": "🧋",
-      "color": "#FB923C",
-      "group": "variable"
     },
     {
       "category": "學習",
@@ -851,6 +851,28 @@
           "group": "variable"
         }
       ]
+    },
+    {
+      "date": "2026-11-27",
+      "total": -230.0,
+      "items": [
+        {
+          "date": "2026-11-27",
+          "category": "餐點",
+          "item": "7-11",
+          "amount": -165.0,
+          "icon": "🍱",
+          "group": "variable"
+        },
+        {
+          "date": "2026-11-27",
+          "category": "飲料",
+          "item": "麻古",
+          "amount": -65.0,
+          "icon": "🧋",
+          "group": "variable"
+        }
+      ]
     }
   ],
   "transactions": [
@@ -1483,6 +1505,22 @@
       "category": "飲料",
       "item": "50嵐",
       "amount": -85.0,
+      "icon": "🧋",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-27",
+      "category": "餐點",
+      "item": "7-11",
+      "amount": -165.0,
+      "icon": "🍱",
+      "group": "variable"
+    },
+    {
+      "date": "2026-11-27",
+      "category": "飲料",
+      "item": "麻古",
+      "amount": -65.0,
       "icon": "🧋",
       "group": "variable"
     }
